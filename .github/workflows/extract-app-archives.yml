@@ -2,9 +2,6 @@ name: Extract uploaded app archives
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - 'incoming/**/archive.part*'
 
 permissions:
   contents: write
