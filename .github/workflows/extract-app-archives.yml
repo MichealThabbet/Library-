@@ -1,0 +1,83 @@
+name: Extract uploaded app archives
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'incoming/**/archive.part*'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: extract-app-archives
+  cancel-in-progress: false
+
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Reassemble, verify, and extract safely
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          import hashlib, json, zipfile, shutil, re
+          root=Path('incoming')
+          out=Path('extracted')
+          out.mkdir(exist_ok=True)
+          summary=[]
+          for folder in sorted(root.glob('app_*')):
+              parts=sorted(folder.glob('archive.part*'))
+              if not parts: continue
+              indexes=[int(p.name[12:]) for p in parts if re.fullmatch(r'archive\.part\d{3}',p.name)]
+              if len(indexes)!=len(parts) or indexes!=list(range(1,len(parts)+1)):
+                  raise RuntimeError(f'Incomplete/misnamed parts: {folder}')
+              archive=Path('/tmp')/(folder.name+'.zip')
+              h=hashlib.sha256()
+              with archive.open('wb') as f:
+                  for part in parts:
+                      with part.open('rb') as source:
+                          while b:=source.read(1024*1024):
+                              f.write(b); h.update(b)
+              digest=h.hexdigest()
+              expected=(folder/'sha256.txt')
+              if expected.exists() and expected.read_text().strip().split()[0].lower()!=digest:
+                  raise RuntimeError(f'SHA mismatch: {folder}')
+              target=out/folder.name
+              target.mkdir(exist_ok=True)
+              entries=[]
+              with zipfile.ZipFile(archive) as z:
+                  bad=z.testzip()
+                  if bad: raise RuntimeError(f'Corrupt ZIP entry: {bad}')
+                  for info in z.infolist():
+                      path=Path(info.filename)
+                      if (path.is_absolute() or '..' in path.parts or '\\' in info.filename
+                          or any(p in ('','.','..') for p in path.parts) or
+                          info.file_size > 100*1024*1024 or
+                          (info.external_attr >> 16)&0o170000 == 0o120000):
+                          raise RuntimeError(f'Unsafe ZIP entry: {info.filename}')
+                      if info.is_dir(): continue
+                      dest=target.joinpath(*path.parts)
+                      dest.parent.mkdir(parents=True,exist_ok=True)
+                      with z.open(info) as src, dest.open('wb') as dst:
+                          shutil.copyfileobj(src,dst)
+                      entries.append({'path':info.filename,'bytes':info.file_size})
+              summary.append({'app':folder.name,'archive_sha256':digest,'entries':len(entries),'files':entries})
+          Path('reports').mkdir(exist_ok=True)
+          Path('reports/extraction_manifest.json').write_text(json.dumps(summary,ensure_ascii=False,indent=2))
+          print('Extracted',len(summary),'archives')
+          PY
+      - name: Commit extracted files
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add extracted reports/extraction_manifest.json
+          if ! git diff --cached --quiet; then
+            git commit -m "Extract verified Android app archives"
+            git push
+          fi
