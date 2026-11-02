@@ -1,0 +1,602 @@
+{
+    "chapter_num": 9,
+    "verses_count": 18,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The Way of Wisdom"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Wisdom has built her house,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "She has hewn out her seven pillars;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "She has slaughtered her meat,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "She has mixed her wine,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "She has also "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "arranged"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "furnished her table."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "She has sent out her maidens,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "She cries out from the highest places of the city,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Whoever "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " simple, let him turn in here!”"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "As for"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " him who lacks understanding, she says to him,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Come, eat of my bread"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And drink of the wine I have mixed."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Forsake foolishness and live,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And go in the way of understanding."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“He who corrects a scoffer gets shame for himself,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And he who rebukes a wicked "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "man only"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " harms himself."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Do not correct a scoffer, lest he hate you;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Rebuke a wise "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "man,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and he will love you."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Give "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "instruction"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " to a wise "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "man,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and he will be still wiser;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Teach a just "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "man,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and he will increase in learning."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“The fear of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the beginning of wisdom,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And the knowledge of the Holy One "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " understanding."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For by me your days will be multiplied,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And years of life will be added to you."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "If you are wise, you are wise for yourself,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "if"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " you scoff, you will bear "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " alone.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Way of Folly"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "A foolish woman is "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "boisterous"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "clamorous;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "She is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " simple, and knows nothing."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For she sits at the door of her house,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "On a seat "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "by"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the highest places of the city,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To call to those who pass by,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Who go straight on their way:"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Whoever "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "naive"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "simple, let him turn in here”;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "as for"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " him who lacks understanding, she says to him,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Stolen water is sweet,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And bread "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "eaten"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in secret is pleasant.”"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But he does not know that the dead "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " there,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "That"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " her guests "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in the depths of "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or Sheol"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "hell."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

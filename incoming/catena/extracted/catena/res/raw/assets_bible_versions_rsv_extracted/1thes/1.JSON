@@ -1,0 +1,132 @@
+{
+    "chapter_num": 1,
+    "verses_count": 10,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Salutation"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Paul, Silva′nus, and Timothy, To the church of the Thessalo′nians in God the Father and the Lord Jesus Christ:"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Grace to you and peace."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Thessalonians’ Faith and Example"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "We give thanks to God always for you all, constantly mentioning you in our prayers, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "remembering before our God and Father your work of faith and labor of love and steadfastness of hope in our Lord Jesus Christ. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For we know, brethren beloved by God, that he has chosen you; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "for our gospel came to you not only in word, but also in power and in the Holy Spirit and with full conviction. You know what kind of men we proved to be among you for your sake. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And you became imitators of us and of the Lord, for you received the word in much affliction, with joy inspired by the Holy Spirit; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "so that you became an example to all the believers in Macedo′nia and in Acha′ia. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For not only has the word of the Lord sounded forth from you in Macedo′nia and Acha′ia, but your faith in God has gone forth everywhere, so that we need not say anything. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For they themselves report concerning us what a welcome we had among you, and how you turned to God from idols, to serve a living and true God, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and to wait for his Son from heaven, whom he raised from the dead, Jesus who delivers us from the wrath to come."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

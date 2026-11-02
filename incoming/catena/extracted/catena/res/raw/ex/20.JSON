@@ -1,0 +1,589 @@
+{
+    "chapter_num": 20,
+    "verses_count": 26,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The Ten Commandments"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And God spoke all these words, saying:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“I "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "am"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your God, who brought you out of the land of Egypt, out of the house of "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "slaves"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "bondage."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“You shall have no other gods before Me."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“You shall not make for yourself a carved image—any likeness "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "of anything"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in heaven above, or that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in the earth beneath, or that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in the water under the earth; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "you shall not bow down to them nor "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "worship"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "serve them. For I, the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your God, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "am"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " a jealous God, visiting"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "punishing"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the iniquity of the fathers upon the children to the third and fourth "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "generations"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " of those who hate Me, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "but showing mercy to thousands, to those who love Me and keep My commandments."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“You shall not take the name of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your God in vain, for the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " will not hold "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "him"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " guiltless who takes His name in vain."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Remember the Sabbath day, to keep it holy. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Six days you shall labor and do all your work, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "but the seventh day "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the Sabbath of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your God. "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "In it"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " you shall do no work: you, nor your son, nor your daughter, nor your male servant, nor your female servant, nor your cattle, nor your stranger who "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " within your gates. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "in"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " six days the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " made the heavens and the earth, the sea, and all that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in them, and rested the seventh day. Therefore the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " blessed the Sabbath day and hallowed it."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Honor your father and your mother, that your days may be long upon the land which the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your God is giving you."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“You shall not murder."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“You shall not commit adultery."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“You shall not steal."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“You shall not bear false witness against your neighbor."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“You shall not covet your neighbor’s house; you shall not covet your neighbor’s wife, nor his male servant, nor his female servant, nor his ox, nor his donkey, nor anything that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your neighbor’s.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The People Afraid of God’s Presence"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now all the people witnessed the thunderings, the lightning flashes, the sound of the trumpet, and the mountain smoking; and when the people saw "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " they trembled and stood afar off. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then they said to Moses, “You speak with us, and we will hear; but let not God speak with us, lest we die.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And Moses said to the people, “Do not fear; for God has come to test you, and that His fear may be before you, so that you may not sin.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So the people stood afar off, but Moses drew near the thick darkness where God "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Law of the Altar"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " said to Moses, “Thus you shall say to the children of Israel: ‘You have seen that I have talked with you from heaven. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "You shall not make "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "anything to be"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " with Me—gods of silver or gods of gold you shall not make for yourselves. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "An altar of earth you shall make for Me, and you shall sacrifice on it your burnt offerings and your peace offerings, your sheep and your oxen. In every place where I "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "cause My name to be remembered"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "record My name I will come to you, and I will bless you. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And if you make Me an altar of stone, you shall not build it of hewn stone; for if you use your tool on it, you have profaned it. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Nor shall you go up by steps to My altar, that your nakedness may not be exposed on it.’"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

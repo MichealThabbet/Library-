@@ -1,0 +1,402 @@
+{
+    "chapter_num": 1,
+    "verses_count": 32,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Salutation"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Paul, a servant"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or slave"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " of Jesus Christ, called to be an apostle, set apart for the gospel of God "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "which he promised beforehand through his prophets in the holy scriptures, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "the gospel concerning his Son, who was descended from David according to the flesh "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and designated Son of God in power according to the Spirit of holiness by his resurrection from the dead, Jesus Christ our Lord, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "through whom we have received grace and apostleship to bring about the obedience of faith for the sake of his name among all the nations, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "including yourselves who are called to belong to Jesus Christ;"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To all God’s beloved in Rome, who are called to be saints:"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Prayer of Thanksgiving"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "First, I thank my God through Jesus Christ for all of you, because your faith is proclaimed in all the world. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For God is my witness, whom I serve with my spirit in the gospel of his Son, that without ceasing I mention you always in my prayers, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "asking that somehow by God’s will I may now at last succeed in coming to you. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For I long to see you, that I may impart to you some spiritual gift to strengthen you, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "that is, that we may be mutually encouraged by each other’s faith, both yours and mine. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I want you to know, brethren, that I have often intended to come to you (but thus far have been prevented), in order that I may reap some harvest among you as well as among the rest of the Gentiles. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I am under obligation both to Greeks and to barbarians, both to the wise and to the foolish: "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "so I am eager to preach the gospel to you also who are in Rome."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Power of the Gospel"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For I am not ashamed of the gospel: it is the power of God for salvation to every one who has faith, to the Jew first and also to the Greek. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For in it the righteousness of God is revealed through faith for faith; as it is written, “He who through faith is righteous shall live.”"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or The righteous shall live by faith"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Guilt of Mankind"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For the wrath of God is revealed from heaven against all ungodliness and wickedness of men who by their wickedness suppress the truth. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For what can be known about God is plain to them, because God has shown it to them. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Ever since the creation of the world his invisible nature, namely, his eternal power and deity, has been clearly perceived in the things that have been made. So they are without excuse; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "for although they knew God they did not honor him as God or give thanks to him, but they became futile in their thinking and their senseless minds were darkened. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Claiming to be wise, they became fools, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and exchanged the glory of the immortal God for images resembling mortal man or birds or animals or reptiles."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Therefore God gave them up in the lusts of their hearts to impurity, to the dishonoring of their bodies among themselves, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "because they exchanged the truth about God for a lie and worshiped and served the creature rather than the Creator, who is blessed for ever! Amen."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For this reason God gave them up to dishonorable passions. Their women exchanged natural relations for unnatural, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and the men likewise gave up natural relations with women and were consumed with passion for one another, men committing shameless acts with men and receiving in their own persons the due penalty for their error."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And since they did not see fit to acknowledge God, God gave them up to a base mind and to improper conduct. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "They were filled with all manner of wickedness, evil, covetousness, malice. Full of envy, murder, strife, deceit, malignity, they are gossips, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 30,
+                    "num_str": "30",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "slanderers, haters of God, insolent, haughty, boastful, inventors of evil, disobedient to parents, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 31,
+                    "num_str": "31",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "foolish, faithless, heartless, ruthless. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 32,
+                    "num_str": "32",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Though they know God’s decree that those who do such things deserve to die, they not only do them but approve those who practice them."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

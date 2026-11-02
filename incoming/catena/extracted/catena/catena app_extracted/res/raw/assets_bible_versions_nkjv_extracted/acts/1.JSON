@@ -1,0 +1,591 @@
+{
+    "chapter_num": 1,
+    "verses_count": 26,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Prologue"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The former account I made, O Theophilus, of all that Jesus began both to do and teach, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "until the day in which "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "He ascended into heaven."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "He was taken up, after He through the Holy Spirit had given commandments to the apostles whom He had chosen, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "to whom He also presented Himself alive after His suffering by many "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "unmistakable"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "infallible proofs, being seen by them during forty days and speaking of the things pertaining to the kingdom of God."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Holy Spirit Promised"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And being assembled together with "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "them,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " He commanded them not to depart from Jerusalem, but to wait for the Promise of the Father, "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“which,”"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "He said,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“you have"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "heard from Me;"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "for John truly baptized with water,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "but you shall be baptized with the Holy Spirit not many days from now.”"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Therefore, when they had come together, they asked Him, saying, “Lord, will You at this time restore the kingdom to Israel?” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And He said to them, "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“It is not for you to"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "know times or seasons which the Father has put in His own authority."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But you shall receive power"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "when the Holy Spirit has come upon you; and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "you shall be"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU My witnesses"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "witnesses to Me in Jerusalem, and in all Judea and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Samaria, and to the"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "end of the earth.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Jesus Ascends to Heaven"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now when He had spoken these things, while they watched, He was taken up, and a cloud received Him out of their sight. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And while they looked steadfastly toward heaven as He went up, behold, two men stood by them in white apparel, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "who also said, “Men of Galilee, why do you stand gazing up into heaven? This "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "same"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Jesus, who was taken up from you into heaven, will so come in like manner as you saw Him go into heaven.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Upper Room Prayer Meeting"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then they returned to Jerusalem from the mount called Olivet, which is near Jerusalem, a Sabbath day’s journey. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And when they had entered, they went up into the upper room where they were staying: Peter, James, John, and Andrew; Philip and Thomas; Bartholomew and Matthew; James "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "the son"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " of Alphaeus and Simon the Zealot; and Judas "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "the son"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " of James. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "These all continued with one "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "purpose or mind"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "accord in prayer "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU omits and supplication"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "and supplication, with the women and Mary the mother of Jesus, and with His brothers."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Matthias Chosen"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And in those days Peter stood up in the midst of the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU brethren"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "disciples (altogether the number of names was about a hundred and twenty), and said, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Men "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " brethren, this Scripture had to be fulfilled, which the Holy Spirit spoke before by the mouth of David concerning Judas, who became a guide to those who arrested Jesus; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "for he was numbered with us and obtained a part in this ministry.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "(Now this man purchased a field with the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "reward of unrighteousness"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "wages of iniquity; and falling headlong, he burst open in the middle and all his "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "intestines"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "entrails gushed out. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And it became known to all those dwelling in Jerusalem; so that field is called in their own language, Akel Dama, that is, Field of Blood.)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“For it is written in the Book of Psalms:"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "OBLIQUE",
+                            "text": "‘Let his dwelling place be"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "deserted"
+                        },
+                        {
+                            "style": "OBLIQUE",
+                            "text": "desolate,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "OBLIQUE",
+                            "text": "And let no one live in it’"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ";"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "and,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "OBLIQUE",
+                            "text": "‘Let another take his"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Gr. episkopen, position of overseer"
+                        },
+                        {
+                            "style": "OBLIQUE",
+                            "text": "office.’"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Therefore, of these men who have accompanied us all the time that the Lord Jesus went in and out among us, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "beginning from the baptism of John to that day when He was taken up from us, one of these must become a witness with us of His resurrection.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And they proposed two: Joseph called Barsabas, who was surnamed Justus, and Matthias. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And they prayed and said, “You, O Lord, who know the hearts of all, show which of these two You have chosen "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "to take part in this ministry and apostleship from which Judas by transgression fell, that he might go to his own place.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And they cast their lots, and the lot fell on Matthias. And he was numbered with the eleven apostles."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

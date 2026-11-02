@@ -1,0 +1,808 @@
+{
+    "chapter_num": 6,
+    "verses_count": 30,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Job: My Complaint Is Just"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Job answered and said:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Oh, that my grief were fully weighed,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And my calamity laid with it on the scales!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For then it would be heavier than the sand of the sea—"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Therefore my words have been rash."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For the arrows of the Almighty "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " within me;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "My spirit drinks in their poison;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "The terrors of God are arrayed against me."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Does the wild donkey bray when it has grass,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Or does the ox low over its fodder?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Can flavorless food be eaten without salt?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Or is there "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "any"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " taste in the white of an egg?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "My soul refuses to touch them;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "They "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " as loathsome food to me."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Oh, that I might have my request,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "That God would grant "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "me"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the thing that I long for!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "That it would please God to crush me,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "That He would loose His hand and cut me off!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then I would still have comfort;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Though in anguish I would exult,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "He will not spare;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For I have not concealed the words of the Holy One."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“What strength do I have, that I should hope?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And what "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " my end, that I should prolong my life?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "ITALIC",
+                            "text": "Is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " my strength the strength of stones?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Or is my flesh bronze?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "ITALIC",
+                            "text": "Is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " my help not within me?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And is success driven from me?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“To him who is "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or despairing"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "afflicted, kindness "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "should be shown"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " by his friend,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Even though he forsakes the fear of the Almighty."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "My brothers have dealt deceitfully like a brook,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Like the streams of the brooks that pass away,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Which are dark because of the ice,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "And"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " into which the snow vanishes."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "When it is warm, they cease to flow;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "When it is hot, they vanish from their place."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The paths of their way turn aside,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "They go nowhere and perish."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The caravans of Tema look,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "The travelers of Sheba hope for them."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "They are disappointed"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. ashamed"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " because they were confident;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "They come there and are confused."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For now you are nothing,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "You see terror and are afraid."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Did I ever say, ‘Bring "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "something"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " to me’?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Or, ‘Offer a bribe for me from your wealth’?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Or, ‘Deliver me from the enemy’s hand’?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Or, ‘Redeem me from the hand of oppressors’?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Teach me, and I will hold my tongue;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Cause me to understand wherein I have erred."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "How forceful are right words!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "But what does your arguing prove?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Do you intend to rebuke "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "my"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " words,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And the speeches of a desperate one, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "which are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " as wind?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Yes, you overwhelm the fatherless,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And you undermine your friend."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now therefore, be pleased to look at me;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "For I would never lie to your face."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Yield now, let there be no injustice!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Yes, concede, my righteousness "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. is in it"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "still stands!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 30,
+                    "num_str": "30",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Is there injustice on my tongue?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Cannot my "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "palate"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "taste discern the unsavory?"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

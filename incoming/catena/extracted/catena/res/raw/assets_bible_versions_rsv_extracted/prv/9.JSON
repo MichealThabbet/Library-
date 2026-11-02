@@ -1,0 +1,457 @@
+{
+    "chapter_num": 9,
+    "verses_count": 18,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Wisdom’s Feast"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Wisdom has built her house,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "she has set up"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Gk Syr Tg: Heb hewn"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " her seven pillars."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "She has slaughtered her beasts, she has mixed her wine,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tshe has also set her table."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "She has sent out her maids to call"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tfrom the highest places in the town,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Whoever is simple, let him turn in here!”"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tTo him who is without sense she says,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Come, eat of my bread"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand drink of the wine I have mixed."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Leave simpleness,"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Gk Syr Vg Tg: Heb simple ones"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and live,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand walk in the way of insight.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "General Maxims"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "He who corrects a scoffer gets himself abuse,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand he who reproves a wicked man incurs injury."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Do not reprove a scoffer, or he will hate you;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\treprove a wise man, and he will love you."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Give instruction"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Heb lacks instruction"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " to a wise man, and he will be still wiser;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tteach a righteous man and he will increase in learning."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The fear of the "
+                        },
+                        {
+                            "style": "SMALL_CAPS",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " is the beginning of wisdom,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand the knowledge of the Holy One is insight."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For by me your days will be multiplied,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand years will be added to your life."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "If you are wise, you are wise for yourself;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tif you scoff, you alone will bear it."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Folly’s Invitation and Promise"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "A foolish woman is noisy;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tshe is wanton and knows no shame."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "She sits at the door of her house,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tshe takes a seat on the high places of the town,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "calling to those who pass by,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\twho are going straight on their way,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Whoever is simple, let him turn in here!”"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tAnd to him who is without sense she says,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Stolen water is sweet,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand bread eaten in secret is pleasant.”"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But he does not know that the dead"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Heb shades"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " are there,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tthat her guests are in the depths of Sheol."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

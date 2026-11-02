@@ -1,0 +1,646 @@
+{
+    "chapter_num": 1,
+    "verses_count": 31,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The History of Creation"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "In the beginning God created the heavens and the earth. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The earth was without form, and void; and darkness "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Words in italic type have been added for clarity. They are not found in the original Hebrew or Aramaic."
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " on the face of the deep. And the Spirit of God was hovering over the face of the waters."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God said, “Let there be light”; and there was light. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And God saw the light, that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " good; and God divided the light from the darkness. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "God called the light Day, and the darkness He called Night. "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. And evening was, and morning was, a day, one."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "So the evening and the morning were the first day."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God said, “Let there be a "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "expanse"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "firmament in the midst of the waters, and let it divide the waters from the waters.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Thus God made the firmament, and divided the waters which "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " under the firmament from the waters which "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " above the firmament; and it was so. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And God called the firmament Heaven. So the evening and the morning were the second day."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God said, “Let the waters under the heavens be gathered together into one place, and let the dry "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "land"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " appear”; and it was so. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And God called the dry "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "land"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Earth, and the gathering together of the waters He called Seas. And God saw that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " good."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God said, “Let the earth bring forth grass, the herb "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " yields seed, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the fruit tree "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " yields fruit according to its kind, whose seed "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in itself, on the earth”; and it was so. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the earth brought forth grass, the herb "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " yields seed according to its kind, and the tree "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " yields fruit, whose seed "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in itself according to its kind. And God saw that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " good. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So the evening and the morning were the third day."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God said, “Let there be lights in the firmament of the heavens to divide the day from the night; and let them be for signs and seasons, and for days and years; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and let them be for lights in the firmament of the heavens to give light on the earth”; and it was so. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God made two great "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "luminaries"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "lights: the greater light to rule the day, and the lesser light to rule the night. "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "He made"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the stars also. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "God set them in the firmament of the heavens to give light on the earth, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and to rule over the day and over the night, and to divide the light from the darkness. And God saw that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " good. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So the evening and the morning were the fourth day."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God said, “Let the waters abound with an abundance of living "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "souls"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "creatures, and let birds fly above the earth across the face of the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "expanse"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "firmament of the heavens.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So God created great sea creatures and every living thing that moves, with which the waters abounded, according to their kind, and every winged bird according to its kind. And God saw that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " good. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And God blessed them, saying, “Be fruitful and multiply, and fill the waters in the seas, and let birds multiply on the earth.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So the evening and the morning were the fifth day."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God said, “Let the earth bring forth the living creature according to its kind: cattle and creeping thing and beast of the earth, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "each"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " according to its kind”; and it was so. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And God made the beast of the earth according to its kind, cattle according to its kind, and everything that creeps on the earth according to its kind. And God saw that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " good."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God said, “Let Us make man in Our image, according to Our likeness; let them have dominion over the fish of the sea, over the birds of the air, and over the cattle, over "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Syr. all the wild animals of"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "all the earth and over every creeping thing that creeps on the earth.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So God created man in His "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "own"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " image; in the image of God He created him; male and female He created them. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God blessed them, and God said to them, “Be fruitful and multiply; fill the earth and subdue it; have dominion over the fish of the sea, over the birds of the air, and over every living thing that "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "moves about on"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "moves on the earth.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And God said, “See, I have given you every herb "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " yields seed which "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " on the face of all the earth, and every tree whose fruit yields seed; to you it shall be for food. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 30,
+                    "num_str": "30",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Also, to every beast of the earth, to every bird of the air, and to everything that creeps on the earth, in which "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "there is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "a living soul"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "life, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "I have given"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " every green herb for food”; and it was so. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 31,
+                    "num_str": "31",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then God saw everything that He had made, and indeed "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " very good. So the evening and the morning were the sixth day."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

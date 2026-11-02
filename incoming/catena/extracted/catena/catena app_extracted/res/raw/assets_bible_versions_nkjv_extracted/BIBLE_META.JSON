@@ -1,0 +1,415 @@
+{
+    "version": "NKJV",
+    "lang": "English",
+    "copyright_info": {
+        "publisher_info": "New King James Version (NKJV)",
+        "copyright_text": "Scripture taken from the New King James Version®. Copyright © 1982 by Thomas Nelson. Used by permission. All rights reserved."
+    },
+    "lang_abr": "en",
+    "has_deuterocanonical_books": false,
+    "deuterocanonical_books_included": [],
+    "books_not_present_in_version": [
+        {
+            "en_name": "Prayer of Manasseh",
+            "abr": "prman"
+        },
+        {
+            "en_name": "1 Esdras",
+            "abr": "1esd"
+        },
+        {
+            "en_name": "Tobit",
+            "abr": "tb"
+        },
+        {
+            "en_name": "Judith",
+            "abr": "jdt"
+        },
+        {
+            "en_name": "Greek Esther",
+            "abr": "gest"
+        },
+        {
+            "en_name": "1 Maccabees",
+            "abr": "1mc"
+        },
+        {
+            "en_name": "2 Maccabees",
+            "abr": "2mc"
+        },
+        {
+            "en_name": "3 Maccabees",
+            "abr": "3mc"
+        },
+        {
+            "en_name": "4 Maccabees",
+            "abr": "4mc"
+        },
+        {
+            "en_name": "2 Esdras",
+            "abr": "2esd"
+        },
+        {
+            "en_name": "Wisdom",
+            "abr": "ws"
+        },
+        {
+            "en_name": "Sirach",
+            "abr": "sir"
+        },
+        {
+            "en_name": "Epistle of Jeremiah",
+            "abr": "eoj"
+        },
+        {
+            "en_name": "Baruch",
+            "abr": "bar"
+        },
+        {
+            "en_name": "Susanna",
+            "abr": "sus"
+        },
+        {
+            "en_name": "Prayer of Azariah",
+            "abr": "PrAzar"
+        },
+        {
+            "en_name": "Bel and the Dragon",
+            "abr": "bd"
+        }
+    ],
+    "old_testament_books_meta": {
+        "gn": {
+            "en_name": "Genesis",
+            "local_name": "Genesis",
+            "ch_count": 50
+        },
+        "ex": {
+            "en_name": "Exodus",
+            "local_name": "Exodus",
+            "ch_count": 40
+        },
+        "lv": {
+            "en_name": "Leviticus",
+            "local_name": "Leviticus",
+            "ch_count": 27
+        },
+        "nm": {
+            "en_name": "Numbers",
+            "local_name": "Numbers",
+            "ch_count": 36
+        },
+        "dt": {
+            "en_name": "Deuteronomy",
+            "local_name": "Deuteronomy",
+            "ch_count": 34
+        },
+        "jo": {
+            "en_name": "Joshua",
+            "local_name": "Joshua",
+            "ch_count": 24
+        },
+        "jgs": {
+            "en_name": "Judges",
+            "local_name": "Judges",
+            "ch_count": 21
+        },
+        "ru": {
+            "en_name": "Ruth",
+            "local_name": "Ruth",
+            "ch_count": 4
+        },
+        "1sm": {
+            "en_name": "1 Samuel",
+            "local_name": "1 Samuel",
+            "ch_count": 31
+        },
+        "2sm": {
+            "en_name": "2 Samuel",
+            "local_name": "2 Samuel",
+            "ch_count": 24
+        },
+        "1kgs": {
+            "en_name": "1 Kings",
+            "local_name": "1 Kings",
+            "ch_count": 22
+        },
+        "2kgs": {
+            "en_name": "2 Kings",
+            "local_name": "2 Kings",
+            "ch_count": 25
+        },
+        "1chr": {
+            "en_name": "1 Chronicles",
+            "local_name": "1 Chronicles",
+            "ch_count": 29
+        },
+        "2chr": {
+            "en_name": "2 Chronicles",
+            "local_name": "2 Chronicles",
+            "ch_count": 36
+        },
+        "ezr": {
+            "en_name": "Ezra",
+            "local_name": "Ezra",
+            "ch_count": 10
+        },
+        "neh": {
+            "en_name": "Nehemiah",
+            "local_name": "Nehemiah",
+            "ch_count": 13
+        },
+        "est": {
+            "en_name": "Esther",
+            "local_name": "Esther",
+            "ch_count": 10
+        },
+        "jb": {
+            "en_name": "Job",
+            "local_name": "Job",
+            "ch_count": 42
+        },
+        "ps": {
+            "en_name": "Psalms",
+            "local_name": "Psalm",
+            "ch_count": 150
+        },
+        "prv": {
+            "en_name": "Proverbs",
+            "local_name": "Proverbs",
+            "ch_count": 31
+        },
+        "eccl": {
+            "en_name": "Ecclesiastes",
+            "local_name": "Ecclesiastes",
+            "ch_count": 12
+        },
+        "sg": {
+            "en_name": "Song of Songs",
+            "local_name": "Song of Solomon",
+            "ch_count": 8
+        },
+        "is": {
+            "en_name": "Isaiah",
+            "local_name": "Isaiah",
+            "ch_count": 66
+        },
+        "jer": {
+            "en_name": "Jeremiah",
+            "local_name": "Jeremiah",
+            "ch_count": 52
+        },
+        "lam": {
+            "en_name": "Lamentations",
+            "local_name": "Lamentations",
+            "ch_count": 5
+        },
+        "ez": {
+            "en_name": "Ezekiel",
+            "local_name": "Ezekiel",
+            "ch_count": 48
+        },
+        "dn": {
+            "en_name": "Daniel",
+            "local_name": "Daniel",
+            "ch_count": 12
+        },
+        "hos": {
+            "en_name": "Hosea",
+            "local_name": "Hosea",
+            "ch_count": 14
+        },
+        "jl": {
+            "en_name": "Joel",
+            "local_name": "Joel",
+            "ch_count": 3
+        },
+        "am": {
+            "en_name": "Amos",
+            "local_name": "Amos",
+            "ch_count": 9
+        },
+        "ob": {
+            "en_name": "Obadiah",
+            "local_name": "Obadiah",
+            "ch_count": 1
+        },
+        "jon": {
+            "en_name": "Jonah",
+            "local_name": "Jonah",
+            "ch_count": 4
+        },
+        "mi": {
+            "en_name": "Micah",
+            "local_name": "Micah",
+            "ch_count": 7
+        },
+        "na": {
+            "en_name": "Nahum",
+            "local_name": "Nahum",
+            "ch_count": 3
+        },
+        "hb": {
+            "en_name": "Habakkuk",
+            "local_name": "Habakkuk",
+            "ch_count": 3
+        },
+        "zep": {
+            "en_name": "Zephaniah",
+            "local_name": "Zephaniah",
+            "ch_count": 3
+        },
+        "hg": {
+            "en_name": "Haggai",
+            "local_name": "Haggai",
+            "ch_count": 2
+        },
+        "zec": {
+            "en_name": "Zechariah",
+            "local_name": "Zechariah",
+            "ch_count": 14
+        },
+        "mal": {
+            "en_name": "Malachi",
+            "local_name": "Malachi",
+            "ch_count": 4
+        }
+    },
+    "new_testament_books_meta": {
+        "mt": {
+            "en_name": "Matthew",
+            "local_name": "Matthew",
+            "ch_count": 28
+        },
+        "mk": {
+            "en_name": "Mark",
+            "local_name": "Mark",
+            "ch_count": 16
+        },
+        "lk": {
+            "en_name": "Luke",
+            "local_name": "Luke",
+            "ch_count": 24
+        },
+        "jn": {
+            "en_name": "John",
+            "local_name": "John",
+            "ch_count": 21
+        },
+        "acts": {
+            "en_name": "Acts",
+            "local_name": "Acts",
+            "ch_count": 28
+        },
+        "rom": {
+            "en_name": "Romans",
+            "local_name": "Romans",
+            "ch_count": 16
+        },
+        "1cor": {
+            "en_name": "1 Corinthians",
+            "local_name": "1 Corinthians",
+            "ch_count": 16
+        },
+        "2cor": {
+            "en_name": "2 Corinthians",
+            "local_name": "2 Corinthians",
+            "ch_count": 13
+        },
+        "gal": {
+            "en_name": "Galatians",
+            "local_name": "Galatians",
+            "ch_count": 6
+        },
+        "eph": {
+            "en_name": "Ephesians",
+            "local_name": "Ephesians",
+            "ch_count": 6
+        },
+        "phil": {
+            "en_name": "Philippians",
+            "local_name": "Philippians",
+            "ch_count": 4
+        },
+        "col": {
+            "en_name": "Colossians",
+            "local_name": "Colossians",
+            "ch_count": 4
+        },
+        "1thes": {
+            "en_name": "1 Thessalonians",
+            "local_name": "1 Thessalonians",
+            "ch_count": 5
+        },
+        "2thes": {
+            "en_name": "2 Thessalonians",
+            "local_name": "2 Thessalonians",
+            "ch_count": 3
+        },
+        "1tm": {
+            "en_name": "1 Timothy",
+            "local_name": "1 Timothy",
+            "ch_count": 6
+        },
+        "2tm": {
+            "en_name": "2 Timothy",
+            "local_name": "2 Timothy",
+            "ch_count": 4
+        },
+        "ti": {
+            "en_name": "Titus",
+            "local_name": "Titus",
+            "ch_count": 3
+        },
+        "phlm": {
+            "en_name": "Philemon",
+            "local_name": "Philemon",
+            "ch_count": 1
+        },
+        "heb": {
+            "en_name": "Hebrews",
+            "local_name": "Hebrews",
+            "ch_count": 13
+        },
+        "jas": {
+            "en_name": "James",
+            "local_name": "James",
+            "ch_count": 5
+        },
+        "1pt": {
+            "en_name": "1 Peter",
+            "local_name": "1 Peter",
+            "ch_count": 5
+        },
+        "2pt": {
+            "en_name": "2 Peter",
+            "local_name": "2 Peter",
+            "ch_count": 3
+        },
+        "1jn": {
+            "en_name": "1 John",
+            "local_name": "1 John",
+            "ch_count": 5
+        },
+        "2jn": {
+            "en_name": "2 John",
+            "local_name": "2 John",
+            "ch_count": 1
+        },
+        "3jn": {
+            "en_name": "3 John",
+            "local_name": "3 John",
+            "ch_count": 1
+        },
+        "jude": {
+            "en_name": "Jude",
+            "local_name": "Jude",
+            "ch_count": 1
+        },
+        "rv": {
+            "en_name": "Revelation",
+            "local_name": "Revelation",
+            "ch_count": 22
+        }
+    }
+}

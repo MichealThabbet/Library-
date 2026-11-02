@@ -1,0 +1,74 @@
+﻿master_code,item_name,item_title,item_code,item_image,item_text,item_mp3,item_pdf,item_note
+mainmenu,ابونا اسحاق نجيب,ابونا اسحاق نجيب,ag_abonaeshak,ag_icon_dark.png,none,none,none,none
+mainmenu,بولس ملاك,الشماس بولس ملاك,ag_polesmalak,ag_icon_dark.png,none,none,none,none
+mainmenu,فريق CTV,فريق كورال CTV,ag_ctv,ag_icon_dark.png,none,none,none,none
+mainmenu,برسوم القمص والانبا رويس,برسوم القمص اسحاق + الانبا رويس,ag_masteragpeya,ag_icon_dark.png,none,none,none,none
+mainmenu,صلوات اخرى,صلوات اخرى,ag_miscprays,ag_others_dark.png,none,none,none,none
+mainmenu,المفــضـــلة,المفضلة,ag_favorite,ag_favorite_dark.png,none,none,none,none
+mainmenu,صلوات مجمعة,صلوات مجمعة,ag_combine_favmenu,ag_combine_dark.png,full_notifier,none,none,none
+mainmenu,مركز تحميل الملفات,مركز تحميل الملفات,ag_filecenter,ag_download.png,none,none,none,none
+mainmenu,تحديث محتوى,تحديث محتوى,ag_download,ag_download.png,none,none,none,none
+mainmenu,الاعدادات,الاعدادات,ag_settings,ag_settings.png,none,none,none,none
+mainmenu,مشاركة البرنامج,مشاركة البرنامج,ag_share,ag_share.png,none,none,none,none
+mainmenu,تقييم البرنامج,تقييم البرنامج,ag_rate,ag_rate.png,none,none,none,none
+mainmenu,حول البرنامج,حول البرنامج,ag_about,ag_about.png,none,none,none,none
+mainmenu,برامج اخرى,برامج اخرى,ag_others,ag_apps.png,none,none,none,none
+mainmenu,تواصل معنا,تواصل معنا,ag_contactus,ag_contactus.png,none,none,none,none
+ag_abonaeshak,صلاة باكر,صلاة باكر,pray_baker_fen,baker_icon.png,bakerfull.txt,none,none,none
+ag_abonaeshak,صلاة الثالثة,صلاة الثالثة,pray_third_fen,third_icon.png,thirdfull.txt,none,none,none
+ag_abonaeshak,صلاة السادسة,صلاة السادسة,pray_six_fen,six_icon.png,sixfull.txt,none,none,none
+ag_abonaeshak,صلاة التاسعة,صلاة التاسعة,pray_nine_fen,nine_icon.png,ninefull.txt,none,none,none
+ag_abonaeshak,صلاة الغروب,صلاة الغروب,pray_gorob_fen,gorob_icon.png,gorobfull.txt,none,none,none
+ag_abonaeshak,صلاة النوم,صلاة النوم,pray_noom_fen,noom_icon.png,noomfull.txt,none,none,none
+ag_abonaeshak,صلاة الستار,صلاة الستار,pray_satar_fen,satarpray_icon.png,none,none,none,none
+ag_abonaeshak,صلاة نصف الليل | الخدمة الاولى,صلاة نصف الليل | الخدمة الاولى,pray_mid1_fen,mid1_icon.png,night1full.txt,none,none,none
+ag_abonaeshak,صلاة نصف الليل | الخدمة الثانية,صلاة نصف الليل | الخدمة الثانية,pray_mid2_fen,mid2_icon.png,night2full.txt,none,none,none
+ag_abonaeshak,صلاة نصف الليل | الخدمة الثالثة,صلاة نصف الليل | الخدمة الثالثة,pray_mid3_fen,mid3_icon.png,night3full.txt,none,none,none
+ag_masteragpeya,صلاة باكر,صلاة باكر,pray_baker_masteragpeya,baker_icon.png,bakerfull.txt,none,none,none
+ag_masteragpeya,صلاة الثالثة,صلاة الثالثة,pray_third_masteragpeya,third_icon.png,thirdfull.txt,none,none,none
+ag_masteragpeya,صلاة السادسة,صلاة السادسة,pray_six_masteragpeya,six_icon.png,sixfull.txt,none,none,none
+ag_masteragpeya,صلاة التاسعة,صلاة التاسعة,pray_nine_masteragpeya,nine_icon.png,ninefull.txt,none,none,none
+ag_masteragpeya,صلاة الغروب,صلاة الغروب,pray_gorob_masteragpeya,gorob_icon.png,gorobfull.txt,none,none,none
+ag_masteragpeya,صلاة النوم,صلاة النوم,pray_noom_masteragpeya,noom_icon.png,noomfull.txt,none,none,none
+ag_masteragpeya,صلاة نصف الليل | الخدمة الاولى,صلاة نصف الليل | الخدمة الاولى,pray_mid1_masteragpeya,mid1_icon.png,night1full.txt,none,none,none
+ag_masteragpeya,صلاة نصف الليل | الخدمة الثانية,صلاة نصف الليل | الخدمة الثانية,pray_mid2_masteragpeya,mid2_icon.png,night2full.txt,none,none,none
+ag_masteragpeya,صلاة نصف الليل | الخدمة الثالثة,صلاة نصف الليل | الخدمة الثالثة,pray_mid3_masteragpeya,mid3_icon.png,night3full.txt,none,none,none
+ag_polesmalak,صلاة باكر,صلاة باكر,pray_baker_polesmalak,baker_icon.png,bakerfull.txt,none,none,none
+ag_polesmalak,صلاة الثالثة,صلاة الثالثة,pray_third_polesmalak,third_icon.png,thirdfull.txt,none,none,none
+ag_polesmalak,صلاة السادسة,صلاة السادسة,pray_six_polesmalak,six_icon.png,sixfull.txt,none,none,none
+ag_polesmalak,صلاة التاسعة,صلاة التاسعة,pray_nine_polesmalak,nine_icon.png,ninefull.txt,none,none,none
+ag_polesmalak,صلاة الغروب,صلاة الغروب,pray_gorob_polesmalak,gorob_icon.png,gorobfull.txt,none,none,none
+ag_polesmalak,صلاة النوم,صلاة النوم,pray_noom_polesmalak,noom_icon.png,noomfull.txt,none,none,none
+ag_polesmalak,صلاة نصف الليل | الخدمة الاولى,صلاة نصف الليل | الخدمة الاولى,pray_mid1_polesmalak,mid1_icon.png,night1full.txt,none,none,none
+ag_polesmalak,صلاة نصف الليل | الخدمة الثانية,صلاة نصف الليل | الخدمة الثانية,pray_mid2_polesmalak,mid2_icon.png,night2full.txt,none,none,none
+ag_polesmalak,صلاة نصف الليل | الخدمة الثالثة,صلاة نصف الليل | الخدمة الثالثة,pray_mid3_polesmalak,mid3_icon.png,night3full.txt,none,none,none
+ag_ctv,صلاة باكر,صلاة باكر,pray_baker_ctv,baker_icon.png,bakerfull.txt,none,none,none
+ag_ctv,صلاة الغروب,صلاة الغروب,pray_gorob_ctv,gorob_icon.png,gorobfull.txt,none,none,none
+ag_ctv,صلاة النوم,صلاة النوم,pray_noom_ctv,noom_icon.png,noomfull.txt,none,none,none
+ag_miscprays,صلوات التناول,صلوات التناول,ag_tanaol,ag_tanaol.png,none,none,none,none
+ag_miscprays,صلوات الاعتراف,صلوات الاعتراف,ag_confess,ag_confess.png,none,none,none,none
+ag_miscprays,صلوات الاكل,صلوات الاكل,ag_food,ag_food.png,none,none,none,none
+ag_miscprays,صلوات اخرى,صلوات اخرى,ag_othersprays,ag_othersprays.png,none,none,none,none
+ag_combine_favmenu,✝️ المزامير | برسوم القمص اسحق,✝️ المزامير | برسوم القمص اسحق,psalms_barsom,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,✝️ المزامير | ابونا اسحاق نجيب,✝️ المزامير | ابونا اسحاق نجيب,psalms_abonaeshak,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,✝️ المزامير | الشماس بولس ملاك,✝️ المزامير | الشماس بولس ملاك,psalms_polesmalak,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,✝️ المزامير | فريق CTV,✝️ المزامير | فريق CTV,psalms_ctv,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📕 الاناجيل | برسوم القمص اسحق,📕 الاناجيل | برسوم القمص اسحق,bible_barsom,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📕 الاناجيل | ابونا اسحاق نجيب,📕 الاناجيل | ابونا اسحاق نجيب,bible_abonaeshak,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📕 الاناجيل | شباب الانبا رويس,📕 الاناجيل | شباب الانبا رويس,bible_rous,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📕 الاناجيل | الشماس بولس ملاك,📕 الاناجيل | الشماس بولس ملاك,bible_polesmalak,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📕 الاناجيل | فريق CTV,📕 الاناجيل | فريق CTV,bible_ctv,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📖 القطع | برسوم القمص اسحق,📖 القطع | برسوم القمص اسحق,parts_barsom,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📖 القطع | ابونا اسحاق نجيب,📖 القطع | ابونا اسحاق نجيب,parts_abonaeshak,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📖 القطع | الشماس بولس ملاك,📖 القطع | الشماس بولس ملاك,parts_polesmalak,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📖 القطع | شباب الانبا رويس,📖 القطع | شباب الانبا رويس,parts_rous,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📖 القطع | فريق CTV,📖 القطع | فريق CTV,parts_ctv,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📙 التحاليل | بولس ملاك,📙 التحاليل | بولس ملاك,tahlel_polesmalak,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📙 التحاليل | ابونا اسحاق نجيب,📙 التحاليل | ابونا اسحاق نجيب,tahlel_abonaeshak,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📙 التحاليل | شباب الانبا رويس,📙 التحاليل | شباب الانبا رويس,tahlel_rous,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,📙 التحاليل | فريق CTV,📙 التحاليل | فريق CTV,tahlel_ctv,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,🙏 صلوات الاجبية | ابونا اسحاق نجيب,🙏 صلوات الاجبية | ابونا اسحاق نجيب,rest_abonaeshak,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,🙏 صلوات الاجبية | برسوم القمص اسحاق,🙏 صلوات الاجبية | برسوم القمص اسحاق,rest_barsom,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,🙏 صلوات الاجبية | شباب الانبا رويس,🙏 صلوات الاجبية | شباب الانبا رويس,rest_rous,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,🙏 صلوات الاجبية | الشماس بولس ملاك,🙏 صلوات الاجبية | الشماس بولس ملاك,rest_polesmalak,mid3_icon.png,night3full.txt,none,none,none
+ag_combine_favmenu,🙏 صلوات الاجبية | فريق CTV,🙏 صلوات الاجبية | فريق CTV,rest_ctv,mid3_icon.png,night3full.txt,none,none,none

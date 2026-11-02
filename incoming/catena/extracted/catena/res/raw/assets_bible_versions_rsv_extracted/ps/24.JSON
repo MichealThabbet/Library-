@@ -1,0 +1,301 @@
+{
+    "chapter_num": 24,
+    "verses_count": 10,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Entrance into the Temple"
+        },
+        {
+            "type": "section_header",
+            "text": "A Psalm of David."
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The earth is the "
+                        },
+                        {
+                            "style": "SMALL_CAPS",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "’s and the fulness thereof,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tthe world and those who dwell therein;"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "for he has founded it upon the seas,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand established it upon the rivers."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Who shall ascend the hill of the "
+                        },
+                        {
+                            "style": "SMALL_CAPS",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tAnd who shall stand in his holy place?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "He who has clean hands and a pure heart,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\twho does not lift up his soul to what is false,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand does not swear deceitfully."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "He will receive blessing from the "
+                        },
+                        {
+                            "style": "SMALL_CAPS",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ","
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand vindication from the God of his salvation."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Such is the generation of those who seek him,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\twho seek the face of the God of Jacob.Selah"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Lift up your heads, O gates!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand be lifted up, O ancient doors!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tthat the King of glory may come in."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Who is the King of glory?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tThe Lord, strong and mighty,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tthe Lord, mighty in battle!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Lift up your heads, O gates!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tand be lifted up, O ancient doors!"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tthat the King of glory may come in."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Who is this King of glory?"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\tThe Lord of hosts,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "\the is the King of glory!Selah"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

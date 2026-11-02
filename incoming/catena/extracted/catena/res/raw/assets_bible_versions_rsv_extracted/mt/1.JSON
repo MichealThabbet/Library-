@@ -1,0 +1,400 @@
+{
+    "chapter_num": 1,
+    "verses_count": 25,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The Genealogy of Jesus the Messiah"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The book of the genealogy of Jesus Christ, the son of David, the son of Abraham."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Abraham was the father of Isaac, and Isaac the father of Jacob, and Jacob the father of Judah and his brothers, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Judah the father of Perez and Zerah by Tamar, and Perez the father of Hezron, and Hezron the father of Ram,"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Greek Aram"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Ram"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Greek Aram"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the father of Ammin′adab, and Ammin′adab the father of Nahshon, and Nahshon the father of Salmon, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Salmon the father of Bo′az by Rahab, and Bo′az the father of Obed by Ruth, and Obed the father of Jesse, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Jesse the father of David the king."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And David was the father of Solomon by the wife of Uri′ah, "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Solomon the father of Rehobo′am, and Rehobo′am the father of Abi′jah, and Abi′jah the father of Asa,"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Greek Asaph"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Asa"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Greek Asaph"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the father of Jehosh′aphat, and Jehosh′aphat the father of Joram, and Joram the father of Uzzi′ah, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Uzzi′ah the father of Jotham, and Jotham the father of Ahaz, and Ahaz the father of Hezeki′ah, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Hezeki′ah the father of Manas′seh, and Manas′seh the father of Amos,"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Other authorities read Amon"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and Amos"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Other authorities read Amon"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the father of Josi′ah, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Josi′ah the father of Jechoni′ah and his brothers, at the time of the deportation to Babylon."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And after the deportation to Babylon: Jechoni′ah was the father of She-al′ti-el,"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Greek Salathiel"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and She-al′ti-el"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Greek Salathiel"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the father of Zerub′babel, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Zerub′babel the father of Abi′ud, and Abi′ud the father of Eli′akim, and Eli′akim the father of Azor, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Azor the father of Zadok, and Zadok the father of Achim, and Achim the father of Eli′ud, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Eli′ud the father of Elea′zar, and Elea′zar the father of Matthan, and Matthan the father of Jacob, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Jacob the father of Joseph the husband of Mary, of whom Jesus was born, who is called Christ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So all the generations from Abraham to David were fourteen generations, and from David to the deportation to Babylon fourteen generations, and from the deportation to Babylon to the Christ fourteen generations."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Birth of Jesus the Messiah"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now the birth of Jesus Christ"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Other ancient authorities read of the Christ"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " took place in this way. When his mother Mary had been betrothed to Joseph, before they came together she was found to be with child of the Holy Spirit; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and her husband Joseph, being a just man and unwilling to put her to shame, resolved to divorce her quietly. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But as he considered this, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, do not fear to take Mary your wife, for that which is conceived in her is of the Holy Spirit; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "she will bear a son, and you shall call his name Jesus, for he will save his people from their sins.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "All this took place to fulfil what the Lord had spoken by the prophet:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Behold, a virgin shall conceive and bear a son,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "and his name shall be called Emman′u-el”"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "(which means, God with us). "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "When Joseph woke from sleep, he did as the angel of the Lord commanded him; he took his wife, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "but knew her not until she had borne a son; and he called his name Jesus."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,467 @@
+{
+    "chapter_num": 1,
+    "verses_count": 25,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Greeting"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Paul, a prisoner of Christ Jesus, and Timothy "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "our"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " brother,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "To Philemon our beloved "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "friend"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and fellow laborer, "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "to "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU our sister Apphia"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "the beloved Apphia, Archippus our fellow soldier, and to the church in your house:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Philemon’s Love and Faith"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I thank my God, making mention of you always in my prayers, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "hearing of your love and faith which you have toward the Lord Jesus and toward all the saints, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "that the sharing of your faith may become effective by the acknowledgment of every good thing which is in "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M us"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "you in Christ Jesus. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For we "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU had"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "have great "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "M thanksgiving"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "joy and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "comfort"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "consolation in your love, because the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. inward parts, heart, liver, and lungs"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "hearts of the saints have been refreshed by you, brother."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Plea for Onesimus"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Therefore, though I might be very bold in Christ to command you what is fitting, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "ITALIC",
+                            "text": "yet"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " for love’s sake I rather appeal "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "to you"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "—being such a one as Paul, the aged, and now also a prisoner of Jesus Christ— "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I appeal to you for my son Onesimus, whom I have begotten "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "while"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in my chains, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "who once was unprofitable to you, but now is profitable to you and to me."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I am sending him "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU back to you in person, that is, my own heart,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "back. You therefore receive him, that is, my own "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "See v. 7."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "heart, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "whom I wished to keep with me, that on your behalf he might minister to me in my chains for the gospel. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But without your consent I wanted to do nothing, that your good deed might not be by compulsion, as it were, but voluntary."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For perhaps he departed for a while for this "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "purpose,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " that you might receive him forever, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "no longer as a slave but more than a slave—a beloved brother, especially to me but how much more to you, both in the flesh and in the Lord."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Philemon’s Obedience Encouraged"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "If then you count me as a partner, receive him as "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "you would"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " me. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But if he has wronged you or owes anything, put that on my account. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I, Paul, am writing with my own hand. I will repay—not to mention to you that you owe me even your own self besides. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Yes, brother, let me have joy from you in the Lord; refresh my heart in the Lord."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Having confidence in your obedience, I write to you, knowing that you will do even more than I say. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But, meanwhile, also prepare a guest room for me, for I trust that through your prayers I shall be granted to you."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Farewell"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Epaphras, my fellow prisoner in Christ Jesus, greets you, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "ITALIC",
+                            "text": "as do"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Mark, Aristarchus, Demas, Luke, my fellow laborers."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The grace of our Lord Jesus Christ "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "be"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " with your spirit. Amen."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

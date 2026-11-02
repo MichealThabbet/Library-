@@ -1,0 +1,385 @@
+{
+    "chapter_num": 1,
+    "verses_count": 30,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Salutation"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Paul and Timothy, servants"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or slaves"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " of Christ Jesus,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "To all the saints in Christ Jesus who are at Philippi, with the bishops"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or overseers"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and deacons:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Paul’s Prayer for the Philippians"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I thank my God in all my remembrance of you, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "always in every prayer of mine for you all making my prayer with joy, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "thankful for your partnership in the gospel from the first day until now. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And I am sure that he who began a good work in you will bring it to completion at the day of Jesus Christ. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "It is right for me to feel thus about you all, because I hold you in my heart, for you are all partakers with me of grace, both in my imprisonment and in the defense and confirmation of the gospel. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For God is my witness, how I yearn for you all with the affection of Christ Jesus. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And it is my prayer that your love may abound more and more, with knowledge and all discernment, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "so that you may approve what is excellent, and may be pure and blameless for the day of Christ, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "filled with the fruits of righteousness which come through Jesus Christ, to the glory and praise of God."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Paul’s Present Circumstances"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I want you to know, brethren, that what has happened to me has really served to advance the gospel, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "so that it has become known throughout the whole praetorian guard"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Greek in the whole praetorium"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and to all the rest that my imprisonment is for Christ; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and most of the brethren have been made confident in the Lord because of my imprisonment, and are much more bold to speak the word of God without fear."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Some indeed preach Christ from envy and rivalry, but others from good will. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The latter do it out of love, knowing that I am put here for the defense of the gospel; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "the former proclaim Christ out of partisanship, not sincerely but thinking to afflict me in my imprisonment. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "What then? Only that in every way, whether in pretense or in truth, Christ is proclaimed; and in that I rejoice."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Yes, and I shall rejoice. For I know that through your prayers and the help of the Spirit of Jesus Christ this will turn out for my deliverance, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "as it is my eager expectation and hope that I shall not be at all ashamed, but that with full courage now as always Christ will be honored in my body, whether by life or by death. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For to me to live is Christ, and to die is gain. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "If it is to be life in the flesh, that means fruitful labor for me. Yet which I shall choose I cannot tell. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I am hard pressed between the two. My desire is to depart and be with Christ, for that is far better. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But to remain in the flesh is more necessary on your account. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Convinced of this, I know that I shall remain and continue with you all, for your progress and joy in the faith, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "so that in me you may have ample cause to glory in Christ Jesus, because of my coming to you again."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Only let your manner of life be worthy of the gospel of Christ, so that whether I come and see you or am absent, I may hear of you that you stand firm in one spirit, with one mind striving side by side for the faith of the gospel, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and not frightened in anything by your opponents. This is a clear omen to them of their destruction, but of your salvation, and that from God. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For it has been granted to you that for the sake of Christ you should not only believe in him but also suffer for his sake, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 30,
+                    "num_str": "30",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "engaged in the same conflict which you saw and now hear to be mine."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

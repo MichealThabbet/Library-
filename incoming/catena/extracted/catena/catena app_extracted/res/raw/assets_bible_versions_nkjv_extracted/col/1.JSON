@@ -1,0 +1,492 @@
+{
+    "chapter_num": 1,
+    "verses_count": 29,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Greeting"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother,"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To the saints and faithful brethren in Christ "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "who are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in Colosse:"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Grace to you and peace from God our Father "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU omits and the Lord Jesus Christ"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "and the Lord Jesus Christ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Their Faith in Christ"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "We give thanks to the God and Father of our Lord Jesus Christ, praying always for you, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "since we heard of your faith in Christ Jesus and of your love for all the saints; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "because of the hope which is laid up for you in heaven, of which you heard before in the word of the truth of the gospel, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "which has come to you, as "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it has"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " also in all the world, and is bringing forth "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M add and growing"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "fruit, as "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " also among you since the day you heard and knew the grace of God in truth; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "as you also learned from Epaphras, our dear fellow servant, who is a faithful minister of Christ on your behalf, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "who also declared to us your love in the Spirit."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Preeminence of Christ"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For this reason we also, since the day we heard it, do not cease to pray for you, and to ask that you may be filled with the knowledge of His will in all wisdom and spiritual understanding; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "that you may walk worthy of the Lord, fully pleasing "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "Him,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " being fruitful in every good work and increasing in the knowledge of God; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "strengthened with all might, according to His glorious power, for all patience and longsuffering with joy; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "giving thanks to the Father who has qualified us to be partakers of the inheritance of the saints in the light. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "He has delivered us from the power of darkness and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "transferred"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "conveyed "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "us"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " into the kingdom of the Son of His love, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "in whom we have redemption "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M omit through His blood"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "through His blood, the forgiveness of sins."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "He is the image of the invisible God, the firstborn over all creation. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For by Him all things were created that are in heaven and that are on earth, visible and invisible, whether thrones or dominions or "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "rulers"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "principalities or "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "authorities"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "powers. All things were created through Him and for Him. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And He is before all things, and in Him all things consist. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And He is the head of the body, the church, who is the beginning, the firstborn from the dead, that in all things He may have the preeminence."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Reconciled in Christ"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For it pleased "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "the Father that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in Him all the fullness should dwell, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and by Him to reconcile all things to Himself, by Him, whether things on earth or things in heaven, having made peace through the blood of His cross."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And you, who once were alienated and enemies in your mind by wicked works, yet now He has reconciled "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "in the body of His flesh through death, to present you holy, and blameless, and above reproach in His sight— "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "if indeed you continue in the faith, grounded and steadfast, and are not moved away from the hope of the gospel which you heard, which was preached to every creature under heaven, of which I, Paul, became a minister."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Sacrificial Service for Christ"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I now rejoice in my sufferings for you, and fill up in my flesh what is lacking in the afflictions of Christ, for the sake of His body, which is the church, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "of which I became a minister according to the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "dispensation or administration"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "stewardship from God which was given to me for you, to fulfill the word of God, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "secret or hidden truth"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "mystery which has been hidden from ages and from generations, but now has been revealed to His saints. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To them God willed to make known what are the riches of the glory of this mystery among the Gentiles: "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "M who"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "which is Christ in you, the hope of glory. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Him we preach, warning every man and teaching every man in all wisdom, that we may present every man perfect in Christ Jesus. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To this "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "end"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " I also labor, striving according to His working which works in me mightily."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

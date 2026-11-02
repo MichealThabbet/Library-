@@ -1,0 +1,205 @@
+{
+    "chapter_num": 1,
+    "verses_count": 16,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Salutation"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Paul, a servant"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or slave"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " of God and an apostle of Jesus Christ, to further the faith of God’s elect and their knowledge of the truth which accords with godliness, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "in hope of eternal life which God, who never lies, promised ages ago "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and at the proper time manifested in his word through the preaching with which I have been entrusted by command of God our Savior;"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Titus, my true child in a common faith:"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Grace and peace from God the Father and Christ Jesus our Savior."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Titus in Crete"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "This is why I left you in Crete, that you might amend what was defective, and appoint elders in every town as I directed you, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "if any man is blameless, the husband of one wife, and his children are believers and not open to the charge of being profligate or insubordinate. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For a bishop, as God’s steward, must be blameless; he must not be arrogant or quick-tempered or a drunkard or violent or greedy for gain, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "but hospitable, a lover of goodness, master of himself, upright, holy, and self-controlled; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "he must hold firm to the sure word as taught, so that he may be able to give instruction in sound doctrine and also to confute those who contradict it. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For there are many insubordinate men, empty talkers and deceivers, especially the circumcision party; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "they must be silenced, since they are upsetting whole families by teaching for base gain what they have no right to teach. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "One of themselves, a prophet of their own, said, “Cretans are always liars, evil beasts, lazy gluttons.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "This testimony is true. Therefore rebuke them sharply, that they may be sound in the faith, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "instead of giving heed to Jewish myths or to commands of men who reject the truth. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To the pure all things are pure, but to the corrupt and unbelieving nothing is pure; their very minds and consciences are corrupted. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "They profess to know God, but they deny him by their deeds; they are detestable, disobedient, unfit for any good deed."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

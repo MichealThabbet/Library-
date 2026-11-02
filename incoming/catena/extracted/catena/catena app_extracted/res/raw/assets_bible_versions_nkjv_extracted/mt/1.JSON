@@ -1,0 +1,444 @@
+{
+    "chapter_num": 1,
+    "verses_count": 25,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The Genealogy of Jesus Christ"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The book of the genealogy"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. generation"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " of Jesus Christ, the Son of David, the Son of Abraham:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Abraham begot Isaac, Isaac begot Jacob, and Jacob begot Judah and his brothers. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Judah begot Perez and Zerah by Tamar, Perez begot Hezron, and Hezron begot Ram. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Ram begot Amminadab, Amminadab begot Nahshon, and Nahshon begot Salmon. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Salmon begot Boaz by Rahab, Boaz begot Obed by Ruth, Obed begot Jesse, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Jesse begot David the king."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "David the king begot Solomon by her "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Words in italic type have been added for clarity. They are not found in the original Greek."
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "who had been the wife"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " of Uriah. "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Solomon begot Rehoboam, Rehoboam begot Abijah, and Abijah begot "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU Asaph"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Asa. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Asa begot Jehoshaphat, Jehoshaphat begot Joram, and Joram begot Uzziah. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Uzziah begot Jotham, Jotham begot Ahaz, and Ahaz begot Hezekiah. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Hezekiah begot Manasseh, Manasseh begot "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU Amos"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Amon, and Amon begot Josiah. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Josiah begot "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or Coniah or Jehoiachin"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Jeconiah and his brothers about the time they were carried away to Babylon."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And after they were brought to Babylon, Jeconiah begot Shealtiel, and Shealtiel begot Zerubbabel. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Zerubbabel begot Abiud, Abiud begot Eliakim, and Eliakim begot Azor. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Azor begot Zadok, Zadok begot Achim, and Achim begot Eliud. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Eliud begot Eleazar, Eleazar begot Matthan, and Matthan begot Jacob. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And Jacob begot Joseph the husband of Mary, of whom was born Jesus who is called Christ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So all the generations from Abraham to David "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " fourteen generations, from David until the captivity in Babylon "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " fourteen generations, and from the captivity in Babylon until the Christ "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " fourteen generations."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Christ Born of Mary"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now the birth of Jesus Christ was as follows: After His mother Mary was betrothed to Joseph, before they came together, she was found with child of the Holy Spirit. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Joseph her husband, being "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "an upright"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "a just "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "man,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and not wanting to make her a public example, was minded to put her away secretly. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But while he thought about these things, behold, an angel of the Lord appeared to him in a dream, saying, “Joseph, son of David, do not be afraid to take to you Mary your wife, for that which is "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. begotten"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "conceived in her is of the Holy Spirit. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And she will bring forth a Son, and you shall call His name "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. Savior"
+                        },
+                        {
+                            "style": "SMALL_CAPS",
+                            "text": "Jesus"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", for He will save His people from their sins.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So all this was done that it might be fulfilled which was spoken by the Lord through the prophet, saying: "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "OBLIQUE",
+                            "text": "“Behold, the virgin shall be with child, and bear a Son, and they shall call His name Immanuel,”"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " which is translated, “God with us.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Joseph, being aroused from sleep, did as the angel of the Lord commanded him and took to him his wife, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Kept her a virgin"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "did not know her till she had brought forth her"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU a Son"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " firstborn Son. And he called His name "
+                        },
+                        {
+                            "style": "SMALL_CAPS",
+                            "text": "Jesus"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

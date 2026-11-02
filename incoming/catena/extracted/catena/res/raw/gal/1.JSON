@@ -1,0 +1,411 @@
+{
+    "chapter_num": 1,
+    "verses_count": 24,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Greeting"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Paul, an apostle (not from men nor through man, but through Jesus Christ and God the Father who raised Him from the dead), "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and all the brethren who are with me,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "To the churches of Galatia:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Grace to you and peace from God the Father and our Lord Jesus Christ, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "who gave Himself for our sins, that He might deliver us from this present evil age, according to the will of our God and Father, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "to whom "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "be"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " glory forever and ever. Amen."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Only One Gospel"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I marvel that you are turning away so soon from Him who called you in the grace of Christ, to a different gospel, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "which is not another; but there are some who trouble you and want to pervert"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "distort"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the gospel of Christ. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But even if we, or an angel from heaven, preach any other gospel to you than what we have preached to you, let him be "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Gr. anathema"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "accursed. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "As we have said before, so now I say again, if anyone preaches any other gospel to you than what you have received, let him be accursed."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For do I now persuade men, or God? Or do I seek to please men? For if I still pleased men, I would not be a bondservant of Christ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Call to Apostleship"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But I make known to you, brethren, that the gospel which was preached by me is not according to man. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For I neither received it from man, nor was I taught "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " but "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it came"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " through the revelation of Jesus Christ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For you have heard of my former conduct in Judaism, how I persecuted the church of God beyond measure and "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "tried to"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " destroy it. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And I advanced in Judaism beyond many of my contemporaries in my own nation, being more exceedingly zealous for the traditions of my fathers."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But when it pleased God, who separated me from my mother’s womb and called "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "me"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " through His grace, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "to reveal His Son in me, that I might preach Him among the Gentiles, I did not immediately confer with flesh and blood, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "nor did I go up to Jerusalem to those "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "who were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " apostles before me; but I went to Arabia, and returned again to Damascus."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Contacts at Jerusalem"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then after three years I went up to Jerusalem to see "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU Cephas"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Peter, and remained with him fifteen days. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But I saw none of the other apostles except James, the Lord’s brother. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "(Now "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "concerning"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the things which I write to you, indeed, before God, I do not lie.)"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Afterward I went into the regions of Syria and Cilicia. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And I was unknown by face to the churches of Judea which "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in Christ. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But they were hearing only, “He who formerly persecuted us now preaches the faith which he once "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "tried to"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " destroy.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And they glorified God in me."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

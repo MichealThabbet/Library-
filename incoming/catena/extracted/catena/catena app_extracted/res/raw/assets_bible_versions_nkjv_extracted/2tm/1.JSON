@@ -1,0 +1,324 @@
+{
+    "chapter_num": 1,
+    "verses_count": 18,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Greeting"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Paul, an apostle of "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M Christ Jesus"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Jesus Christ by the will of God, according to the promise of life which is in Christ Jesus,"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Timothy, a beloved son:"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Grace, mercy, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " peace from God the Father and Christ Jesus our Lord."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Timothy’s Faith and Heritage"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I thank God, whom I serve with a pure conscience, as "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "my"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " forefathers "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "did,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " as without ceasing I remember you in my prayers night and day, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "greatly desiring to see you, being mindful of your tears, that I may be filled with joy, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "when I call to remembrance the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. unhypocritical"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "genuine faith that is in you, which dwelt first in your grandmother Lois and your mother Eunice, and I am persuaded is in you also. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Therefore I remind you to stir up the gift of God which is in you through the laying on of my hands. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For God has not given us a spirit of fear, but of power and of love and of a sound mind."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Not Ashamed of the Gospel"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Therefore do not be ashamed of the testimony of our Lord, nor of me His prisoner, but share with me in the sufferings for the gospel according to the power of God, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "who has saved us and called "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "us"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " with a holy calling, not according to our works, but according to His own purpose and grace which was given to us in Christ Jesus before time began, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "but has now been revealed by the appearing of our Savior Jesus Christ, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "who"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " has abolished death and brought life and immortality to light through the gospel, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "to which I was appointed a preacher, an apostle, and a teacher "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU omits of the Gentiles"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "of the Gentiles. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For this reason I also suffer these things; nevertheless I am not ashamed, for I know whom I have believed and am persuaded that He is able to keep what I have committed to Him until that Day."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Be Loyal to the Faith"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Hold fast the pattern of sound words which you have heard from me, in faith and love which are in Christ Jesus. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "That good thing which was committed to you, keep by the Holy Spirit who dwells in us."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "This you know, that all those in Asia have turned away from me, among whom are Phygellus and Hermogenes. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The Lord grant mercy to the household of Onesiphorus, for he often refreshed me, and was not ashamed of my chain; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "but when he arrived in Rome, he sought me out very zealously and found "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "me."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The Lord grant to him that he may find mercy from the Lord in that Day—and you know very well how many ways he ministered "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "to me from Vg., a few Gr. mss."
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "to me"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " at Ephesus."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

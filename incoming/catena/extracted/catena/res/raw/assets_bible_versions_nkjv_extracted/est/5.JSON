@@ -1,0 +1,303 @@
+{
+    "chapter_num": 5,
+    "verses_count": 14,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Esther’s Banquet"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now it happened on the third day that Esther put on "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "her"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " royal "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "robes"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and stood in the inner court of the king’s palace, across from the king’s house, while the king sat on his royal throne in the royal house, facing the entrance of the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "LXX adds many extra details in vv. 1, 2"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "house. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So it was, when the king saw Queen Esther standing in the court, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " she found favor in his sight, and the king held out to Esther the golden scepter that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in his hand. Then Esther went near and touched the top of the scepter."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the king said to her, “What do you wish, Queen Esther? What "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your request? It shall be given to you—up to half the kingdom!”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So Esther answered, “If it pleases the king, let the king and Haman come today to the banquet that I have prepared for him.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then the king said, “Bring Haman quickly, that he may do as Esther has said.” So the king and Haman went to the banquet that Esther had prepared."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "At the banquet of wine the king said to Esther, “What "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your petition? It shall be granted you. What "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your request, up to half the kingdom? It shall be done!”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Esther answered and said, “My petition and request "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is this:"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "If I have found favor in the sight of the king, and if it pleases the king to grant my petition and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. to do"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "fulfill my request, then let the king and Haman come to the banquet which I will prepare for them, and tomorrow I will do as the king has said.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Haman’s Plot Against Mordecai"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So Haman went out that day joyful and with a glad heart; but when Haman saw Mordecai in the king’s gate, and that he did not stand or tremble before him, he was filled with indignation against Mordecai. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Nevertheless Haman restrained himself and went home, and he sent and called for his friends and his wife Zeresh. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Haman told them of his great riches, the multitude of his children, everything in which the king had promoted him, and how he had advanced him above the officials and servants of the king."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Moreover Haman said, “Besides, Queen Esther invited no one but me to come in with the king to the banquet that she prepared; and tomorrow I am again invited by her, along with the king. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Yet all this avails me nothing, so long as I see Mordecai the Jew sitting at the king’s gate.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then his wife Zeresh and all his friends said to him, “Let a gallows"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. tree or wood"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " be made, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "About 75 feet"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "fifty cubits high, and in the morning suggest to the king that Mordecai be hanged on it; then go merrily with the king to the banquet.”"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And the thing pleased Haman; so he had the gallows made."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

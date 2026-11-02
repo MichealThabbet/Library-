@@ -1,0 +1,725 @@
+{
+    "chapter_num": 12,
+    "verses_count": 25,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Samuel’s Address at Saul’s Coronation"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now Samuel said to all Israel: “Indeed I have "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "listened to"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "heeded your voice in all that you said to me, and have made a king over you. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And now here is the king, walking before you; and I am old and grayheaded, and look, my sons "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " with you. I have walked before you from my childhood to this day. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Here I am. Witness against me before the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and before His anointed: Whose ox have I taken, or whose donkey have I taken, or whom have I cheated? Whom have I oppressed, or from whose hand have I received "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "any"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " bribe with which to blind my eyes? I will restore "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " to you.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And they said, “You have not cheated us or oppressed us, nor have you taken anything from any man’s hand.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then he said to them, “The "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " witness against you, and His anointed "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " witness this day, that you have not found anything in my hand.”"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And they answered, “"
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "He is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " witness.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Samuel said to the people, “"
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "It is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " who raised up Moses and Aaron, and who brought your fathers up from the land of Egypt. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now therefore, stand still, that I may reason with you before the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " concerning all the righteous acts of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " which He did to you and your fathers: "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "When Jacob had gone into "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "So with MT, Tg., Vg.; LXX adds and the Egyptians afflicted them"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Egypt, and your fathers cried out to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", then the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " sent Moses and Aaron, who brought your fathers out of Egypt and made them dwell in this place. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And when they forgot the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " their God, He sold them into the hand of Sisera, commander of the army of Hazor, into the hand of the Philistines, and into the hand of the king of Moab; and they fought against them. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then they cried out to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", and said, ‘We have sinned, because we have forsaken the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and served the Baals and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Images of Canaanite goddesses"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Ashtoreths; but now deliver us from the hand of our enemies, and we will serve You.’ "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " sent "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Gideon, cf. Judg. 6:25–32; Syr. Deborah; Tg. Gideon"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Jerubbaal, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "LXX, Syr. Barak; Tg. Simson"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Bedan, Jephthah, and Samuel,"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Syr. Simson"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and delivered you out of the hand of your enemies on every side; and you dwelt in safety. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And when you saw that Nahash king of the Ammonites came against you, you said to me, ‘No, but a king shall reign over us,’ when the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your God "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your king."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Now therefore, here is the king whom you have chosen "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " whom you have desired. And take note, the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " has set a king over you. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "If you fear the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and serve Him and obey His voice, and do not rebel against the commandment of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", then both you and the king who reigns over you will continue following the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your God. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "However, if you do not obey the voice of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", but rebel against the commandment of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", then the hand of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " will be against you, as "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " against your fathers."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Now therefore, stand and see this great thing which the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " will do before your eyes: "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "ITALIC",
+                            "text": "Is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " today not the wheat harvest? I will call to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", and He will send thunder and rain, that you may perceive and see that your wickedness "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " great, which you have done in the sight of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", in asking a king for yourselves.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So Samuel called to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", and the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " sent thunder and rain that day; and all the people greatly feared the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and Samuel."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And all the people said to Samuel, “Pray for your servants to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " your God, that we may not die; for we have added to all our sins the evil of asking a king for ourselves.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Samuel said to the people, “Do not fear. You have done all this wickedness; yet do not turn aside from following the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", but serve the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " with all your heart. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And do not turn aside; for "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "then you would go"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " after empty things which cannot profit or deliver, for they "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " nothing. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " will not forsake His people, for His great name’s sake, because it has pleased the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " to make you His people. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Moreover, as for me, far be it from me that I should sin against the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in ceasing to pray for you; but I will teach you the good and the right way. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Only fear the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", and serve Him in truth with all your heart; for consider what great things He has done for you. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But if you still do wickedly, you shall be swept away, both you and your king.”"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

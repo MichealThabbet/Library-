@@ -1,0 +1,574 @@
+{
+    "chapter_num": 1,
+    "verses_count": 20,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Introduction and Benediction"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The Revelation of Jesus Christ, which God gave Him to show His servants—things which must "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "quickly or swiftly"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "shortly take place. And He sent and signified "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "it"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " by His angel to His servant John, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "who bore witness to the word of God, and to the testimony of Jesus Christ, to all things that he saw. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Blessed "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " he who reads and those who hear the words of this prophecy, and keep those things which are written in it; for the time "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " near."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Greeting the Seven Churches"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "John, to the seven churches which are in Asia:"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Grace to you and peace from Him who is and who was and who is to come, and from the seven Spirits who are before His throne, "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and from Jesus Christ, the faithful witness, the firstborn from the dead, and the ruler over the kings of the earth."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "To Him who "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU loves us and freed; M loves us and washed"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "loved us and washed us from our sins in His own blood, "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and has made us "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M a kingdom"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "kings and priests to His God and Father, to Him "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "be"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " glory and dominion forever and ever. Amen."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Behold, He is coming with clouds, and every eye will see Him, even they who pierced Him. And all the tribes of the earth will mourn because of Him. Even so, Amen."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“I am the Alpha and the Omega,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M omit the Beginning and the End"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "the Beginning and the End,”"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " says the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M Lord God"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Lord, "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“who is and who was and who is to come, the"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Almighty.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Vision of the Son of Man"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I, John, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M omit both"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "both your brother and companion in the tribulation and kingdom and patience of Jesus Christ, was on the island that is called Patmos for the word of God and for the testimony of Jesus Christ. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I was in the Spirit on the Lord’s Day, and I heard behind me a loud voice, as of a trumpet, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "saying, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M omit “I am the Alpha and the Omega, the First and the Last,” and,"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“I am the Alpha and the Omega, the First and the Last,”"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and, "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“What you see, write in a book and send it to the seven churches"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M omit which are in Asia"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "which are in Asia: to Ephesus, to Smyrna, to Pergamos, to Thyatira, to Sardis, to Philadelphia, and to Laodicea.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then I turned to see the voice that spoke with me. And having turned I saw seven golden lampstands, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and in the midst of the seven lampstands "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "One"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " like the Son of Man, clothed with a garment down to the feet and girded about the chest with a golden band. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "His head and hair "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " white like wool, as white as snow, and His eyes like a flame of fire; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "His feet "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " like fine brass, as if refined in a furnace, and His voice as the sound of many waters; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "He had in His right hand seven stars, out of His mouth went a sharp two-edged sword, and His countenance "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " like the sun shining in its strength. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And when I saw Him, I fell at His feet as dead. But He laid His right hand on me, saying "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M omit to me"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "to me, "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Do not be afraid;"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "I am the First and the Last."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "I am He who lives, and was dead, and behold,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "I am alive forevermore. Amen. And"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "I have the keys of"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. Unseen; the unseen realm"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Hades and of Death."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M Therefore, write"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Write the things which you have"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "seen,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "and the things which are,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "and the things which will take place after this."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "The"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "hidden truth"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "mystery of the seven stars which you saw in My right hand, and the seven golden lampstands: The seven stars are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "the"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or messengers"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "angels of the seven churches, and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "the seven lampstands"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M omit which you saw"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "which you saw are the seven churches."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

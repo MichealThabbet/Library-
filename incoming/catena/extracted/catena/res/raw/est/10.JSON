@@ -1,0 +1,85 @@
+{
+    "chapter_num": 10,
+    "verses_count": 3,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Mordecai’s Advancement"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And King Ahasuerus imposed tribute on the land and "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "on"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the islands of the sea. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now all the acts of his power and his might, and the account of the greatness of Mordecai, to which the king "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. made him great"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "advanced him, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " they not written in the book of the chronicles of the kings of Media and Persia? "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For Mordecai the Jew "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " second to King Ahasuerus, and was great among the Jews and well received by the multitude of his brethren, seeking the good of his people and speaking peace to all his "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. seed. LXX, Vg. add a dream of Mordecai here; Vg. adds six more chapters"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "countrymen."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

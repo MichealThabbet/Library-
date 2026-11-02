@@ -1,0 +1,1294 @@
+{
+    "chapter_num": 5,
+    "verses_count": 48,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The Beatitudes"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And seeing the multitudes, He went up on a mountain, and when He was seated His disciples came to Him. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then He opened His mouth and taught them, saying:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Blessed"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "are the poor in spirit,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For theirs is the kingdom of heaven."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Blessed are those who mourn,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For they shall be comforted."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Blessed are the meek,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "they shall inherit the"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or land"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "earth."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Blessed are those who"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "hunger and thirst for righteousness,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For they shall be filled."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Blessed are the merciful,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For they shall obtain mercy."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Blessed are the pure in heart,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "they shall see God."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Blessed are the peacemakers,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For they shall be called sons of God."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Blessed are those who are persecuted for righteousness’ sake,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For theirs is the kingdom of heaven."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Blessed are you when they revile and persecute you, and say all kinds of"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "evil against you falsely for My sake."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Rejoice and be exceedingly glad, for great is your reward in heaven, for"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "so they persecuted the prophets who were before you."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Believers Are Salt and Light"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“You are the salt of the earth;"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "but if the salt loses its flavor, how shall it be seasoned? It is then good for nothing but to be thrown out and trampled underfoot by men."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“You are the light of the world. A city that is set on a hill cannot be hidden."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Nor do they"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "light a lamp and put it under a basket, but on a lampstand, and it gives light to all who are in the house."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Let your light so shine before men,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "that they may see your good works and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "glorify your Father in heaven."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Christ Fulfills the Law"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Do not think that I came to destroy the Law or the Prophets. I did not come to destroy but to fulfill."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For assuredly, I say to you,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "till heaven and earth pass away, one"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Gr. iota, Heb. yod, the smallest letter"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "jot or one"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "The smallest stroke in a Heb. letter"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "tittle will by no means pass from the law till all is fulfilled."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Whoever therefore breaks one of the least of these commandments, and teaches men so, shall be called least in the kingdom of heaven; but whoever does and teaches them, he shall be called great in the kingdom of heaven."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For I say to you, that unless your righteousness exceeds"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "the righteousness of the scribes and Pharisees, you will by no means enter the kingdom of heaven."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Murder Begins in the Heart"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“You have heard that it was said to those"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "in ancient times"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "of old,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘You shall not murder, and whoever murders will be in danger of the judgment.’"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But I say to you that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "whoever is angry with his brother"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU omits without a cause"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "without a cause shall be in danger of the judgment. And whoever says to his brother,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘Raca!’"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit., in Aram., Empty head"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "shall be in danger of the council. But whoever says,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Gr. More"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘You fool!’ shall be in danger of"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Gr. Gehenna"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "hell fire."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Therefore"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "if you bring your gift to the altar, and there remember that your brother has something against you,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "leave your gift there before the altar, and go your way. First be reconciled to your brother, and then come and offer your gift."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Agree with your adversary quickly,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "while you are on the way with him, lest your adversary deliver you to the judge, the judge hand you over to the officer, and you be thrown into prison."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Assuredly, I say to you, you will by no means get out of there till you have paid the last penny."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Adultery in the Heart"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“You have heard that it was said"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M omit to those of old"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "to those of old,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘You shall not commit adultery.’"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But I say to you that whoever"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "looks at a woman to lust for her has already committed adultery with her in his heart."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "If your right eye causes you to"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. stumble or offend"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "sin,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "pluck it out and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 30,
+                    "num_str": "30",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "And if your right hand causes you to"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. stumble or offend"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "sin, cut it off and cast it from you; for it is more profitable for you that one of your members perish, than for your whole body to be cast into hell."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Marriage Is Sacred and Binding"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 31,
+                    "num_str": "31",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Furthermore it has been said,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘Whoever divorces his wife, let him give her a certificate of divorce.’"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 32,
+                    "num_str": "32",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But I say to you that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "whoever divorces his wife for any reason except"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or fornication"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "sexual immorality causes her to commit adultery; and whoever marries a woman who is divorced commits adultery."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Jesus Forbids Oaths"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 33,
+                    "num_str": "33",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Again you have heard that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "it was said to those of"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "ancient times"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "old,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘You shall not swear falsely, but"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "shall perform your oaths to the Lord.’"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 34,
+                    "num_str": "34",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But I say to you,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "do not swear at all: neither by heaven, for it is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "God’s throne;"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 35,
+                    "num_str": "35",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "nor by the earth, for it is His footstool; nor by Jerusalem, for it is the city of"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "the great King."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 36,
+                    "num_str": "36",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Nor shall you swear by your head, because you cannot make one hair white or black."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 37,
+                    "num_str": "37",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But let"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. your word be yes yes"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "your ‘Yes’ be ‘Yes,’ and your ‘No,’ ‘No.’ For whatever is more than these is from the evil one."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Go the Second Mile"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 38,
+                    "num_str": "38",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“You have heard that it was said,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘An eye for an eye and a tooth for a tooth.’"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 39,
+                    "num_str": "39",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But I tell you not to resist an evil person."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But whoever slaps you on your right cheek, turn the other to him also."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 40,
+                    "num_str": "40",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "If anyone wants to sue you and take away your tunic, let him have your cloak also."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 41,
+                    "num_str": "41",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "And whoever"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "compels you to go one mile, go with him two."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 42,
+                    "num_str": "42",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Give to him who asks you, and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "from him who wants to borrow from you do not turn away."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Love Your Enemies"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 43,
+                    "num_str": "43",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“You have heard that it was said,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘You shall love your neighbor"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "and hate your enemy.’"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 44,
+                    "num_str": "44",
+                    "verse_parts": [
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU But I say to you, love your enemies and pray for those who persecute you"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But I say to you,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "love your enemies, bless those who curse you,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "do good to those who hate you, and pray"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "for those who spitefully use you and persecute you,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 45,
+                    "num_str": "45",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "that you may be sons of your Father in heaven; for"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "He makes His sun rise on the evil and on the good, and sends rain on the just and on the unjust."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 46,
+                    "num_str": "46",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For if you love those who love you, what reward have you? Do not even the tax collectors do the same?"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 47,
+                    "num_str": "47",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "And if you greet your"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "M friends"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "brethren only, what do you do more than others? Do not even the"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU Gentiles"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "tax collectors do so?"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 48,
+                    "num_str": "48",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Therefore you shall be perfect, just"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "as your Father in heaven is perfect."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

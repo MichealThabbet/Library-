@@ -17,86 +17,77 @@
     "folder": "incoming/Tafseer_bible",
     "archive": "‎⁨تفسير الانجيل.zip⁩",
     "pieces": 3,
-    "new_files": 12,
+    "new_files": 0,
     "status": "ok"
   },
   {
     "folder": "incoming/catena",
     "archive": "catena.zip",
     "pieces": 3,
-    "new_files": 12,
+    "new_files": 0,
     "status": "ok"
   },
   {
     "folder": "incoming/copticlab",
     "archive": "Coptic+Library_2.0.13_APKPure.zip",
     "pieces": 2,
-    "new_files": 45,
+    "new_files": 0,
     "status": "ok"
   },
   {
     "folder": "incoming/copticprayer2",
     "archive": "Coptic+Prayers+Swedish_1.4.0_APKPure.zip",
     "pieces": 2,
-    "new_files": 2497,
+    "new_files": 0,
     "status": "ok"
   },
   {
     "folder": "incoming/digitalchurch",
     "archive": "uptodown-br.com.churchdigital.zip",
     "pieces": 2,
-    "new_files": 2228,
+    "new_files": 0,
     "status": "ok"
   },
   {
     "folder": "incoming/ishlil",
     "archive": "‎⁨____إشليل_0.2.18_APKPure__.zip⁩",
     "pieces": 3,
-    "new_files": 45,
+    "new_files": 0,
     "status": "ok"
   },
   {
     "folder": "incoming/katamars3",
     "archive": "apk-katamaras-mishel (1).zip",
     "pieces": 2,
-    "new_files": 1522,
+    "new_files": 0,
     "status": "ok"
   },
   {
     "folder": "incoming/khoras",
     "archive": "khoras.zip",
     "pieces": 10,
-    "new_files": 7222,
+    "new_files": 0,
     "status": "ok"
   },
   {
     "folder": "incoming/mordat",
     "archive": "mordatshamas.zip",
     "pieces": 2,
-    "new_files": 889,
+    "new_files": 0,
     "status": "ok"
   },
   {
     "folder": "incoming/shehood",
     "archive": "سحابةشهود",
-    "pieces": 1,
-    "new_files": 0,
-    "status": "error",
-    "error": "Cannot decompress joined file: \nERRORS:\nUnexpected end of archive\n\nERROR: Unexpected end of data : assets/sp_dic.csv\n"
-  },
-  {
-    "folder": "incoming/shehood",
-    "archive": "سحابةشهود٢",
-    "pieces": 1,
-    "new_files": 0,
-    "status": "error",
-    "error": "Missing or nonconsecutive parts"
+    "pieces": 2,
+    "new_files": 1569,
+    "status": "ok"
   },
   {
     "folder": "incoming/soteria",
     "archive": "soteria.zip",
     "pieces": 7,
-    "new_files": 1961,
+    "new_files": 0,
     "status": "ok"
   }
 ]

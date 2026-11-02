@@ -1,0 +1,598 @@
+{
+    "chapter_num": 26,
+    "verses_count": 32,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Paul’s Early Life"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Agrippa said to Paul, “You are permitted to speak for yourself.”"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "So Paul stretched out his hand and answered for himself: "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“I think myself happy, King Agrippa, because today I shall answer for myself before you concerning all the things of which I am accused by the Jews, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "especially because you are expert in all customs and questions which have to do with the Jews. Therefore I beg you to hear me patiently."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“My manner of life from my youth, which was spent from the beginning among my own nation at Jerusalem, all the Jews know. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "They knew me from the first, if they were willing to testify, that according to the strictest sect of our religion I lived a Pharisee. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And now I stand and am judged for the hope of the promise made by God to our fathers. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To this "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "promise"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " our twelve tribes, earnestly serving "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "God"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " night and day, hope to attain. For this hope’s sake, King Agrippa, I am accused by the Jews. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Why should it be thought incredible by you that God raises the dead?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Indeed, I myself thought I must do many things "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "against"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "contrary to the name of Jesus of Nazareth. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "This I also did in Jerusalem, and many of the saints I shut up in prison, having received authority from the chief priests; and when they were put to death, I cast my vote against "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "them."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And I punished them often in every synagogue and compelled "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "them"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " to blaspheme; and being exceedingly enraged against them, I persecuted "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "them"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " even to foreign cities."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Paul Recounts His Conversion"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“While thus occupied, as I journeyed to Damascus with authority and commission from the chief priests, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "at midday, O king, along the road I saw a light from heaven, brighter than the sun, shining around me and those who journeyed with me. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And when we all had fallen to the ground, I heard a voice speaking to me and saying in the Hebrew language, "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘Saul, Saul, why are you persecuting Me? It is hard for you to kick against the goads.’"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So I said, ‘Who are You, Lord?’ And He said, "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘I am Jesus, whom you are persecuting."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But rise and stand on your feet; for I have appeared to you for this purpose,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "to make you a minister and a witness both of the things which you have seen and of the things which I will yet reveal to you."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "I will"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "rescue"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "deliver you from the Jewish people, as well as from the Gentiles,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "to whom I"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M omit now"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "now send you,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "to open their eyes, in order"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "to turn them from darkness to light, and from the power of Satan to God,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "that they may receive forgiveness of sins and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "an inheritance among those who are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "sanctified"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "set apart"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "by faith in Me.’"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Paul’s Post-Conversion Life"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Therefore, King Agrippa, I was not disobedient to the heavenly vision, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "but declared first to those in Damascus and in Jerusalem, and throughout all the region of Judea, and "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "then"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " to the Gentiles, that they should repent, turn to God, and do works befitting repentance. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For these reasons the Jews seized me in the temple and tried to kill "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "me."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Therefore, having obtained help from God, to this day I stand, witnessing both to small and great, saying no other things than those which the prophets and Moses said would come— "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "that the Christ would suffer, that He would be the first to rise from the dead, and would proclaim light to the "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "Jewish"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " people and to the Gentiles.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Agrippa Parries Paul’s Challenge"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now as he thus made his defense, Festus said with a loud voice, “Paul, you are beside yourself! Much learning is driving you mad!”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But he said, “I am not "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "out of my mind"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "mad, most noble Festus, but speak the words of truth and reason. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "For the king, before whom I also speak freely, knows these things; for I am convinced that none of these things escapes his attention, since this thing was not done in a corner. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "King Agrippa, do you believe the prophets? I know that you do believe.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Agrippa said to Paul, “You almost persuade me to become a Christian.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And Paul said, “I would to God that not only you, but also all who hear me today, might become both almost and altogether such as I am, except for these chains.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 30,
+                    "num_str": "30",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "When he had said these things, the king stood up, as well as the governor and Bernice and those who sat with them; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 31,
+                    "num_str": "31",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and when they had gone aside, they talked among themselves, saying, “This man is doing nothing deserving of death or chains.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 32,
+                    "num_str": "32",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Agrippa said to Festus, “This man might have been set free if he had not appealed to Caesar.”"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

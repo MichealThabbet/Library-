@@ -1,0 +1,45 @@
+﻿master_code,item_name,item_title,item_code,item_image,item_text,item_mp3,item_pdf,item_note,item_online_mp3,item_book
+mainmenu,سنكسار اليوم,سنكسار اليوم,ag_senksartoday,ag_crossbook_v.png,none,none,none,none,none,none
+mainmenu,سنكسار يوم أخر,سنكسار يوم أخر,ag_senksarotherday,ag_calendar_v.png,none,none,none,none,none,none
+mainmenu,كتاب السنكسار,كتاب السنكسار,ag_senbook,ag_book_v.png,none,none,none,none,none,none
+mainmenu,كتاب الدفنار,كتاب الدفنار,ag_defbook,ag_book_v.png,none,none,none,none,none,none
+mainmenu,تماجيد ومدائح القديسين,تماجيد ومدائح القديسين,ag_saintstamged_favmenu,ag_cross_v.png,none,none,none,none,none,none
+mainmenu,موسوعة سحابة الشهود,موسوعة سحابة الشهود,ag_encyclopedia,ag_crosses_v.png,none,none,none,none,none,none
+none,المفــضـــلة,المفضلة,ag_favorite,ag_favorite_v.png,none,none,none,none,none,none
+mainmenu,تحديث محتوى,تحديث محتوى,ag_download,ag_download_v.png,none,none,none,none,none,none
+mainmenu,تحميل الملفات,مركز تحميل الملفات,ag_filecenter,ag_download_v.png,full_notifier,none,none,none,none,none
+mainmenu,الاعدادات,الاعدادات,ag_settings,ag_settings_v.png,none,none,none,none,none,none
+mainmenu,مشاركة البرنامج,مشاركة البرنامج,ag_share,ag_share_v.png,none,none,none,none,none,none
+mainmenu,تقييم البرنامج,تقييم البرنامج,ag_rate,ag_rate_v.png,none,none,none,none,none,none
+mainmenu,حول البرنامج,حول البرنامج,ag_about,ag_about_v.png,none,none,none,none,none,none
+mainmenu,برامج اخرى,برامج اخرى,ag_others,ag_apps_v.png,none,none,none,none,none,none
+mainmenu,تواصل معنا,تواصل معنا,ag_contactus,ag_contactus_v.png,none,none,none,none,none,none
+ag_encyclopedia,موسوعة السنكسار,موسوعة السنكسار,ag_encyclosenksar,ag_vesp.png,none,none,none,none,none,none
+ag_saintstamged_favmenu,تماجيد القديسين,مكتبة تماجيد القديسين [145],saints_tamged,ag_vesp.png,none,none,none,none,none,none
+ag_saintstamged_favmenu,ذكصولوجيات القديسين,ذكصولوجيات القديسين,misc_zog_saints,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر توت,سنكسار شهر توت,sen_01tout_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر بابه,سنكسار شهر بابه,sen_02paopi_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر هاتور,سنكسار شهر هاتور,sen_03hathor_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر كيهك,سنكسار شهر كيهك,sen_04koiak_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر طوبه,سنكسار شهر طوبه,sen_05tobi_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر أمشير,سنكسار شهر أمشير,sen_06meshir_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر برمهات,سنكسار شهر برمهات,sen_07paremhat_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر برمودة,سنكسار شهر برمودة,sen_08paremoude_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر بشنس,سنكسار شهر بشنس,sen_09pashons_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر بؤؤنه,سنكسار شهر بؤؤنه,sen_10paoni_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر أبيب,سنكسار شهر أبيب,sen_11epip_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر مسرى,سنكسار شهر مسرى,sen_12mesori_menu,ag_vesp.png,none,none,none,none,none,none
+ag_senbook,سنكسار شهر نسئ,سنكسار شهر نسئ,sen_13pikogi_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر توت,دفنار شهر توت,def_01tout_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر بابه,دفنار شهر بابه,def_02paopi_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر هاتور,دفنار شهر هاتور,def_03hathor_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر كيهك,دفنار شهر كيهك,def_04koiak_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر طوبه,دفنار شهر طوبه,def_05tobi_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر أمشير,دفنار شهر أمشير,def_06meshir_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر برمهات,دفنار شهر برمهات,def_07paremhat_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر برمودة,دفنار شهر برمودة,def_08paremoude_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر بشنس,دفنار شهر بشنس,def_09pashons_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر بؤؤنه,دفنار شهر بؤؤنه,def_10paoni_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر أبيب,دفنار شهر أبيب,def_11epip_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر مسرى,دفنار شهر مسرى,def_12mesori_menu,ag_vesp.png,none,none,none,none,none,none
+ag_defbook,دفنار شهر نسئ,دفنار شهر نسئ,def_13pikogi_menu,ag_vesp.png,none,none,none,none,none,none

@@ -1,0 +1,435 @@
+{
+    "chapter_num": 1,
+    "verses_count": 23,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Greeting"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Paul, an apostle of Jesus Christ by the will of God,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "To the saints who are in Ephesus, and faithful in Christ Jesus:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Grace to you and peace from God our Father and the Lord Jesus Christ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Redemption in Christ"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Blessed "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "be"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the God and Father of our Lord Jesus Christ, who has blessed us with every spiritual blessing in the heavenly "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "places"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in Christ, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "just as He chose us in Him before the foundation of the world, that we should be holy and without blame before Him in love, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "having predestined us to adoption as sons by Jesus Christ to Himself, according to the good pleasure of His will, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "to the praise of the glory of His grace, by which He "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. bestowed grace (favor) upon us"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "made us accepted in the Beloved."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "which He made to abound toward us in all wisdom and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "understanding"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "prudence, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "having made known to us the mystery of His will, according to His good pleasure which He purposed in Himself, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "that in the dispensation of the fullness of the times He might gather together in one all things in Christ, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M omit both"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "both which are in heaven and which are on earth—in Him. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "In Him also we have obtained an inheritance, being predestined according to the purpose of Him who works all things according to the counsel of His will, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "that we who first trusted in Christ should be to the praise of His glory."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "In Him you also "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "trusted,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " after you heard the word of truth, the gospel of your salvation; in whom also, having believed, you were sealed with the Holy Spirit of promise, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "who"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU which"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " is the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "down payment, earnest"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "guarantee of our inheritance until the redemption of the purchased possession, to the praise of His glory."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Prayer for Spiritual Wisdom"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Therefore I also, after I heard of your faith in the Lord Jesus and your love for all the saints, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "do not cease to give thanks for you, making mention of you in my prayers: "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "that the God of our Lord Jesus Christ, the Father of glory, may give to you the spirit of wisdom and revelation in the knowledge of Him, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "the eyes of your "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M hearts"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "understanding being enlightened; that you may know what is the hope of His calling, what are the riches of the glory of His inheritance in the saints, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and what "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the exceeding greatness of His power toward us who believe, according to the working of His mighty power "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "which He worked in Christ when He raised Him from the dead and seated "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "Him"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " at His right hand in the heavenly "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "places,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "far above all principality"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "rule"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "authority"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "power and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "power"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "might and dominion, and every name that is named, not only in this age but also in that which is to come."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And He put all "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "things"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " under His feet, and gave Him "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "to be"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " head over all "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "things"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " to the church, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "which is His body, the fullness of Him who fills all in all."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

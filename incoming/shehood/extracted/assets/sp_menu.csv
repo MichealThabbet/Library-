@@ -1,0 +1,89 @@
+﻿master_code,item_name,item_title,item_code,item_image,item_text,item_mp3,item_pdf,item_note,item_online_mp3,item_book
+mainmenu,العهد الجديد,العهد الجديد,ag_newbible_favmenu,ag_book.png,none,none,none,none,none,none
+mainmenu,العهد القديم,العهد القديم,ag_oldbible_favmenu,ag_book.png,none,none,none,none,none,none
+mainmenu,موسوعة الكتاب المقدس,موسوعة الكتاب المقدس,ag_bibleencyclo_favmenu,ag_church.png,none,none,none,none,none,none
+mainmenu,القــامـــوس,القــامـــوس,ag_dictonary,ag_dic.png,none,none,none,none,none,none
+none,المفــضـــلة,المفضلة,ag_favorite,ag_favorite.png,none,none,none,none,none,none
+mainmenu,تحديث محتوى,تحديث محتوى,ag_download,ag_download.png,none,none,none,none,none,none
+mainmenu,مركز تحميل الملفات,مركز تحميل الملفات,ag_filecenter,ag_download.png,none,none,none,none,none,none
+mainmenu,الاعدادات,الاعدادات,ag_settings,ag_settings.png,none,none,none,none,none,none
+mainmenu,مشاركة البرنامج,مشاركة البرنامج,ag_share,ag_share_b.png,none,none,none,none,none,none
+mainmenu,تقييم البرنامج,تقييم البرنامج,ag_rate,ag_rate_b.png,none,none,none,none,none,none
+mainmenu,حول البرنامج,حول البرنامج,ag_about,ag_about_b.png,none,none,none,none,none,none
+mainmenu,برامج اخرى,برامج اخرى,ag_others,ag_apps_b.png,none,none,none,none,none,none
+mainmenu,تواصل معنا,تواصل معنا,ag_contactus,ag_contactus_b.png,none,none,none,none,none,none
+ag_bibleencyclo_favmenu,مقدمة الاسفار | القمص انطونيوس فكري,مقدمة الاسفار | القمص انطونيوس فكري,biblency_intros_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none
+ag_bibleencyclo_favmenu,جولات فى الكتاب المقدس,جولات فى الكتاب المقدس | سوزان دى ديتريخ,biblency_journey_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر التكوين,سفر التكوين,bible_1_SaveCheckPoint_menu,bible_1.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر الخروج,سفر الخروج,bible_2_SaveCheckPoint_menu,bible_2.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر اللاويين,سفر اللاويين,bible_3_SaveCheckPoint_menu,bible_3.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر العدد,سفر العدد,bible_4_SaveCheckPoint_menu,bible_4.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر التثنية,سفر التثنية,bible_5_SaveCheckPoint_menu,bible_5.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر يشوع,سفر يشوع,bible_6_SaveCheckPoint_menu,bible_6.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر القضاة,سفر القضاة,bible_7_SaveCheckPoint_menu,bible_7.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر راعوث,سفر راعوث,bible_8_SaveCheckPoint_menu,bible_8.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر صموئيل الاول,سفر صموئيل الاول,bible_9_SaveCheckPoint_menu,bible_9.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر صموئيل الثاني,سفر صموئيل الثاني,bible_10_SaveCheckPoint_menu,bible_10.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر الملوك الاول,سفر الملوك الاول,bible_11_SaveCheckPoint_menu,bible_11.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر الملوك الثاني,سفر الملوك الثاني,bible_12_SaveCheckPoint_menu,bible_12.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر أخبار الأيام الأول,سفر أخبار الأيام الأول,bible_13_SaveCheckPoint_menu,bible_13.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر أخبار الأيام الثاني,سفر أخبار الأيام الثاني,bible_14_SaveCheckPoint_menu,bible_14.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر عزرا,سفر عزرا,bible_15_SaveCheckPoint_menu,bible_15.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر نحميا,سفر نحميا,bible_16_SaveCheckPoint_menu,bible_16.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر طوبيا,سفر طوبيا,bible_16_1_SaveCheckPoint_menu,bible_16_1.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر يهوديت,سفر يهوديت,bible_16_2_SaveCheckPoint_menu,bible_16_2.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر أستير,سفر أستير,bible_17_SaveCheckPoint_menu,bible_17.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر أيوب,سفر أيوب,bible_18_SaveCheckPoint_menu,bible_18.png,none,none,none,none,none,none
+ag_oldbible_favmenu,المزامير,المزامير,bible_19_SaveCheckPoint_menu,bible_19.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر الأمثال,سفر الأمثال,bible_20_SaveCheckPoint_menu,bible_20.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر الجامعة,سفر الجامعة,bible_21_SaveCheckPoint_menu,bible_21.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر نشيد الأناشيد,سفر نشيد الأناشيد,bible_22_SaveCheckPoint_menu,bible_22.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر الحكمة,سفر الحكمة,bible_22_1_SaveCheckPoint_menu,bible_22.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر يشوع بن سيراخ,سفر يشوع بن سيراخ,bible_22_2_SaveCheckPoint_menu,bible_22.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر إشعياء,سفر إشعياء,bible_23_SaveCheckPoint_menu,bible_23.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر إرميا,سفر إرميا,bible_24_SaveCheckPoint_menu,bible_24.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر مراثي إرميا,سفر مراثي إرميا,bible_25_SaveCheckPoint_menu,bible_25.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر باروخ,سفر باروخ,bible_25_1_SaveCheckPoint_menu,bible_25.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر حزقيال,سفر حزقيال,bible_26_SaveCheckPoint_menu,bible_26.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر دانيال,سفر دانيال,bible_27_SaveCheckPoint_menu,bible_27.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر هوشع,سفر هوشع,bible_28_SaveCheckPoint_menu,bible_28.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر يوئيل,سفر يوئيل,bible_29_SaveCheckPoint_menu,bible_29.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر عاموس,سفر عاموس,bible_30_SaveCheckPoint_menu,bible_30.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر عوبديا,سفر عوبديا,bible_31_SaveCheckPoint_menu,bible_31.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر يونان,سفر يونان,bible_32_SaveCheckPoint_menu,bible_32.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر ميخا,سفر ميخا,bible_33_SaveCheckPoint_menu,bible_33.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر ناحوم,سفر ناحوم,bible_34_SaveCheckPoint_menu,bible_34.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر حبقوق,سفر حبقوق,bible_35_SaveCheckPoint_menu,bible_35.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر صفنيا,سفر صفنيا,bible_36_SaveCheckPoint_menu,bible_36.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر حجي,سفر حجي,bible_37_SaveCheckPoint_menu,bible_37.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر زكريا,سفر زكريا,bible_38_SaveCheckPoint_menu,bible_38.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر ملاخي,سفر ملاخي,bible_39_SaveCheckPoint_menu,bible_39.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر المكابين الأول,سفر المكابين الأول,bible_39_1_SaveCheckPoint_menu,bible_39.png,none,none,none,none,none,none
+ag_oldbible_favmenu,سفر المكابين الثاني,سفر المكابين الثاني,bible_39_2_SaveCheckPoint_menu,bible_39.png,none,none,none,none,none,none
+ag_newbible_favmenu,انجيل متى,انجيل متى,bible_40_SaveCheckPoint_menu,bible_40.png,none,none,none,none,none,none
+ag_newbible_favmenu,انجيل مرقس,انجيل مرقس,bible_41_SaveCheckPoint_menu,bible_41.png,none,none,none,none,none,none
+ag_newbible_favmenu,انجيل لوقا,انجيل لوقا,bible_42_SaveCheckPoint_menu,bible_42.png,none,none,none,none,none,none
+ag_newbible_favmenu,انجيل يوحنا,انجيل يوحنا,bible_43_SaveCheckPoint_menu,bible_43.png,none,none,none,none,none,none
+ag_newbible_favmenu,سفر اعمال الرسل,سفر اعمال الرسل,bible_44_SaveCheckPoint_menu,bible_44.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الى اهل رومية,الرسالة الى اهل رومية,bible_45_SaveCheckPoint_menu,bible_45.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الاولى الى اهل كورنثوس,الرسالة الاولى الى اهل كورنثوس,bible_46_SaveCheckPoint_menu,bible_46.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الثانية الى اهل كورنثوس,الرسالة الثانية الى اهل كورنثوس,bible_47_SaveCheckPoint_menu,bible_47.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الى اهل غلاطية,الرسالة الى اهل غلاطية,bible_48_SaveCheckPoint_menu,bible_48.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الى اهل افسس,الرسالة الى اهل افسس,bible_49_SaveCheckPoint_menu,bible_49.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الى اهل فيلبي,الرسالة الى اهل فيلبي,bible_50_SaveCheckPoint_menu,bible_50.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الى اهل كولوسي,الرسالة الى اهل كولوسي,bible_51_SaveCheckPoint_menu,bible_51.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الاولى الى اهل تسالونيكي,الرسالة الاولى الى اهل تسالونيكي,bible_52_SaveCheckPoint_menu,bible_52.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الثانية الى اهل تسالونيكي,الرسالة الثانية الى اهل تسالونيكي,bible_53_SaveCheckPoint_menu,bible_53.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الاولى الى تيموثاوس,الرسالة الاولى الى تيموثاوس,bible_54_SaveCheckPoint_menu,bible_54.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الثانية الى تيموثاوس,الرسالة الثانية الى تيموثاوس,bible_55_SaveCheckPoint_menu,bible_55.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الى تيطس,الرسالة الى تيطس,bible_56_SaveCheckPoint_menu,bible_56.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الى فليمون,الرسالة الى فليمون,bible_57_SaveCheckPoint_menu,bible_57.png,none,none,none,none,none,none
+ag_newbible_favmenu,الرسالة الى العبرانيين,الرسالة الى العبرانيين,bible_58_SaveCheckPoint_menu,bible_58.png,none,none,none,none,none,none
+ag_newbible_favmenu,رسالة يعقوب,رسالة يعقوب,bible_59_SaveCheckPoint_menu,bible_59.png,none,none,none,none,none,none
+ag_newbible_favmenu,رسالة بطرس الرسول الاولى,رسالة بطرس الرسول الاولى,bible_60_SaveCheckPoint_menu,bible_60.png,none,none,none,none,none,none
+ag_newbible_favmenu,رسالة بطرس الرسول الثانية,رسالة بطرس الرسول الثانية,bible_61_SaveCheckPoint_menu,bible_61.png,none,none,none,none,none,none
+ag_newbible_favmenu,رسالة يوحنا الرسول الاولى,رسالة يوحنا الرسول الاولى,bible_62_SaveCheckPoint_menu,bible_62.png,none,none,none,none,none,none
+ag_newbible_favmenu,رسالة يوحنا الرسول الثانية,رسالة يوحنا الرسول الثانية,bible_63_SaveCheckPoint_menu,bible_63.png,none,none,none,none,none,none
+ag_newbible_favmenu,رسالة يوحنا الرسول الثالثة,رسالة يوحنا الرسول الثالثة,bible_64_SaveCheckPoint_menu,bible_64.png,none,none,none,none,none,none
+ag_newbible_favmenu,رسالة يهوذا,رسالة يهوذا,bible_65_SaveCheckPoint_menu,bible_65.png,none,none,none,none,none,none
+ag_newbible_favmenu,رؤيا يوحنا اللاهوتي,رؤيا يوحنا اللاهوتي,bible_66_SaveCheckPoint_menu,bible_66.png,none,none,none,none,none,none

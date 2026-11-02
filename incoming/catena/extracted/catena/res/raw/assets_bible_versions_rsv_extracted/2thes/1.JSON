@@ -1,0 +1,166 @@
+{
+    "chapter_num": 1,
+    "verses_count": 12,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Salutation"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Paul, Silva′nus, and Timothy,"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "To the church of the Thessalo′nians in God our Father and the Lord Jesus Christ:"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Grace to you and peace from God the Father and the Lord Jesus Christ."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Thanksgiving"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "We are bound to give thanks to God always for you, brethren, as is fitting, because your faith is growing abundantly, and the love of every one of you for one another is increasing. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Therefore we ourselves boast of you in the churches of God for your steadfastness and faith in all your persecutions and in the afflictions which you are enduring."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Judgment at Christ’s Coming"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "This is evidence of the righteous judgment of God, that you may be made worthy of the kingdom of God, for which you are suffering— "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "since indeed God deems it just to repay with affliction those who afflict you, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and to grant rest with us to you who are afflicted, when the Lord Jesus is revealed from heaven with his mighty angels in flaming fire, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "inflicting vengeance upon those who do not know God and upon those who do not obey the gospel of our Lord Jesus. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "They shall suffer the punishment of eternal destruction and exclusion from the presence of the Lord and from the glory of his might, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "when he comes on that day to be glorified in his saints, and to be marveled at in all who have believed, because our testimony to you was believed. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To this end we always pray for you, that our God may make you worthy of his call, and may fulfil every good resolve and work of faith by his power, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "so that the name of our Lord Jesus may be glorified in you, and you in him, according to the grace of our God and the Lord Jesus Christ."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
