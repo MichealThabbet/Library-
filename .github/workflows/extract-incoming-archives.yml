@@ -1,0 +1,112 @@
+name: Extract incoming archives (excluding orsozoxi)
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - '.github/workflows/extract-incoming-archives.yml'
+permissions:
+  contents: write
+concurrency:
+  group: extract-incoming-archives
+  cancel-in-progress: false
+jobs:
+  extract:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Install archive extractors
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq p7zip-full
+      - name: Extract archives without overwriting existing files
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import os, pathlib, zipfile, tarfile, subprocess, shutil, tempfile, json, stat
+          root=pathlib.Path("incoming")
+          excluded={"orsozoxi","orsozxi"}
+          exts=(".zip",".7z",".rar",".tar",".tar.gz",".tgz",".tar.bz2",".tbz2",".tar.xz",".txz")
+          report={"extracted":[],"skipped":[],"errors":[]}
+          max_files=30000
+          max_bytes=2*1024**3
+          def is_archive(p): return p.name.lower().endswith(exts)
+          def eligible(p): return not any(part.lower() in excluded for part in p.parts)
+          def safe_name(name):
+            name=name.replace("\\","/")
+            p=pathlib.PurePosixPath(name)
+            return bool(name and not name.startswith("/") and not name.startswith("//") and not any(x==".." for x in p.parts) and not (p.parts and ":" in p.parts[0]))
+          def extract(archive):
+            dest=archive.parent
+            with tempfile.TemporaryDirectory(dir=dest) as tmp:
+              out=pathlib.Path(tmp)
+              if zipfile.is_zipfile(archive):
+                with zipfile.ZipFile(archive) as z:
+                  entries=z.infolist()
+                  if len(entries)>max_files or sum(i.file_size for i in entries)>max_bytes: raise ValueError("archive limits exceeded")
+                  for i in entries:
+                    if not safe_name(i.filename): raise ValueError("unsafe archive path")
+                    if stat.S_ISLNK(i.external_attr>>16): raise ValueError("symlink in archive")
+                  z.extractall(out)
+              elif tarfile.is_tarfile(archive):
+                with tarfile.open(archive) as t:
+                  members=t.getmembers()
+                  if len(members)>max_files or sum(i.size for i in members)>max_bytes: raise ValueError("archive limits exceeded")
+                  for m in members:
+                    if not safe_name(m.name) or not (m.isfile() or m.isdir()): raise ValueError("unsafe tar entry")
+                  t.extractall(out,filter="data")
+              else:
+                listing=subprocess.run(["7z","l","-slt",str(archive.resolve())],capture_output=True,text=True)
+                if listing.returncode: raise ValueError("7z cannot list archive: "+listing.stderr[-300:])
+                # 7z extracts only to a staging directory, never directly into the repository.
+                result=subprocess.run(["7z","x","-y","-o"+str(out.resolve()),str(archive.resolve())],capture_output=True,text=True)
+                if result.returncode: raise ValueError("7z extraction failed: "+result.stderr[-300:])
+              staged=[p for p in out.rglob("*") if p.is_file()]
+              if len(staged)>max_files or sum(p.stat().st_size for p in staged)>max_bytes: raise ValueError("extracted archive limits exceeded")
+              count=0
+              for item in staged:
+                if item.is_symlink(): raise ValueError("symlink produced by archive")
+                relative=item.relative_to(out)
+                if not safe_name(relative.as_posix()): raise ValueError("unsafe extracted path")
+                target=dest/relative
+                if not eligible(target) or target.exists():
+                  report["skipped"].append(str(target))
+                  continue
+                target.parent.mkdir(parents=True,exist_ok=True)
+                if target.stat().st_size if target.exists() else False: continue
+                shutil.copyfile(item,target)
+                count+=1
+              return count
+          seen=set()
+          for round_num in range(5):
+            files=sorted((p for p in root.rglob("*") if p.is_file() and is_archive(p) and eligible(p) and str(p) not in seen),key=str)
+            if not files: break
+            for p in files:
+              seen.add(str(p))
+              try:
+                n=extract(p)
+                report["extracted"].append({"archive":str(p),"new_files":n})
+                print(f"EXTRACTED {p}: {n} new files")
+              except Exception as e:
+                report["errors"].append({"archive":str(p),"error":str(e)})
+                print(f"ERROR {p}: {e}")
+          pathlib.Path("archive-extraction-report.json").write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n")
+          print("SUMMARY",json.dumps({k:len(v) for k,v in report.items()}))
+          if report["errors"]: raise SystemExit("Some archives failed; see log/report")
+          PY
+      - name: Commit extracted files and report
+        if: success()
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- incoming archive-extraction-report.json
+          if git diff --cached --quiet; then
+            echo "No new files."
+          else
+            git commit -m "Extract incoming archives, excluding orsozoxi"
+            git push
+          fi
