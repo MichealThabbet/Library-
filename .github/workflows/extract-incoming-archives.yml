@@ -208,13 +208,33 @@ jobs:
           if errors:
             print("Nested archive failures:",len(errors))
           PY
+      - name: Audit all incoming folders and extraction results
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import pathlib,json,sys
+          root=pathlib.Path("incoming")
+          report=json.loads(pathlib.Path("archive-extraction-report.json").read_text())
+          excluded={"orsozxi","orsozoxi"}
+          folders=sorted(p for p in root.iterdir() if p.is_dir() and p.name.lower() not in excluded)
+          extensions=(".zip",".rar",".7z",".tar",".tgz",".tar.gz",".tar.xz",".tar.bz2")
+          archives=[p for folder in folders for p in folder.rglob("*") if p.is_file() and p.name.lower().endswith(extensions) and not any(x.lower() in excluded for x in p.parts)]
+          completed={x["archive"] for x in report.get("extracted",[])}
+          continuations=[p for p in archives if " (multipart continuation)" in "\n".join(report.get("skipped",[])) and str(p)+" (multipart continuation)" in report.get("skipped",[])]
+          missing=[str(p) for p in archives if str(p) not in completed and p not in continuations]
+          failures=report.get("errors",[])+[x for x in report.get("nested",[]) if x.get("status")!="ok"]
+          summary={"folders_checked":len(folders),"archive_files":len(archives),"archives_processed":len(completed),"multipart_continuations":len(continuations),"nested_archives":len(report.get("nested",[])),"unprocessed":missing,"failures":failures}
+          pathlib.Path("archive-extraction-audit.json").write_text(json.dumps(summary,ensure_ascii=False,indent=2)+"\n")
+          print("AUDIT",json.dumps(summary,ensure_ascii=False))
+          if missing or failures: sys.exit("Extraction audit failed")
+          PY
       - name: Commit extracted files and report
         if: success()
         shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- incoming archive-extraction-report.json
+          git add -- incoming archive-extraction-report.json archive-extraction-audit.json
           if git diff --cached --quiet; then
             echo "No new files."
           else
