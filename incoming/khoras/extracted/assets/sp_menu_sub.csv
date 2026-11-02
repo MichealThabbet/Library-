@@ -1,0 +1,194 @@
+master_code,item_name,item_title,item_code,item_image,item_text,item_mp3,item_pdf,item_note,item_online_mp3,item_book,item_csvfile,item_general_code
+mainmenu,دلال اسبوع الآلام,دلال اسبوع الآلام,ag_passion_dalal,ag_passion1.png,none,none,none,none,none,none,none,none
+ag_passion_dalal,دلال اسبوع الآلام | مكتوب,دلال اسبوع الآلام | مكتوب,ag_passion_dalal_written,ag_passion2.png,full_notifier,none,none,none,none,none,none,none
+ag_passion_dalal,دلال اسبوع الآلام | بوربوينت,دلال اسبوع الآلام | بوربوينت,ag_passion_ppt,ag_slideshow.png,full_notifier,none,none,none,none,none,open,none
+ag_passion_dalal,سبت النور - ابو غلمسيس,سبت النور - ابو غلمسيس,ag_apocalypse,ag_music.png,none,none,none,none,none,none,open,none
+mainmenu,سبت النور - ابو غلمسيس,سبت النور - ابو غلمسيس,ag_apocalypse,ag_music.png,none,none,none,none,none,none,open,none
+ag_apocalypse,سفر الرؤيا | ابوغلمسيس,📜 سفر الرؤيا | ابوغلمسيس (نص + مردات),rev_apo_full_mardat,ag_vesp.png,none,none,none,none,none,none,apocalypse.csv,none
+ag_apocalypse,سفر الرؤيا | مقروء,📘 سفر الرؤيا | مسموع,rev_apo_audio_read_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,apocalypse.csv,none
+ag_apocalypse,سفر الرؤيا | دراما,📘 سفر الرؤيا | دراما,rev_apo_audio_drama_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,apocalypse.csv,none
+ag_apocalypse,سفر الرؤيا | تفسير,✍️ سفر الرؤيا | تفسير,rev_apo_tafser_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,apocalypse.csv,none
+mainmenu,مكتبة الحان سوتيريا,مكتبة الحان سوتيريا,ag_passion_hymn_favmenu,ag_music.png,none,none,none,none,none,none,open,none
+ag_passion_hymn_favmenu,احد الشعانين,🌿 الحان احد الشعانين,passionhymns_palm_lib_menu,ag_vesp.png,none,none,none,none,none,none,sp_master_new.csv,none
+ag_passion_hymn_favmenu,الحان ساعات البصخة,☦️ الحان ساعات البصخة,passionhymns_general_lib_menu,ag_vesp.png,none,none,none,none,none,none,sp_master_new.csv,none
+ag_passion_hymn_favmenu,خميس العهد,☦️ الحان خميس العهد,passionhymns_thursday_lib_menu,ag_vesp.png,none,none,none,none,none,none,sp_master_new.csv,none
+ag_passion_hymn_favmenu,الجمعة العظيمة,☦️ الحان الجمعة العظيمة,passionhymns_friday_lib_menu,ag_vesp.png,none,none,none,none,none,none,sp_master_new.csv,none
+ag_passion_hymn_favmenu,الحان سبت النور,🪔 الحان سبت النور,rev_apo_alhan,ag_vesp.png,none,none,none,none,none,none,apocalypse.csv,none
+ag_passion_hymn_favmenu,الحان القيامة,☀️ الحان القيامة,resu_alhan,ag_vesp.png,none,none,none,none,none,none,resurrection.csv,none
+ag_passion_hymn_favmenu,الحان اسبوع الالام | أبو فام,الحان اسبوع الالام | أبو فام,passionhymns_misc_abofam_menu,ag_vesp.png,none,none,none,none,none,none,sp_master_new.csv,none
+mainmenu,المكتبة الصوتية,المكتبة الصوتية,ag_mp3library,ag_passion4.png,none,none,none,none,none,none,none,none
+ag_mp3library,مكتبة صوتية متنوعة,مكتبة صوتية متنوعة,ag_mp3library_favmenu,ag_passion4.png,none,none,none,none,none,none,open,none
+ag_mp3library_favmenu,قراءات احداث اسبوع الآلام,قراءات احداث اسبوع الآلام,passion_readings,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_mp3library_favmenu,ترانيم اسبوع الآلام,ترانيم اسبوع الآلام,passiontaranem_misc,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_mp3library_favmenu,تاملات اسبوع الآلام,تاملات اسبوع الآلام,passion_tamol,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_mp3library_favmenu,مراثى ارميا اسبوع الآلام,مراثى ارميا اسبوع الآلام,passion_marathy,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_mp3library_favmenu,لحن انا الصغير | سبت النور,لحن انا الصغير | سبت النور,apo_psalm151,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_mp3library_favmenu,موسيقى اسبوع الآلام,موسيقى اسبوع الآلام,passion_music,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_mp3library,برامج اذاعية,برامج اذاعية,ag_passionmp3_programs,ag_music.png,none,none,none,none,none,none,open,none
+ag_passionmp3_programs,مسلسل طريق الصليب,مسلسل طريق الصليب,mp3_programs_tareksaleb,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_passionmp3_programs,حدث فى مثل ذلك اليوم | اسبوع الآلام,حدث فى مثل ذلك اليوم | اسبوع الآلام,mp3_programs_thisday,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_passionmp3_programs,دراما الصلب | اسبوع الآلام,دراما الصلب | اسبوع الآلام,mp3_programs_dramasalb,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_passionmp3_programs,رموز ونبوات | اسبوع الآلام,رموز ونبوات | اسبوع الآلام,mp3_programs_remoz,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_passionmp3_programs,متمم النبوات | اسبوع الآلام,متمم النبوات | اسبوع الآلام,mp3_programs_provend,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_passionmp3_programs,هناك كنت معه | اسبوع الآلام,هناك كنت معه | اسبوع الآلام,mp3_programs_withhim,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_passionmp3_programs,كلمات المسيح على الصليب,كلمات المسيح على الصليب,mp3_programs_crosswords,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_passionmp3_programs,تأملات فى اسبوع الآلام,تأملات فى اسبوع الآلام,mp3_programs_tamolat,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+none,احداث اسبوع الآلام,احداث اسبوع الآلام,mp3_programs_bibleevents,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv,none
+ag_mp3library,كتب مسموعة,كتب مسموعة,ag_passionmp3_audiobooks,ag_music.png,none,none,none,none,none,none,open,none
+ag_passionmp3_audiobooks,كتاب ساعة بساعة | ابونا متى المسكين,كتاب ساعة بساعة | ابونا متى المسكين,audiobooks_hours,ag_vesp.png,none,none,none,none,none,none,passionmp3_misc.csv,none
+mainmenu,مكتبة الكتب,مكتبة الكتب,ag_pdflib,ag_ebooks.png,full_notifier,none,none,none,none,none,open,none
+ag_pdflib,الكفن المقدس,📕 الكفن المقدس,pdflib_shroud_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv,none
+ag_pdflib,دراما الصلب | الأنبا مكاريوس,📕 دراما الصلب | الأنبا مكاريوس,pdflib_dramasalb_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv,none
+ag_pdflib,كتب تأملات اسبوع الآلام,📕 كتب تأملات اسبوع الآلام,pdflib_tamolpassion_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv,none
+ag_pdflib,كتب قراءات والحان اسبوع الآلام,📕 كتب قراءات والحان اسبوع الآلام,pdflib_readpassion_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv,none
+ag_pdflib,كتب سبت الفرح,📕 كتب سبت الفرح,pdflib_apocalypse_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv,none
+ag_pdflib,كتب القيامة والخماسين,📕 كتب القيامة والخماسين,pdflib_resurrection_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv,none
+none,القــاموس,القــامـــوس,ag_dictonary,ag_dic.png,none,none,none,none,none,none,none,none
+none,المفــضـــلة,المفضلة,ag_favorite,ag_favorite.png,none,none,none,none,none,none,none,none
+mainmenu,تحديث محتوى,تحديث محتوى,ag_download,ag_download.png,none,none,none,none,none,none,none,none
+mainmenu,تحميل الملفات,مركز تحميل الملفات,ag_filecenter,ag_download.png,full_notifier,none,none,none,none,none,none,none
+mainmenu,الاعدادات,الاعدادات,ag_settings,ag_settings.png,none,none,none,none,none,none,none,none
+mainmenu,مشاركة البرنامج,مشاركة البرنامج,ag_share,ag_share.png,none,none,none,none,none,none,none,none
+mainmenu,تقييم البرنامج,تقييم البرنامج,ag_rate,ag_rate.png,none,none,none,none,none,none,none,none
+mainmenu,حول البرنامج,حول البرنامج,ag_about,ag_about.png,none,none,none,none,none,none,none,none
+mainmenu,برامج اخرى,برامج اخرى,ag_others,ag_others.png,none,none,none,none,none,none,none,none
+mainmenu,تواصل معنا,تواصل معنا,ag_contactus,ag_contactus.png,none,none,none,none,none,none,none,none
+ag_passion_ppt,توزيع احد الشعانين,🖥️ توزيع احد الشعانين,ag_passion_ppt_sun_tawzee,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv,none
+ag_passion_ppt,صلاة الجناز العام,🖥️ صلاة الجناز العام,ag_passion_ppt_publicfuneral,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv,none
+ag_passion_ppt,يوم الأحد | البصخة,🖥️ يوم الأحد | البصخة المقدسة,ag_passion_ppt_sun_mor,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv,none
+ag_passion_ppt,ليلة الاثنين | البصخة,🖥️ ليلة الاثنين | البصخة المقدسة,ag_passion_ppt_mon_night,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv,none
+ag_passion_ppt,يوم الاثنين | البصخة,🖥️ يوم الاثنين | البصخة المقدسة,ag_passion_ppt_mon_mor,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv,none
+ag_passion_ppt,ليلة الثلاثاء | البصخة,🖥️ ليلة الثلاثاء | البصخة المقدسة,ag_passion_ppt_tue_night,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv,none
+ag_passion_ppt,يوم الثلاثاء | البصخة,🖥️ يوم الثلاثاء | البصخة المقدسة,ag_passion_ppt_tue_mor,ag_vesp.png,none,none,none,none,none,none,pdf_tue_wed.csv,none
+ag_passion_ppt,ليلة الاربعاء | البصخة,🖥️ ليلة الاربعاء | البصخة المقدسة,ag_passion_ppt_wed_night,ag_vesp.png,none,none,none,none,none,none,pdf_tue_wed.csv,none
+ag_passion_ppt,يوم الاربعاء | البصخة,🖥️ يوم الاربعاء | البصخة المقدسة,ag_passion_ppt_wed_mor,ag_vesp.png,none,none,none,none,none,none,pdf_tue_wed.csv,none
+ag_passion_ppt,ليلة الخميس | البصخة,🖥️ ليلة الخميس | البصخة المقدسة,ag_passion_ppt_thu_night,ag_vesp.png,none,none,none,none,none,none,pdf_tue_wed.csv,none
+ag_passion_ppt,يوم خميس العهد | البصخة,🖥️ يوم خميس العهد | البصخة المقدسة,ag_passion_ppt_thu_mor,ag_vesp.png,none,none,none,none,none,none,pdf_thur.csv,none
+ag_passion_ppt,ليلة الجمعة العظيمة,🖥️ ليلة الجمعة العظيمة | البصخة المقدسة,ag_passion_ppt_fri_night,ag_vesp.png,none,none,none,none,none,none,pdf_thur.csv,none
+ag_passion_ppt,يوم الجمعة العظيمة,🖥️ يوم الجمعة العظيمة | البصخة المقدسة,ag_passion_ppt_fri_mor,ag_vesp.png,none,none,none,none,none,none,pdf_fri.csv,none
+none,كتب اسبوع الآلام,📕 كتب اسبوع الآلام,ag_passion_books_SaveCheckPoint,none,none,none,none,none,none,none,none,none
+none,الحان البصخة,الحان البصخة,passionhymns_general,none,none,none,none,none,none,none,none,none
+none,الحان البصخة المتكررة,الحان البصخة المتكررة,ag_passion_ppt_common,none,none,none,none,none,none,none,none,none
+none,طلبة الصباح,🙏 طلبة الصباح,ag_passion_ppt_telba_mor,none,none,none,none,none,none,none,none,none
+none,طلبة المساء,🙏 طلبة المساء,ag_passion_ppt_telba_night,none,none,none,none,none,none,none,none,none
+none,ختام صلوات البصخة,ختام صلوات البصخة,ag_passion_ppt_end,none,none,none,none,none,none,none,none,none
+none,تسبحة ثوك تانى جوم,🖥️ تسبحة ثوك تانى جوم,ag_passion_ppt_thok,none,none,none,none,none,none,none,none,none
+none,تسبحة ثوك تانى جوم,🖥️ تسبحة ثوك تانى جوم,ag_passion_ppt_thok_wed,none,none,none,none,none,none,none,none,none
+none,تسبحة ثوك تانى جوم,🖥️ تسبحة ثوك تانى جوم,ag_passion_ppt_thok_fri,none,none,none,none,none,none,none,none,none
+none,لحن بيك اثرونوس,☦️ لحن بيك اثرونوس,ag_passion_hymn_pekthronos,none,none,none,none,none,none,none,none,none
+none,لحن افتشينون,☦️ لحن افتشينون,ag_passion_hymn_avetch,none,none,none,none,none,none,none,none,none
+none,لحن فاى ايطاف انف,☦️ لحن فاى ايطاف انف,ag_passion_hymn_faietaf,none,none,none,none,none,none,none,none,none
+none,الابركسيس الحزايني  كامل - ابراكسيون,☦️ الابركسيس الحزايني  كامل - ابراكسيون,ag_passion_hymn_thu_epsraks,none,none,none,none,none,none,none,none,none
+none,لحن اجيوس الحزاينى,☦️ لحن اجيوس الحزاينى,ag_passion_hymn_agios_sad,none,none,none,none,none,none,none,none,none
+none,لحن افلوجيمينوس,☦️ لحن افلوجيمينوس,ag_passion_hymn_evlog,none,none,none,none,none,none,none,none,none
+none,لحن كى ايبرتو,☦️ لحن كى ايبرتو,ag_passion_hymn_kerpto,none,none,none,none,none,none,none,none,none
+none,لحن اوكاتى | مقدمة العظة,☦️ لحن اوكاتى | مقدمة العظة,ag_passion_hymn_okaty_intro,none,none,none,none,none,none,none,none,none
+none,لحن اوكاتى | ختام العظة,☦️ لحن اوكاتى | ختام العظة,ag_passion_hymn_okaty_end,none,none,none,none,none,none,none,none,none
+none,لحن طاى شورى الحزاينى,☦️ لحن طاى شورى الحزاينى,ag_passion_hymn_taishory,none,none,none,none,none,none,none,none,none
+none,لحن تي ابيستولي,☦️ لحن تي ابيستولي,ag_passion_hymn_tebstoly,none,none,none,none,none,none,none,none,none
+none,مرد قطع الساعة السادسة | قبطى,☦️ مرد قطع الساعة السادسة | قبطى,ag_passion_hymn_6th_coptic,none,none,none,none,none,none,none,none,none
+none,مرد قطع الساعة السادسة | عربى,☦️ مرد قطع الساعة السادسة | عربى,ag_passion_hymn_6th_arabic,none,none,none,none,none,none,none,none,none
+none,لحن أومونوجنيس | قبطى,☦️ لحن أومونوجنيس | قبطى,ag_passion_hymn_omi_coptic,none,none,none,none,none,none,none,none,none
+none,لحن أومونوجنيس | عربى,☦️ لحن أومونوجنيس | عربى,ag_passion_hymn_omi_arabic,none,none,none,none,none,none,none,none,none
+none,لحن اري باميفيي | امانة اللص اليمين,☦️ لحن اري باميفيي | امانة اللص اليمين,ag_passion_hymn_theif,none,none,none,none,none,none,none,none,none
+none,امانة اللص اليمين,☦️ امانة اللص اليمين,ag_passion_hymn_theif_arabic,none,none,none,none,none,none,none,none,none
+none,لحن تى شورى الحزاينى | الطويل,☦️ لحن تى شورى الحزاينى | الطويل,ag_passion_hymn_te_long,none,none,none,none,none,none,none,none,none
+none,لحن تى شورى الحزاينى | القصير,☦️ لحن تى شورى الحزاينى | القصير,ag_passion_hymn_te_short,none,none,none,none,none,none,none,none,none
+none,لحن اثفيتى اناسطاسيس,☦️ لحن اثفيتى اناسطاسيس,ag_passion_hymn_ethve,none,none,none,none,none,none,none,none,none
+none,مرد قطع الساعة التاسعة | قبطى,☦️ مرد قطع الساعة التاسعة | قبطى,ag_passion_hymn_9th_coptic,none,none,none,none,none,none,none,none,none
+none,مرد قطع الساعة التاسعة | عربى,☦️ مرد قطع الساعة التاسعة | عربى,ag_passion_hymn_9th_arabic,none,none,none,none,none,none,none,none,none
+none,مراثى ارميا النبى | الساعة الثانية عشر,☦️ مراثى ارميا النبى | الساعة الثانية عشر,ag_passion_hymn_armia,none,none,none,none,none,none,none,none,none
+none,لحن غولغوثا,☦️ لحن غولغوثا,ag_passion_hymn_golgotha,none,none,none,none,none,none,none,none,none
+none,مقدمة الطرح | الصباح,☦️ مقدمة الطرح | الصباح,ag_passion_hymn_tarh_mor,none,none,none,none,none,none,none,none,none
+none,مقدمة الطرح | المساء,☦️ مقدمة الطرح | المساء,ag_passion_hymn_tarh_night,none,none,none,none,none,none,none,none,none
+none,ختام الطرح | صباح ومساء,☦️ ختام الطرح | صباح ومساء,ag_passion_hymn_tarh_end,none,none,none,none,none,none,none,none,none
+ag_passion_dalal_written,احد الشعانين,احد الشعانين,ag_passion_dalal_sun_day_favmenu,ag_passion2.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_sun_day_favmenu,احد الشعانين | التاسعة,احد الشعانين | التاسعة,dalal_passion_sun_day_9th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_sun_day.csv,none
+ag_passion_dalal_sun_day_favmenu,احد الشعانين | الحادية عشر,احد الشعانين | الحادية عشر,dalal_passion_sun_day_11th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_sun_day.csv,none
+ag_passion_dalal_sun_day_favmenu,احد الشعانين | الطروحات,احد الشعانين | الطروحات,dalal_passion_sun_day_torohat_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_sun_day.csv,none
+ag_passion_dalal_sun_day_favmenu,طلبة الصباح و الختام,طلبة الصباح و الختام,dalal_passion_daytelba_end_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_sun_day.csv,none
+ag_passion_dalal_written,ليلة الاثنين,ليلة الاثنين,ag_passion_dalal_mon_night_favmenu,ag_passion2.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_mon_night_favmenu,ليلة الاثنين | الاولى,ليلة الاثنين | الاولى,dalal_passion_monday_night_1st_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_night.csv,none
+ag_passion_dalal_mon_night_favmenu,ليلة الاثنين | الثالثة,ليلة الاثنين | الثالثة,dalal_passion_monday_night_3rd_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_night.csv,none
+ag_passion_dalal_mon_night_favmenu,ليلة الاثنين | السادسة,ليلة الاثنين | السادسة,dalal_passion_monday_night_6th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_night.csv,none
+ag_passion_dalal_mon_night_favmenu,ليلة الاثنين | التاسعة,ليلة الاثنين | التاسعة,dalal_passion_monday_night_9th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_night.csv,none
+ag_passion_dalal_mon_night_favmenu,ليلة الاثنين | الحادية عشر,ليلة الاثنين | الحادية عشر,dalal_passion_monday_night_11th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_night.csv,none
+ag_passion_dalal_mon_night_favmenu,ليلة الاثنين | الطروحات,ليلة الاثنين | الطروحات,dalal_passion_monday_night_torohat_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_night.csv,none
+ag_passion_dalal_mon_night_favmenu,طلبة المساء و الختام,طلبة المساء و الختام,dalal_passion_nighttelba_end_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_night.csv,none
+ag_passion_dalal_written,يوم الاثنين,يوم الاثنين,ag_passion_dalal_mon_day_favmenu,ag_passion2.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_mon_day_favmenu,يوم الاثنين | باكر,يوم الاثنين | باكر,dalal_passion_mon_day_1st_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_day.csv,none
+ag_passion_dalal_mon_day_favmenu,يوم الاثنين | الثالثة,يوم الاثنين | الثالثة,dalal_passion_mon_day_3rd_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_day.csv,none
+ag_passion_dalal_mon_day_favmenu,يوم الاثنين | السادسة,يوم الاثنين | السادسة,dalal_passion_mon_day_6th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_day.csv,none
+ag_passion_dalal_mon_day_favmenu,يوم الاثنين | التاسعة,يوم الاثنين | التاسعة,dalal_passion_mon_day_9th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_day.csv,none
+ag_passion_dalal_mon_day_favmenu,يوم الاثنين | الحادية عشر,يوم الاثنين | الحادية عشر,dalal_passion_mon_day_11th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_day.csv,none
+ag_passion_dalal_mon_day_favmenu,يوم الاثنين | الطروحات,يوم الاثنين | الطروحات,dalal_passion_mon_day_torohat_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_day.csv,none
+ag_passion_dalal_mon_day_favmenu,طلبة الصباح و الختام,طلبة الصباح و الختام,dalal_passion_daytelba_end_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_mon_day.csv,none
+ag_passion_dalal_written,ليلة الثلاثاء,ليلة الثلاثاء,ag_passion_dalal_tue_night_favmenu,ag_passion2.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_tue_night_favmenu,ليلة الثلاثاء | الاولى,ليلة الثلاثاء | الاولى,dalal_passion_tue_night_1st_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_night.csv,none
+ag_passion_dalal_tue_night_favmenu,ليلة الثلاثاء | الثالثة,ليلة الثلاثاء | الثالثة,dalal_passion_tue_night_3rd_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_night.csv,none
+ag_passion_dalal_tue_night_favmenu,ليلة الثلاثاء | السادسة,ليلة الثلاثاء | السادسة,dalal_passion_tue_night_6th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_night.csv,none
+ag_passion_dalal_tue_night_favmenu,ليلة الثلاثاء | التاسعة,ليلة الثلاثاء | التاسعة,dalal_passion_tue_night_9th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_night.csv,none
+ag_passion_dalal_tue_night_favmenu,ليلة الثلاثاء | الحادية عشر,ليلة الثلاثاء | الحادية عشر,dalal_passion_tue_night_11th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_night.csv,none
+ag_passion_dalal_tue_night_favmenu,ليلة الثلاثاء | الطروحات,ليلة الثلاثاء | الطروحات,dalal_passion_tuesday_night_torohat_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_night.csv,none
+ag_passion_dalal_tue_night_favmenu,طلبة المساء و الختام,طلبة المساء و الختام,dalal_passion_nighttelba_end_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_night.csv,none
+ag_passion_dalal_written,يوم الثلاثاء,يوم الثلاثاء,ag_passion_dalal_tue_day_favmenu,ag_passion2.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_tue_day_favmenu,يوم الثلاثاء | باكر,يوم الثلاثاء | باكر,dalal_passion_tue_day_1st_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_day.csv,none
+ag_passion_dalal_tue_day_favmenu,يوم الثلاثاء | الثالثة,يوم الثلاثاء | الثالثة,dalal_passion_tue_day_3rd_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_day.csv,none
+ag_passion_dalal_tue_day_favmenu,يوم الثلاثاء | السادسة,يوم الثلاثاء | السادسة,dalal_passion_tue_day_6th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_day.csv,none
+ag_passion_dalal_tue_day_favmenu,يوم الثلاثاء | التاسعة,يوم الثلاثاء | التاسعة,dalal_passion_tue_day_9th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_day.csv,none
+ag_passion_dalal_tue_day_favmenu,يوم الثلاثاء | الحادية عشر,يوم الثلاثاء | الحادية عشر,dalal_passion_tue_day_11th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_day.csv,none
+ag_passion_dalal_tue_day_favmenu,يوم الثلاثاء | الطروحات,يوم الثلاثاء | الطروحات,dalal_passion_tue_day_torohat_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_day.csv,none
+ag_passion_dalal_tue_day_favmenu,طلبة الصباح و الختام,طلبة الصباح و الختام,dalal_passion_daytelba_end_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_tue_day.csv,none
+ag_passion_dalal_written,ليلة الاربعاء,ليلة الاربعاء,ag_passion_dalal_wed_night_favmenu,ag_passion2.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_wed_night_favmenu,ليلة الاربعاء | الاولى,ليلة الاربعاء | الاولى,dalal_passion_wed_night_1st_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_night.csv,none
+ag_passion_dalal_wed_night_favmenu,ليلة الاربعاء | الثالثة,ليلة الاربعاء | الثالثة,dalal_passion_wed_night_3rd_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_night.csv,none
+ag_passion_dalal_wed_night_favmenu,ليلة الاربعاء | السادسة,ليلة الاربعاء | السادسة,dalal_passion_wed_night_6th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_night.csv,none
+ag_passion_dalal_wed_night_favmenu,ليلة الاربعاء | التاسعة,ليلة الاربعاء | التاسعة,dalal_passion_wed_night_9th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_night.csv,none
+ag_passion_dalal_wed_night_favmenu,ليلة الاربعاء | الحادية عشر,ليلة الاربعاء | الحادية عشر,dalal_passion_wed_night_11th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_night.csv,none
+ag_passion_dalal_wed_night_favmenu,ليلة الاربعاء | الطروحات,ليلة الاربعاء | الطروحات,dalal_passion_wednesday_night_torohat_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_night.csv,none
+ag_passion_dalal_wed_night_favmenu,طلبة المساء و الختام,طلبة المساء و الختام,dalal_passion_nighttelba_end_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_night.csv,none
+ag_passion_dalal_written,يوم الاربعاء,يوم الاربعاء,ag_passion_dalal_wed_day_favmenu,ag_passion2.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_wed_day_favmenu,يوم الاربعاء | باكر,يوم الاربعاء | باكر,dalal_passion_wed_day_1st_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_day.csv,none
+ag_passion_dalal_wed_day_favmenu,يوم الاربعاء | الثالثة,يوم الاربعاء | الثالثة,dalal_passion_wed_day_3rd_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_day.csv,none
+ag_passion_dalal_wed_day_favmenu,يوم الاربعاء | السادسة,يوم الاربعاء | السادسة,dalal_passion_wed_day_6th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_day.csv,none
+ag_passion_dalal_wed_day_favmenu,يوم الاربعاء | التاسعة,يوم الاربعاء | التاسعة,dalal_passion_wed_day_9th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_day.csv,none
+ag_passion_dalal_wed_day_favmenu,يوم الاربعاء | الحادية عشر,يوم الاربعاء | الحادية عشر,dalal_passion_wed_day_11th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_day.csv,none
+ag_passion_dalal_wed_day_favmenu,يوم الاربعاء | الطروحات,يوم الاربعاء | الطروحات,dalal_passion_wed_day_torohat_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_day.csv,none
+ag_passion_dalal_wed_day_favmenu,طلبة الصباح و الختام,طلبة الصباح و الختام,dalal_passion_daytelba_end_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_wed_day.csv,none
+ag_passion_dalal_written,ليلة الخميس,ليلة الخميس,ag_passion_dalal_thu_night_favmenu,ag_passion2.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_thu_night_favmenu,ليلة الخميس | الاولى,ليلة الخميس | الاولى,dalal_passion_thu_night_1st_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_thu_night.csv,none
+ag_passion_dalal_thu_night_favmenu,ليلة الخميس | الثالثة,ليلة الخميس | الثالثة,dalal_passion_thu_night_3rd_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_thu_night.csv,none
+ag_passion_dalal_thu_night_favmenu,ليلة الخميس | السادسة,ليلة الخميس | السادسة,dalal_passion_thu_night_6th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_thu_night.csv,none
+ag_passion_dalal_thu_night_favmenu,ليلة الخميس | التاسعة,ليلة الخميس | التاسعة,dalal_passion_thu_night_9th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_thu_night.csv,none
+ag_passion_dalal_thu_night_favmenu,ليلة الخميس | الحادية عشر,ليلة الخميس | الحادية عشر,dalal_passion_thu_night_11th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_thu_night.csv,none
+ag_passion_dalal_thu_night_favmenu,ليلة الخميس | الطروحات,ليلة الخميس | الطروحات,dalal_passion_thursday_night_torohat_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_thu_night.csv,none
+ag_passion_dalal_thu_night_favmenu,طلبة المساء و الختام,طلبة المساء و الختام,dalal_passion_nighttelba_end_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_thu_night.csv,none
+ag_passion_dalal_written,يوم خميس العهد,يوم خميس العهد,ag_passion_dalal_thu_day_favmenu,ag_passion4.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_thu_day_favmenu,خميس العهد | باكر,خميس العهد | باكر,dalal_passion_thu_day_1st_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_thu_day.csv,none
+ag_passion_dalal_thu_day_favmenu,خميس العهد | الثالثة,خميس العهد | الثالثة,dalal_passion_thu_day_3rd_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_thu_day.csv,none
+ag_passion_dalal_thu_day_favmenu,خميس العهد | السادسة,خميس العهد | السادسة,dalal_passion_thu_day_6th_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_thu_day.csv,none
+ag_passion_dalal_thu_day_favmenu,خميس العهد | التاسعة,خميس العهد | التاسعة,dalal_passion_thu_day_9th_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_thu_day.csv,none
+ag_passion_dalal_thu_day_favmenu,خميس العهد | الطروحات,خميس العهد | الطروحات,dalal_passion_thu_day_torohat_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_thu_day.csv,none
+ag_passion_dalal_thu_day_favmenu,الطلبة  و الختام,الطلبة  و الختام,dalal_passion_daytelba_end_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_thu_day.csv,none
+ag_passion_dalal_thu_day_favmenu,خميس العهد | اللقان,خميس العهد | اللقان,dalal_passion_thu_day_lakan_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_thu_day.csv,none
+ag_passion_dalal_thu_day_favmenu,قداس خميس العهد,قداس خميس العهد,dalal_passion_thu_day_Kodas_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_thu_day.csv,none
+ag_passion_dalal_thu_day_favmenu,خميس العهد | الحادية عشر,خميس العهد | الحادية عشر,dalal_passion_thu_day_11th_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_thu_day.csv,none
+ag_passion_dalal_thu_day_favmenu,طلبة الصباح و الختام,طلبة الصباح و الختام,dalal_passion_daytelba_end_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_thu_day.csv,none
+ag_passion_dalal_written,ليلة الجمعة العظيمة,ليلة الجمعة العظيمة,ag_passion_dalal_fri_night_favmenu,ag_passion2.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_fri_night_favmenu,ليلة الجمعة | الاولى,ليلة الجمعة | الاولى,dalal_passion_fri_night_1st_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_fri_night.csv,none
+ag_passion_dalal_fri_night_favmenu,ليلة الجمعة | الثالثة,ليلة الجمعة | الثالثة,dalal_passion_fri_night_3rd_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_fri_night.csv,none
+ag_passion_dalal_fri_night_favmenu,ليلة الجمعة | السادسة,ليلة الجمعة | السادسة,dalal_passion_fri_night_6th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_fri_night.csv,none
+ag_passion_dalal_fri_night_favmenu,ليلة الجمعة | التاسعة,ليلة الجمعة | التاسعة,dalal_passion_fri_night_9th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_fri_night.csv,none
+ag_passion_dalal_fri_night_favmenu,ليلة الجمعة | الحادية عشر,ليلة الجمعة | الحادية عشر,dalal_passion_fri_night_11th_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_fri_night.csv,none
+ag_passion_dalal_fri_night_favmenu,ليلة الجمعة | الطروحات,ليلة الجمعة | الطروحات,dalal_passion_friday_night_torohat_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_fri_night.csv,none
+ag_passion_dalal_fri_night_favmenu,طلبة المساء و الختام,طلبة المساء و الختام,dalal_passion_nighttelba_end_lib_menu,ag_passion2.png,none,none,none,none,none,none,dalal_passion_fri_night.csv,none
+ag_passion_dalal_written,يوم الجمعة العظيمة,يوم الجمعة العظيمة,ag_passion_dalal_fri_day_favmenu,ag_passion4.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_fri_day_favmenu,الجمعة العظيمة | باكر,الجمعة العظيمة | باكر,dalal_passion_friday_day_1st_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_fri_day.csv,none
+ag_passion_dalal_fri_day_favmenu,الجمعة العظيمة | الثالثة,الجمعة العظيمة | الثالثة,dalal_passion_friday_day_3rd_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_fri_day.csv,none
+ag_passion_dalal_fri_day_favmenu,الجمعة العظيمة | السادسة,الجمعة العظيمة | السادسة,dalal_passion_friday_day_6th_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_fri_day.csv,none
+ag_passion_dalal_fri_day_favmenu,الجمعة العظيمة | أمانة اللص اليمين,الجمعة العظيمة | أمانة اللص اليمين,dalal_passion_friday_day_6theif_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_fri_day.csv,none
+ag_passion_dalal_fri_day_favmenu,الجمعة العظيمة | التاسعة,الجمعة العظيمة | التاسعة,dalal_passion_friday_day_9th_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_fri_day.csv,none
+ag_passion_dalal_fri_day_favmenu,الجمعة العظيمة | الحادية عشر,الجمعة العظيمة | الحادية عشر,dalal_passion_friday_day_11th_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_fri_day.csv,none
+ag_passion_dalal_fri_day_favmenu,الجمعة العظيمة | الثانية عشر,الجمعة العظيمة | الثانية عشر,dalal_passion_friday_day_12th_lib_menu,ag_passion4.png,none,none,none,none,none,none,dalal_passion_fri_day.csv,none
+ag_passion_dalal_written,عيد القيامة المجيد,عيد القيامة المجيد,ag_passion_dalal_res_day_favmenu,ag_marad.png,none,none,none,none,none,none,open,none
+ag_passion_dalal_res_day_favmenu,عيد القيامة | القداس,عيد القيامة | القداس,dalal_passion_res_day_kodas_lib_menu,ag_marad.png,none,none,none,none,none,none,dalal_passion_res_day.csv,none

@@ -1,0 +1,264 @@
+<html>
+<head>
+<meta name=viewport content="width=device-width,initial-scale=1">
+ <link rel="stylesheet" href="style_xopoc.css">
+ <link rel="stylesheet" href="jquery-min.js">
+ <link rel="stylesheet" href="table_xopoc-min.js">
+<style>
+* {
+  box-sizing: border-box;
+}
+.bodyformat{
+font-family:"\.Arabic UI Text Medium";line-height:2.0;
+text-align: right;
+background-color: white;
+}
+
+.headformat {
+text-align: center;
+color: darkblue;
+background-color: white;
+top: 0;
+font-size: 20.0px;
+font-weight: bold;
+
+}
+.fixedtable{
+    position: sticky;
+    top: 0;
+}
+.headertable{
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+.searchtab{
+  background-color: white;
+  width: 100%;
+  height: 40px;
+  font-size: 16px;
+  border: 2px solid #ddd;
+  border-radius: 3px;
+}
+
+#myTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+
+#headTable {
+  border-collapse: collapse;
+  width: 100%;
+  border: 1px solid #ddd;
+  font-size: 18px;
+}
+#headTable th {
+  text-align: center;
+  padding: 12px;
+   border: 1px solid #ddd;
+   background-color: lightyellow;
+}
+#myTable th {
+  text-align: center;
+  padding: 12px;
+   border: 1px solid #ddd;
+   background-color: lightyellow;
+}
+#myTable td {
+  text-align: right;
+  padding: 12px;
+   border: 1px solid #ddd;
+   width: 50%
+ 
+}
+.clearbutton {
+    border: 0;
+    color: darkred;
+    font-weight: bold
+    font-size: 30px;
+    background-color: white;
+}
+
+.searchfiled{
+    text-align: right;
+    width:100%;
+    height: 100%;
+    font-weight: bold;
+    font-size: 16px;
+    border:0;
+}
+
+#myTable tr:nth-child(odd){background-color: #f2f2f2;}
+
+</style>
+</head>
+<body class="bodyformat">
+    <div class="fixedtable">
+<div class="headformat">اكسيا / اكسيوس | التماجيد</div>
+<table class="searchtab"><tr>
+    <td style="width:auto;text-align:center;">
+<button id="clear_button" class="clearbutton" onclick="myInput.value='';myfiltertable();">×</button>
+</td><td style="width:90%;"><input class="searchfiled" type="text" id="myInput" onkeyup="myfiltertable()" placeholder=" بحث عن اسم او كلمات من مرد" title="اكتب اسم او مرد">
+</td>
+</tr>
+</table>
+<table id="headTable">
+  <tr>
+    <th style="width:50%; color: crimson;">اكسيا / اكسيوس</th>
+    <th style="width:50%; color: crimson;">القديسة / القديس</th>
+    </tr>
+    </table>
+    </div>
+<table id="myTable">
+<tr><td>ابادير نيم ايرائى تيف سونى</td><td style="color: darkblue;">ابادير وايرائى اخته  </td></tr>
+<tr><td>ابسخيرون بي ريم قلين</td><td style="color: darkblue;">اباسخيرون القلينى </td></tr>
+<tr><td>بينيوت اباكراجون بي موناخوس</td><td style="color: darkblue;">اباكراجون البتانونى</td></tr>
+<tr><td>بي اثؤواب آفا كلوج بي ابريسفيتروس</td><td style="color: darkblue;">اباكلوج القس</td></tr>
+<tr><td>كيرى ابانوب إن نهيسى</td><td style="color: darkblue;">ابانوب النهيسي</td></tr>
+<tr><td>بي اثؤواب آفا هور</td><td style="color: darkblue;">اباهور البهجورى</td></tr>
+<tr><td>افا قسطور بى ابرسفى تيروس</td><td style="color: darkblue;">ابو قسطور القس</td></tr>
+<tr><td>بى اجيوس ابا قسطور بى ابريسفيتيروس</td><td style="color: darkblue;">ابو قسطور القس </td></tr>
+<tr><td>آفا نوفير بى أنا خوريتيس</td><td style="color: darkblue;">ابو نفر السائح</td></tr>
+<tr><td>بينيوت فلتاؤس بى موناخوس</td><td style="color: darkblue;">ابونا  فلتاؤس السريانى</td></tr>
+<tr><td>بينيوت اندراوس بي موناخوس</td><td style="color: darkblue;">ابونا اندراوس الصموئيلى </td></tr>
+<tr><td>بينيوت بيشوى كامل بى هيغومينوس</td><td style="color: darkblue;">ابونا بيشوى كامل </td></tr>
+<tr><td>سيوس بينيوت عبد المسيح بي موناخوس</td><td style="color: darkblue;">ابونا عبد المسيح المناهرى</td></tr>
+<tr><td>بينيوت ميخائيل ابراهيم بى هيغومينوس</td><td style="color: darkblue;">ابونا ميخائيل ابراهيم</td></tr>
+<tr><td>بنيوت ميخائيل بى هيغومينوس</td><td style="color: darkblue;">ابونا ميخائيل البحيرى </td></tr>
+<tr><td>بنيوت أفــا يسطس بي موناخوس</td><td style="color: darkblue;">ابونا يسطس الانطونى </td></tr>
+<tr><td>بينيوت يسي ميخائيل بى هيغومينوس</td><td style="color: darkblue;">ابونا يسى ميخائيل</td></tr>
+<tr><td>بينيوت يوسف اسعد بى هيغومينوس</td><td style="color: darkblue;">ابونا يوسف اسعد  </td></tr>
+<tr><td>بى آجيوس فام بي ريم اوسيم</td><td style="color: darkblue;">ابى فام الجندى </td></tr>
+<tr><td>استفانوس بي شورب مارتيروس</td><td style="color: darkblue;">استفانوس رئيس الشمامسة</td></tr>
+<tr><td>بي آجيوس إيسآك بي مارتيروس</td><td style="color: darkblue;">اسحق الدفراوى الشهيد</td></tr>
+<tr><td>آلى أوي انتى بيت لائيم</td><td style="color: darkblue;">اطفال بيت لحم الشهداء</td></tr>
+<tr><td>بينيوت إثؤاب أفا أغسطينوس</td><td style="color: darkblue;">اغسطينوس</td></tr>
+<tr><td>آفا فينى بي ميندريتيس</td><td style="color: darkblue;">افا فانا المتوحد  </td></tr>
+<tr><td>كيرى اكلافذيوس بى ستراتلاتيس</td><td style="color: darkblue;">اقلاديوس الامير</td></tr>
+<tr><td>تي آجيا إمى دولاجى</td><td style="color: darkblue;">الام دولاجى واولادها الاربعة</td></tr>
+<tr><td>بي افتو انزو اون ان اسوماطوس</td><td style="color: darkblue;">الأربعة أحياء غير المتجسدة</td></tr>
+<tr><td>تى آجيا إممى إيرينى.</td><td style="color: darkblue;">الأم ايرينى</td></tr>
+<tr><td>بابا آفا أثناسيوس بي ابوسطوليكوس</td><td style="color: darkblue;">البابا اثناسيوس الرسولى</td></tr>
+<tr><td>آفا بطرس ييرو مارتيروس</td><td style="color: darkblue;">البابا بطرس خاتم الشهداء</td></tr>
+<tr><td>آفا ديسقوروس بي باتريرشيس</td><td style="color: darkblue;">البابا ديسقوروس الـ 25</td></tr>
+<tr><td>أفا ديمتريوس بي باتريرشيس</td><td style="color: darkblue;">البابا ديمتريوس الكرام</td></tr>
+<tr><td>بابا أفا شنوده بي ما شومت</td><td style="color: darkblue;">البابا شنودة الثالث</td></tr>
+<tr><td>بنيوت اثؤواب بابا آفاكيرلس بى ماسؤو</td><td style="color: darkblue;">البابا كيرلس السادس</td></tr>
+<tr><td>شيرى ناك اوبى استافروس السلام لك أيها الصليب</td><td style="color: darkblue;">الصليب المقدس  </td></tr>
+<tr><td>اكسيوس آفا أبرآم بى ابيسكوبوس</td><td style="color: darkblue;">انبا ابرام اسقف الفيوم</td></tr>
+<tr><td>بينيوت اثؤواب آفا أرساني</td><td style="color: darkblue;">انبا ارسانيوس معلم اولاد الملوك</td></tr>
+<tr><td>آفا أنطونى بى خيبس إنتى تى ميت موناخوس</td><td style="color: darkblue;">انبا انطونيوس </td></tr>
+<tr><td>آفا باخوم فاتي كينونيا</td><td style="color: darkblue;">انبا باخوميوس اب الشركة</td></tr>
+<tr><td>أفــا بسادى بي مارتيروس</td><td style="color: darkblue;">انبا بساده</td></tr>
+<tr><td>إبشاى نيم بطرس نى مارتيروس</td><td style="color: darkblue;">انبا بشاى وصديقه انبا بطرس</td></tr>
+<tr><td>آفا بلامون بي انا خوريتيس</td><td style="color: darkblue;">انبا بلامون السائح</td></tr>
+<tr><td>آفا بافلى بي ريم طموه</td><td style="color: darkblue;">انبا بولا الطموهى</td></tr>
+<tr><td>بافلى بى ارشى أنا خوريتيس افا</td><td style="color: darkblue;">انبا بولا اول السواح </td></tr>
+<tr><td>آفا بيشوى بى منريت إنتى بي خرستوس</td><td style="color: darkblue;">انبا بيشوى حامل المسيح</td></tr>
+<tr><td>أفــا تكلا هيمانوت بي انسكيتيس</td><td style="color: darkblue;">انبا تكلا هيمانوت </td></tr>
+<tr><td>آفا توماس بي أنا خوريتيس</td><td style="color: darkblue;">انبا توماس السائح</td></tr>
+<tr><td>آفا تيجي ثيئوفانيوس</td><td style="color: darkblue;">انبا رويس</td></tr>
+<tr><td>آفا شنوده بى أرشي ميندريتيس</td><td style="color: darkblue;">انبا شنوده رئيس المتوحدين</td></tr>
+<tr><td>آفــا صرابامون بي ابيسكوبس</td><td style="color: darkblue;">انبا صرابامون ابو طرحه</td></tr>
+<tr><td>بينيوت اثؤواب آفا صرابامون بي مارتيروس</td><td style="color: darkblue;">انبا صرابامون الشهيد</td></tr>
+<tr><td>أفــاصموئيل بى امولوجيتيس</td><td style="color: darkblue;">انبا صموئيل المعترف </td></tr>
+<tr><td>آفا قلته بي مارتيروس</td><td style="color: darkblue;">انبا قلته الطبيب</td></tr>
+<tr><td>افا كاراس بي انا خوريتيس</td><td style="color: darkblue;">انبا كاراس السائح</td></tr>
+<tr><td>آجيوس افا متاؤس بي</td><td style="color: darkblue;">انبا متاؤس الفاخورى </td></tr>
+<tr><td>سيوس بينيوت اثؤواب آفا مقروفيوس</td><td style="color: darkblue;">انبا مقروفيوس</td></tr>
+<tr><td>بينيوت إثؤاب أفا مكاريوس بي ابيسكوبوس</td><td style="color: darkblue;">انبا مكاريوس اسقف قنا </td></tr>
+<tr><td>بينيوت اثؤواب آفا مكاريوس</td><td style="color: darkblue;">انبا مكاريوس الكبير</td></tr>
+<tr><td>بي اثؤواب آفا موسي بي جوري</td><td style="color: darkblue;">انبا موسى الاسود</td></tr>
+<tr><td>بنيوت اثؤاب آفا مينا بي ابيسكوبس</td><td style="color: darkblue;">انبا مينا افا مينا</td></tr>
+<tr><td>أفــا هدرا بى انا خوريتيس</td><td style="color: darkblue;">انبا هدرا السائح </td></tr>
+<tr><td>أفــا بى انا هرمينا خوريتيس</td><td style="color: darkblue;">انبا هرمينا السائح </td></tr>
+<tr><td>آفا يوأنس بي كولوفوس</td><td style="color: darkblue;">انبا يحنس القصير</td></tr>
+<tr><td>بينيوت إثؤاب أفا يوساب بي ابيسكوبوس</td><td style="color: darkblue;">انبا يوساب الأبح </td></tr>
+<tr><td>اندراوس بى ابوسطولوس</td><td style="color: darkblue;">اندراوس الرسول </td></tr>
+<tr><td>بي اثؤواب آفا إيسيذوروس</td><td style="color: darkblue;">ايسيذوروس قس القلالى</td></tr>
+<tr><td>تى آجيا إمي ايلارية</td><td style="color: darkblue;">ايلارية القديسة</td></tr>
+<tr><td>نى آجيي إممى برباري نيم يولياني</td><td style="color: darkblue;">برباره والشهيدة يوليانه </td></tr>
+<tr><td>برثلماوس بى ابوسطولوس</td><td style="color: darkblue;">برثلماوس الرسول</td></tr>
+<tr><td>آفا بيسنتي بي</td><td style="color: darkblue;">بسنتاؤس اسقف قفط</td></tr>
+<tr><td>بي آجيوس آفا بشنونة بي مارتيروس</td><td style="color: darkblue;">بشنونة المقارى</td></tr>
+<tr><td>بقطر بي ريم شو</td><td style="color: darkblue;">بقطر شو</td></tr>
+<tr><td>تى آجيا امي بيلاجيا</td><td style="color: darkblue;">بيلاجيا التائبة</td></tr>
+<tr><td>آفا ثيئودوروس بى ستراتيلاتيس</td><td style="color: darkblue;">تادرس الشطبى</td></tr>
+<tr><td>آفا ثيئودوروس</td><td style="color: darkblue;">تادرس المشرقى</td></tr>
+<tr><td>بي آجيوس تداوس</td><td style="color: darkblue;">تداوس (يهوذا) الرسول</td></tr>
+<tr><td>بي آجيوس توما بي ابسطولوس</td><td style="color: darkblue;">توما الرسول</td></tr>
+<tr><td>يواقيم نيم حنة</td><td style="color: darkblue;">حنة والدة العذراء</td></tr>
+<tr><td>تى آجيا إمي دمياني</td><td style="color: darkblue;">دميانة والاربعين عذراء </td></tr>
+<tr><td>ديسقورس نيم اسكلابيوس ني مارتيروس</td><td style="color: darkblue;">ديسقورس واسكلابيوس</td></tr>
+<tr><td>تي آجيا إمي رفقة</td><td style="color: darkblue;">رفقة وأولادها الخمسة</td></tr>
+<tr><td>افا سيفيروس بي ريم إنطاكيا</td><td style="color: darkblue;">ساويرس الانطاكى </td></tr>
+<tr><td>بي آجيوس سيدهم بشاى بي مارتيروس</td><td style="color: darkblue;">سيدهم بشاى</td></tr>
+<tr><td>ني مارتيروس بي ريم اخميم</td><td style="color: darkblue;">شهداء اخميم </td></tr>
+<tr><td>بي إهميه إبسيت إمارتيروس ني خيلوي إنتى شيهيت</td><td style="color: darkblue;">شهداء شيوخ شيهيت</td></tr>
+<tr><td>نى مارتيروس ان تى ليبيا</td><td style="color: darkblue;">شهداء مصر فى ليبيا </td></tr>
+<tr><td>اونيفيرى اممارتيروس بسطافروس</td><td style="color: darkblue;">صليب الجديد بستافروس الشهيد</td></tr>
+<tr><td>تى آجيا إمي صوفيا</td><td style="color: darkblue;">صوفيا وبناتها </td></tr>
+<tr><td>تى آجيا إمى فبرونيا</td><td style="color: darkblue;">فبرونيا الراهبة</td></tr>
+<tr><td>بي اثؤواب فيلوباتير مرقوريوس</td><td style="color: darkblue;">فيلوباتير مرقوريوس ابي سيفين</td></tr>
+<tr><td>بي أجيوس فيلوثاؤس بي مارتيروس</td><td style="color: darkblue;">فيلوثاؤس الشهيد</td></tr>
+<tr><td>قزمان نيم نيف إسنيو نيم توماف</td><td style="color: darkblue;">قزمان ودميان</td></tr>
+<tr><td>كبريانوس نيم يوستينا</td><td style="color: darkblue;">كبريانوس ويوستينا  </td></tr>
+<tr><td>بي آجيوس لعازر بي ابيسكوبس</td><td style="color: darkblue;">لعازر حبيب الرب</td></tr>
+<tr><td>بي آجيوس لوقا بي ابوسطولوس</td><td style="color: darkblue;">لوقا الطبيب</td></tr>
+<tr><td>باشيوس ابؤرور جاورجيوس</td><td style="color: darkblue;">مارجرجس الرومانى</td></tr>
+<tr><td>بى آجيوس آفا جورجيوس</td><td style="color: darkblue;">مارجرجس السكندرى</td></tr>
+<tr><td>بي آجيوس جورجيوس</td><td style="color: darkblue;">مارجرجس المزاحم</td></tr>
+<tr><td>مينا ان تى نى فايات</td><td style="color: darkblue;">مارمينا العجايبى</td></tr>
+<tr><td>تى آجيا إممى مارينا</td><td style="color: darkblue;">مارينا الشهيدة</td></tr>
+<tr><td>ماماس بى مارتيروس</td><td style="color: darkblue;">ماما - مماس</td></tr>
+<tr><td>بي آجيوس ماتثيون بى ابوسطولوس</td><td style="color: darkblue;">متى الانجيلى</td></tr>
+<tr><td>بي آجيوس مرقس بي ابوسطولوس</td><td style="color: darkblue;">مرقس الانجيلى</td></tr>
+<tr><td>تى آجيا ماريا تى بارثينوس</td><td style="color: darkblue;">مريم العذراء</td></tr>
+<tr><td>تى آجيا ماريا</td><td style="color: darkblue;">مريم المصرية السائحة</td></tr>
+<tr><td>نينيوتى اثؤواب مكسيموس نيم دوماديوس</td><td style="color: darkblue;">مكسيموس ودوماديوس </td></tr>
+<tr><td>سورييل بي نيشتى إن أرشى أنجيلوس</td><td style="color: darkblue;">ملاك سوريال </td></tr>
+<tr><td>غبرييل بي نيشتى إن أرشي أنجيلوس</td><td style="color: darkblue;">ملاك غبريال</td></tr>
+<tr><td>ميخائيل بى نيشتى إن ارشى أنجيلوس</td><td style="color: darkblue;">ملاك ميخائيل</td></tr>
+<tr><td>آجيا مهرائيل</td><td style="color: darkblue;">مهرائيل الشهيدة</td></tr>
+<tr><td>بى منريت ام مارتيروس بى اثؤواب موريس</td><td style="color: darkblue;">موريس قائد الكتيبه الطيبيه  </td></tr>
+<tr><td>إيلانى تي اورو</td><td style="color: darkblue;">هيلانة الملكة</td></tr>
+<tr><td>نى آجيوس سرجيوس نيم واخس</td><td style="color: darkblue;">واخس وسرجيوس</td></tr>
+<tr><td>واسيليدس بى مارتيروس</td><td style="color: darkblue;">واسيليدس الوزير الشهيد</td></tr>
+<tr><td>أفــا يؤانس كامى بى ابريسفيتيروس</td><td style="color: darkblue;">يحنس كاما</td></tr>
+<tr><td>بي آجيوس ياكوب بي مارتيروس</td><td style="color: darkblue;">يعقوب المقطع </td></tr>
+<tr><td>بي آجيوس ياكوب بي ابوسطولوس</td><td style="color: darkblue;">يعقوب بن زبدى الرسول</td></tr>
+<tr><td>يوأنس بي إيف انجيليون</td><td style="color: darkblue;">يوحنا الانجيلى </td></tr>
+<tr><td>يؤانس بى إبروذروموس</td><td style="color: darkblue;">يوحنا المعمدان</td></tr>
+<tr><td>آفا يوأنس بي بي ريم هرقلى</td><td style="color: darkblue;">يوحنا الهرقلى</td></tr>
+<tr><td>آفا يوأ نس اخرزوستوموس</td><td style="color: darkblue;">يوحنا ذهبى الفم</td></tr>
+<tr><td>نى مارتيروس أفا يوليوس</td><td style="color: darkblue;">يوليوس الاقفهصي  </td></tr>
+
+
+</table>
+
+<script>
+function myfiltertable() {
+  var input, filter, table, tr, td, i, txtValue;
+  input = document.getElementById("myInput");
+  filter = input.value.toUpperCase();
+  table = document.getElementById("myTable");
+  tr = table.getElementsByTagName("tr");
+  for (i = 0; i < tr.length; i++) {
+    td = tr[i];
+    if (td) {
+      txtValue = td.textContent || td.innerText;
+      if (txtValue.toUpperCase().indexOf(filter) > -1) {
+        tr[i].style.display = "";
+      } else {
+        tr[i].style.display = "none";
+    }
+    }  
+  }
+}
+</script>
+
+</body>
+</html>

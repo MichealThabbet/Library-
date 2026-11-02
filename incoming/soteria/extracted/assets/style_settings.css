@@ -1,0 +1,33 @@
+#settingsBtn {
+  position: fixed;
+  top: 10px;
+  right: 10px;
+  z-index: 1000;
+  background: black;
+  color: white;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#settingsMenu {
+  display: none;
+  position: fixed;
+  top: 50px;
+  right: 10px;
+  background: #fff;
+  border: 1px solid #ccc;
+  padding: 10px;
+  z-index: 1001;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.illustration {
+  display: block;
+  margin: 20px auto;
+  max-width: 100%;
+ 
+  border-radius: 10px;
+}

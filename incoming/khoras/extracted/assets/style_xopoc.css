@@ -1,0 +1,201 @@
+
+/*
+================================
+Embedded fonts
+================================
+*/
+@font-face  {
+    font-family: 'Avva_Shenouda';
+    src: url('Avva_shenouda.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+	line-height:1.8;
+	}
+@font-face  {
+    font-family: 'CS Avva Shenouda';
+    src: url('cs_avva_shenouda.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+}
+@font-face  {
+    font-family: 'copticreader';
+    src: url('copicreader.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+}
+@font-face  {
+    font-family: 'copfont';
+    src: url('cs_avva_shenouda.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+}
+@font-face  {
+    font-family: '\.Arabic UI Text Medium';
+    src: url('iphonefontur.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+}
+@font-face  {
+    font-family: 'xopoc_iphone';
+    src: url('iphonefontur.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+}
+
+@font-face {
+  font-family: 'YourFont';
+  src: url('GE_SS_Two_Medium.otf')
+ /*src: url('GE_SS_Two_Medium.woff') format('woff'), 
+   url('GE_SS_Two_Medium.otf') format('truetype'); */
+}  
+
+@font-face {
+  font-family: 'headfont';
+  src: url('font14.ttf')
+ /*src: url('font14.woff') format('woff'), 
+   url('font14.ttf') format('truetype'); */
+}
+
+@font-face {
+  font-family: 'arabfont';
+  src: url('font11.ttf')
+ /*src: url('font11.woff') format('woff'), 
+   url('font11.ttf') format('truetype'); */
+}
+
+@font-face {
+  font-family: 'mofont';
+  src: url('font11.ttf')
+ /*src: url('font11.woff') format('woff'), 
+   url('font11.ttf') format('truetype'); */
+}
+
+@font-face {
+  font-family: 'bodyfont';
+  src: url('font1.ttf')
+ /*src: url('font1.woff') format('woff'), 
+   url('font1.ttf') format('truetype'); */
+}
+
+@font-face {
+  font-family: 'agpeya_font';
+  src: url('font6.ttf')
+ /*src: url('font6.woff') format('woff'), 
+   url('font6.ttf') format('truetype'); */
+}
+
+@font-face {
+    font-family: 'CS New Athanasius';
+    src: url('cs_new_athanasius.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Athanasius';
+    src: url('athansious.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Hazzat';  
+    src: url('hazzat1_10a.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Hazzat Vertical';
+    src: url('hazzatv.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Hazzat Arabic';
+    src: url('hazzata.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Hazzat Vertical Arabic';
+    src: url('hazzatva.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+.priest_solo1 {
+  overflow: hidden;
+  padding: 0px;
+  text-align: justify;
+  color: darkblue;
+  background-color: #EBF7FF;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  }
+.priest_solo2 {
+  overflow: hidden;
+  padding: 0px;
+  text-align: justify;
+  color: darkblue;
+  background-color: #EBF7FF;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  font-family:"\.Arabic UI Text Medium";line-height:2.0;
+  }
+.pray_head1 {
+  padding:0;
+  margin: 0;
+  background: darkred;
+  text-align: center;
+  color: yellow;
+  width: 100%;
+  }
+
+.pray_head2 {
+  padding:0;
+  margin: 0;
+  background: darkred;
+  text-align: center;
+  font-family:"\.Arabic UI Text Medium";line-height:2.0;
+  color: yellow;
+  width: 100%;
+  }
+
+/*
+================================
+Hymn text Styles
+================================
+.HymnTitle    { COLOR: navy; text-decoration: none; font-family: ARIAL,verdana; FONT-WEIGHT: bold; background-color: #EFF3FB; margin-top: 7px; margin-bottom: 7px; padding-top: 7px; padding-bottom: 7px; }
+
+*/
+
+.HymnTitle { padding:0px 0px 22px; font-family: "Trajan Pro"; font-weight:700; padding-bottom:10px; }
+
+
+.CopticFont   { COLOR: BLACK; text-decoration: none; font-family: 'CS Avva Shenouda';line-height:30px;}
+.CopticAtha   { COLOR: BLACK; text-decoration: none; font-family: 'Athanasius';line-height:30px;}
+.CopticReader   { COLOR: BLACK; text-decoration: none; font-family: 'copticreader';line-height:30px;}
+.arabfont   { COLOR: darkblue; text-decoration: none; font-family: 'arabfont'; text-align:right; direction:rtl}
+.arabfontblack   { COLOR: black; text-decoration: none; font-family: 'arabfont'; text-align:right; direction:rtl}
+.HazzatFont   { COLOR: BLACK; text-decoration: none; font-family: 'Hazzat';}
+.HazzatVFont  { COLOR: BLACK; text-decoration: none; font-family: 'Hazzat Vertical';}
+.HazzatAFont  { COLOR: BLACK; text-decoration: none; font-family: 'Hazzat Arabic';text-align:right;direction:rtl;}
+.HazzatVAFont { COLOR: BLACK; text-decoration: none; font-family: 'Hazzat Vertical Arabic';text-align:right;direction:rtl;}
+.EnglishFont  { COLOR: BLACK; text-decoration: none; font-family: ARIAL,verdana;}
+.ArabicFont   { COLOR: BLACK; text-decoration: none; font-family: 'Arabic Transparent';text-align:right;direction:rtl;}
+.EnglishComment  { COLOR: RED; text-decoration: none; font-family: ARIAL,verdana;font-style:italic;}
+.CopticComment   { COLOR: RED; text-decoration: none; font-family: 'CS Avva Shenouda', 'CS New Athanasius'; font-style: italic;}
+.ArabicComment   { COLOR: RED; text-decoration: none; font-family: 'Arabic Transparent'; font-style: italic;text-align:right;direction:rtl;}
+.HymnList { width: 14px; border: 0px none transparent; }
+
+.body{
+	line-height:2.0;
+}
+html {
+   -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently */
+			}

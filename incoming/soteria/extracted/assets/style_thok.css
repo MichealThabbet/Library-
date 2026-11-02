@@ -1,0 +1,220 @@
+:root {
+  --primary-color: #3f51b5;
+  --secondary-color: #4CAF50;
+  --accent-color: #FF5722;
+  --dark-color: #2c3e50;
+  --light-color: #f5f7fa;
+  --text-color: #333;
+  --border-radius: 12px;
+  --box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+  --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+  --orange-color: #FF9800;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 1vh;
+  margin: 0px;
+  padding: 20px;
+  background: var(--light-color);
+  font-family: 'Tajawal', sans-serif;
+  color: var(--text-color);
+  text-align: center;
+}
+
+.container {
+  width: 100%;
+  max-width: 500px;
+  background: white;
+  border-radius: var(--border-radius);
+  box-shadow: var(--box-shadow);
+  padding: 30px;
+  margin: 0px 0;
+}
+
+h1 {
+  color: var(--primary-color);
+  margin: 0 0 2px 0;
+  font-size: 2.2rem;
+  font-weight: 700;
+}
+
+h4 {
+  color: blue;
+  margin: 0 0 2px 0;
+  font-size: 1.0rem;
+  font-weight: 700;
+}
+
+.header {
+  margin-bottom: 30px;
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 15px;
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+  gap: 0px;
+}
+
+label {
+  font-size: 1.1rem;
+  font-weight: 500;
+  color: var(--dark-color);
+}
+
+#maxValue {
+  font-size: 1.1rem;
+  padding: 10px 15px;
+  width: 100px;
+  border: 2px solid #e0e0e0;
+  border-radius: var(--border-radius);
+  text-align: center;
+  transition: var(--transition);
+  font-family: 'Tajawal', sans-serif;
+  background-color: #f0f0f0;
+}
+
+#counter {
+  font-size: 5rem;
+  font-weight: 700;
+  margin: 10px 0;
+  padding: 30px;
+  border-radius: var(--border-radius);
+  background-color: #f8f9fa;
+  box-shadow: var(--box-shadow);
+  transition: var(--transition);
+  color: darkred;
+  width:50%;
+  border: 1px solid #e0e0e0;
+}
+
+.orange {
+  background-color: var(--orange-color) !important;
+  color: white !important;
+  transform: scale(1.02);
+  box-shadow: 0 10px 25px rgba(255, 152, 0, 0.3);
+}
+
+.green {
+  background-color: var(--secondary-color) !important;
+  color: white !important;
+  transform: scale(1.02);
+  box-shadow: 0 10px 25px rgba(76, 175, 80, 0.3);
+}
+
+#button {
+  font-size: 1.8rem;
+  padding: 25px;
+  border: none;
+  border-radius: var(--border-radius);
+  background-color: var(--primary-color);
+  color: white;
+  cursor: pointer;
+  transition: var(--transition);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+  font-weight: 700;
+  margin-top: 0px;
+  width: 70%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 5.0rem;
+}
+
+#button:hover {
+  background-color: #3949ab;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+}
+
+#button:active {
+  transform: translateY(0);
+  box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+}
+
+#button:disabled {
+  background-color: #b0bec5;
+  cursor: not-allowed;
+  transform: none;
+  box-shadow: none;
+}
+
+.reset-btn {
+  padding: 12px 25px;
+  background-color: var(--accent-color);
+  color: white;
+  border: none;
+  border-radius: var(--border-radius);
+  cursor: pointer;
+  font-size: 0.8rem;
+  font-weight: 500;
+  transition: var(--transition);
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+
+  max-width: 200px;
+}
+
+.reset-btn:hover {
+  background-color: #e64a19;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+}
+
+.divider {
+  height: 1px;
+  background: #e0e0e0;
+  margin: 2px 0;
+  width: 100%;
+}
+
+.completion-message {
+  font-size: 1.0rem;
+  font-weight: bold;
+  color:black;
+  margin-top: 20px;
+  padding: 15px;
+  border-radius: var(--border-radius);
+  background-color: rgba(76, 175, 80, 0.1);
+  display: none;
+}
+
+@media (max-width: 600px) {
+  .container {
+      padding: 20px;
+  }
+  
+  h1 {
+      font-size: 1.8rem;
+  }
+  
+  #counter {
+      font-size: 4rem;
+      padding: 20px;
+  }
+  
+  #button {
+      font-size: 1.0rem;
+      height: 5.0rem;
+  }
+}
+
+/* Animation for counter change */
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+  100% { transform: scale(1); }
+}
+
+.counter-change {
+  animation: pulse 0.5s ease;
+}

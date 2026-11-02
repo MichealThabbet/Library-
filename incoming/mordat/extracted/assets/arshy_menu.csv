@@ -1,0 +1,18 @@
+master_code,item_name,item_title,item_code,item_image,item_text,item_mp3,item_pdf,item_note,item_online_mp3,item_book,item_csvfile
+mainmenu,مردات الشماس داخل الهيكل,مردات الشماس داخل الهيكل,ag_insidehekal_favmenu,ag_marad.png,none,none,none,none,none,none,none
+mainmenu,دلـــيـل الشـــــمـاس,دلـــيـل الشـــــمـاس,ag_encylopedia,ag_deacon.png,none,none,none,none,none,none,none
+mainmenu,المفـــضـــــلة,المفـــضـــــلة,ag_favorite,ag_favorite.png,none,none,none,none,none,none,none
+none,صلوات مجمعة,صلوات مجمعة,ag_combine_favmenu,ag_combine_dark.png,full_notifier,none,none,none,none,none,none
+mainmenu,تحديث محتوى,تحديث محتوى,ag_download,ag_download.png,none,none,none,none,none,none,none
+mainmenu,الاعدادات,الاعدادات,ag_settings,ag_settings.png,none,none,none,none,none,none,none
+mainmenu,مشاركة البرنامج,مشاركة البرنامج,ag_share,ag_share_b.png,none,none,none,none,none,none,none
+mainmenu,تقييم البرنامج,تقييم البرنامج,ag_rate,ag_rate_b.png,none,none,none,none,none,none,none
+mainmenu,حول البرنامج,حول البرنامج,ag_about,ag_about_b.png,none,none,none,none,none,none,none
+mainmenu,برامج اخرى,برامج اخرى,ag_others,ag_apps_b.png,none,none,none,none,none,none,none
+mainmenu,تواصل معنا,تواصل معنا,ag_contactus,ag_contactus_b.png,none,none,none,none,none,none,none
+ag_insidehekal_favmenu,رفع بخور عشية,رفع بخور عشية | مردات الشماس,dec_vesp_coptic,dec_vesp.png,none,none,none,none,none,none,arshy_master_new.csv
+ag_insidehekal_favmenu,رفع بخور باكر,رفع بخور باكر | مردات الشماس,dec_matin_coptic,dec_matin.png,none,none,none,none,none,none,arshy_master_new.csv
+ag_insidehekal_favmenu,طقس تقديم الحمل,طقس تقديم الحمل | مردات الشماس,dec_bread_coptic,dec_bread.png,none,none,none,none,none,none,arshy_master_new.csv
+ag_insidehekal_favmenu,طقس قداس الموعوظين,طقس قداس الموعوظين | مردات الشماس,dec_maoz_coptic,dec_maoz.png,none,none,none,none,none,none,arshy_master_new.csv
+ag_insidehekal_favmenu,طقس قداس المؤمنين,طقس قداس المؤمنين | مردات الشماس,dec_momen_coptic,dec_momen.png,none,none,none,none,none,none,arshy_master_new.csv
+ag_encylopedia,الموسوعة المصورة,الموسوعة المصورة,ency_illust,dec_momen.png,none,none,none,none,none,none,arshy_master_new.csv

@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>عداد كيراليسون</title>
+    <link href="https://fonts.googleapis.com/css2?family=Tajawal:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #3f51b5;
+            --secondary-color: #4CAF50;
+            --accent-color: #FF5722;
+            --dark-color: #2c3e50;
+            --light-color: #f5f7fa;
+            --text-color: #333;
+            --border-radius: 12px;
+            --box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+            --transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1);
+        }
+        
+        body {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 1vh;
+            margin: 0px;
+            padding: 20px;
+            background: var(--light-color);
+            font-family: 'Tajawal', sans-serif;
+            color: var(--text-color);
+            text-align: center;
+        }
+        
+        .container {
+            width: 100%;
+            max-width: 500px;
+            background: white;
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+            padding: 30px;
+            margin: 0px 0;
+        }
+        
+        h1 {
+            color: var(--primary-color);
+            margin: 0 0 2px 0;
+            font-size: 2.2rem;
+            font-weight: 700;
+        }
+        
+        .header {
+            margin-bottom: 30px;
+        }
+        
+        .controls {
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            gap: 15px;
+        }
+        
+        .input-group {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        label {
+            font-size: 1.1rem;
+            font-weight: 500;
+            color: var(--dark-color);
+        }
+        
+        #maxValue {
+            font-size: 1.1rem;
+            padding: 10px 15px;
+            width: 100px;
+            border: 2px solid #e0e0e0;
+            border-radius: var(--border-radius);
+            text-align: center;
+            transition: var(--transition);
+            font-family: 'Tajawal', sans-serif;
+        }
+        
+        #maxValue:focus {
+            outline: none;
+            border-color: var(--primary-color);
+            box-shadow: 0 0 0 3px rgba(63, 81, 181, 0.2);
+        }
+        
+        #counter {
+            font-size: 5rem;
+            font-weight: 700;
+            margin: 10px 0;
+            padding: 30px;
+            border-radius: var(--border-radius);
+            background-color: #f8f9fa;
+            box-shadow: var(--box-shadow);
+            transition: var(--transition);
+            color: var(--text-color);
+            border: 1px solid #e0e0e0;
+        }
+        
+        .green {
+            background-color: var(--secondary-color) !important;
+            color: white !important;
+            transform: scale(1.02);
+            box-shadow: 0 10px 25px rgba(76, 175, 80, 0.3);
+        }
+        
+        #button {
+            font-size: 1.8rem;
+            padding: 25px;
+            border: none;
+            border-radius: var(--border-radius);
+            background-color: var(--primary-color);
+            color: white;
+            cursor: pointer;
+            transition: var(--transition);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+            font-weight: 700;
+            margin-top: 0px;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 120px;
+        }
+        
+        #button:hover {
+            background-color: #3949ab;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0,0,0,0.2);
+        }
+        
+        #button:active {
+            transform: translateY(0);
+            box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+        }
+        
+        #button:disabled {
+            background-color: #b0bec5;
+            cursor: not-allowed;
+            transform: none;
+            box-shadow: none;
+        }
+        
+        .reset-btn {
+         
+            padding: 12px 25px;
+            background-color: var(--accent-color);
+            color: white;
+            border: none;
+            border-radius: var(--border-radius);
+            cursor: pointer;
+            font-size: 1.1rem;
+            font-weight: 500;
+            transition: var(--transition);
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            width: 100%;
+            max-width: 200px;
+        }
+        
+        .reset-btn:hover {
+            background-color: #e64a19;
+            transform: translateY(-2px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.15);
+        }
+        
+        .divider {
+            height: 1px;
+            background: #e0e0e0;
+            margin: 2px 0;
+            width: 100%;
+        }
+        
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+            }
+            
+            h1 {
+                font-size: 1.8rem;
+            }
+            
+            #counter {
+                font-size: 4rem;
+                padding: 20px;
+            }
+            
+            #button {
+                font-size: 1.5rem;
+                height: 200px;
+            }
+        }
+        
+        /* Animation for counter change */
+        @keyframes pulse {
+            0% { transform: scale(1); }
+            50% { transform: scale(1.05); }
+            100% { transform: scale(1); }
+        }
+        
+        .counter-change {
+            animation: pulse 0.5s ease;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>عداد كيراليسون</h1>
+            <label for="maxValue">الحد الأقصى</label>
+            <div class="controls">
+                <div class="input-group">
+                    <input type="number" id="maxValue" value="100" min="1">
+                </div>
+            </div>
+        </div>
+        <button class="reset-btn" id="resetButton">إعادة تعيين</button>
+        <div id="counter">0</div>
+        
+        <div class="divider"></div>
+        
+        <button id="button">كيراليسون</button>
+       
+    </div>
+
+    <script>
+        let count = 0;
+        const counterElement = document.getElementById('counter');
+        const button = document.getElementById('button');
+        const maxValueInput = document.getElementById('maxValue');
+        const resetButton = document.getElementById('resetButton');
+        
+        function updateButtonState() {
+            let maxValue = parseInt(maxValueInput.value) || 100;
+            if (count >= maxValue) {
+                button.disabled = true;
+                counterElement.classList.add('green');
+                if (navigator.vibrate) {
+                    navigator.vibrate([200, 100, 200]);
+                }
+            } else {
+                button.disabled = false;
+                counterElement.classList.remove('green');
+            }
+        }
+
+        function animateCounter() {
+            counterElement.classList.add('counter-change');
+            setTimeout(() => {
+                counterElement.classList.remove('counter-change');
+            }, 500);
+        }
+        
+        button.addEventListener('click', () => {
+    let maxValue = parseInt(maxValueInput.value) || 100;
+    if (count < maxValue) {
+        count++;
+        counterElement.textContent = count;
+        animateCounter();
+        
+        // Vibrate on every click
+        if (navigator.vibrate) {
+            navigator.vibrate(100); // vibrates for 100 milliseconds
+        }
+    }
+    updateButtonState();
+});
+
+        
+        resetButton.addEventListener('click', () => {
+            count = 0;
+            counterElement.textContent = count;
+            animateCounter();
+            updateButtonState();
+        });
+        
+        maxValueInput.addEventListener('change', () => {
+            if (maxValueInput.value < 1) {
+                maxValueInput.value = 1;
+            }
+            updateButtonState();
+        });
+        
+        updateButtonState();
+    </script>
+</body>
+</html>

@@ -1,0 +1,736 @@
+
+/*
+================================
+Embedded fonts
+================================
+*/
+@font-face  {
+    font-family: 'CS Avva Shenouda';
+    src: url('cs_avva_shenouda.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+}
+@font-face  {
+    font-family: 'copticreader';
+    src: url('copicreader.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+}
+@font-face  {
+    font-family: 'copfont';
+    src: url('cs_avva_shenouda.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal; 
+}
+
+@font-face {
+  font-family: 'YourFont';
+  src: url('GE_SS_Two_Medium.otf')
+ /*src: url('GE_SS_Two_Medium.woff') format('woff'), 
+   url('GE_SS_Two_Medium.otf') format('truetype'); */
+}  
+
+@font-face {
+  font-family: 'headfont';
+  src: url('font14.ttf')
+ /*src: url('font14.woff') format('woff'), 
+   url('font14.ttf') format('truetype'); */
+}
+
+@font-face {
+  font-family: 'arabfont';
+  src: url('iphonefontur.ttf');
+  
+ /*src: url('font11.woff') format('woff'), 
+   url('font11.ttf') format('truetype'); */
+}
+
+@font-face {
+  font-family: 'arabfont2';
+  src: url('font11.ttf')
+ /*src: url('font11.woff') format('woff'), 
+   url('font11.ttf') format('truetype'); */
+}
+
+
+
+@font-face {
+  font-family: 'mofont';
+  src: url('font11.ttf')
+ /*src: url('font11.woff') format('woff'), 
+   url('font11.ttf') format('truetype'); */
+}
+
+@font-face {
+  font-family: 'bodyfont';
+  src: url('font1.ttf');
+  
+ /*src: url('font1.woff') format('woff'), 
+   url('font1.ttf') format('truetype'); */
+}
+
+@font-face {
+  font-family: 'agpeya_font';
+  src: url('font6.ttf')
+ /*src: url('font6.woff') format('woff'), 
+   url('font6.ttf') format('truetype'); */
+}
+
+@font-face {
+    font-family: 'CS New Athanasius';
+    src: url('cs_new_athanasius.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Athanasius';
+    src: url('athansious.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Hazzat';  
+    src: url('hazzat1_10a.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Hazzat Vertical';
+    src: url('hazzatv.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Hazzat Arabic';
+    src: url('hazzata.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Hazzat Vertical Arabic';
+    src: url('hazzatva.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+
+
+/*
+================================
+Hymn text Styles
+================================
+.HymnTitle    { COLOR: navy; text-decoration: none; font-family: ARIAL,verdana; FONT-WEIGHT: bold; background-color: #EFF3FB; margin-top: 7px; margin-bottom: 7px; padding-top: 7px; padding-bottom: 7px; }
+
+*/
+
+.HymnTitle { padding:0px 0px 22px; font-family: "Trajan Pro"; font-weight:700; padding-bottom:10px; }
+
+
+.CopticFont   { COLOR: BLACK; text-decoration: none; font-family: 'CS Avva Shenouda';  line-height: 2.0rem;}
+.CopticAtha   { COLOR: BLACK; text-decoration: none; font-family: 'Athanasius';  line-height: 2.0rem;}
+.CopticReader   { COLOR: BLACK; text-decoration: none; font-family: 'copticreader';  line-height: 2.0rem;}
+.arabfont   { COLOR: darkblue; text-decoration: none; font-family: 'arabfont'; text-align:right; direction:rtl}
+.arabfontblack   { COLOR: black; text-decoration: none; font-family: 'arabfont'; text-align:right; direction:rtl}
+.HazzatFont   { COLOR: BLACK; text-decoration: none; font-family: 'Hazzat';}
+.HazzatVFont  { COLOR: BLACK; text-decoration: none; font-family: 'Hazzat Vertical';}
+.HazzatAFont  { COLOR: BLACK; text-decoration: none; font-family: 'Hazzat Arabic';text-align:right;direction:rtl;}
+.HazzatVAFont { COLOR: BLACK; text-decoration: none; font-family: 'Hazzat Vertical Arabic';text-align:right;direction:rtl;}
+.EnglishFont  { COLOR: BLACK; text-decoration: none; font-family: ARIAL,verdana;}
+.ArabicFont   { COLOR: BLACK; text-decoration: none; font-family: 'Arabic Transparent';text-align:right;direction:rtl;}
+.EnglishComment  { COLOR: RED; text-decoration: none; font-family: ARIAL,verdana;font-style:italic;}
+.CopticComment   { COLOR: RED; text-decoration: none; font-family: 'CS Avva Shenouda', 'CS New Athanasius'; font-style: italic;}
+.ArabicComment   { COLOR: RED; text-decoration: none; font-family: 'Arabic Transparent'; font-style: italic;text-align:right;direction:rtl;}
+.HymnList { width: 14px; border: 0px none transparent; }
+html {
+   -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+     -khtml-user-select: none; /* Konqueror HTML */
+       -moz-user-select: none; /* Firefox */
+        -ms-user-select: none; /* Internet Explorer/Edge */
+            user-select: none; /* Non-prefixed version, currently */
+			}
+
+.body2 {
+    margin-top: 80px;
+    margin-left: 2px;
+	margin-right: 2px;
+    padding: 0px;
+    direction: justify;
+}
+.body_cal {
+    margin-top: 50px;
+    margin-left: 2px;
+	margin-right: 2px;
+    padding: 0px;
+    direction: justify;
+}
+
+body {
+    margin-top: 80px;
+    margin-left: 2px;
+	margin-right: 2px;
+    padding: 0px;
+    direction: justify;
+}
+.space {
+    margin-top: 80px;
+    margin-left: 2px;
+	margin-right: 2px;
+    padding: 0px;
+    direction: justify;
+}
+
+.split {
+    margin-top: 80px;
+    margin-left: 2px;
+	margin-right: 2px;
+    padding: 0px;
+    direction: justify;
+}
+
+.header {
+  overflow: hidden;
+  padding: 0px;
+  background: lightgrey;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'headfont';
+  color: crimson;
+  height:70px;
+  width: 100%;
+  margin: 0px;
+  position: fixed;
+  text-shadow:1px 1px 1px white;
+  border-bottom: 1px solid darkgrey;
+  top:0;
+  }
+.header_tar {
+  overflow: hidden;
+  padding: 0px;
+  background: green;
+  text-align: center;
+  font-size: 16px;
+  font-family: 'headfont';
+  color: white;
+  height:50px;
+  width: 100%;
+  margin: 0px;
+  position: fixed;
+  text-shadow:1px 1px 1px black;
+  border-bottom: 1px solid darkgrey;
+  top:0;
+}
+.header_agpeya {
+  overflow: hidden;
+  padding: 0px;
+  background: white;
+  text-align: center;
+  font-size: 20px;
+  font-family: 'headfont';
+  color: darkred;
+  height:50px;
+  width: 100%;
+  margin: 0px;
+  position: fixed;
+  text-shadow:1px 1px 1px white;
+  top:0;
+
+}
+.headerboxes{
+    font-size: 12px;
+    color:blue;
+    text-align:center;
+    text-shadow:1px 1px 1px white;
+}
+.header_eng {
+  padding: 0px;
+  background: white;
+  font-style: bold;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'headfont';
+  height: 65px;
+  text-shadow:1px 1px 1px white;
+  width: 100%;
+
+}
+.content {
+  padding: 0px;
+  font-family: 'bodyfont';
+  text-align: center;
+  text-align: center;
+}
+
+.content_agpeya {
+  padding: 0px;
+  font-family: 'agpeya_font';
+  text-align: right;
+  direction: justify;
+}
+
+.content_taranem {
+  padding: 0px;
+  font-family: 'bodyfont';
+  text-align: center;
+  direction: justify;
+}
+.content_head1 {
+  color: darkred;
+}
+
+.content_head2 {
+  color: chocolate;
+}
+
+.content_text {
+  color: black;
+}
+
+table, th, td {
+  table-layout: fixed;
+  border-collapse: collapse;
+  border-right:1px solid grey;
+  width: 100%;  
+}
+
+.tr_striped:nth-child(even) {
+	background-color: #ECFEFE;
+	}
+	
+.trsp:nth-child(even) {
+	background-color: #EBF1DE;
+	}
+th, td {
+  padding: 5px;
+  word-wrap: break-word;
+}
+th {
+  text-align: left;
+}
+.pray_head {
+  overflow: hidden;
+  padding:0;
+  margin: 0;
+  background: darkred;
+  text-align: center;
+  font-family: 'headfont';
+  color: yellow;
+  height:40px;
+  width: 100%;
+  }
+  .pray_cal {
+  overflow: hidden;
+  padding:0;
+  margin: 0;
+  background: darkred;
+  text-align: center;
+  font-size:25px;
+  font-family: 'headfont';
+  color: yellow;
+  height:50px;
+  width: 100%;
+  }
+  
+  .cont {
+  overflow:hidden;
+  padding: 0px;
+  background: #f1f1f1;
+  text-align: center;
+  font-size: 10px;
+  font-family: 'headfont';
+  color: darkred;
+  height:80px;
+  width: 100%;
+  margin: 0px;
+  position: fixed;
+  border-bottom: 1px solid darkgrey;
+  top:0;
+  }
+    .cont_cal {
+  overflow:hidden;
+  padding: 0px;
+  background: #f1f1f1;
+  text-align: center;
+  font-size: 10px;
+  font-family: 'headfont';
+  color: darkred;
+  height:50px;
+  width: 100%;
+  margin: 0px;
+  position: fixed;
+  border-bottom: 1px solid darkgrey;
+  top:0;
+  }
+
+
+.cont2 {
+  overflow: hidden;
+  padding: 0px;
+  background: #f1f1f1;
+  text-align: center;
+  font-size: 10px;
+  font-family: 'headfont';
+  color: darkred;
+  height:80px;
+  width: 100%;
+  margin: 0px;
+  position: fixed;
+  border-bottom: 1px solid darkgrey;
+  top:0;
+  }
+  .note {
+  overflow: hidden;
+  background: #FFE5E5;
+  text-align: center;
+  font-family: 'arabfont';
+  color: black;
+  width: 100%;
+  padding: 0px;
+  top:0;
+  }  
+  .secret {
+  overflow: hidden;
+  background: #eff5f5;
+  text-align: center;
+  font-family: 'arabfont';
+  color: black;
+  width: 100%;
+  padding: 0px;
+  top:0;
+  }
+    .hymn_title	{
+  overflow: hidden;
+  background: indigo;
+  text-align: center;
+  font-family: 'arabfont';
+  color: white;
+  width: 100%;
+  padding: 0px;
+  top:0;
+  }
+  .priest_head {
+  overflow: hidden;
+  padding: 0px;
+  text-align: center;
+  font-family: 'arabfont';
+  color: blue;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  }
+    .priest_solo {
+  overflow: hidden;
+  padding: 0px;
+  text-align: justify;
+  font-family: 'arabfont';
+  color: darkblue;
+  background-color: #EBF7FF;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  }
+    .secret_head {
+  overflow: hidden;
+  padding: 0px;
+    background: #eff5f5;
+  text-align: center;
+  font-family: 'arabfont';
+  color: blue;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  }
+  
+ .people_head {
+  overflow: hidden;
+  padding: 0px;
+  text-align: center;
+  font-family: 'arabfont';
+  color: green;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  } 
+  
+  .people_solocenter {
+  overflow: hidden;
+  padding: 0px;
+  text-align: center;
+  font-family: 'arabfont';
+  color: black;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  } 
+    .people_solortl{
+  overflow: hidden;
+  padding: 0px;
+  text-align: justify;
+  font-family: 'arabfont';
+  color: black;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  } 
+  
+  .people_headred {
+  overflow: hidden;
+  padding: 0px;
+  text-align: center;
+  font-family: 'arabfont';
+  color: darkred;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  }
+   .deacon_head {
+  overflow: hidden;
+  padding: 0px;
+  text-align: center;
+  font-family: 'arabfont';
+  color: crimson;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  }
+     .deacon_solo {
+  overflow: hidden;
+  padding: 0px;
+  text-align: center;
+  font-family: 'arabfont';
+  color: darkred;
+  width: 100%;
+  direction: rtl;
+  margin: 0px;
+  }
+.col3 {
+	text-align: justify;
+	vertical-align:top;
+	direction: rtl;
+	font-family: 'arabfont';
+	COLOR: darkblue;
+  line-height: 2.0rem;
+}
+.Col2 {
+	text-align: justify;
+	vertical-align:top;
+	direction: rtl;
+	font-family: 'arabfont';
+	COLOR: black;
+  line-height: 2.0rem;
+}
+.Col1 {
+	word-wrap: break-word;
+	vertical-align:top;
+	COLOR: black;
+	font-family: 'CS Avva Shenouda';
+	display:none;
+  line-height: 2.0rem;
+}
+.Col2_p {
+	text-align: justify;
+	vertical-align:top;
+	direction: rtl;
+	font-family: 'arabfont';
+	COLOR: black;
+	display:none;
+}
+.Col1_d {
+	word-wrap: break-word;
+	vertical-align:top;
+	font-family: 'Athanasius';
+  line-height: 2.0rem;
+	display:none;
+}
+.Col2_d {
+	text-align: justify;
+	vertical-align:top;
+	direction: rtl;
+	font-family: 'arabfont';
+  line-height: 2.0rem;
+}
+
+.col3_d {
+	text-align: justify;
+	vertical-align:top;
+	direction: rtl;
+	font-family: 'arabfont';
+  line-height: 2.0rem;
+}
+
+.tb_priest{
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #EBF7FF;
+  table-layout: fixed;
+}
+
+.tb_people{
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+.tb_tasbeha {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+
+.tb_deacon {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  background-color: #FFFFE6;
+  color: darkred;
+}
+
+.tb_deacon_copticread {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  background-color: #fed8b1;
+  color: black;
+}
+.col_deacon{
+ background-color: #FFD19D;
+}
+
+.controller{
+    font-size: 10px;
+    text-align:center;
+    color: darkred;
+    height: 30px;
+	border-collapse: collapse;
+	background-color:lightgrey;
+}
+.controller_cal{
+    font-size: 30px;
+    text-align:center;
+    color: darkred;
+    height: 30px;
+	border-collapse: collapse;
+	background-color:lightgrey;
+}
+.controller1{
+    font-size: 10px;
+    text-align:center;
+    color: darkred;
+    height: 30px;
+	border-collapse: collapse;
+	background-color:indigo;
+}
+
+.links{
+    font-size: 10px;
+    text-align:center;
+    color: green;
+    height: 50px;
+	border: 1px solid darkgrey;
+    overflow: auto;
+    text-decoration: none;
+    white-space: nowrap;
+    direction: right;
+    vertical-align: center;
+
+}
+div.links a {
+  display: inline-block;
+  text-align: center;
+  padding: 14px;
+  text-decoration: none;
+}
+div.links a:hover {
+  background-color: green;
+  color: white;
+}
+
+.button1{
+  color: darkgreen;
+  text-align: justify;
+  direction:rtl;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 100%;
+  height: 100%;
+  font-family: 'headfont';
+}
+.button_kesma{
+  color: white;
+  direction:rtl;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 100%;
+  height: 100%;
+  font-family: 'headfont';
+  background-color:indigo;
+}
+.button2{
+  color: darkgreen;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  width: 100%;
+  height: 100%;
+  font-family: 'headfont';
+}
+.button3{
+  color: darkgreen;
+  text-align: justify;
+  direction:rtl;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  width: 100%;
+  height: 100%;
+  font-family: 'headfont';
+}
+.illust_img {
+	width: 100%;
+}
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+a{
+    color: darkgreen;
+}
+
+.progress-container {
+  width: 100%;
+  height: 8px;
+  background: darkblue;
+}
+
+.progress-bar {
+  height: 8px;
+  background: yellow;
+  width: 0%;
+}
+.hidden_div {
+	display:block;
+}
+
+.box{
+        color: #fff;
+        display: block;
+    }
+	
+.red{ background: #ff0000; }
+.green{ background: #228B22; }
+.blue{ background: #0000ff; }

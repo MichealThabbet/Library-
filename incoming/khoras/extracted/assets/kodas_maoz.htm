@@ -1,0 +1,315 @@
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+ <link rel="stylesheet" href="style_tar.css">
+ <link rel="stylesheet" href="jquery-min.js">
+ <link rel="stylesheet" href="table-min.js">
+</head>
+<body class="body2">
+<!controller of languages>
+<div class="cont" id="myHeader">
+  <div class="progress-container" style="display:none">
+    <div class="progress-bar" id="myBar"></div>
+  </div>
+<table class="controller">
+    <tr>
+	    <td style="color: blue;"><input type="checkbox" id="myCheck" checked="checked" onclick="showhide_div()"/>سرى</td>
+		<td style="color: blue; display:none;"><button onclick="showhide_div2()">Try it</button></td>
+        <td><input name="Col1" type="checkbox" />قبطي</td>
+        <td><input name="Col2" type="checkbox" checked="checked" />ق معرب</td>
+        <td><input name="Col3" type="checkbox" checked="checked" />عربي</td>
+    </tr></table>
+<table class="links">
+<tr>
+    <td>
+<select class="button1" name="whichpage" id="whichpage"
+onChange="if(this.selectedIndex!=0)
+self.location=this.options[this.selectedIndex].value">
+<option value="0" style="display:none"selected>لحن العذراء مريم 
+<option value="#2">الهيتنيات (أرباع شفاعات القديسين)
+<option value="#3">البولس
+<option value="#4">الكاثوليكون
+<option value="#5">الابركسيس
+<option value="#6">السنكسار
+<option value="#7">الثلاث تقديسات
+<option value="#8">اوشية الانجيل
+<option value="#9">مرد الانجيل
+<option value="#10">اواشى بعد الانجيل
+<option value="#11">اوشية السلام
+<option value="#12">اوشية الأباء
+<option value="#13">اوشية الاجتماعات
+<option value="#14">قانون الايمان
+</select>
+<td>    <button class="button1"onclick="topFunction()">قداس الموعوظين</button>
+</td>
+</tr>
+</table>
+   <span style="display:none">
+    <a href="#2">الهيتنيات (أرباع شفاعات القديسين)</a>
+ 
+    </span>
+
+</div>
+<div>
+<span id="1"></span><table class="split"><tr class="pray_head"><td colspan="3">لحن العذراء مريم </td></tr></table>
+<table><tr class="note"><td colspan="3">الشعب فإنهم بعد تحليل الخدام يرتلون لحن العذراء</td></tr></table>
+<table><tr class="hymn_title"><td colspan="3">فى ايام الاعياد وكل ايام الافطار</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">طاى شوري إن نوب إن كاثاروس إيت فاى خابي آروما طا إتخين نين جيج إن آآرون بي أويب إفطالي أو إسطوى نوفي إى إبشوي إيجين بيما إن شؤوشي.</td><td id="Col3" class="Col3">هذه المجمرة الذهب النقي الحاملة العنبر التي في يدي هرون الكاهن يرفع بخور على المذبح </td></tr></table>
+<table><tr class="hymn_title"><td colspan="3">وباقي أيام الأسبوع وفي الأصوام</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">تي شوري إن نوب تي تي بارثينوس بيس آروماتا بي بنسوتير. آسميسي إمموف آفسوتي إممون أووه أف كانين نوفي نان إيفول.</td><td id="Col3" class="Col3">المجمرة الذهب هي العذراء وعنبرها هو مخلصنا ولدته وخلصنا وغفر لنا خطايانا </td></tr></table>
+<span id="2"></span><table class="split"><tr class="pray_head"><td colspan="3">الهيتنيات (أرباع شفاعات القديسين)</td></tr></table>
+<table><tr class="note"><td colspan="3">ثم تقال هذه الأرباع لطلب شفاعات القديسين (الهيتينيات) </td></tr></table>
+<table><tr class="people_headred"><td colspan="3">العذراء</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني إبريسفيا إنتي تي ثيؤطوطوس إثؤواب ماريا إبشويس آري إهموت نان إمبي كو إيفول إنتي نين نوفي.</td><td id="Col3" class="Col3">بشفاعات والدة الإله القديســة مريم . يا رب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">الملاك ميخائيل</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني ابريسفيا انتي بي ارشي انجيلوس اثؤواب ميخائيل اب ارخون اننا ني فيؤوي: ابتشويس اري اهموت نان ابي كوايفول انتى نين نوفي</td><td id="Col3" class="Col3">بشفاعات رئيس الملائكة الطاهر ميخائيل رئيس السمائيين. يارب انعم علينا بمغفرة خطايانا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">الملاك غبريال</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني ابريسفيا انتى بي أرشي أنجيلوس اثؤواب غبرييل بي فاي شين نوفي ابتشويس، أري اهموت نان امبي كو ايفول انتي نين نوفي</td><td id="Col3" class="Col3">بشفاعات رئيس الملائكة الطاهر غبريال المبشر يارب انعم علينا بمغفرة خطايانا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">الملائكة</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني إبريسفيا إنتي بي شاشف إن أرشي آنجيلوس نيم ني طغما إن إيبورانيون .إبتشويس آري إهموت نان إمبي كو إيفول إنتي نين نوفي</td><td id="Col3" class="Col3">بشفاعات السبعة رؤساء الملائكة والطغمات السمائيـــــــة .يا رب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">يوحنا المعمدان</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني إبريسفيا إنتي بي أبرودروموس أمفا بتيس تيس يوأنس بي ريفتي أومس .إبتشويس آري إهموت نان إمبي كو إيفول إنتي نين نوفي</td><td id="Col3" class="Col3">بشفاعات : الصابغ السابق : يوحنا المعمدان : يــارب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">الرسل</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني إفكي إنتي ناشويس إنيوتي إن آبوسطولوس نيم إبسيبي إنتي ني ماثيتيس .إبتشويس آري إهموت نان إمبي كو إيفول إنتي نين نوفي</td><td id="Col3" class="Col3">بصلوات سادتي الآباء الرسل وبقية الـتلاميذ .يا رب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">مارمرقس</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني إفكي إنتي بي ثيئوريموس إن أف آنجيليستيس افا ماركوس بي آبوسطولوس .إبتشويس آري إهموت نان إمبي كو إيفول إنتي نين نوفي</td><td id="Col3" class="Col3">بصلوات ناظر الإلـــه الإنجيلي مرقس الرســــــــــول يا رب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">القديس استيفانوس</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني إفكي إنتي بي آرشي ذياكون إتسماروؤت إستيفانوس بي شورب إممارتيروس .إبتشويس آري إهموت نان إمبي كو إيفول إنتي نين نوفي</td><td id="Col3" class="Col3">بصلوات رئيس الشمامسة المبارك اسطفانوس أول الشهداء. .يا رب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">مارجرجس</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني إفكي إنتي بي آثلوفوروس إم مارتيروس باتشويس إبؤرو جيئورجيوس .إبتشويس آري إهموت نان إمبي كو إيفول إنتي نين نوفي.</td><td id="Col3" class="Col3">بصلوات المجاهد الشهيد سيــدي الملك جيؤرجيــــــــوس . يا رب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">ابي سيفين</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني إفكي إنتي بي آثلوفوروس إم مارتيروس فيلوباتير مرقوريوس .إبتشويس آري إهموت نان إمبي كو إيفول إنتي نين نوفي</td><td id="Col3" class="Col3">بصلوات المجاهد الشهيد مرقوريوس محب الآب.  يا رب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">مارمينا العجائبى </td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني إفكي إنتي بي آثلوفوروس إم مارتيروس أفامينا إنتي ني فايات .إبتشويس آري إهموت نان إمبي كو إيفول إنتي نين نوفي</td><td id="Col3" class="Col3">بصلوات المجاهــــــد الشهيد أنبا مينــا البياضي .يا رب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">قديس هذا اليوم</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين ني إفكي إنتي ني إثؤواب إنتي باي إبهوؤو بي أوواي بي أوواي كاطا بيفران.إبتشويس آري إهموت نان إمبي كو إيفول إنتي نين نوفي</td><td id="Col3" class="Col3">بصلوات قديســــي هذا اليوم كل واحد وواحــــــد بإسمه .يا رب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">الأب البطريرك</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين نو إفكي آريه إبؤنخ إمبين يوت إتطايوت إن أرشي إريفس بابا آفا (...) إبتشويس. آري إهموت نان إمبي كو إيقول إنتي نين نوفي</td><td id="Col3" class="Col3">بصلواتهم إحفظ حياة أبينا المكرم رئيس الكهنة البابا الأنبا (...) يا رب أنعم لنا بمغفرة خطايانـا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">المطران أو الأسقـف </td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هيتين نو إفكي آريه إبؤنخ إم بنيوت إتطايوت إن ذيكيئوس آفا (...) بي إبسكوبوس إبتشويس. آري إهموت نان إمبي كو إيفول إنتي نين نوفي</td><td id="Col3" class="Col3">بصلواتهم إحفظ حياة أبينا المكرم الصديق الأنبا  .  .  .  .  الاسقف  .  .  .  .  يارب انعم لنا بمغفرة خطايانا</td></tr></table>
+<table><tr class="people_head"><td colspan="3">ثم يختمون بهذه</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">تين أوأوشت إمموك أوبي إخرستوس نيم بيك يوت إن آغاثوس نيم بي إبنيفما إثؤواب جي آك إى آك سوتي إممون ناي نان</td><td id="Col3" class="Col3">نسجد لك أيها المسيح مع أبيك الصالح و الروح القدس لأنك أتيت وخلصتنا إرحمنا </td></tr></table>
+<span id="3"></span><table class="split"><tr class="pray_head"><td colspan="3">البولس</td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head"><td colspan="3">يتقدم أحد الشمامسة إلى المنجلية و يقول البولس قبطــياً، وهذه مقدمته</td></tr></table>
+<table class="tb_deacon_copticread"><tr><td id="Col1" class="Col1_d">Pauloc    `vbwk    `mPen_    Ih/c/    Px/c/    p`apoctoloc    etqa\em    vh`etauqa]f    `epi\i]ennofi    `nte    V;.</td><td id="Col2" class="Col2_d">بافلوس إف فوك إمبين شويس إيسوس بي إخرستوس بي آبوسطولوس إيت ثاهيم فيئيتاف ثاشف إي بي هي شيننوفي إنتي إفنوتي.</td><td id="Col3" class="Col3_d">بولس عبد ربنا يسوع المسيح الرسول المدعو المفرز لبشارة الله</td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head"><td colspan="3">ويكمل بالجمل القبطى المكتوبة في أول رسالة اليوم،  أو يقرأ هذا الربع</td></tr></table>
+<table class="tb_deacon_copticread"><tr><td id="Col1" class="Col1_d">Pauloc    pi`apoctoloc    `nte    Ih/c/    Px/c/    `ebol\iten    `v`ou`w]    `mV;.</td><td id="Col2" class="Col2_d">بافلوس بي ابوسطولوس انتى ايسوس بي خريستوس: إيفول هيتين إفؤوش إم إفنوتي</td><td id="Col3" class="Col3_d">بولس رسول يسوع المسيح حسب مشيئة الله</td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head"><td colspan="3">ويختم بهذه</td></tr></table>
+<table class="tb_deacon_copticread"><tr><td id="Col1" class="Col1_d">Pi`\mot    gar    nemwten    nem    `t\irhnh    eucop>    je    amhn    ec`e]wpi.</td><td id="Col2" class="Col2_d">بي إهموت غار نيموتين نيم إتهيريني إفسوب جي آمين إيس إيشوبي</td><td id="Col3" class="Col3_d">النـعمة مـعكم والسـلام يكون معنا آمين</td></tr></table>
+<table><tr class="hymn_title"><td colspan="3">وإذا كان الأب البطريرك أو المطران أو أحد الأساقفة حاضراً فيقـول الشعب هذه</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">بي إهموت غار إمبين شويس إيسوس بي إخرستوس إف إيشوبي نيم بيك آجيون إبنيفما باشويس إن يوت إتطايوت إن أرشي إيرفس بابا آفا (...) </td><td id="Col3" class="Col3">نعمة ربنا يسوع المسيح تكون مع روحك الطاهرة يا سيدى الأب المكرم رئيسَ الكهنة الأب البطريرك البابا الأنبـــا (..)</td></tr>
+<tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">نيم بين يوت إم ميت روبوليتيس افا...</td><td id="Col3" class="Col3">وأبانا المطران أنبـا (..). </td></tr>
+<tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">نيم بين يوت إن إبيسكوبوس افا…</td><td id="Col3" class="Col3">وأبانا الأسقف أنبـا (..). </td></tr>
+<tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">ماري بي إكليروس نيم بي لاؤس تيرف أوجاي خين إبشويس جي آمين إس إيشوبي. </td><td id="Col3" class="Col3">فليكن اﻹكليروس وكل الشعب معافين في الرب آمين يكون.</td></tr>
+</table>
+<img src="poles_map.png"class="illust_img">
+<table><tr class="note"><td colspan="3">ويستمر الكاهن في إعطاء البخور للإنجيل وبعده للآب البطريرك إذا كان حاضراً ولأخوته الكهنة ويطوف على الشعب بالبخور واضعاً يده بالبركة على رؤوسهم</td></tr></table>
+<div id="hidden_div" style="display:block">
+<table><tr class="secret_head"><td colspan="3"> وهو يقول</td></tr></table>
+<table class="secret"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إزمو إمبافلوس بي آبوسطولوس إنتي إيسوس بي إخرستوس إري بيف إزمو إثؤواب شوبي نيمان آمين.</td><td id="Col3" class="Col3">بركة بولس رسول يسوع المسيح بركته المقدسة فلتكن معنا آمين </td></tr></table>
+</div>
+<table><tr class="note"><td colspan="3">ويعود إلي الهيكل ويضع يد بخور ويقول سر اعتراف الشعب</td></tr></table>
+<div id="hidden_div2" style="display:block">
+<table><tr class="secret_head"><td colspan="3">سر اعتراف الشعب</td></tr></table>
+<table><tr class="secret"><td colspan="3">يا الله الذي قبل اليه اعتراف اللص علي الصليب المكرم اقبل اليك اعتراف شعبك اغفر لهم جميع خطاياهم من اجل اسمك القدوس الذي دعي علينا كرحمتك يارب ولا كخطايانا </td></tr></table>
+</div>
+<table><tr class="note"><td colspan="3"> ثم يدور حول المذبح دورة واحدة وينزل ويبخر ثانية أمام باب الهيكل شرقاً وغرباً وقبلي ويعطي البخور للكهنة ثم يتقدم أحد الشمامسة إلى المنجلية ويقول البولس قبطياً</td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head"><td colspan="3">يقول الشماس مقدمة البولس القبطي</td></tr></table>
+<table class="tb_deacon_copticread"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">بافلوس إف فوك إمبين شويس إيسوس بي إخرستوس بي آبوسطولوس إيتثاهيم إيئيتاف ثاشف إي بي هي شيننوفي إنتي إفنوتي</td><td id="Col3" class="Col3_d">بولس عبد ربنا يسوع المسيح الرسول المدعو المفرز لبشارة الله </td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head"><td colspan="3">ويكمل بالجمل القبطي المكتوبة في أول رسالة اليوم ويختم </td></tr></table>
+<table class="tb_deacon_copticread"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">بي إهموت غارنيموتين نيم إتهيريني إفسوب جي آمين إيس إيشوبي</td><td id="Col3" class="Col3_d">النعمة معكم والسلام يكون معنا آمين</td></tr></table>
+<table><tr class="note"><td colspan="3">ويقرأ البولس عربياَ</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">مقدمته</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_solo"><td colspan="3">فصل من رسالة معلمنا بولس الرسول إلى أهل .... بركته علينا، آمين</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">في ختامه</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_solo"><td colspan="3">نعمة الله الآب تحل على أرواحكم يا أبائي وإخوتى، آمين</td></tr></table>
+<div id="hidden_div3" style="display:block">
+<table><tr class="secret_head"><td colspan="3">وأثناء قراءة البولس عربياً يقول الكاهن الخديم او شريكه هذه الصلاة سراً</td></tr></table>
+<table><tr class="secret"><td colspan="3">يا رب المعرفة ورازق الحكمة الذي يكشف الأعماق من الظملة والمعطي كلمة للمبشرين بقوة عظيمة الذي من قبل صلاحك دعوت بولس هذا الذي كان طارداً زماناً مختاراً وبهذا سررت أن يكون رسولاً مدعواً وكارزاً بإنجيل ملكوتك أيها المسيح إلهنا انت الآن أيضاً الصالح محب البشر نسألك أنعم علينا وعلى شعبك كله بعقل مشتغل وفهم نفي لكي نعلم ونفهم ما هي منفعة تعاليمك المقدسة التي قرئت علينا الآن من قبله، وكما تشبه بك أنت يا رئيس الحياة هكذا نحن أيضاً إجعلنا مستحقين أن نكون متشبهين به في العمل والإيمان ممجدين إسمك القدوس ومفترخين بصليبك كل حين وأنت الذي نرسل لك إلى فوق المجد والكرام والسجود مع أبيك الصالح والروح القدس المحيي المساوي لك الآن وكل أوان وإلى دهر الدهور كلها آمين</td></tr></table>
+</div>
+<span id="4"></span><table class="split"><tr class="pray_head"><td colspan="3">الكاثوليكون</td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head"><td colspan="3">ثم يقرأ الشماس الكاثوليكون قبطياً وهذه مقدمته</td></tr></table>
+<table class="tb_deacon_copticread"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">كاثوليكون بينيوت (...) نامين راتي.</td><td id="Col3" class="Col3_d">الكاثوليكون من أبينــا (..) يا أحبائى.</td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head"><td colspan="3">ثم يتلو ثلاث أو أربع جُمل من أول الفصل القبطى، او يصلي هذه القطعة</td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head" style="color:black;"><td colspan="3">ني ابريسفيتيروس إت خين ثينو.تي تيهو إيرؤوو. انوك بيتين إشفير. إم إبريسفيتيروس. أووه إميثرى إنتى ني إمكافه انتى بي خريستوس</td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head"><td colspan="3">ويختمها بهذه</td></tr></table>
+<table class="tb_deacon_copticread"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">نا إسنيو إمبير مينري بي كوزموس أوذي نيئتشوب خين بي كوزموس. بي كوزموس ناسيني نيم تيف إبيثيميا في ذي إتئيري إم إفئؤوش إم إفنوتي إفناشوبي شا إينيه آمين</td><td id="Col3" class="Col3_d">لا تحبوا العالم ولا الأشيـاء التى فى العـالم. العالم يمضى وشهواته والذى يصنع ارادة الله يدوم إلى الأبد، آمين</td></tr></table>
+<table><tr class="people_head"><td colspan="3">وأثناء ذلك يرتل الشعب مرد الكاثوليكون السنوي</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">أبيت جيك إيفول إنجيه بي إزمو تولوغوبيف يوت إى آفتشي ساركس هوس رومي إنتي ليوس. ذوكصابتري كي إى يو كي آجيو إبنيفما تي أبيت خيل خولف ناف إيروف. أبيت خيل خولف شوب ني موتين. أبيت خيل خولف أشف هيجين بي إستافروس. كي نين كي آإى كي إسطوس إى أوناس طون إى أونون آمين ثاي تي تي نو إي تي. ثاي تي تي سيفيروس. تي إبروس كي ني سيس تومونو إخرستوس إيري بي إزمو إنتي إترياس إثؤواب. إفيوت نيم إبشيري نيم بي إبنيفما إثؤواب. إيري بي إزموا إنتي ثيئوطوكوس ماريا إثماف إن إيسوس بي إخرستوس إيري بي إزمو إم ين باتريارشيس إنيوت إتطايوت إن أرشي إيريفس بابا آفا (...)</td><td id="Col3" class="Col3">الكامل بركة أبيه الكلمة أتي وتحسد كإنسان كامل المجد للآب والإبن والروح القدس المذبوح نظروه المذبوح كائن معكم المذبوح معلق على الصليب الآن و كل أوان وإلى دهر الدهور آمين هذه العقلية هذه الأعجوبة السجود للمسيح الواحد بركة الثالوث الأقدس الآب والإبن والروح القدس بركة والدة الإله مريم أم يسوع المسيح بركة بطريركنا الآب المكرم رئيس الكهنة البابا أنبا (…) </td></tr></table>
+<table><tr class="people_headred"><td colspan="3">وفي حضور الأب المطران يقال</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إيري بي إزمو إم بين ميتروبوليتيس إنيوت إتطايوت آفا (...).</td><td id="Col3" class="Col3">بركة مطراننا الأب المركم أنبا (…) </td></tr></table>
+<table><tr class="people_headred"><td colspan="3">وفي حضور الأب الأسقف يقال</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إيري بي إزموإم بين إيبيسكوبوس إنيوت إتطايوت آفا(…)</td><td id="Col3" class="Col3">بركة أسقفنا الأب المكرم أنبا (…) </td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head"><td colspan="3">ثم يقرأ الشماس الكاثوليكون قبطياً وهذه مقدمته</td></tr></table>
+<table class="tb_deacon_copticread"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">كاثوليكون بينيوت (...) نامين راتي</td><td id="Col3" class="Col3_d">الكاثوليكون من أبينا (…) يا أحبائي</td></tr></table>
+<table class="tb_deacon_copticread"><tr class="deacon_head"><td colspan="3">ثم يتلو ثلاث أو أربع جمل من أول الفصل القبطي ويختمها بهذه</td></tr></table>
+<table class="tb_deacon_copticread"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">نا إسنيو إمبير مينري بي كوزموس أوذي نيئتشوب خين بي كوزموس. بي كوزموس ناسيني نيم تيف إبيثيميا في ذي إتئيري إم إفئؤوش إم إفنوتي إفناشوبي شا إينيه آمين</td><td id="Col3" class="Col3_d">لا تحبوا العالم ولا الأشياء التي في العالم العالم يمضي وشهواته والذي يصنع إرادة الله يدوم إلى الأبد آمين</td></tr></table>
+<table><tr class="note"><td colspan="3">ثم يفسر الكاثوليكون عربياً</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">مقدمته</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_solo"><td colspan="3">فصل من رسالة (…) بركته علينا آمين</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">في ختامه</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_solo"><td colspan="3">لا تحبوا العالم ولا الأشياء التي في العالم لأن العالم يمضي وشهوته. أما الذي يصنع إرادة الله فيثبت إلى الأبد آمين</td></tr></table>
+<div id="hidden_div4" style="display:block">
+<table><tr class="secret_head"><td colspan="3">وأثناء تفسير الكاثوليكون عربياً يقول الكاهن سر الكاثوليكون</td></tr></table>
+<table><tr class="secret"><td colspan="3">أيها الرب إلهنا الذي من قبل رسلك القديسين اظهرت لنا سر إنجيل مجد مسيحك وأعطيتهم حسب موهبة نعمتك العظيمة التي لا تحد أن يبشروا في كل الأمم بغني رحمتك الذي لا يستقصي نسألك يا سيدنا إجعلنا مستحقين نصيبهم وميراثهم وانعم علينا كل حين أن نسلك في آثارهم ونكون متشبهين بجهادهم ونشترك معهم في الأعراق التي قبلوها على التقوي.</td></tr></table>
+<table><tr class="secret"><td colspan="3">حارسا بيعتك المقدسة، هذا التي أسستها من قبلهم، وبارك خراف قطعيك. وإجعل هذه الكرمة تكثر، هذه التي غرستها يمينك بالمسيح يسوع ربنا. هذا الذي من قبله المجد والكرامة والعزة والسجود تليق بك معه مع الروح القدس المحيي المساوي لك. الآن وكل أوان وإلى دهر الدهور آمين</td></tr></table>
+</div>
+<span id="5"></span><table class="split"><tr class="pray_head"><td colspan="3">الابركسيس</td></tr></table>
+<img src="epraks_map.png"class="illust_img">
+<table><tr class="note"><td colspan="3">وبعد ذلك يصعد الكاهن الخديم إلى المذبح ويقول أوشية القرابين: إذا لم تكن قد قيلت في باكر ويرشم درج البخور ويضع يداً واحدة </td></tr></table>
+<table><tr class="people_head"><td colspan="3"> وبعد الإنتهاء من قراءة الكاثوليكون عربياً يرتل الشعب مرد الابركسيس</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">شيري ني ماريا تي إتشرومبي إثنيسوس ثي إيطاسميسي نان إم إفنوتي بي لوغوس</td><td id="Col3" class="Col3">السلام لك يا مريم الحمامة الحسنة التي ولدت لنا الله الكلمة </td></tr>
+<tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إك إزماروؤوت آليثوس نيم بيك يوت إن آغاثوس نيم بي إبنيفما إثؤواب جي آك إى آك سوتي إممون</td><td id="Col3" class="Col3">مبارك أنت بالحقيقة مع أبيك الصالح والروح القدس لأنك أتيت وخلصتنا </td></tr>
+</table>
+<table><tr class="note"><td colspan="3">ثم يفسر الابركسيس عربياً</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">مقدمته</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_solo"><td colspan="3">فصل من أعمال آبائنا الرسل الأطهار المشمولين بنعمة اروح القدس بركتهم المقدسة فلتكن معنا آمين</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">في ختامه</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_solo"><td colspan="3">لم تزل كلمة الرب تنمو وتزداد في هذه الكنيسة وكل كنيسة آمين</td></tr></table>
+<span id="6"></span><table class="split"><tr class="pray_head"><td colspan="3">السنكسار</td></tr></table>
+<table><tr class="note"><td colspan="3">وأثناء ذلك يعطي الكاهن البخور امام باب الهيكل وللكهنة وللشعب في الخورس الداخلي ثم يعود إلى باب الهيكل ويقول سر اعتراف الشعب خارج الهيكل ثم يقرأ السنكسار</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن مقدمة السنكسار</td></tr></table>
+<table class="priest_solo"><tr><td colspan="3">بسم الآب والإبن والروح القدس الإله الواحد آمين اليوم (…) من شهر (…) أحسن الله</td></tr></table>
+<table class="priest_solo"><tr style="color: darkred"><td colspan="3">(من 1-15 يقال) استقباله </td></tr></table>
+<table class="priest_solo"><tr style="color: darkred"><td colspan="3">(من 16-30 يقال) إنقضاءه </td></tr></table>
+<table class="priest_solo"><tr><td colspan="3">وأعاده علينا وعليكم ونحن متمتعين بهدوء وإطمئنان مغفوري اخطايا والزلات من قبل مراحم الرب يا آبائي وإخوتي آمين</td></tr></table>
+<span id="7"></span><table class="split"><tr class="pray_head"><td colspan="3">الثلاث التقديسات</td></tr></table>
+<table><tr class="people_head"><td colspan="3">وفي نهاية السنكسار يقف جميع الشعب والشمامسة ويقولون</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">آجيوس. أوثيئوس. آجيوس إس شيروس آجيوس أثاناطوس أو إكبار ثينو جينيتيس إليسون إيماس. </td><td id="Col3" class="Col3">قدوس الله قدوس القوي قدوس الذي لا يموت يا من ولد من العذراء ارحمنا</td></tr>
+<tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">آجيوس. أوثيئوس. آجيوس إس شيروس آجيوس أثاناطوس أو إسطفروتيس ذي إيماس إليسون إيماس.</td><td id="Col3" class="Col3">قدوس الله قدوس القوي قدوس الذي لا يموت يا من صلب عنا ارحمنا </td></tr>
+<tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">آجيوس. أوثيئوس. آجيوس إس شيروس آجيوس أثاناطوس أو أناسطاس إيك طون نيكرون كي أنيلثون يسطوس أورانوس إليسون إيماس.</td><td id="Col3" class="Col3">قدوس الله قدوس القوي قدوس الذي لا يموت يا من قام من الأموات وصعد إلى السموات ارحمنا </td></tr>
+<tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">ذو كسابتري كي إيوكي آجيو إبنيفماتي كي نين كي آإي كي إسطوس إى أوناس طون إى أونون آمين. آجيا إترياس إليسون إيماس</td><td id="Col3" class="Col3">المجد للآب والإبن والروح القدس الآن وكل اوان وإلى دهر الدهور أمين أيها الثالوث المقدس ارحمنا </td></tr>
+</table>
+<span id="8"></span><table class="split"><tr class="pray_head"><td colspan="3">أوشية الانجيل</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إشليل</td><td id="Col3" class="Col3">صل</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">يجاوبه الشماس</td></tr></table>
+<table class="tb_deacon"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">إيبى إبروس إفكى إستاثيتى</td><td id="Col3" class="Col3_d">للصلاة قفوا</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إيرينى باسى</td><td id="Col3" class="Col3">السلام للكل</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">كيطو إبنيفماتى سو</td><td id="Col3" class="Col3">ولروحك أيضًا</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن ووجهه للشرق ممسكا بالمجمرة في يمينه</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إفنيب إبشويس إيسوس بى إخرستوس بيننوتى فيئيتاف جوس إننيف آجيوس إتطايوت إم ماثيتيس أووه إن أبوسطولوس إثؤواب جى هان ميش إم إبروفيتيس نيم هان إثمى أفئير ابيثيمين إيناف إينيئيتيتين ناف إيروؤو أووه إمبو ناف أووه إيسوتيم إينيئتيتين سوتيم إيروؤو أووه إمبو سوتيم إنثوتين ذى أؤو نياتو إننيتين فال جي سيناف نيم نيتين ماشج جي سيسوتيم مارين إيرإب إم إبشا إن سوتيم أووه إى إيرى إن نيك إف أنجيليون إثؤواب خين طفه إنتى نى إثؤواب إنتاك</td><td id="Col3" class="Col3">أيها السيد الرب يسوع المسيح إلهنا الذي قال لتلاميذه القديسين المكرمين ورسله الطهار إن أنبياء وأبرارًا كثيرين إشتهوا أن يروا ما أنتم ترون ولم يروا وأن يسمعوا ما أنتم تسمعون و لم يسمعوا أما أنتم فطوبي لأعينكم لأنها تبصر ولآذانكم لأنها تسمع فلنستحق أن نسمع ونعمل باناجيلك المقدسة بطلبات قديسيك</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">يقول الشماس</td></tr></table>
+<table class="tb_deacon"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">إبروس إف إكساستى إيبرتو أجيو إف أنجيليو</td><td id="Col3" class="Col3_d">صلوا من أجل الإنجيل المقدس</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">كيريى إليسون</td><td id="Col3" class="Col3">يا رب إرحم</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">آرى إفمفيئى ذى اون بين نيب ان أؤون نيفين إيتاف هو نهين نان ائر بوميفئى خين نين تيهو نيم نين طفه إيتين إيرى إمموؤو إى إبشوى هازوك إبشويس بيننوتى. نيئتاف إير شورب إن إنكوت ما إمطون نؤو نى إتشونى ما تالتشوؤ. جى إنثوك غار بي بين أونخ تيرو نيم بين أوجاى تيرو نيم تين هلبيس تيرو نيم بين طالتشو تيرو نيم تين أناستاسيس تيرين</td><td id="Col3" class="Col3">أذكر أيضًا يا سيدنا كل الذين أمرونا أن نذكرهم في تضرعاتنا وطلباتنا التي نرفعها إليك أيها الرب إلهنا الذين سبقوا فرقدوا نيحهم المرضي إشفيهم لأنك انت هو حياتنا كلنا و خلاصنا كلنا ورجاؤنا كلنا وشفاؤنا كلنا وقيامتنا كلنا </td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">الليلويا</td><td id="Col3" class="Col3">هلليلويا</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">ويخاطب الشماس الشعب قائلًا:</td></tr></table>
+<table class="tb_deacon"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">إسطاثيتى ميتا فوفو ثيئو آكو سومين طو اجيو إيف آنجيليو</td><td id="Col3" class="Col3_d">قفوا بخوف الله لسماع الإنجيل المقدس</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إف إزمارؤوت إنجى فيئثنيو خين إفران إم إبشويس إنتى نى جوم كيريى إفلو جيصون إك طو كاطا  ...  آجيو إيف آنجيليون طوآناغوسما.</td><td id="Col3" class="Col3">مبارك الآتي باسم رب القوات يا رب بارك الفصل من الإنجيل المقدس بحسب القديس ... البشير</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">ذوكساسي كيريى</td><td id="Col3" class="Col3">المجد لك يا رب</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">يقول الشماس</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_solo"><td colspan="3"> قفوا بخوف أمام الله وانصتوا لسماع الإنجيل المقدس، فصل من بشارة الانجيل لمعلمنا (…..) البشير التلميذ الطاهر، بركاته ..</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table><tr class="people_solocenter"><td colspan="3">على جمـــــــــيعنا</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">ويكمل الكاهن قائلا</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">بين شويس أووه بين نوتى أووه بين سوتير اووه بين أورو تيرين إيسوس بى إخرستوس إبشيرى إم إفنوتى إت أونخ بى أوؤو ناف شا اينيه. بى أوؤو فا بيننوتى بى امين</td><td id="Col3" class="Col3">ربنا وإلهنا ومخلصنا وملكنا كلنا يسوع المسيح ابن الله الحي له المجد إلى الأبد الآبدين امين</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">ذوكساسي كيريى</td><td id="Col3" class="Col3">المجد لك يا رب</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">يقول الشماس مقدمة المزمور</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_solo"><td colspan="3">من مزاميروتراتيل ابينا داود النبي والملك الطاهر، بركاته على جميعنا امين</td></tr></table>
+<table><tr class="people_head"><td colspan="3">في ختام المزمور يقول الشعب</td></tr></table>
+<table><tr class="people_solocenter"><td colspan="3">الليــــــــــلويا</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">يقول الشماس مقدمة الانجيل</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_solo"><td colspan="3">مبارك هو الأتى باسم الرب، ربنا والهنا ومخلص نفوسنا كلنا ربنا يسوع المسيح ابن الله الحى لذى له المجد الدائم</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table><tr class="people_solocenter"><td colspan="3">الى الابد آمين</td></tr></table>
+<table><tr class="people_head"><td colspan="3">وفى نهاية قراءة الانجيل يقولون</td></tr></table>
+<table><tr class="people_solocenter"><td colspan="3">والمجد لله دائمًا</td></tr></table>
+<span id="9"></span><table class="split"><tr class="pray_head"><td colspan="3">مرد الانجيل</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">أونياتو خين أو ميثمي ني إثؤواب إنتي باي إيهؤو. بي أواي بي أواي كاطا بيفران نيمين راتي إنتي بي إخرستوس أري إبريسفيفين</td><td id="Col3" class="Col3">طوباهم بالحقيقة قديسي هذا اليوم كل واحد واحد باسمه أحياء المسيح إشفعي فينا</td></tr></table>
+<table><tr class="people_headred"><td colspan="3">ويختم</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">جي إف إزماروؤت إنجي إفيوت نيم إبشيري نيم بي إبنيفما إثؤواب تي إترياس إتجيك إيقول تين أوأوشت إم موس تين تي أواوناس</td><td id="Col3" class="Col3">لأنه مبارك الآب والإبن والروح القدس الثالوث الكامل نسجد له ونمجده</td></tr></table>
+<table><tr class="note"><td colspan="3">ثم يسجد الكاهن أمام الهيكل ويصافح أخوته الكهنة ويطلب السماح من الشعب أمام المذبح ويقبله</td></tr></table>
+<span id="10"></span><table class="split"><tr class="pray_head"><td colspan="3">اواشى بعد الانجيل</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إشليل</td><td id="Col3" class="Col3">صل</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">يجاوبه الشماس</td></tr></table>
+<table class="tb_deacon"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">إيبى إبروس إفكى إستاثيتى</td><td id="Col3" class="Col3_d">للصلاة قفوا</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إيرينى باسى</td><td id="Col3" class="Col3">السلام للكل</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">كيطو إبنيفماتى سو</td><td id="Col3" class="Col3">ولروحك أيضًا</td></tr></table>
+<span id="11"></span><table class="split"><tr class="pray_head"><td colspan="3">اوشية السلام</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن ووجهه للشرق ممسكا بالمجمرة في يمينه</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">بالين أون مارين تيهو إى إفنوتى بى بانطوكراطور إفيوت إم بين شويس أووه بيننوتى أووه بين سوتير إيسوس بى إخرستوس تين تيهو أووه تين طفه إنتيك ميت آغاثوس بى ماى رومى أرى أفميفئى إبشويس إنتى هيرينى إنتى تيك أوى إمما فتس إثؤواب إنكاثوليكى إن أبسطوليكي إن إككليسيا.</td><td id="Col3" class="Col3">وأيضًا فلنسأل الله ضابط الكل أبا ربنا وإلهنا ومخلصنا يسوع المسيح نسأل ونطلب من صلاحك يا محب البشر أذكر يا رب سلام كنيستك الواحدة الوحيدة المقدسة الجامعة الرسولية</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">يقول الشماس</td></tr></table>
+<table class="tb_deacon"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">إبروس إف إكساستى إيبرتيس إيرينس تيس أجياس مونيس كاثوليكيس كى أبو سطو ليكيس أرثوذوكسو توثيئو إككليسياس.</td><td id="Col3" class="Col3_d">صلوا من أجل سلامة كنيسة الله الواحدة المقدسة الجامعة الرسولية الأرثوذكسية</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">كيريى إليسون</td><td id="Col3" class="Col3">يا رب ارحم</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">ثاي إتشوب يسجين أفرجس إنتي إيكوميني شا أفرجس ني لاوس تيرونيم ني اوهي تيروإزموا إيروؤو تي هيريني تي إيفول خين ني فيئووي ميس إى إخري إى نين هيت تيروآللانيم تي كي هيريني إنتي باي فيوس فاي أري خاريزيستي إمموس نان إن إهموت</td><td id="Col3" class="Col3">هذه الكائنة من أقاصي المسكونة إلى أقاصيها كل الشعوب وكل القطعان باركهم السلام الذي من السموات أنزله على قلوبنا جميعاً بل وسلام هذا العمر أنعم به علينا إنعاماً</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">بي أورو ني ميت ماطوي ني ارخون ني سوتشني ني ميش نين ثيشيف نيم نين حينموشي إيخون نيم نين جينموشي إيفول سيلسولو خين هيريني نيفين </td><td id="Col3" class="Col3">الرئيس والجند والرؤساء والوزراء والجموع وجيراننا ومداخلنا ومخارجنا زينهم بكل سلام </td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إبؤروإنتي تي هيريني موى نان إنتيك هيريني هوب غار نيفين أكتيتو نان إجفون ناك إفنوتي بينسوتير جي تين سوؤون إنكي أواى آن إيفيل إيروك بيكران إثؤواب بيتين جو إمموف مارو أونخ إنجي ني إيتينون إم إبسيشي هيتين بيك إبنيفما إثؤواب</td><td id="Col3" class="Col3">يا ملك السلام اعطنا سلامك لأن كل شي قد أعطيتنا إقتتنالك يا الله مخلصنا لأننا لا نعرف أخر سواك اسمك القدوس هو الذي نقوله فلتحيا نفوسنا بروحك القدوس</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">اووه إمبين إثريف جيمجوم إيرون أنون خانيك إيفيئيك إنجي إفمو إنتي هان نوفي أودي خابيك لاؤس تيرف</td><td id="Col3" class="Col3">ولا يقوي علينا نحن عبيدك موت الخطية ولا على كل شعبك </td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">كيريى إليسون</td><td id="Col3" class="Col3">يا رب ارحم</td></tr></table>
+<span id="12"></span><table class="split"><tr class="pray_head"><td colspan="3">أوشية الأباء</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">بالين أون مارين تيهو إي إفنوتي بي بانطوكراطور إفيوت إم بين شويس أووه بننوتي أووه بينسوتير إيسوس بي إخرستوس تين هو أووه تين طفه إنتيك ميت آغاثوس بي ماي رومي آري إفميفئي إبشويس إمبين بطريارشيس إنيوت إتطايوت إن آرشي إرفس بابا آقا (…)</td><td id="Col3" class="Col3">وأيضاً فلنسأل الله ضابط الكل أبا ربنا وإلهنا ومخلصنا يسوع المسيح نسأل ونطلب من صلاحك يا محب البشر أذكر يا رب بطريركنا الأب المكرم رئيس الكهنة البابا انبا (…) </td></tr></table>
+<table><tr class="people_headred"><td colspan="3">وفي حضور الأب المطران يقول</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">نيم بين يوت إتطايوت إمميترو بوليتيس آفا (…)</td><td id="Col3" class="Col3">وأبانا المطران المكرم أنبا (…) </td></tr></table>
+<table><tr class="people_headred"><td colspan="3">وفي حضور الأب الاسقف يقول</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">نيم بيف كى إشفير إن لي طورغوس بين يوت إيبسكوبوس افا (...)</td><td id="Col3" class="Col3">وشريكه فى الخدمة الرسولية أبينا الأسقف المكرم الأنبا (...)</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">يقول الشماس</td></tr></table>
+<table class="tb_deacon"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">إبروس إفغ إكساستى إيبيرتو أرشى إيريئوس إيمون باب آفا (…..) بابا كى باتريارخو كى أرشى إبيسكبو تيس ميغالو بوليئوسكى تون أرثوذكسون إيمون إبيسكوبون.</td><td id="Col3" class="Col3_d">صلوا من أجل رئيس كهنتنا البابا الأنبا (...) بابا وبطريرك ورئيس أساقفة المدينة العظمي الأسكندرية وسائر أساقفتنا الأرثوذكسيين</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">وفي حضور الأب الاسقف يقول</td></tr></table>
+<table class="tb_deacon"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">نيم بيف كى إشفير إن لي طورغوس بين يوت إيبسكوبوس افا (...) كى تون اورثوذكسون إيمون إيبسكوبون</td><td id="Col3" class="Col3_d">وشريكة في الخدمة الرسولية أبينا الأسقف المكرم الأنبا (...)، وسائر أساقفتنا الارثوذكسيين</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">كيريى إليسون</td><td id="Col3" class="Col3">يا رب ارحم</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">خين أو آريه آريه إيروف نان إنهان ميش إن رومبي نيم هان سيو إنهيرينيكون إفجوك إيفول إنثيئثؤواب إيتاك تين هفف إيروس إيفول هيططك إمميت أرشي إريفس كاطابيك أو أوش إثؤواب أووه إم ماكاريون </td><td id="Col3" class="Col3">حفظاً إحفظه لنا سنين كثيرة وأزمنة سالمة مكملاً رئاسة الكهنوت المقدسة التي إئتمنتيه عليها من قبلك كإراداتك المقدسة الطوباوية </td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إنشوت إيفول إم إبساجي إنتي تي ميثمي خين أو سوأوتين إف اموني إمبيك لاس خين أوطوفو نيم او ميثمي نيم ني إيبسكوبوس نيم ني أرثوذكسوس نيم بي ني هيغومينوس نيم ني إبريسفيتيروس نيم ني ذياكون نيم إفموه تيرف إنتي تيك اووه إممافتس إثؤواب إنكاثوليكي إن أبوسطوليكي إن إككليسيا إيك إى إير خاريزستي نوؤو نيمان إن أو هيريني نيم أو أوجاي إيقول خين ماي نيفين نو إبروس إفكي ذى إيتو إيري إمموؤوإي إهري إيجون نيم إيجين بيك لاؤس تيرف نيم نونهون إى إهري إيجوؤو.</td><td id="Col3" class="Col3">مفصلاً كلمة الحق باستقامته راعياً شعبك بطهارة وبر وجميع الأساقفة الأرثوذكسيين والقمامصة والقسوس والشمامسة وكل امتلاء كنيستك الواحدة الوحيدة المقدسة الجامعة الرسولية انعم عليهم وعلينا بالسلام والعافية في كل موضع وصلواتهم التي يقدمونها عنا وعن كل شعبك وصلواتنا نحن أيضاً عنهم </td></tr></table>
+<table><tr class="note"><td colspan="3">ويقدم الشماس المجمرة للكاهن فيضع فيها البخور يداً واحدة</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">شوبو إيروك إيجين بيك ثيسيا ستيريون إثؤواب إن إيللوجيمون إنتي إتفي أي أو إسطوي إن إسطوى نوفي نوجاجي مين تيرو نيئيطوناف إيروؤو نيم ني إنسيناف إيروؤو آن خيم خومو أووه ماثيفيو سابيسيت إن نوتشالفج إنكوليم إن ثؤوذي آريه إيروؤو خين أو هيريني نيم اوذيكيئوسيني خين تيك إككليسيا إثؤواب</td><td id="Col3" class="Col3">إقبلها إليك علي مذبحك المقدس الناطق السمائي رائحة بخور وسائر أعدائهم الذين يرون و الذين لا يرون إسحقهم و أذلهم تحت أقدامهم سريعاً واما هم فإحفظهم في سلام وعدل في كنيستك المقدسة</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">كيريى إليسون</td><td id="Col3" class="Col3">يا رب ارحم</td></tr></table>
+<span id="13"></span><table class="split"><tr class="pray_head"><td colspan="3">أوشية الإجتماعات</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">بالين أونم مارين تيهو إى إفنوتى بى بانطوكرارطور إفيوت إم بين شويس أووه بيننوتى أووه بين سوتير إيسوس بى إخرستوس تين تيهو أووه تين طفه إنتيك ميت آغاثوس بى ماى رومى آرى إفميفئى إبشويس إن نين جين ثؤوتى.</td><td id="Col3" class="Col3">وأيضًا فلنسأل الله ضابط الكل أبا ربنا وإلهنا ومخلصنا يسوع المسيح نسأل ونطلب من صلاحك يا محب البشر أذكر يا رب اجتماعاتنا </td></tr></table>
+<table><tr class="priest_head"><td colspan="3">ثم يلتفت إلى الغرب ويرشم الشعب بمثال الصليب بدرج البخور ويقول</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">إزمو إيروؤو</td><td id="Col3" class="Col3">باركها </td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3">يقول الشماس</td></tr></table>
+<table class="tb_deacon"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">إبروس إفئكساستى إيبيرتيس آجياس إككليسياس تافتيس كى تون ثين إليفسيون إيمون</td><td id="Col3" class="Col3_d">صلوا من أجل هذه الكنيسة المقدسة وإجتماعتنا </td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">كيريى إليسون</td><td id="Col3" class="Col3">يا رب ارحم</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يقول الكاهن وهو يبخر فوق المذبح</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">ميس إثروشوبى نان إن آتئير كولين إن أت طاهنو إثرين إيطو كاطا بيك أؤوش إثؤواب أووه إمما كاريون</td><td id="Col3" class="Col3">أعط ان تكون لنا بغير مانع ولا عائق لنصنعها كمشيئتك المقدسة الطوباوية بيوت صلاة بيوت طهارة</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">ثم يرفع البخور على المذبح بمثال الصليب وهو يقول</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">هانئى إن إفكى. هانئى إنطوفو. هانئى إن إزمو. آريخاريذيستى إيمموؤو نان إبشويس تيم نيك إيفى أيك إثنيو مينينسون شا إينيه.</td><td id="Col3" class="Col3">بيوت صلاة بيوت طهارة بيوت بركة أنعم يها يا رب علينا وعلى عبيدك الآتيين بعدنا إلى الأبد </td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">طونك إبشويس إفنوتى ماروجور إيفول إنجى نيك جاجي تيرو. ماروفوت إيفول خا إتهى إم بيكهو إنجى أؤون نيفين إثموستى إم بيكران إثؤواب.</td><td id="Col3" class="Col3">قم أيها الرب الإله وليتفرق جميع أعدائك وليهرب من قدام وجهك كل مبغض إسمك القدوس </td></tr></table>
+<table><tr class="people_headred"><td colspan="3">وإذا كان وقت فليقل بقية هذه الأوشية أو يتركها</td></tr></table>
+<table class="priest_solo"><tr><td colspan="3">عبادة الأوثان بالكمال إقلعها من العالم الشيطان وكل قواته الشريرة اسحقهم وأذلهم تحت أقدامنا بسرعة الشكوك وفاعلوها أبطلهم ولينقضي إفتراق فساد البدع أعداء كنيستك المقدسة يا رب مثل كل زمان والآن أذلهم حل تعاظمهم عرفهم ضعفهم سريعاً أبطل حسدهم وسعايتهم وجنونهم وشرهم ونميمتهم التي يصنعونها فينا يا رب إجعلهم كلهم كلا شيء وبدد مشورتهم يا الله الذي بدد مشورة أخيتوفل</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">كيريى إليسون</td><td id="Col3" class="Col3">يا رب ارحم</td></tr></table>
+<table><tr class="priest_head"><td colspan="3">يلتفت إلى الغرب ويعطى البخور للكهنة والشمامسة والشعب قائلًا</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">بيك لاؤس ذى ماريف شوبى خين بى إزمو إى هان أنشو إنشونيم هان إثفا إن إثفا إف إيرى إم بيك أؤوش. خين بي إهموت نيم ني ميت شنهيت نيم تى ميت ماى رومى إنتى بيك مونو جينيس إنشيرى بين شويس أووه بيننوتى أووه بنسوتير إيسوس بي إخرستوس</td><td id="Col3" class="Col3">وأما شعبك فليكن بالبركة ألوف ألوف وربوات ربوات يصنعون إرادتك بالنعمة  والرأفات ومحبة البشر اللواتي  لإبنك الوحيد الجنس  ربنا وإلهنا ومخلصنا يسوع  المسيح </td></tr></table>
+<table><tr class="priest_head"><td colspan="3">ويبخر شرقًا ثلاث أياد وهو يقول</td></tr></table>
+<table class="tb_priest"><tr><td id="Col1" class="Col1"></td><td id="Col2" class="Col2"> فاى إيتى إيفول هيطوطف إيرى بى أوؤو نيم بى  طايو نيم بى آماهى نيم تى إبروس كينيسيس إير إبريبى ناك نيماف نيم بى إبنيفما إثؤواب إثريف تانخو أووه إن أوموسيوس نيماك  تينو نيم إن سيو نيفين نيم شا إينيه  إنتى نى إينيه تيرو آمين. </td><td id="Col3" class="Col3">هذا الذي من  قبلة المجد والكرامة والعزة  والسجود تليق بك معه ومع  الروح القدس المحيي  المساوي لكل الآن وكل  اوان وإلى دهر الدهور  آمين </td></tr></table>
+<table><tr class="note"><td colspan="3">ثم يعود مبخراً إلى الشرق وهو يقول بالنعمة والرأفات الخ ثم يأخذ الشماس المجمرة من الكاهن</td></tr></table>
+<span id="14"></span><table class="split"><tr class="pray_head"><td colspan="3">قانون الإيمان</td></tr></table>
+<table class="tb_deacon"><tr class="deacon_head"><td colspan="3"> وينادي الشماس الشعب قائلاً</td></tr></table>
+<table class="tb_deacon"><tr><td id="Col1" class="Col1_d"></td><td id="Col2" class="Col2_d">إن صوفيا ثيئوإبروس خومين كيريي إليسون كيريي إليسون خين أوميثمي آمين</td><td id="Col3" class="Col3_d">انصتوا بحكمة الله يا رب إرحم يا رب إرحم بالحقيقة آمين</td></tr></table>
+<table><tr class="people_head"><td colspan="3">يقول الشعب - قانون الإيمان</td></tr></table>
+<table><tr class="people_solortl"><td colspan="3">بالحقيقة نؤمن بإله واحد، الله الآب، ضابط الكل، خالق السماء و الأرض، ما يرى و ما لا يرى. نؤمن برب واحد يسوع المسيح، ابن الله الوحيد، المولود من الآب قبل كل الدهور، نور من نور، إله حق من إله حق، مولود غير مخلوق، مساو للآب في الجوهر، الذي به كان كل شيء. هذا الذي من أجلنا نحن البشر، و من أجل خلاصنا، نزل من السماء و تجسد من الروح القدس و من مريم العذراء. تأنس و صلب عنا على عهد بيلاطس البنطي. تألم و قبر و قام من بين الأموات في اليوم الثالث كما في الكتب، و صعد إلى السموات، و جلس عن يمين أبيه، وأيضًا يأتي في مجده ليدين الأحياء و الأموات، الذي ليس لملكه انقضاء.</td></tr></table>
+<table><tr class="people_solortl"><td colspan="3">نعم نؤمن بالروح القدس، الرب المحيي المنبثق من الآب. نسجد له و نمجده مع الآب والابن، الناطق في الأنبياء. و بكنيسة واحدة مقدسة جامعة رسولية. و نعترف بمعمودية واحدة لمغفرة الخطايا.</td></tr></table>
+<table><tr class="people_head"><td colspan="3">ويختم بهذه العبارة باللحن</td></tr></table>
+<table class="tb_people"><tr class="trsp"><td id="Col1" class="Col1"></td><td id="Col2" class="Col2">تين جوشت إيقول خا إتهي إن تي آناسطاسيس إنتي ني إيريقموؤوت نيم بي اونخ إنتي بي إيئون إسنيو آمين</td><td id="Col3" class="Col3">وننتظر قيامة الأموات وحياة الدهر الآتي آمين</td></tr></table>
+<table><tr class="note"><td colspan="3">وأثناء تلاوة قانون الإيمان يغسل الكاهن يديه ثلاث مرات ثم ينفضها وبهذا كأنه يحذر الشعب لئلا ينكر أحدهم إيمانه بالسيد المسيح أو أن يكون قانون الإيمان من الفم فقط ويعلن بنفض يديه براءته من المخالف، وبعد ذلك ينشف يديه جيداً ويقف أمام المذبح بخشوع </td></tr></table>
+
+</div>
+
+<script src="jquery-min.js"></script>
+<script src="table-min.js"></script>
+
+</body>
+</html>

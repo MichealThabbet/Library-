@@ -1,0 +1,80 @@
+<!-- settings.html -->
+<div id="settingsContainer_rev">
+  <!-- Settings Button -->
+  <button id="settingsBtn">⚙️</button>
+
+  <!-- Floating Settings Menu -->
+  <div id="settingsMenu" style="display: none;">
+    <label>
+      <input type="checkbox" id="toggle_revImages">
+      صور سفر الرؤيا
+    </label>
+  </div>
+</div>
+
+<!-- Add a minimal style -->
+<style>
+  /* Container for the button and menu to stay together */
+  #settingsContainer #settingsContainer_rev {
+    position: fixed;
+    top: 2vh;
+    right: 2vw;
+    z-index: 9999;
+  }
+
+  /* Responsive and slightly faded Floating Button */
+  #settingsBtn {
+    width: 6vw;
+    height: 6vw;
+    min-width: 30px;
+    min-height: 30px;
+    max-width: 50px;
+    max-height: 50px;
+    background-color: rgba(0, 0, 0, 0.6); /* Semi-transparent black */
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 2vw;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    backdrop-filter: blur(4px); /* Optional: frosted glass effect */
+    transition: background-color 0.3s ease;
+  }
+
+  /* Hover effect for the button */
+  #settingsBtn:hover {
+    background-color: rgba(0, 0, 0, 0.8);
+  }
+
+  /* Floating Settings Menu */
+  #settingsMenu {
+    margin-top: 2px;
+    position: relative;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    border: 1px solid #aaa;
+    padding: 1vh 2vw;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+    font-size: 1.6vw;
+    font-weight:bold;
+    min-width: x;
+    max-width: ;
+    backdrop-filter: blur(6px);
+    transition: opacity 0.3s ease;
+  }
+
+  /* Spacing between menu items */
+  #settingsMenu label {
+    display: block;
+    margin: 5px 0;
+  }
+
+  /* Ensure checkbox scales with screen */
+  #toggle_revImages {
+    transform: scale(1.2);
+    margin-right: 8px;
+  }
+</style>

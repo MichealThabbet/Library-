@@ -1,9 +1,53 @@
 {
   "folders_checked": 29,
-  "archive_files": 31,
+  "archive_files": 57,
   "archives_processed": 20,
   "multipart_continuations": 11,
   "nested_archives": 2,
-  "unprocessed": [],
-  "failures": []
+  "unprocessed": [
+    "incoming/Tafseer_bible/extracted/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/arm.zip",
+    "incoming/Tafseer_bible/extracted/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/mdbi.zip",
+    "incoming/Tafseer_bible/extracted/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/en.zip",
+    "incoming/Tafseer_bible/extracted/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/gembible.zip",
+    "incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._mdbi.zip",
+    "incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._gembible.zip",
+    "incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._arm.zip",
+    "incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._en.zip",
+    "incoming/catena/extracted/catena/catena arm.zip",
+    "incoming/catena/extracted/catena/mdbi.zip",
+    "incoming/catena/extracted/catena/catena app.zip",
+    "incoming/catena/extracted/catena/src.zip",
+    "incoming/catena/extracted/__MACOSX/catena/._src.zip",
+    "incoming/catena/extracted/__MACOSX/catena/._mdbi.zip",
+    "incoming/catena/extracted/__MACOSX/catena/._catena app.zip",
+    "incoming/catena/extracted/__MACOSX/catena/._catena arm.zip",
+    "incoming/ishlil/extracted/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/config.armeabi_v7a.zip",
+    "incoming/ishlil/extracted/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/config.en.zip",
+    "incoming/ishlil/extracted/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/config.ar.zip",
+    "incoming/ishlil/extracted/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/com.menasoft.eshlil.zip",
+    "incoming/ishlil/extracted/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/config.ru.zip",
+    "incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.en.zip",
+    "incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._com.menasoft.eshlil.zip",
+    "incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.ar.zip",
+    "incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.ru.zip",
+    "incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.armeabi_v7a.zip"
+  ],
+  "failures": [
+    {
+      "folder": "incoming/shehood",
+      "archive": "سحابةشهود",
+      "pieces": 1,
+      "new_files": 0,
+      "status": "error",
+      "error": "Cannot decompress joined file: \nERRORS:\nUnexpected end of archive\n\nERROR: Unexpected end of data : assets/sp_dic.csv\n"
+    },
+    {
+      "folder": "incoming/shehood",
+      "archive": "سحابةشهود٢",
+      "pieces": 1,
+      "new_files": 0,
+      "status": "error",
+      "error": "Missing or nonconsecutive parts"
+    }
+  ]
 }

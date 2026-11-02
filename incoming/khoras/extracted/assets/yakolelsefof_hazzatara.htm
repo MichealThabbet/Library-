@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+ 
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>لحن يا كل الصفوف | هزات - طقس القيامة</title><!-- تغيير اسم الترنيمة -->
+ <link rel="stylesheet" href="style_tar.css">
+ <link rel="stylesheet" href="jquery-min.js">
+ <link rel="stylesheet" href="table-min.js">
+</head>
+</head>
+<body class="body_alhan">
+<div class="header_alhan" id="myHeader">
+  <big>لحن يا كل الصفوف | هزات - طقس القيامة</big><!-- تغيير اسم الترنيمة -->
+</div>
+<div class="lines_alhan">
+<img style="max-width:100%;" src=kol1.jpg>
+<br>
+<img style="max-width:100%;" src=kol2.jpg>
+<br>
+<img style="max-width:100%;" src=kol3.jpg>
+<br>
+<img style="max-width:100%;" src=kol4.jpg>
+</div>
+<script>
+
+
+window.onscroll = function() {myFunction()};
+
+var header = document.getElementById("myHeader");
+var sticky = header.offsetTop;
+
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
+}
+</script>
+</html>

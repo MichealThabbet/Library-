@@ -1,0 +1,100 @@
+master_code,item_name,item_title,item_code,item_image,item_text,item_mp3,item_pdf,item_note,item_online_mp3,item_book,item_csvfile
+mainmenu,مكتبة الحان سوتيريا,مكتبة الحان سوتيريا,ag_passion_hymn_favmenu,ag_music.png,none,none,none,none,none,none,none
+mainmenu,سبت النور - ابو غلمسيس,سبت النور - ابو غلمسيس,ag_apocalypse,ag_music.png,none,none,none,none,none,none,none
+mainmenu,مكتبة صوتية متنوعة,مكتبة صوتية متنوعة,ag_mp3library_favmenu,ag_passion4.png,none,none,none,none,none,none,none
+mainmenu,برامج اذاعية,برامج اذاعية,ag_passionmp3_programs,ag_music.png,none,none,none,none,none,none,none
+mainmenu,كتب مسموعة,كتب مسموعة,ag_passionmp3_audiobooks,ag_music.png,none,none,none,none,none,none,none
+mainmenu,دلال اسبوع الآلام | بوربوينت,دلال اسبوع الآلام | بوربوينت,ag_passion_ppt,ag_slideshow.png,full_notifier,none,none,none,none,none,none
+mainmenu,مكتبة الكتب,مكتبة الكتب,ag_pdflib,ag_ebooks.png,full_notifier,none,none,none,none,none,none
+none,القــاموس,القــامـــوس,ag_dictonary,ag_dic.png,none,none,none,none,none,none,none
+none,المفــضـــلة,المفضلة,ag_favorite,ag_favorite.png,none,none,none,none,none,none,none
+mainmenu,تحديث محتوى,تحديث محتوى,ag_download,ag_download.png,none,none,none,none,none,none,none
+mainmenu,تحميل الملفات,مركز تحميل الملفات,ag_filecenter,ag_download.png,full_notifier,none,none,none,none,none,none
+mainmenu,الاعدادات,الاعدادات,ag_settings,ag_settings.png,none,none,none,none,none,none,none
+mainmenu,مشاركة البرنامج,مشاركة البرنامج,ag_share,ag_share.png,none,none,none,none,none,none,none
+mainmenu,تقييم البرنامج,تقييم البرنامج,ag_rate,ag_rate.png,none,none,none,none,none,none,none
+mainmenu,حول البرنامج,حول البرنامج,ag_about,ag_about.png,none,none,none,none,none,none,none
+mainmenu,برامج اخرى,برامج اخرى,ag_others,ag_others.png,none,none,none,none,none,none,none
+mainmenu,تواصل معنا,تواصل معنا,ag_contactus,ag_contactus.png,none,none,none,none,none,none,none
+ag_passion_hymn_favmenu,احد الشعانين,🌿 الحان احد الشعانين,passionhymns_palm_lib_menu,ag_vesp.png,none,none,none,none,none,none,sp_master_new.csv
+ag_passion_hymn_favmenu,الحان ساعات البصخة,☦️ الحان ساعات البصخة,passionhymns_general_lib_menu,ag_vesp.png,none,none,none,none,none,none,sp_master_new.csv
+ag_passion_hymn_favmenu,خميس العهد,☦️ الحان خميس العهد,passionhymns_thursday_lib_menu,ag_vesp.png,none,none,none,none,none,none,sp_master_new.csv
+ag_passion_hymn_favmenu,الجمعة العظيمة,☦️ الحان الجمعة العظيمة,passionhymns_friday_lib_menu,ag_vesp.png,none,none,none,none,none,none,sp_master_new.csv
+ag_passion_hymn_favmenu,الحان سبت النور,🪔 الحان سبت النور,rev_apo_alhan,ag_vesp.png,none,none,none,none,none,none,apocalypse.csv
+ag_passion_hymn_favmenu,الحان القيامة,☀️ الحان القيامة,resu_alhan,ag_vesp.png,none,none,none,none,none,none,resurrection.csv
+ag_passion_hymn_favmenu,الحان اسبوع الالام | أبو فام,الحان اسبوع الالام | أبو فام,passionhymns_misc_abofam_menu,ag_vesp.png,none,none,none,none,none,none,sp_master_new.csv
+ag_mp3library_favmenu,قراءات احداث اسبوع الآلام,قراءات احداث اسبوع الآلام,passion_readings,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_mp3library_favmenu,ترانيم اسبوع الآلام,ترانيم اسبوع الآلام,passiontaranem_misc,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_mp3library_favmenu,تاملات اسبوع الآلام,تاملات اسبوع الآلام,passion_tamol,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_mp3library_favmenu,مراثى ارميا اسبوع الآلام,مراثى ارميا اسبوع الآلام,passion_marathy,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_mp3library_favmenu,لحن انا الصغير | سبت النور,لحن انا الصغير | سبت النور,apo_psalm151,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_mp3library_favmenu,موسيقى اسبوع الآلام,موسيقى اسبوع الآلام,passion_music,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_passionmp3_programs,مسلسل طريق الصليب,مسلسل طريق الصليب,mp3_programs_tareksaleb,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_passionmp3_programs,حدث فى مثل ذلك اليوم | اسبوع الآلام,حدث فى مثل ذلك اليوم | اسبوع الآلام,mp3_programs_thisday,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_passionmp3_programs,دراما الصلب | اسبوع الآلام,دراما الصلب | اسبوع الآلام,mp3_programs_dramasalb,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_passionmp3_programs,رموز ونبوات | اسبوع الآلام,رموز ونبوات | اسبوع الآلام,mp3_programs_remoz,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_passionmp3_programs,متمم النبوات | اسبوع الآلام,متمم النبوات | اسبوع الآلام,mp3_programs_provend,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_passionmp3_programs,هناك كنت معه | اسبوع الآلام,هناك كنت معه | اسبوع الآلام,mp3_programs_withhim,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_passionmp3_programs,كلمات المسيح على الصليب,كلمات المسيح على الصليب,mp3_programs_crosswords,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_passionmp3_programs,تأملات فى اسبوع الآلام,تأملات فى اسبوع الآلام,mp3_programs_tamolat,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+none,احداث اسبوع الآلام,احداث اسبوع الآلام,mp3_programs_bibleevents,ag_vesp.png,none,none,none,none,none,none,passionmp3_library.csv
+ag_passionmp3_audiobooks,كتاب ساعة بساعة | ابونا متى المسكين,كتاب ساعة بساعة | ابونا متى المسكين,audiobooks_hours,ag_vesp.png,none,none,none,none,none,none,passionmp3_misc.csv
+ag_apocalypse,سفر الرؤيا | ابوغلمسيس,📜 سفر الرؤيا | ابوغلمسيس (نص + مردات),rev_apo_full_mardat,ag_vesp.png,none,none,none,none,none,none,apocalypse.csv
+ag_apocalypse,سفر الرؤيا | مقروء,📘 سفر الرؤيا | مسموع,rev_apo_audio_read_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,apocalypse.csv
+ag_apocalypse,سفر الرؤيا | دراما,📘 سفر الرؤيا | دراما,rev_apo_audio_drama_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,apocalypse.csv
+ag_apocalypse,سفر الرؤيا | تفسير,✍️ سفر الرؤيا | تفسير,rev_apo_tafser_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,apocalypse.csv
+ag_pdflib,الكفن المقدس,📕 الكفن المقدس,pdflib_shroud_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv
+ag_pdflib,دراما الصلب | الأنبا مكاريوس,📕 دراما الصلب | الأنبا مكاريوس,pdflib_dramasalb_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv
+ag_pdflib,كتب تأملات اسبوع الآلام,📕 كتب تأملات اسبوع الآلام,pdflib_tamolpassion_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv
+ag_pdflib,كتب قراءات والحان اسبوع الآلام,📕 كتب قراءات والحان اسبوع الآلام,pdflib_readpassion_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv
+ag_pdflib,كتب سبت الفرح,📕 كتب سبت الفرح,pdflib_apocalypse_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv
+ag_pdflib,كتب القيامة والخماسين,📕 كتب القيامة والخماسين,pdflib_resurrection_SaveCheckPoint,ag_vesp.png,none,none,none,none,none,none,pdf_library.csv
+ag_passion_ppt,توزيع احد الشعانين,🖥️ توزيع احد الشعانين,ag_passion_ppt_sun_tawzee,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv
+ag_passion_ppt,صلاة الجناز العام,🖥️ صلاة الجناز العام,ag_passion_ppt_publicfuneral,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv
+ag_passion_ppt,يوم الأحد | البصخة,🖥️ يوم الأحد | البصخة المقدسة,ag_passion_ppt_sun_mor,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv
+ag_passion_ppt,ليلة الاثنين | البصخة,🖥️ ليلة الاثنين | البصخة المقدسة,ag_passion_ppt_mon_night,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv
+ag_passion_ppt,يوم الاثنين | البصخة,🖥️ يوم الاثنين | البصخة المقدسة,ag_passion_ppt_mon_mor,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv
+ag_passion_ppt,ليلة الثلاثاء | البصخة,🖥️ ليلة الثلاثاء | البصخة المقدسة,ag_passion_ppt_tue_night,ag_vesp.png,none,none,none,none,none,none,pdf_sun_mon.csv
+ag_passion_ppt,يوم الثلاثاء | البصخة,🖥️ يوم الثلاثاء | البصخة المقدسة,ag_passion_ppt_tue_mor,ag_vesp.png,none,none,none,none,none,none,pdf_tue_wed.csv
+ag_passion_ppt,ليلة الاربعاء | البصخة,🖥️ ليلة الاربعاء | البصخة المقدسة,ag_passion_ppt_wed_night,ag_vesp.png,none,none,none,none,none,none,pdf_tue_wed.csv
+ag_passion_ppt,يوم الاربعاء | البصخة,🖥️ يوم الاربعاء | البصخة المقدسة,ag_passion_ppt_wed_mor,ag_vesp.png,none,none,none,none,none,none,pdf_tue_wed.csv
+ag_passion_ppt,ليلة الخميس | البصخة,🖥️ ليلة الخميس | البصخة المقدسة,ag_passion_ppt_thu_night,ag_vesp.png,none,none,none,none,none,none,pdf_tue_wed.csv
+ag_passion_ppt,يوم خميس العهد | البصخة,🖥️ يوم خميس العهد | البصخة المقدسة,ag_passion_ppt_thu_mor,ag_vesp.png,none,none,none,none,none,none,pdf_thur.csv
+ag_passion_ppt,ليلة الجمعة العظيمة,🖥️ ليلة الجمعة العظيمة | البصخة المقدسة,ag_passion_ppt_fri_night,ag_vesp.png,none,none,none,none,none,none,pdf_thur.csv
+ag_passion_ppt,يوم الجمعة العظيمة,🖥️ يوم الجمعة العظيمة | البصخة المقدسة,ag_passion_ppt_fri_mor,ag_vesp.png,none,none,none,none,none,none,pdf_fri.csv
+none,كتب اسبوع الآلام,📕 كتب اسبوع الآلام,ag_passion_books_SaveCheckPoint,none,none,none,none,none,none,none,none
+none,الحان البصخة,الحان البصخة,passionhymns_general,none,none,none,none,none,none,none,none
+none,الحان البصخة المتكررة,الحان البصخة المتكررة,ag_passion_ppt_common,none,none,none,none,none,none,none,none
+none,طلبة الصباح,🙏 طلبة الصباح,ag_passion_ppt_telba_mor,none,none,none,none,none,none,none,none
+none,طلبة المساء,🙏 طلبة المساء,ag_passion_ppt_telba_night,none,none,none,none,none,none,none,none
+none,ختام صلوات البصخة,ختام صلوات البصخة,ag_passion_ppt_end,none,none,none,none,none,none,none,none
+none,تسبحة ثوك تانى جوم,🖥️ تسبحة ثوك تانى جوم,ag_passion_ppt_thok,none,none,none,none,none,none,none,none
+none,تسبحة ثوك تانى جوم,🖥️ تسبحة ثوك تانى جوم,ag_passion_ppt_thok_wed,none,none,none,none,none,none,none,none
+none,تسبحة ثوك تانى جوم,🖥️ تسبحة ثوك تانى جوم,ag_passion_ppt_thok_fri,none,none,none,none,none,none,none,none
+none,لحن بيك اثرونوس,☦️ لحن بيك اثرونوس,ag_passion_hymn_pekthronos,none,none,none,none,none,none,none,none
+none,لحن افتشينون,☦️ لحن افتشينون,ag_passion_hymn_avetch,none,none,none,none,none,none,none,none
+none,لحن فاى ايطاف انف,☦️ لحن فاى ايطاف انف,ag_passion_hymn_faietaf,none,none,none,none,none,none,none,none
+none,الابركسيس الحزايني  كامل - ابراكسيون,☦️ الابركسيس الحزايني  كامل - ابراكسيون,ag_passion_hymn_thu_epsraks,none,none,none,none,none,none,none,none
+none,لحن اجيوس الحزاينى,☦️ لحن اجيوس الحزاينى,ag_passion_hymn_agios_sad,none,none,none,none,none,none,none,none
+none,لحن افلوجيمينوس,☦️ لحن افلوجيمينوس,ag_passion_hymn_evlog,none,none,none,none,none,none,none,none
+none,لحن كى ايبرتو,☦️ لحن كى ايبرتو,ag_passion_hymn_kerpto,none,none,none,none,none,none,none,none
+none,لحن اوكاتى | مقدمة العظة,☦️ لحن اوكاتى | مقدمة العظة,ag_passion_hymn_okaty_intro,none,none,none,none,none,none,none,none
+none,لحن اوكاتى | ختام العظة,☦️ لحن اوكاتى | ختام العظة,ag_passion_hymn_okaty_end,none,none,none,none,none,none,none,none
+none,لحن طاى شورى الحزاينى,☦️ لحن طاى شورى الحزاينى,ag_passion_hymn_taishory,none,none,none,none,none,none,none,none
+none,لحن تي ابيستولي,☦️ لحن تي ابيستولي,ag_passion_hymn_tebstoly,none,none,none,none,none,none,none,none
+none,مرد قطع الساعة السادسة | قبطى,☦️ مرد قطع الساعة السادسة | قبطى,ag_passion_hymn_6th_coptic,none,none,none,none,none,none,none,none
+none,مرد قطع الساعة السادسة | عربى,☦️ مرد قطع الساعة السادسة | عربى,ag_passion_hymn_6th_arabic,none,none,none,none,none,none,none,none
+none,لحن أومونوجنيس | قبطى,☦️ لحن أومونوجنيس | قبطى,ag_passion_hymn_omi_coptic,none,none,none,none,none,none,none,none
+none,لحن أومونوجنيس | عربى,☦️ لحن أومونوجنيس | عربى,ag_passion_hymn_omi_arabic,none,none,none,none,none,none,none,none
+none,لحن اري باميفيي | امانة اللص اليمين,☦️ لحن اري باميفيي | امانة اللص اليمين,ag_passion_hymn_theif,none,none,none,none,none,none,none,none
+none,امانة اللص اليمين,☦️ امانة اللص اليمين,ag_passion_hymn_theif_arabic,none,none,none,none,none,none,none,none
+none,لحن تى شورى الحزاينى | الطويل,☦️ لحن تى شورى الحزاينى | الطويل,ag_passion_hymn_te_long,none,none,none,none,none,none,none,none
+none,لحن تى شورى الحزاينى | القصير,☦️ لحن تى شورى الحزاينى | القصير,ag_passion_hymn_te_short,none,none,none,none,none,none,none,none
+none,لحن اثفيتى اناسطاسيس,☦️ لحن اثفيتى اناسطاسيس,ag_passion_hymn_ethve,none,none,none,none,none,none,none,none
+none,مرد قطع الساعة التاسعة | قبطى,☦️ مرد قطع الساعة التاسعة | قبطى,ag_passion_hymn_9th_coptic,none,none,none,none,none,none,none,none
+none,مرد قطع الساعة التاسعة | عربى,☦️ مرد قطع الساعة التاسعة | عربى,ag_passion_hymn_9th_arabic,none,none,none,none,none,none,none,none
+none,مراثى ارميا النبى | الساعة الثانية عشر,☦️ مراثى ارميا النبى | الساعة الثانية عشر,ag_passion_hymn_armia,none,none,none,none,none,none,none,none
+none,لحن غولغوثا,☦️ لحن غولغوثا,ag_passion_hymn_golgotha,none,none,none,none,none,none,none,none
+none,مقدمة الطرح | الصباح,☦️ مقدمة الطرح | الصباح,ag_passion_hymn_tarh_mor,none,none,none,none,none,none,none,none
+none,مقدمة الطرح | المساء,☦️ مقدمة الطرح | المساء,ag_passion_hymn_tarh_night,none,none,none,none,none,none,none,none
+none,ختام الطرح | صباح ومساء,☦️ ختام الطرح | صباح ومساء,ag_passion_hymn_tarh_end,none,none,none,none,none,none,none,none

@@ -1,0 +1,138 @@
+﻿master_code,item_name,item_title,item_code,item_image,item_text,item_mp3,item_pdf,item_note
+mainmenu,مردات الشماس,مردات الشماس,ag_main,ag_marad.png,none,none,none,none
+mainmenu,المفـــضـــــلة,المفـــضـــــلة,ag_favorite,ag_favorite.png,none,none,none,none
+remove,مردات الشعب,مردات الشعب,ag_people,ag_people.png,none,none,none,none
+mainmenu,تقييم البرنامج,تقييم البرنامج,ag_rate,ag_rate.png,none,none,none,none
+mainmenu,مشاركة البرنامج,مشاركة البرنامج,ag_share,ag_share.png,none,none,none,none
+mainmenu,برامج اخرى,برامج اخرى,ag_others,ag_others.png,none,none,none,none
+mainmenu,تواصل معنا,تواصل معنا,ag_contactus,ag_contactus.png,none,none,none,none
+ag_main,رفع بخور عشية | مردات الشماس,رفع بخور عشية | مردات الشماس,dec_vesp_coptic,dec_vesp.png,none,none,none,none
+ag_main,رفع بخور باكر | مردات الشماس,رفع بخور باكر | مردات الشماس,dec_matin_coptic,dec_matin.png,none,none,none,none
+ag_main,طقس تقديم الحمل  | مردات الشماس,طقس تقديم الحمل  | مردات الشماس,dec_bread_coptic,dec_bread.png,none,none,none,none
+ag_main,طقس قداس الموعوظين  | مردات الشماس,طقس قداس الموعوظين  | مردات الشماس,dec_maoz_coptic,dec_maoz.png,none,none,none,none
+ag_main,طقس قداس المؤمنين | مردات الشماس,طقس قداس المؤمنين | مردات الشماس,dec_momen_coptic,dec_momen.png,none,none,none,none
+dec_vesp_coptic,✴️ مرد - ايه بي ابروس افشي | قبطي,✴️ مرد - ايه بي ابروس افشي | قبطي,epeepros_coptic,none,epeepros_coptic.txt,epeepros_coptic.mp3,none,none
+dec_vesp_coptic,✴️ صلاة الشكر - ابروس افكساستي | قبطي,✴️ صلاة الشكر - ابروس افكساستي | قبطي,eprosefaksasty_coptic,none,eprosefaksasty_coptic.txt,eprosefaksasty_coptic.mp3,none,none
+dec_vesp_coptic,✴️ صلاة الشكر - ابروس فرايحي | قبطي,✴️ صلاة الشكر - ابروس فرايحي | قبطي,eprosefarah_coptic,none,eprosefaksasty_coptic.txt,eprosefaksasty_farah.mp3,none,none
+dec_vesp_coptic,✳️ صلاة الشكر -  اطلبوا لكى يرحمنا | عربي,✳️ صلاة الشكر -  اطلبوا لكى يرحمنا | عربي,tobeh_ves_arabic,none,tobeh_ves_arabic.txt,tobeh_ves_arabic.mp3,none,none
+dec_vesp_coptic,✴️ صلاة الشكر - طف هينا انتى افنوتي | قبطي,✴️ صلاة الشكر - طف هينا انتى افنوتي | قبطي,tobeh_ves_coptic,none,tobeh_ves_coptic.txt,tobeh_ves_coptic.mp3,none,none
+dec_vesp_coptic,✳️ مرد - أوشية الراقدين | عربي,✳️ مرد - أوشية الراقدين | عربي,oshy_dead_arabic,none,oshy_dead_arabic.txt,oshy_dead_arabic.mp3,none,none
+dec_vesp_coptic,✴️ مرد - أوشية الراقدين | قبطي,✴️ مرد - أوشية الراقدين | قبطي,oshy_dead_coptic,none,oshy_dead_coptic.txt,oshy_dead_coptic.mp3,none,none
+dec_vesp_coptic,✳️ أوشية الانجيل - مرد صلوا | عربي,✳️ أوشية الانجيل - مرد صلوا | عربي,oshy_bible_Salo_arabic,none,oshy_bible_Salo_arabic.txt,oshy_bible_Salo_arabic.mp3,none,none
+dec_vesp_coptic,✴️ أوشية الانجيل - مرد ابروس | قبطي,✴️ أوشية الانجيل - مرد ابروس | قبطي,oshy_bible_Salo_coptic,none,oshy_bible_Salo_coptic.txt,oshy_bible_Salo_coptic.mp3,none,none
+dec_vesp_coptic,✴️ أوشية الانجيل - مرد اسطاثيتى | قبطي,✴️ أوشية الانجيل - مرد اسطاثيتى | قبطي,oshy_bible_Staty_coptic,none,oshy_bible_Staty_coptic.txt,oshy_bible_Staty_coptic.mp3,none,none
+dec_vesp_coptic,✳️ مرد - أوشية السلام | عربي,✳️ مرد - أوشية السلام | عربي,oshy_peace_arabic,none,oshy_peace_arabic.txt,oshy_peace_arabic.mp3,none,none
+dec_vesp_coptic,✴️ مرد - أوشية السلام | قبطي,✴️ مرد - أوشية السلام | قبطي,oshy_peace_coptic,none,oshy_peace_coptic.txt,oshy_peace_coptic.mp3,none,none
+dec_vesp_coptic,✳️ مرد - أوشية الاباء | عربي,✳️ مرد - أوشية الاباء | عربي,oshy_fathers_arabic,none,oshy_fathers_arabic.txt,oshy_fathers_arabic.mp3,none,none
+dec_vesp_coptic,✴️ مرد - أوشية الاباء | قبطي,✴️ مرد - أوشية الاباء | قبطي,oshy_fathers_coptic,none,oshy_fathers_coptic.txt,oshy_fathers_coptic.mp3,none,none
+dec_vesp_coptic,✳️ مرد - أوشية الموضع | عربي,✳️ مرد - أوشية الموضع | عربي,oshy_place_arabic,none,oshy_place_arabic.txt,oshy_place_arabic.mp3,none,none
+dec_vesp_coptic,✴️ مرد - أوشية الموضع | قبطي,✴️ مرد - أوشية الموضع | قبطي,oshy_place_coptic,none,oshy_place_coptic.txt,oshy_place_coptic.mp3,none,none
+dec_vesp_coptic,✳️ مرد - أوشية المياة | عربي,✳️ مرد - أوشية المياة | عربي,oshy_water_arabic,none,oshy_water_arabic.txt,oshy_water_arabic.mp3,none,تقال من 12 بؤونة إلى 9 بابة (19 يونيو - 19/20 أكتوبر)
+dec_vesp_coptic,✴️ مرد - أوشية المياة | قبطي,✴️ مرد - أوشية المياة | قبطي,oshy_water_coptic,none,oshy_water_coptic.txt,oshy_water_coptic.mp3,none,تقال من 12 بؤونة إلى 9 بابة (19 يونيو - 19/20 أكتوبر)
+dec_vesp_coptic,✳️ مرد - أوشية الزروع | عربي,✳️ مرد - أوشية الزروع | عربي,oshy_grass_arabic,none,oshy_grass_arabic.txt,oshy_grass_arabic.mp3,none,تقال من 10 بابه إلى 10 طوبة (20/21 أكتوبر - 18/19 يناير)
+dec_vesp_coptic,✴️ مرد - أوشية الزروع | قبطي,✴️ مرد - أوشية الزروع | قبطي,oshy_grass_coptic,none,oshy_grass_coptic.txt,oshy_grass_coptic.mp3,none,تقال من 10 بابه إلى 10 طوبة (20/21 أكتوبر - 18/19 يناير)
+dec_vesp_coptic,✳️ مرد - أوشية الأهوية والثمار | عربي,✳️ مرد - أوشية الأهوية والثمار | عربي,oshy_seeds_arabic,none,oshy_seeds_arabic.txt,oshy_seeds_arabic.mp3,none,تقال من 11 طوبة إلى 11 بوؤنه (19/20 يناير - 18 يونيو)
+dec_vesp_coptic,✴️ مرد - أوشية الأهوية والثمار | قبطي,✴️ مرد - أوشية الأهوية والثمار | قبطي,oshy_seeds_coptic,none,oshy_seeds_coptic.txt,oshy_seeds_coptic.mp3,none,تقال من 11 طوبة إلى 11 بوؤنه (19/20 يناير - 18 يونيو)
+dec_vesp_coptic,✳️ مرد - أوشية الأجتماعات | عربي,✳️ مرد - أوشية الأجتماعات | عربي,oshy_meeting_arabic,none,oshy_meeting_arabic.txt,oshy_meeting_arabic.mp3,none,none
+dec_vesp_coptic,✴️ مرد - أوشية الأجتماعات | قبطي,✴️ مرد - أوشية الأجتماعات | قبطي,oshy_meeting_coptic,none,oshy_meeting_coptic.txt,oshy_meeting_coptic.mp3,none,none
+dec_vesp_coptic,✳️ الختام - احنوا رؤوسكم للرب | عربي,✳️ الختام - احنوا رؤوسكم للرب | عربي,end_1st_arabic,none,end_1st_arabic.txt,end_1st_arabic.mp3,none,none
+dec_vesp_coptic,✴️ الختام - طاس كيفالاس | قبطي,✴️ الختام - طاس كيفالاس | قبطي,end_1st_coptic,none,end_1st_coptic.txt,end_1st_coptic.mp3,none,none
+dec_vesp_coptic,✳️ الختام - ننصت بخوف الله | عربي,✳️ الختام - ننصت بخوف الله | عربي,end_2nd_arabic,none,end_2nd_arabic.txt,end_2nd_arabic.mp3,none,none
+dec_vesp_coptic,✴️ الختام - ابروس خومين  | قبطي,✴️ الختام - ابروس خومين  | قبطي,end_2nd_coptic,none,end_2nd_coptic.txt,end_2nd_coptic.mp3,none,none
+dec_matin_coptic,✴️ مرد - ايه بي ابروس افشي | قبطي,✴️ مرد - ايه بي ابروس افشي | قبطي,epeepros_coptic,none,epeepros_coptic.txt,epeepros_coptic.mp3,none,none
+dec_matin_coptic,✴️ صلاة الشكر - ابروس افكساستي | قبطي,✴️ صلاة الشكر - ابروس افكساستي | قبطي,eprosefaksasty_coptic,none,eprosefaksasty_coptic.txt,eprosefaksasty_coptic.mp3,none,none
+dec_matin_coptic,✴️ صلاة الشكر - ابروس فرايحي | قبطي,✴️ صلاة الشكر - ابروس فرايحي | قبطي,eprosefarah_coptic,none,eprosefaksasty_coptic.txt,eprosefaksasty_farah.mp3,none,none
+dec_matin_coptic,✳️ صلاة الشكر -  اطلبوا لكى يرحمنا | عربي,✳️ صلاة الشكر -  اطلبوا لكى يرحمنا | عربي,tobeh_ves_arabic,none,tobeh_ves_arabic.txt,tobeh_ves_arabic.mp3,none,none
+dec_matin_coptic,✴️ صلاة الشكر - طف هينا انتى افنوتي | قبطي,✴️ صلاة الشكر - طف هينا انتى افنوتي | قبطي,tobeh_ves_coptic,none,tobeh_ves_coptic.txt,tobeh_ves_coptic.mp3,none,none
+dec_matin_coptic,✳️ باكر : مرد - أوشية الراقدين | عربي,✳️ باكر : مرد - أوشية الراقدين | عربي,oshy_dead_arabic,none,oshy_dead_arabic.txt,oshy_dead_arabic.mp3,none,فى رفع بخور باكر : تقال يوم السبت فقط
+dec_matin_coptic,✴️ باكر : مرد - أوشية الراقدين | قبطي,✴️ باكر : مرد - أوشية الراقدين | قبطي,oshy_dead_coptic,none,oshy_dead_coptic.txt,oshy_dead_coptic.mp3,none,فى رفع بخور باكر : تقال يوم السبت فقط
+dec_matin_coptic,✳️ مرد - أوشية المرضي | عربي,✳️ مرد - أوشية المرضي | عربي,oshy_sick_arabic,none,oshy_sick_arabic.txt,oshy_sick_arabic.mp3,none,فى رفع بخور باكر : تقال فى الاعياد ومن الاحد الى الجمعة
+dec_matin_coptic,✴️ مرد - أوشية الراقدين | قبطي,✴️ مرد - أوشية الراقدين | قبطي,oshy_sick_coptic,none,oshy_sick_coptic.txt,oshy_sick_coptic.mp3,none,فى رفع بخور باكر : تقال فى الاعياد ومن الاحد الى الجمعة
+dec_matin_coptic,✳️ مرد - أوشية المسافرين | عربي,✳️ مرد - أوشية المسافرين | عربي,oshy_travel_arabic,none,oshy_travel_arabic.txt,oshy_travel_arabic.mp3,none,فى رفع بخور باكر : تقال من الاثنين الى الجمعة
+dec_matin_coptic,✴️ مرد - أوشية المسافرين | قبطي,✴️ مرد - أوشية المسافرين | قبطي,oshy_travel_coptic,none,oshy_travel_coptic.txt,oshy_travel_coptic.mp3,none,فى رفع بخور باكر : تقال من الاثنين الى الجمعة
+dec_matin_coptic,✳️ باكر: مرد - أوشية القرابين | عربي,✳️ باكر: مرد - أوشية القرابين | عربي,oshy_karaben_baker_arabic,none,oshy_karaben_baker_arabic.txt,oshy_karaben_baker_arabic.mp3,none,فى رفع بخور باكر : تقال يوم الاحد وفى الاعياد وفى حالة حضور الحمل
+dec_matin_coptic,✴️ مرد - ايه بي ابروس افشي | قبطي,✴️ مرد - ايه بي ابروس افشي | قبطي,epeepros_coptic,none,epeepros_coptic.txt,epeepros_coptic.mp3,none,none
+dec_matin_coptic,✳️ أوشية الانجيل - مرد صلوا | عربي,✳️ أوشية الانجيل - مرد صلوا | عربي,oshy_bible_Salo_arabic,none,oshy_bible_Salo_arabic.txt,oshy_bible_Salo_arabic.mp3,none,none
+dec_matin_coptic,✴️ أوشية الانجيل - مرد ابروس | قبطي,✴️ أوشية الانجيل - مرد ابروس | قبطي,oshy_bible_Salo_coptic,none,oshy_bible_Salo_coptic.txt,oshy_bible_Salo_coptic.mp3,none,none
+dec_matin_coptic,✴️ أوشية الانجيل - مرد اسطاثيتى | قبطي,✴️ أوشية الانجيل - مرد اسطاثيتى | قبطي,oshy_bible_Staty_coptic,none,oshy_bible_Staty_coptic.txt,oshy_bible_Staty_coptic.mp3,none,none
+dec_matin_coptic,✳️ مرد - أوشية السلام | عربي,✳️ مرد - أوشية السلام | عربي,oshy_peace_arabic,none,oshy_peace_arabic.txt,oshy_peace_arabic.mp3,none,none
+dec_matin_coptic,✴️ مرد - أوشية السلام | قبطي,✴️ مرد - أوشية السلام | قبطي,oshy_peace_coptic,none,oshy_peace_coptic.txt,oshy_peace_coptic.mp3,none,none
+dec_matin_coptic,✳️ مرد - أوشية الاباء | عربي,✳️ مرد - أوشية الاباء | عربي,oshy_fathers_arabic,none,oshy_fathers_arabic.txt,oshy_fathers_arabic.mp3,none,none
+dec_matin_coptic,✴️ مرد - أوشية الاباء | قبطي,✴️ مرد - أوشية الاباء | قبطي,oshy_fathers_coptic,none,oshy_fathers_coptic.txt,oshy_fathers_coptic.mp3,none,none
+dec_matin_coptic,✳️ مرد - أوشية الموضع | عربي,✳️ مرد - أوشية الموضع | عربي,oshy_place_arabic,none,oshy_place_arabic.txt,oshy_place_arabic.mp3,none,none
+dec_matin_coptic,✴️ مرد - أوشية الموضع | قبطي,✴️ مرد - أوشية الموضع | قبطي,oshy_place_coptic,none,oshy_place_coptic.txt,oshy_place_coptic.mp3,none,none
+dec_matin_coptic,✳️ مرد - أوشية المياة | عربي,✳️ مرد - أوشية المياة | عربي,oshy_water_arabic,none,oshy_water_arabic.txt,oshy_water_arabic.mp3,none,تقال من 12 بؤونة إلى 9 بابة (19 يونيو - 19/20 أكتوبر)
+dec_matin_coptic,✴️ مرد - أوشية المياة | قبطي,✴️ مرد - أوشية المياة | قبطي,oshy_water_coptic,none,oshy_water_coptic.txt,oshy_water_coptic.mp3,none,تقال من 12 بؤونة إلى 9 بابة (19 يونيو - 19/20 أكتوبر)
+dec_matin_coptic,✳️ مرد - أوشية الزروع | عربي,✳️ مرد - أوشية الزروع | عربي,oshy_grass_arabic,none,oshy_grass_arabic.txt,oshy_grass_arabic.mp3,none,تقال من 10 بابه إلى 10 طوبة (20/21 أكتوبر - 18/19 يناير)
+dec_matin_coptic,✴️ مرد - أوشية الزروع | قبطي,✴️ مرد - أوشية الزروع | قبطي,oshy_grass_coptic,none,oshy_grass_coptic.txt,oshy_grass_coptic.mp3,none,تقال من 10 بابه إلى 10 طوبة (20/21 أكتوبر - 18/19 يناير)
+dec_matin_coptic,✳️ مرد - أوشية الأهوية والثمار | عربي,✳️ مرد - أوشية الأهوية والثمار | عربي,oshy_seeds_arabic,none,oshy_seeds_arabic.txt,oshy_seeds_arabic.mp3,none,تقال من 11 طوبة إلى 11 بوؤنه (19/20 يناير - 18 يونيو)
+dec_matin_coptic,✴️ مرد - أوشية الأهوية والثمار | قبطي,✴️ مرد - أوشية الأهوية والثمار | قبطي,oshy_seeds_coptic,none,oshy_seeds_coptic.txt,oshy_seeds_coptic.mp3,none,تقال من 11 طوبة إلى 11 بوؤنه (19/20 يناير - 18 يونيو)
+dec_matin_coptic,✳️ مرد - أوشية الأجتماعات | عربي,✳️ مرد - أوشية الأجتماعات | عربي,oshy_meeting_arabic,none,oshy_meeting_arabic.txt,oshy_meeting_arabic.mp3,none,none
+dec_matin_coptic,✴️ مرد - أوشية الأجتماعات | قبطي,✴️ مرد - أوشية الأجتماعات | قبطي,oshy_meeting_coptic,none,oshy_meeting_coptic.txt,oshy_meeting_coptic.mp3,none,none
+dec_matin_coptic,✳️ الختام - احنوا رؤوسكم للرب | عربي,✳️ الختام - احنوا رؤوسكم للرب | عربي,end_1st_arabic,none,end_1st_arabic.txt,end_1st_arabic.mp3,none,none
+dec_matin_coptic,✴️ الختام - طاس كيفالاس | قبطي,✴️ الختام - طاس كيفالاس | قبطي,end_1st_coptic,none,end_1st_coptic.txt,end_1st_coptic.mp3,none,none
+dec_matin_coptic,✳️ الختام - ننصت بخوف الله | عربي,✳️ الختام - ننصت بخوف الله | عربي,end_2nd_arabic,none,end_2nd_arabic.txt,end_2nd_arabic.mp3,none,none
+dec_matin_coptic,✴️ الختام - ابروس خومين  | قبطي,✴️ الختام - ابروس خومين  | قبطي,end_2nd_coptic,none,end_2nd_coptic.txt,end_2nd_coptic.mp3,none,none
+dec_bread_coptic,✳️ دورة الحمل - مرد صلوا  | عربي,✳️ دورة الحمل - مرد صلوا  | عربي,bread_dawra_arabic,none,bread_dawra_arabic.txt,bread_dawra_arabic.mp3,none,none
+dec_bread_coptic,✴️ دورة الحمل - مرد صلوا | قبطي,✴️ دورة الحمل - مرد صلوا | قبطي,bread_dawra_coptic,none,bread_dawra_coptic.txt,bread_dawra_coptic.mp3,none,none
+dec_bread_coptic,✳️ رشومات الحمل - آمين الاولى والثانية  | عربي,✳️ رشومات الحمل - آمين الاولى والثانية  | عربي,bread_amen1st2nd_arabic,none,bread_amen1st2nd_arabic.txt,bread_amen1st2nd.mp3,none,none
+dec_bread_coptic,✴️ رشومات الحمل - آمين الاولى والثانية  | قبطي,✴️ رشومات الحمل - آمين الاولى والثانية  | قبطي,bread_amen1st2nd_coptic,none,bread_amen1st2nd_coptic.txt,bread_amen1st2nd.mp3,none,none
+dec_bread_coptic,✳️ رشومات الحمل - آمين الثالثة | عربي,✳️ رشومات الحمل - آمين الثالثة | عربي,bread_amen3rd_arabic,none,bread_amen3rd_arabic.txt,bread_amen3rd.mp3,none,none
+dec_bread_coptic,✴️ رشومات الحمل - آمين الثالثة  | قبطي,✴️ رشومات الحمل - آمين الثالثة  | قبطي,bread_amen3rd_coptic,none,bread_amen3rd_coptic.txt,bread_amen3rd.mp3,none,none
+dec_bread_coptic,✳️ رشومات الحمل - اسباتير الصغيرة | عربي,✳️ رشومات الحمل - اسباتير الصغيرة | عربي,bread_espatersmall_arabic,none,bread_espatersmall_arabic.txt,bread_espatersmall_arabic.mp3,none,none
+dec_bread_coptic,✴️ رشومات الحمل - اسباتير الصغيرة | قبطي,✴️ رشومات الحمل - اسباتير الصغيرة | قبطي,bread_espatersmall_coptic,none,bread_espatersmall_coptic.txt,bread_espatersmall_coptic.mp3,none,none
+dec_bread_coptic,✴️ مرد - ايه بي ابروس افشي | قبطي,✴️ مرد - ايه بي ابروس افشي | قبطي,epeepros_coptic,none,epeepros_coptic.txt,epeepros_coptic.mp3,none,none
+dec_bread_coptic,✴️ صلاة الشكر - ابروس افكساستي | قبطي,✴️ صلاة الشكر - ابروس افكساستي | قبطي,eprosefaksasty_coptic,none,eprosefaksasty_coptic.txt,eprosefaksasty_coptic.mp3,none,none
+dec_bread_coptic,✴️ صلاة الشكر - ابروس فرايحي | قبطي,✴️ صلاة الشكر - ابروس فرايحي | قبطي,eprosefarah_coptic,none,eprosefaksasty_coptic.txt,eprosefaksasty_farah.mp3,none,none
+dec_bread_coptic,✳️ الحمل -  اطلبوا لكى يرحمنا | عربي,✳️ الحمل -  اطلبوا لكى يرحمنا | عربي,bread_tobeh_arabic,none,bread_tobeh_arabic.txt,bread_tobeh_arabic.mp3,none,none
+dec_bread_coptic,✳️ الحمل - لمغفرة خطايانا فرايحي | عربي,✳️ الحمل - لمغفرة خطايانا فرايحي | عربي,bread_tobehfarah_arabic,none,bread_tobehfarah_arabic.txt,bread_tobehfarah_arabic.mp3,none,none
+dec_maoz_coptic,✴️ مرد - ايه بي ابروس افشي | قبطي,✴️ مرد - ايه بي ابروس افشي | قبطي,epeepros_coptic,none,epeepros_coptic.txt,epeepros_coptic.mp3,none,none
+dec_maoz_coptic,✳️ أوشية الانجيل - مرد صلوا | عربي,✳️ أوشية الانجيل - مرد صلوا | عربي,oshy_bible_Salo_arabic,none,oshy_bible_Salo_arabic.txt,oshy_bible_Salo_arabic.mp3,none,none
+dec_maoz_coptic,✴️ أوشية الانجيل - مرد ابروس | قبطي,✴️ أوشية الانجيل - مرد ابروس | قبطي,oshy_bible_Salo_coptic,none,oshy_bible_Salo_coptic.txt,oshy_bible_Salo_coptic.mp3,none,none
+dec_maoz_coptic,✴️ أوشية الانجيل - مرد اسطاثيتى | قبطي,✴️ أوشية الانجيل - مرد اسطاثيتى | قبطي,oshy_bible_Staty_coptic,none,oshy_bible_Staty_coptic.txt,oshy_bible_Staty_coptic.mp3,none,none
+dec_maoz_coptic,✳️ مرد - أوشية السلام | عربي,✳️ مرد - أوشية السلام | عربي,oshy_peace_arabic,none,oshy_peace_arabic.txt,oshy_peace_arabic.mp3,none,none
+dec_maoz_coptic,✴️ مرد - أوشية السلام | قبطي,✴️ مرد - أوشية السلام | قبطي,oshy_peace_coptic,none,oshy_peace_coptic.txt,oshy_peace_coptic.mp3,none,none
+dec_maoz_coptic,✳️ مرد - أوشية الاباء | عربي,✳️ مرد - أوشية الاباء | عربي,oshy_fathers_arabic,none,oshy_fathers_arabic.txt,oshy_fathers_arabic.mp3,none,none
+dec_maoz_coptic,✴️ مرد - أوشية الاباء | قبطي,✴️ مرد - أوشية الاباء | قبطي,oshy_fathers_coptic,none,oshy_fathers_coptic.txt,oshy_fathers_coptic.mp3,none,none
+dec_maoz_coptic,✳️ مرد - أوشية الأجتماعات | عربي,✳️ مرد - أوشية الأجتماعات | عربي,oshy_meeting_arabic,none,oshy_meeting_arabic.txt,oshy_meeting_arabic.mp3,none,none
+dec_maoz_coptic,✴️ مرد - أوشية الأجتماعات | قبطي,✴️ مرد - أوشية الأجتماعات | قبطي,oshy_meeting_coptic,none,oshy_meeting_coptic.txt,oshy_meeting_coptic.mp3,none,none
+dec_maoz_coptic,✳️ مرد - انصتوا | عربي,✳️ مرد - انصتوا | عربي,maoz_ensofphya_arabic,none,maoz_ensofphya_arabic.txt,maoz_ensofphya_arabic.mp3,none,none
+dec_maoz_coptic,✴️ مرد - ان صوفيا | قبطي,✴️ مرد - ان صوفيا | قبطي,maoz_ensofphya_coptic,none,maoz_ensofphya_coptic.txt,maoz_ensofphya_coptic.mp3,none,none
+dec_momen_coptic,✴️ مرد - ايه بي ابروس افشي | قبطي,✴️ مرد - ايه بي ابروس افشي | قبطي,epeepros_coptic,none,epeepros_coptic.txt,epeepros_coptic.mp3,none,none
+dec_momen_coptic,✳️ مرد - صلاة الصلح | عربي,✳️ مرد - صلاة الصلح | عربي,momen_solh_arabic,none,momen_solh_arabic.txt,momen_solh_arabic.mp3,none,صلاة الصلح
+dec_momen_coptic,✴️ مرد - صلاة الصلح | قبطي,✴️ مرد - صلاة الصلح | قبطي,momen_solh_coptic,none,momen_solh_coptic.txt,momen_solh_coptic.mp3,none,صلاة الصلح
+dec_momen_coptic,✳️ مرد - قبلوا  | عربي,✳️ مرد - قبلوا  | عربي,momen_kablo_arabic,none,momen_kablo_arabic.txt,momen_kablo_arabic.mp3,none,صلاة الصلح
+dec_momen_coptic,✳️ مرد - ايها الجلوس قفوا | عربي,✳️ مرد - ايها الجلوس قفوا | عربي,momen_gelos_arabic,none,momen_gelos_arabic.txt,momen_gelos_arabic.mp3,none,مستحق وعادل
+dec_momen_coptic,✴️ مرد - ايها الجلوس قفوا | قبطي,✴️ مرد - ايها الجلوس قفوا | قبطي,momen_gelos_coptic,none,momen_gelos_coptic.txt,momen_gelos_coptic.mp3,none,مستحق وعادل
+dec_momen_coptic,✳️ مرد - والى الشرق انظروا | عربي,✳️ مرد - والى الشرق انظروا | عربي,momen_east_arabic,none,momen_east_arabic.txt,momen_east_arabic.mp3,none,مستحق وعادل
+dec_momen_coptic,✴️ مرد - والى الشرق انظروا | قبطي,✴️ مرد - والى الشرق انظروا | قبطي,momen_east_coptic,none,momen_east_coptic.txt,momen_east_coptic.mp3,none,مستحق وعادل
+dec_momen_coptic,✳️ مرد - اسجدوا لله | عربي,✳️ مرد - اسجدوا لله | عربي,momen_esgedo_arabic,none,momen_esgedo_arabic.txt,momen_esgedo_arabic.mp3,none,سر حلول الروح القدس
+dec_momen_coptic,✴️ مرد - اسجدوا لله | قبطي,✴️ مرد - اسجدوا لله | قبطي,momen_esgedo_coptic,none,momen_esgedo_coptic.txt,momen_esgedo_coptic.mp3,none,سر حلول الروح القدس
+dec_momen_coptic,✳️ مرد - ننصت | عربي,✳️ مرد - ننصت | عربي,momen_nanset_arabic,none,momen_nanset_arabic.txt,momen_nanset_arabic.mp3,none,سر حلول الروح القدس
+dec_momen_coptic,✴️ مرد - ننصت | قبطي,✴️ مرد - ننصت | قبطي,momen_nanset_coptic,none,momen_nanset_coptic.txt,momen_nanset_coptic.mp3,none,سر حلول الروح القدس
+dec_momen_coptic,✳️ مرد - أوشية السلام | عربي,✳️ مرد - أوشية السلام | عربي,oshy_peace_arabic,none,oshy_peace_arabic.txt,oshy_peace_arabic.mp3,none,none
+dec_momen_coptic,✴️ مرد - أوشية السلام | قبطي,✴️ مرد - أوشية السلام | قبطي,oshy_peace_coptic,none,oshy_peace_coptic.txt,oshy_peace_coptic.mp3,none,none
+dec_momen_coptic,✳️ مرد - أوشية الاباء | عربي,✳️ مرد - أوشية الاباء | عربي,oshy_fathers_arabic,none,oshy_fathers_arabic.txt,oshy_fathers_arabic.mp3,none,none
+dec_momen_coptic,✴️ مرد - أوشية الاباء | قبطي,✴️ مرد - أوشية الاباء | قبطي,oshy_fathers_coptic,none,oshy_fathers_coptic.txt,oshy_fathers_coptic.mp3,none,none
+dec_momen_coptic,✳️ مرد - أوشية الموضع | عربي,✳️ مرد - أوشية الموضع | عربي,oshy_place_arabic,none,oshy_place_arabic.txt,oshy_place_arabic.mp3,none,none
+dec_momen_coptic,✴️ مرد - أوشية الموضع | قبطي,✴️ مرد - أوشية الموضع | قبطي,oshy_place_coptic,none,oshy_place_coptic.txt,oshy_place_coptic.mp3,none,none
+dec_momen_coptic,✳️ مرد - أوشية المياة | عربي,✳️ مرد - أوشية المياة | عربي,oshy_water_arabic,none,oshy_water_arabic.txt,oshy_water_arabic.mp3,none,تقال من 12 بؤونة إلى 9 بابة (19 يونيو - 19/20 أكتوبر)
+dec_momen_coptic,✴️ مرد - أوشية المياة | قبطي,✴️ مرد - أوشية المياة | قبطي,oshy_water_coptic,none,oshy_water_coptic.txt,oshy_water_coptic.mp3,none,تقال من 12 بؤونة إلى 9 بابة (19 يونيو - 19/20 أكتوبر)
+dec_momen_coptic,✳️ مرد - أوشية الزروع | عربي,✳️ مرد - أوشية الزروع | عربي,oshy_grass_arabic,none,oshy_grass_arabic.txt,oshy_grass_arabic.mp3,none,تقال من 10 بابه إلى 10 طوبة (20/21 أكتوبر - 18/19 يناير)
+dec_momen_coptic,✴️ مرد - أوشية الزروع | قبطي,✴️ مرد - أوشية الزروع | قبطي,oshy_grass_coptic,none,oshy_grass_coptic.txt,oshy_grass_coptic.mp3,none,تقال من 10 بابه إلى 10 طوبة (20/21 أكتوبر - 18/19 يناير)
+dec_momen_coptic,✳️ مرد - أوشية الأهوية والثمار | عربي,✳️ مرد - أوشية الأهوية والثمار | عربي,oshy_seeds_arabic,none,oshy_seeds_arabic.txt,oshy_seeds_arabic.mp3,none,تقال من 11 طوبة إلى 11 بوؤنه (19/20 يناير - 18 يونيو)
+dec_momen_coptic,✴️ مرد - أوشية الأهوية والثمار | قبطي,✴️ مرد - أوشية الأهوية والثمار | قبطي,oshy_seeds_coptic,none,oshy_seeds_coptic.txt,oshy_seeds_coptic.mp3,none,تقال من 11 طوبة إلى 11 بوؤنه (19/20 يناير - 18 يونيو)
+dec_momen_coptic,✳️ مرد - أوشية القرابين | عربي,✳️ مرد - أوشية القرابين | عربي,oshy_kodaskaraben_arabic,none,oshy_kodaskaraben_arabic.txt,oshy_kodaskaraben_arabic.mp3,none,none
+dec_momen_coptic,✴️ مرد - أوشية القرابين | قبطي,✴️ مرد - أوشية القرابين | قبطي,oshy_kodaskaraben_coptic,none,oshy_kodaskaraben_coptic.txt,oshy_kodaskaraben_coptic.mp3,none,none
+dec_momen_coptic,✳️ مرد - القارئون | عربي,✳️ مرد - القارئون | عربي,magma_arabic,none,magma_arabic.txt,magma_arabic.mp3,none,none
+dec_momen_coptic,✴️ مرد - القارئون | قبطي,✴️ مرد - القارئون | قبطي,magma_coptic,none,magma_coptic.txt,magma_coptic.mp3,none,none
+dec_momen_coptic,✳️ مرد - امين امين صلوا | عربي,✳️ مرد - امين امين صلوا | عربي,amenamensalo_arabic,none,amenamensalo_arabic.txt,amenamensalo_arabic.mp3,none,none
+dec_momen_coptic,✴️ مرد - امين امين صلوا | قبطي,✴️ مرد - امين امين صلوا | قبطي,amenamensalo_coptic,none,amenamensalo_coptic.txt,amenamensalo_coptic.mp3,none,none
+dec_momen_coptic,✳️ تحليل الآب - احنوا رؤوسكم للرب | عربي,✳️ تحليل الآب - احنوا رؤوسكم للرب | عربي,end_1st_arabic,none,end_1st_arabic.txt,end_1st_arabic.mp3,none,none
+dec_momen_coptic,✴️ تحليل الآب - طاس كيفالاس | قبطي,✴️ تحليل الآب - طاس كيفالاس | قبطي,end_1st_coptic,none,end_1st_coptic.txt,end_1st_coptic.mp3,none,none
+dec_momen_coptic,✳️ تحليل الآب - ننصت بخوف الله | عربي,✳️ تحليل الآب - ننصت بخوف الله | عربي,end_2nd_arabic,none,end_2nd_arabic.txt,end_2nd_arabic.mp3,none,none
+dec_momen_coptic,✴️ تحليل الآب - ابروس خومين  | قبطي,✴️ تحليل الآب - ابروس خومين  | قبطي,end_2nd_coptic,none,end_2nd_coptic.txt,end_2nd_coptic.mp3,none,none
+dec_momen_coptic,✳️ تحليل الآب - خلصت حقا | عربي,✳️ تحليل الآب - خلصت حقا | عربي,end_3rd_arabic,none,end_3rd_arabic.txt,end_3rd_arabic.mp3,none,none
+dec_momen_coptic,✴️ تحليل الآب - خلصت حقا  | قبطي,✴️ تحليل الآب - خلصت حقا  | قبطي,end_3rd_coptic,none,end_3rd_coptic.txt,end_3rd_coptic.mp3,none,none
+dec_momen_coptic,✳️ الاعتراف | عربي,✳️ الاعتراف | عربي,etraf_arabic,none,etraf_arabic.txt,etraf_arabic.mp3,none,none
+dec_momen_coptic,✴️ الاعتراف  | قبطي,✴️ الاعتراف  | قبطي,etraf_coptic,none,etraf_coptic.txt,etraf_coptic.mp3,none,none
