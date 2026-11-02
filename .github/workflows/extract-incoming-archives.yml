@@ -26,7 +26,7 @@ jobs:
         shell: bash
         run: |
           python3 - <<'PY'
-          import os, pathlib, zipfile, tarfile, subprocess, shutil, tempfile, json, stat
+          import os, pathlib, zipfile, tarfile, subprocess, shutil, tempfile, json, stat, re
           root=pathlib.Path("incoming")
           excluded={"orsozoxi","orsozxi"}
           exts=(".zip",".7z",".rar",".tar",".tar.gz",".tgz",".tar.bz2",".tbz2",".tar.xz",".txz")
@@ -39,30 +39,51 @@ jobs:
             name=name.replace("\\","/")
             p=pathlib.PurePosixPath(name)
             return bool(name and not name.startswith("/") and not name.startswith("//") and not any(x==".." for x in p.parts) and not (p.parts and ":" in p.parts[0]))
+          def parts_for(archive):
+            m=re.match(r"(?i)^(.*?)(?:\\.part(\\d{3})|part(\\d+))\\.zip$",archive.name)
+            if not m: return None
+            prefix=m.group(1)
+            numbered=[]
+            for q in archive.parent.iterdir():
+              qm=re.match(r"(?i)^"+re.escape(prefix)+r"(?:\\.part(\\d{3})|part(\\d+))\\.zip$",q.name)
+              if qm: numbered.append((int(qm.group(1) or qm.group(2)),q))
+            numbered.sort()
+            if not numbered or numbered[0][0]!=1 or [x[0] for x in numbered]!=list(range(1,len(numbered)+1)):
+              raise ValueError("Missing or non-contiguous multipart pieces")
+            return [q for _,q in numbered]
           def extract(archive):
             dest=archive.parent
             with tempfile.TemporaryDirectory(dir=dest) as tmp:
               out=pathlib.Path(tmp)
-              if zipfile.is_zipfile(archive):
-                with zipfile.ZipFile(archive) as z:
+              parts=parts_for(archive)
+              source=archive
+              if parts:
+                source=pathlib.Path(tmp)/"combined.zip"
+                with open(source,"wb") as joined:
+                  for part in parts:
+                    with open(part,"rb") as f: shutil.copyfileobj(f,joined)
+                print("COMBINED",str(archive),"parts",len(parts))
+              if zipfile.is_zipfile(source):
+                with zipfile.ZipFile(source) as z:
                   entries=z.infolist()
                   if len(entries)>max_files or sum(i.file_size for i in entries)>max_bytes: raise ValueError("archive limits exceeded")
                   for i in entries:
                     if not safe_name(i.filename): raise ValueError("unsafe archive path")
-                    if stat.S_ISLNK(i.external_attr>>16): raise ValueError("symlink in archive")
-                  z.extractall(out)
-              elif tarfile.is_tarfile(archive):
-                with tarfile.open(archive) as t:
+                    if stat.S_ISLNK(i.external_attr>>16): report["skipped"].append(str(archive)+" : symlink "+i.filename)
+                  for i in entries:
+                    if not stat.S_ISLNK(i.external_attr>>16): z.extract(i,out)
+              elif tarfile.is_tarfile(source):
+                with tarfile.open(source) as t:
                   members=t.getmembers()
                   if len(members)>max_files or sum(i.size for i in members)>max_bytes: raise ValueError("archive limits exceeded")
                   for m in members:
                     if not safe_name(m.name) or not (m.isfile() or m.isdir()): raise ValueError("unsafe tar entry")
                   t.extractall(out,filter="data")
               else:
-                listing=subprocess.run(["7z","l","-slt",str(archive.resolve())],capture_output=True,text=True)
+                listing=subprocess.run(["7z","l","-slt",str(source.resolve())],capture_output=True,text=True)
                 if listing.returncode: raise ValueError("7z cannot list archive: "+listing.stderr[-300:])
                 # 7z extracts only to a staging directory, never directly into the repository.
-                result=subprocess.run(["7z","x","-y","-o"+str(out.resolve()),str(archive.resolve())],capture_output=True,text=True)
+                result=subprocess.run(["7z","x","-y","-o"+str(out.resolve()),str(source.resolve())],capture_output=True,text=True)
                 if result.returncode: raise ValueError("7z extraction failed: "+result.stderr[-300:])
               staged=[p for p in out.rglob("*") if p.is_file()]
               if len(staged)>max_files or sum(p.stat().st_size for p in staged)>max_bytes: raise ValueError("extracted archive limits exceeded")
@@ -86,7 +107,7 @@ jobs:
             if not files: break
             for p in files:
               seen.add(str(p))
-              if ".part" in p.name.lower() and p.name.lower().endswith(".zip") and not p.name.lower().endswith(".part001.zip"):
+              if re.search(r"(?i)(?:\\.part(\\d{3})|part(\\d+))\\.zip$",p.name) and not re.search(r"(?i)(?:\\.part001|part1)\\.zip$",p.name):
                 report["skipped"].append(str(p)+" (multipart continuation)")
                 continue
               try:
