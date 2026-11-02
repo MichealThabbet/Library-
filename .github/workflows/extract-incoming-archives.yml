@@ -226,7 +226,7 @@ jobs:
           summary={"folders_checked":len(folders),"archive_files":len(archives),"archives_processed":len(completed),"multipart_continuations":len(continuations),"nested_archives":len(report.get("nested",[])),"unprocessed":missing,"failures":failures}
           pathlib.Path("archive-extraction-audit.json").write_text(json.dumps(summary,ensure_ascii=False,indent=2)+"\n")
           print("AUDIT",json.dumps(summary,ensure_ascii=False))
-          if missing or failures: sys.exit("Extraction audit failed")
+          if missing or failures: print("AUDIT FOUND ISSUES: see archive-extraction-audit.json")
           PY
       - name: Commit extracted files and report
         if: success()
@@ -241,3 +241,13 @@ jobs:
             git commit -m "Extract incoming archives, excluding orsozoxi"
             git -c http.postBuffer=524288000 push
           fi
+      - name: Fail if extraction audit is incomplete
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import json,sys
+          report=json.load(open("archive-extraction-audit.json"))
+          if report["unprocessed"] or report["failures"]:
+            sys.exit("Archive audit incomplete; review archive-extraction-audit.json")
+          print("ALL ARCHIVES ACCOUNTED FOR")
+          PY
