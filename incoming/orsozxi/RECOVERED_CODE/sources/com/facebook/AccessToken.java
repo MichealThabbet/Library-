@@ -8,7 +8,7 @@ import android.text.TextUtils;
 import com.facebook.internal.Utility;
 import com.facebook.internal.Validate;
 import com.huawei.hms.support.api.entity.core.CommonCode;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Collections;

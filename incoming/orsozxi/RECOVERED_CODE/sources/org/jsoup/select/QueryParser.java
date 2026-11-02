@@ -2,7 +2,7 @@ package org.jsoup.select;
 
 import com.huawei.hms.framework.common.ContainerUtils;
 import com.huawei.hms.support.hianalytics.HiAnalyticsConstant;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.regex.Matcher;

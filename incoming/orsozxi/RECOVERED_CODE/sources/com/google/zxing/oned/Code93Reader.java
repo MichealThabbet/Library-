@@ -8,7 +8,7 @@ import com.google.zxing.NotFoundException;
 import com.google.zxing.Result;
 import com.google.zxing.ResultPoint;
 import com.google.zxing.common.BitArray;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Arrays;
 import java.util.Map;
 import org.apache.http.message.TokenParser;

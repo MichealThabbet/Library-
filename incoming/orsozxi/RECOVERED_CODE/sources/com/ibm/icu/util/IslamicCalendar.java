@@ -5,7 +5,7 @@ import com.ibm.icu.impl.CalendarAstronomer;
 import com.ibm.icu.impl.CalendarCache;
 import com.ibm.icu.impl.CalendarUtil;
 import com.ibm.icu.util.ULocale;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.util.Date;

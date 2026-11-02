@@ -23,7 +23,7 @@ import com.facebook.internal.WorkQueue;
 import com.facebook.share.Sharer;
 import com.facebook.share.model.ShareVideo;
 import com.facebook.share.model.ShareVideoContent;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.FileNotFoundException;

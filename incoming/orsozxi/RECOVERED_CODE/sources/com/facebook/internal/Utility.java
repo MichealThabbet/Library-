@@ -27,7 +27,7 @@ import com.facebook.HttpMethod;
 import com.facebook.places.model.PlaceFields;
 import com.huawei.hms.framework.common.ContainerUtils;
 import com.ibm.icu.impl.locale.BaseLocale;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.BufferedInputStream;
 import java.io.Closeable;
 import java.io.File;

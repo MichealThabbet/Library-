@@ -1,7 +1,7 @@
 package com.google.android.gms.common.api;
 
 import com.google.android.gms.common.internal.Preconditions;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes.dex */
 public class BooleanResult implements Result {

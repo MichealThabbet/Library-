@@ -1,6 +1,6 @@
 package kotlin.jvm.internal;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.Serializable;
 import kotlin.reflect.KDeclarationContainer;
 

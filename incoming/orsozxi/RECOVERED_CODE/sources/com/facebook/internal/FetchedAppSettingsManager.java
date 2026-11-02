@@ -11,7 +11,7 @@ import com.facebook.appevents.internal.AutomaticAnalyticsLogger;
 import com.facebook.appevents.internal.Constants;
 import com.facebook.internal.CallbackManagerImpl;
 import com.facebook.internal.FetchedAppSettings;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;

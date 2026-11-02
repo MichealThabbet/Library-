@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.eventusermodel;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.text.NumberFormat;
 import java.util.ArrayList;
 import java.util.Hashtable;

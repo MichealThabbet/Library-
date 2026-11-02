@@ -1,6 +1,6 @@
 package kotlin;
 
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import kotlin.jvm.functions.Function1;
 
 /* compiled from: UShortArray.kt */

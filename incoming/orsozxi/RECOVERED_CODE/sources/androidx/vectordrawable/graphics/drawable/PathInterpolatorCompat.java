@@ -10,7 +10,7 @@ import android.view.InflateException;
 import android.view.animation.Interpolator;
 import androidx.core.content.res.TypedArrayUtils;
 import androidx.core.graphics.PathParser;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import org.xmlpull.v1.XmlPullParser;
 
 /* loaded from: classes.dex */

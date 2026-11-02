@@ -1,7 +1,7 @@
 package com.ibm.icu.impl.coll;
 
 import com.ibm.icu.util.CharsTrie;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.lang.reflect.Array;
 
 /* loaded from: classes2.dex */

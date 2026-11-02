@@ -2,7 +2,7 @@ package org.greenrobot.greendao.query;
 
 import android.database.sqlite.SQLiteDatabase;
 import com.ibm.icu.impl.PatternTokenizer;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.List;
 import org.apache.http.message.TokenParser;

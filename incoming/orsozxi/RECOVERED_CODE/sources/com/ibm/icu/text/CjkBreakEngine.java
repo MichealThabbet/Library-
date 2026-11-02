@@ -3,7 +3,7 @@ package com.ibm.icu.text;
 import com.ibm.icu.impl.Assert;
 import com.ibm.icu.impl.CharacterIteration;
 import com.ibm.icu.text.DictionaryBreakEngine;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.text.CharacterIterator;
 

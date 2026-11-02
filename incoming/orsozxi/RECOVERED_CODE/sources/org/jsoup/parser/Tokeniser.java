@@ -1,6 +1,6 @@
 package org.jsoup.parser;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.util.Arrays;
 import kotlin.text.Typography;

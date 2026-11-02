@@ -19,7 +19,7 @@ import androidx.collection.ArrayMap;
 import androidx.collection.LongSparseArray;
 import androidx.core.content.res.TypedArrayUtils;
 import androidx.core.view.ViewCompat;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.util.ArrayList;

@@ -72,7 +72,7 @@ public class MainActivityCards extends BaseActivity implements AdapterView.OnIte
         setContentView(R.layout.activity_akwal);
         this.options = new DisplayImageOptions.Builder().displayer(new RoundedBitmapDisplayer(5)).cacheInMemory().imageScaleType(ImageScaleType.EXACTLY).cacheOnDisc().showImageForEmptyUri(R.drawable.thumb).showImageOnFail(R.drawable.thumb).showStubImage(R.drawable.thumb).bitmapConfig(Bitmap.Config.RGB_565).build();
         TextView textView = (TextView) findViewById(R.id.tv_header_title);
-        TOPSTORIES = "https://www.orsozoxi.net/archives/category/cards/feed";
+        TOPSTORIES = "https://services.invalid/unconfigured";
         textView.setText(R.string.eids_cards);
         getWindow().addFlags(128);
         new checksim();

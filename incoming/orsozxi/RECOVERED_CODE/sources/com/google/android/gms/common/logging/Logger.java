@@ -2,7 +2,7 @@ package com.google.android.gms.common.logging;
 
 import android.util.Log;
 import com.google.android.gms.common.internal.GmsLogger;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Locale;
 import org.apache.http.message.TokenParser;
 

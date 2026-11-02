@@ -2,7 +2,7 @@ package org.apache.commons.lang3.builder;
 
 import com.app.piapostolos.Views.CustomCopticTextView;
 import com.huawei.hms.framework.common.ContainerUtils;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.Serializable;
 import java.lang.reflect.Array;
 import java.util.Collection;

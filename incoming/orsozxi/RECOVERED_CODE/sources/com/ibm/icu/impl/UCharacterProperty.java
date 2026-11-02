@@ -17,7 +17,7 @@ import com.ibm.icu.util.CodePointTrie;
 import com.ibm.icu.util.ICUException;
 import com.ibm.icu.util.ICUUncheckedIOException;
 import com.ibm.icu.util.VersionInfo;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.nio.ByteBuffer;
 import java.util.Iterator;

@@ -89,7 +89,7 @@ public class LRUMap<K, V> extends AbstractLinkedMap<K, V> implements BoundedMap<
         if (linkEntry.after != this.header) {
             this.modCount++;
             if (linkEntry.before == null) {
-                throw new IllegalStateException("Entry.before is null. Please check that your keys are immutable, and that you have used synchronization properly. If so, then please report this to dev@commons.apache.org as a bug.");
+                throw new IllegalStateException("Entry.before is null. Please check that your keys are immutable, and that you have used synchronization properly. If so, then please report this to contact@example.invalid as a bug.");
             }
             linkEntry.before.after = linkEntry.after;
             linkEntry.after.before = linkEntry.before;
@@ -100,7 +100,7 @@ public class LRUMap<K, V> extends AbstractLinkedMap<K, V> implements BoundedMap<
             return;
         }
         if (linkEntry == this.header) {
-            throw new IllegalStateException("Can't move header to MRU (please report this to dev@commons.apache.org)");
+            throw new IllegalStateException("Can't move header to MRU (please report this to contact@example.invalid)");
         }
     }
 
@@ -127,7 +127,7 @@ public class LRUMap<K, V> extends AbstractLinkedMap<K, V> implements BoundedMap<
                     linkEntry = linkEntry.after;
                 }
                 if (linkEntry == null) {
-                    throw new IllegalStateException("Entry.after=null, header.after" + this.header.after + " header.before" + this.header.before + " key=" + k + " value=" + v + " size=" + this.size + " maxSize=" + this.maxSize + " Please check that your keys are immutable, and that you have used synchronization properly. If so, then please report this to dev@commons.apache.org as a bug.");
+                    throw new IllegalStateException("Entry.after=null, header.after" + this.header.after + " header.before" + this.header.before + " key=" + k + " value=" + v + " size=" + this.size + " maxSize=" + this.maxSize + " Please check that your keys are immutable, and that you have used synchronization properly. If so, then please report this to contact@example.invalid as a bug.");
                 }
             } else {
                 zRemoveLRU = removeLRU(linkEntry);
@@ -138,7 +138,7 @@ public class LRUMap<K, V> extends AbstractLinkedMap<K, V> implements BoundedMap<
                 return;
             }
             if (linkEntry2 == null) {
-                throw new IllegalStateException("reuse=null, header.after=" + this.header.after + " header.before" + this.header.before + " key=" + k + " value=" + v + " size=" + this.size + " maxSize=" + this.maxSize + " Please check that your keys are immutable, and that you have used synchronization properly. If so, then please report this to dev@commons.apache.org as a bug.");
+                throw new IllegalStateException("reuse=null, header.after=" + this.header.after + " header.before" + this.header.before + " key=" + k + " value=" + v + " size=" + this.size + " maxSize=" + this.maxSize + " Please check that your keys are immutable, and that you have used synchronization properly. If so, then please report this to contact@example.invalid as a bug.");
             }
             reuseMapping(linkEntry2, i, i2, k, v);
             return;
@@ -156,7 +156,7 @@ public class LRUMap<K, V> extends AbstractLinkedMap<K, V> implements BoundedMap<
                 hashEntry = hashEntry.next;
             }
             if (hashEntry == null) {
-                throw new IllegalStateException("Entry.next=null, data[removeIndex]=" + this.data[iHashIndex] + " previous=" + hashEntry2 + " key=" + k + " value=" + v + " size=" + this.size + " maxSize=" + this.maxSize + " Please check that your keys are immutable, and that you have used synchronization properly. If so, then please report this to dev@commons.apache.org as a bug.");
+                throw new IllegalStateException("Entry.next=null, data[removeIndex]=" + this.data[iHashIndex] + " previous=" + hashEntry2 + " key=" + k + " value=" + v + " size=" + this.size + " maxSize=" + this.maxSize + " Please check that your keys are immutable, and that you have used synchronization properly. If so, then please report this to contact@example.invalid as a bug.");
             }
             this.modCount++;
             removeEntry(linkEntry, iHashIndex, hashEntry2);
@@ -177,7 +177,7 @@ public class LRUMap<K, V> extends AbstractLinkedMap<K, V> implements BoundedMap<
             sb.append(" maxSize=");
             sb.append(this.maxSize);
             sb.append(" Please check that your keys are immutable, and that you have used synchronization properly.");
-            sb.append(" If so, then please report this to dev@commons.apache.org as a bug.");
+            sb.append(" If so, then please report this to contact@example.invalid as a bug.");
             throw new IllegalStateException(sb.toString());
         }
     }

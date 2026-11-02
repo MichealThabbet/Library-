@@ -30,7 +30,7 @@ import com.huawei.hms.analytics.core.log.HiLog;
 import com.huawei.hms.push.constant.RemoteMessageConst;
 import com.huawei.hms.support.hianalytics.HiAnalyticsConstant;
 import com.ibm.icu.impl.locale.BaseLocale;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.IOException;
 import java.lang.reflect.InvocationTargetException;
 import java.util.Arrays;

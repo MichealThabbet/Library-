@@ -1,6 +1,6 @@
 package org.apache.commons.io;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.Serializable;
 
 /* loaded from: classes3.dex */

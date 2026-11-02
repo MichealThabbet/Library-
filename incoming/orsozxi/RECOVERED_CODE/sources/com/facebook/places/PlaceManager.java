@@ -18,7 +18,7 @@ import com.facebook.places.model.CurrentPlaceFeedbackRequestParams;
 import com.facebook.places.model.CurrentPlaceRequestParams;
 import com.facebook.places.model.PlaceInfoRequestParams;
 import com.facebook.places.model.PlaceSearchRequestParams;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;

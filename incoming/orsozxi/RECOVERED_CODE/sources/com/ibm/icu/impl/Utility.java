@@ -6,7 +6,7 @@ import com.ibm.icu.text.Replaceable;
 import com.ibm.icu.text.UTF16;
 import com.ibm.icu.text.UnicodeMatcher;
 import com.ibm.icu.util.ICUUncheckedIOException;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Locale;

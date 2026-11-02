@@ -1,6 +1,6 @@
 package javax.mail.internet;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.Locale;
 import java.util.StringTokenizer;

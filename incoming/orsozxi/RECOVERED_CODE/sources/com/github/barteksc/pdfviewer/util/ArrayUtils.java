@@ -1,6 +1,6 @@
 package com.github.barteksc.pdfviewer.util;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 
 /* loaded from: classes.dex */

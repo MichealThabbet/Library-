@@ -59,7 +59,7 @@ public class MainActivityRadio extends BaseActivity {
         webView.setWebViewClient(new WebViewClient());
         webView.getSettings().setLoadWithOverviewMode(true);
         webView.getSettings().setUseWideViewPort(true);
-        webView.loadUrl("https://orsozoxi.net/radio/radio_fn.html");
+        webView.loadUrl("https://services.invalid/unconfigured");
         init();
     }
 

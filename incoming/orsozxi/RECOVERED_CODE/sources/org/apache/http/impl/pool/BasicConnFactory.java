@@ -1,6 +1,6 @@
 package org.apache.http.impl.pool;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.net.InetSocketAddress;
 import java.net.Socket;

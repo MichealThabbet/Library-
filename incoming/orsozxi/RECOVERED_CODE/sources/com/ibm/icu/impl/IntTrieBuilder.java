@@ -3,7 +3,7 @@ package com.ibm.icu.impl;
 import com.ibm.icu.impl.Trie;
 import com.ibm.icu.impl.TrieBuilder;
 import com.ibm.icu.text.UTF16;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.DataOutputStream;
 import java.io.IOException;
 import java.io.OutputStream;

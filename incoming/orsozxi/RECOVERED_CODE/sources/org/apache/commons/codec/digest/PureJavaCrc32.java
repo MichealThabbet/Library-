@@ -1,7 +1,7 @@
 package org.apache.commons.codec.digest;
 
 import com.ibm.icu.lang.UCharacterEnums;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.zip.Checksum;
 
 /* loaded from: classes3.dex */

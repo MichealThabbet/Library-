@@ -1,7 +1,7 @@
 package com.facebook.messenger;
 
 import android.net.Uri;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Collections;
 import java.util.HashSet;
 import java.util.Set;

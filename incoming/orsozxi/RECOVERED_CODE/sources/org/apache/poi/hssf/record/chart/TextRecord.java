@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.record.chart;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import org.apache.poi.hssf.record.RecordInputStream;
 import org.apache.poi.hssf.record.StandardRecord;
 import org.apache.poi.util.BitField;

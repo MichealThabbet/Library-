@@ -51,8 +51,8 @@ import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
-import it.orsozoxi.android.orsonotes.NotesMainActivity;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.NotesMainActivity;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -238,7 +238,7 @@ public class MainActivity extends BaseActivity implements CircleLayout.OnItemSel
         }
     }
 
-    private void postStartUseOrsozoxi() {
+    private void postStartUsePiApostolos() {
         this.mCallbackManager = CallbackManager.Factory.create();
         ShareDialog shareDialog = new ShareDialog(this);
         shareDialog.registerCallback(this.mCallbackManager, new FacebookCallback<Sharer.Result>() { // from class: com.app.piapostolos.MainActivity.3
@@ -257,7 +257,7 @@ public class MainActivity extends BaseActivity implements CircleLayout.OnItemSel
                 Log.d("Orso post", "cancel");
             }
         });
-        shareDialog.show(new ShareLinkContent.Builder().setContentUrl(Uri.parse("https://fb.me/895190050590896")).setContentTitle(getString(R.string.app_name)).setImageUrl(Uri.parse("https://www.orsozoxi.net/wp-content/uploads/2015/06/Icon-40@3x.png")).setContentDescription("Now, I 'm using PiApostolos + Katamaras App").build());
+        shareDialog.show(new ShareLinkContent.Builder().setContentUrl(Uri.parse("https://fb.me/895190050590896")).setContentTitle(getString(R.string.app_name)).setImageUrl(Uri.parse("https://services.invalid/unconfigured")).setContentDescription("Now, I 'm using PiApostolos + Katamaras App").build());
     }
 
     @Override // androidx.fragment.app.FragmentActivity, androidx.activity.ComponentActivity, android.app.Activity
@@ -668,7 +668,7 @@ public class MainActivity extends BaseActivity implements CircleLayout.OnItemSel
             public void onClick(DialogInterface dialogInterface, int i) {
                 Intent intent = new Intent();
                 intent.setAction("android.intent.action.SEND");
-                intent.putExtra("android.intent.extra.TEXT", MainActivity.this.msg + "\n\n" + MainActivity.this.getString(R.string.message_from_piapostolos) + "\nhttps://www.orsozoxi.net/");
+                intent.putExtra("android.intent.extra.TEXT", MainActivity.this.msg + "\n\n" + MainActivity.this.getString(R.string.message_from_piapostolos) + "\nhttps://services.invalid/unconfigured");
                 intent.setType(HTTP.PLAIN_TEXT_TYPE);
                 MainActivity mainActivity = MainActivity.this;
                 mainActivity.startActivity(Intent.createChooser(intent, mainActivity.getString(R.string.app_name)).setFlags(268468224));

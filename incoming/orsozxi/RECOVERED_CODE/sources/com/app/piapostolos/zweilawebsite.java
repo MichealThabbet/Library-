@@ -20,7 +20,7 @@ import com.app.piapostolos.Adapters.ExpandableListAdapter;
 import com.facebook.share.internal.ShareConstants;
 import com.google.firebase.crashlytics.internal.settings.model.AppSettingsData;
 import com.navdrawer.SimpleSideDrawer;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.ArrayList;
 import java.util.Calendar;
 

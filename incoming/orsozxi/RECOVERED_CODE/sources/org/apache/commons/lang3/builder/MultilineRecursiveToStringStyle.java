@@ -1,6 +1,6 @@
 package org.apache.commons.lang3.builder;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import org.apache.commons.lang3.ClassUtils;
 
 /* loaded from: classes3.dex */

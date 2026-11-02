@@ -40,7 +40,7 @@ import com.facebook.GraphResponse;
 import com.facebook.common.R;
 import com.facebook.share.internal.ShareConstants;
 import com.facebook.share.internal.ShareInternalUtility;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Iterator;

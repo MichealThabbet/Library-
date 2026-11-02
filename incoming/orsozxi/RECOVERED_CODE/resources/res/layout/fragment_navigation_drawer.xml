@@ -38,7 +38,7 @@
                 android:paddingEnd="@dimen/horizontal_margin"
                 pixlui:typeface="RobotoSlab-Regular.ttf"/>
         </RelativeLayout>
-        <it.orsozoxi.android.orsonotes.models.views.NonScrollableListView
+        <it.piapostolos.android.pinotes.models.views.NonScrollableListView
             android:id="@+id/drawer_nav_list"
             android:animationCache="false"
             android:layout_width="@dimen/navigation_drawer_width"
@@ -51,7 +51,7 @@
         <include
             android:id="@+id/settings_view"
             layout="@layout/drawer_category_list_footer"/>
-        <it.orsozoxi.android.orsonotes.models.views.NonScrollableListView
+        <it.piapostolos.android.pinotes.models.views.NonScrollableListView
             android:scrollbarSize="4dp"
             android:scrollbarThumbVertical="@drawable/scroll_bar"
             android:scrollbarStyle="outsideOverlay"

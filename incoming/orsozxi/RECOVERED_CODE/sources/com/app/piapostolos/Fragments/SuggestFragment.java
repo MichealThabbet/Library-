@@ -40,7 +40,7 @@ public class SuggestFragment extends Fragment {
                     return;
                 }
                 Intent intent = new Intent("android.intent.action.SEND");
-                intent.putExtra("android.intent.extra.EMAIL", new String[]{"radio@orsozoxi.net"});
+                intent.putExtra("android.intent.extra.EMAIL", new String[]{"contact@example.invalid"});
                 intent.putExtra("android.intent.extra.SUBJECT", string);
                 intent.putExtra("android.intent.extra.TEXT", string2);
                 intent.setType("message/rfc822");

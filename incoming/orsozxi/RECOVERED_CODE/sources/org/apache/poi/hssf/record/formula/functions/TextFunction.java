@@ -1,7 +1,7 @@
 package org.apache.poi.hssf.record.formula.functions;
 
 import com.ibm.icu.impl.locale.LanguageTag;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.text.DecimalFormat;
 import java.text.SimpleDateFormat;
 import java.util.GregorianCalendar;

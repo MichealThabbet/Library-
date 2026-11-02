@@ -2,7 +2,7 @@ package com.google.zxing.oned.rss.expanded.decoders;
 
 import com.google.zxing.NotFoundException;
 import com.huawei.hms.support.hianalytics.HiAnalyticsConstant;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 
 /* loaded from: classes2.dex */
 final class FieldParser {

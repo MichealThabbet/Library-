@@ -5,7 +5,7 @@ import com.huawei.agconnect.AGConnectInstance;
 import com.huawei.agconnect.datastore.annotation.DefaultCrypto;
 import com.huawei.agconnect.datastore.core.SharedPrefUtil;
 import com.huawei.agconnect.exception.AGCException;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayDeque;
 import java.util.ArrayList;
 import java.util.HashMap;

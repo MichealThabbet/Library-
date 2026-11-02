@@ -1,7 +1,7 @@
 package org.apache.poi.ss.format;
 
 import com.ibm.icu.text.DateFormat;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.text.DecimalFormat;
 import java.text.FieldPosition;
 import java.util.Collections;

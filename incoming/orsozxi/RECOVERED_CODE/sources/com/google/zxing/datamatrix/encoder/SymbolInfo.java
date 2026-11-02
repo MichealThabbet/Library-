@@ -2,7 +2,7 @@ package com.google.zxing.datamatrix.encoder;
 
 import com.google.zxing.Dimension;
 import com.ibm.icu.util.ULocale;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes2.dex */
 public class SymbolInfo {

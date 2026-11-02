@@ -1,7 +1,7 @@
 package com.google.zxing.pdf417;
 
 import com.google.zxing.common.detector.MathUtils;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Arrays;
 import java.util.Collection;
 import java.util.Iterator;

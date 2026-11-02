@@ -10,7 +10,7 @@ import android.net.Uri;
 import android.os.Bundle;
 import com.app.piapostolos.R;
 import com.huawei.hms.push.constant.RemoteMessageConst;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Calendar;
 
 /* loaded from: classes.dex */

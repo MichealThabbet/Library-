@@ -1,6 +1,6 @@
 package org.apache.poi.ss.usermodel;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Calendar;
 import java.util.Date;
 import java.util.GregorianCalendar;

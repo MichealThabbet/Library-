@@ -8,7 +8,7 @@ import com.google.zxing.ResultPoint;
 import com.google.zxing.ResultPointCallback;
 import com.google.zxing.common.BitArray;
 import com.google.zxing.common.detector.MathUtils;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.Iterator;

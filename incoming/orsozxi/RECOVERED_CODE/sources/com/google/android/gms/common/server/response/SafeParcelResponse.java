@@ -13,7 +13,7 @@ import com.google.android.gms.common.util.ArrayUtils;
 import com.google.android.gms.common.util.Base64Utils;
 import com.google.android.gms.common.util.JsonUtils;
 import com.google.android.gms.common.util.MapUtils;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.ArrayList;

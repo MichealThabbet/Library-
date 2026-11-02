@@ -200,7 +200,7 @@ public class Alarm implements Serializable {
                 }
             });
             for (Day day : getDays()) {
-                switch (AnonymousClass2.$SwitchMap$com$app$orsozoxi$Alarm$Alarm$Day[day.ordinal()]) {
+                switch (AnonymousClass2.$SwitchMap$com$app$piapostolos$Alarm$Alarm$Day[day.ordinal()]) {
                     case 1:
                         sb.append(getDayName(day.toString(), context));
                         break;
@@ -232,37 +232,37 @@ public class Alarm implements Serializable {
 
     /* renamed from: com.app.piapostolos.Alarm.Alarm$2, reason: invalid class name */
     static /* synthetic */ class AnonymousClass2 {
-        static final /* synthetic */ int[] $SwitchMap$com$app$orsozoxi$Alarm$Alarm$Day;
+        static final /* synthetic */ int[] $SwitchMap$com$app$piapostolos$Alarm$Alarm$Day;
 
         static {
             int[] iArr = new int[Day.values().length];
-            $SwitchMap$com$app$orsozoxi$Alarm$Alarm$Day = iArr;
+            $SwitchMap$com$app$piapostolos$Alarm$Alarm$Day = iArr;
             try {
                 iArr[Day.SUNDAY.ordinal()] = 1;
             } catch (NoSuchFieldError unused) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Alarm$Day[Day.MONDAY.ordinal()] = 2;
+                $SwitchMap$com$app$piapostolos$Alarm$Alarm$Day[Day.MONDAY.ordinal()] = 2;
             } catch (NoSuchFieldError unused2) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Alarm$Day[Day.TUESDAY.ordinal()] = 3;
+                $SwitchMap$com$app$piapostolos$Alarm$Alarm$Day[Day.TUESDAY.ordinal()] = 3;
             } catch (NoSuchFieldError unused3) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Alarm$Day[Day.WEDNESDAY.ordinal()] = 4;
+                $SwitchMap$com$app$piapostolos$Alarm$Alarm$Day[Day.WEDNESDAY.ordinal()] = 4;
             } catch (NoSuchFieldError unused4) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Alarm$Day[Day.THURSDAY.ordinal()] = 5;
+                $SwitchMap$com$app$piapostolos$Alarm$Alarm$Day[Day.THURSDAY.ordinal()] = 5;
             } catch (NoSuchFieldError unused5) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Alarm$Day[Day.FRIDAY.ordinal()] = 6;
+                $SwitchMap$com$app$piapostolos$Alarm$Alarm$Day[Day.FRIDAY.ordinal()] = 6;
             } catch (NoSuchFieldError unused6) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Alarm$Day[Day.SATURDAY.ordinal()] = 7;
+                $SwitchMap$com$app$piapostolos$Alarm$Alarm$Day[Day.SATURDAY.ordinal()] = 7;
             } catch (NoSuchFieldError unused7) {
             }
         }

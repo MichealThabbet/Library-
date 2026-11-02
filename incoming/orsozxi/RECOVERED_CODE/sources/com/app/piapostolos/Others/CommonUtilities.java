@@ -9,10 +9,10 @@ import android.os.Environment;
 public final class CommonUtilities {
     public static final String DISPLAY_MESSAGE_ACTION = "com.androidhive.pushnotifications.DISPLAY_MESSAGE";
     public static final String EXTRA_MESSAGE = "message";
-    public static final String SENDER_ID = "111326151494";
-    public static final String SERVER_URL = "https://www.orsozoxi.net/gcmsms/register.php";
-    public static final String SERVER_URL_AGPYA_SIGN = "https://www.orsozoxi.net/app_update/dd/agbeya.pdf";
-    public static final String SERVER_URL_KHOLAGY_SIGN = "https://www.orsozoxi.net/app_update/dd/kholagy.pdf";
+    public static final String SENDER_ID = "";
+    public static final String SERVER_URL = "https://services.invalid/unconfigured";
+    public static final String SERVER_URL_AGPYA_SIGN = "https://services.invalid/unconfigured";
+    public static final String SERVER_URL_KHOLAGY_SIGN = "https://services.invalid/unconfigured";
     public static final String TAG = "AndroidHive GCM";
 
     public static String getStoragePath(Context context) {

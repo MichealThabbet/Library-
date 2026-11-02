@@ -6,7 +6,7 @@ import com.google.firebase.crashlytics.internal.settings.model.FeaturesSettingsD
 import com.google.firebase.crashlytics.internal.settings.model.SessionSettingsData;
 import com.google.firebase.crashlytics.internal.settings.model.Settings;
 import com.google.firebase.crashlytics.internal.settings.model.SettingsData;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import org.json.JSONException;
 import org.json.JSONObject;
 

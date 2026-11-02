@@ -8,7 +8,7 @@ import com.google.android.gms.common.internal.Preconditions;
 import com.google.android.gms.common.util.ProcessUtils;
 import com.google.android.gms.common.wrappers.Wrappers;
 import com.google.android.gms.internal.measurement.zzpe;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.lang.reflect.InvocationTargetException;
 import org.checkerframework.checker.nullness.qual.EnsuresNonNull;
 

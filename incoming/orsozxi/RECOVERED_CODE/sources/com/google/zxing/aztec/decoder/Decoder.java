@@ -12,7 +12,7 @@ import com.huawei.hms.support.hianalytics.HiAnalyticsConstant;
 import com.ibm.icu.impl.locale.BaseLocale;
 import com.ibm.icu.impl.locale.LanguageTag;
 import com.ibm.icu.text.DateFormat;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Arrays;
 import net.fortuna.ical4j.model.property.RequestStatus;
 import net.lingala.zip4j.util.InternalZipConstants;

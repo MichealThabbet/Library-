@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="ic_launcher">@android:drawable/ic_menu_agenda</item>
+    <item type="drawable" name="ic_logo">@android:drawable/ic_menu_agenda</item>
+    <item type="drawable" name="logo">@android:drawable/ic_menu_agenda</item>
+    <item type="drawable" name="logo_notification_lollipop">@android:drawable/ic_menu_agenda</item>
+    <item type="drawable" name="orsologo">@android:drawable/ic_menu_agenda</item>
+    <item type="mipmap" name="ic_launcher">@android:drawable/ic_menu_agenda</item>
+    <item type="mipmap" name="ic_launcher_foreground">@android:drawable/ic_menu_agenda</item>
+    <item type="mipmap" name="ic_launcher_round">@android:drawable/ic_menu_agenda</item>
+</resources>

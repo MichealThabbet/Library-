@@ -2,7 +2,7 @@ package org.bitbucket.cowwoc.diffmatchpatch;
 
 import com.huawei.hms.framework.common.ContainerUtils;
 import com.ibm.icu.impl.locale.LanguageTag;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.UnsupportedEncodingException;
 import java.net.URLDecoder;
 import java.net.URLEncoder;

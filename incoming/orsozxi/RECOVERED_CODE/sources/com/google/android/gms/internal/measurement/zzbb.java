@@ -1,6 +1,6 @@
 package com.google.android.gms.internal.measurement;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.Iterator;

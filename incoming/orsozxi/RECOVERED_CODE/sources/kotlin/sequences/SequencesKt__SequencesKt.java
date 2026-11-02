@@ -2,7 +2,7 @@ package kotlin.sequences;
 
 import com.google.firebase.analytics.FirebaseAnalytics;
 import com.ibm.icu.text.DateFormat;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

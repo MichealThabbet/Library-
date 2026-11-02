@@ -2,7 +2,7 @@ package org.apache.poi.hssf.dev;
 
 import com.app.piapostolos.Views.CustomCopticTextView;
 import com.facebook.internal.ServerProtocol;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.DataInputStream;
 import java.io.File;
 import java.io.FileInputStream;

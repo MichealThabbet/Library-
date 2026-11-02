@@ -12,7 +12,7 @@ import com.facebook.internal.CallbackManagerImpl;
 import com.facebook.internal.NativeProtocol;
 import com.facebook.internal.Utility;
 import com.facebook.internal.Validate;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.Collection;
 import java.util.HashMap;

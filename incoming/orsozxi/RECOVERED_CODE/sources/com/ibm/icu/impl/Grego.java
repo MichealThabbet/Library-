@@ -1,6 +1,6 @@
 package com.ibm.icu.impl;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Locale;
 
 /* loaded from: classes2.dex */

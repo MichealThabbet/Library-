@@ -40,7 +40,7 @@ import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;

@@ -6,7 +6,7 @@ import com.huawei.agconnect.AGConnectInstance;
 import com.huawei.agconnect.AGConnectOptions;
 import com.huawei.agconnect.config.AGConnectServicesConfig;
 import com.huawei.hms.analytics.core.log.HiLog;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.Locale;
 import java.util.Map;

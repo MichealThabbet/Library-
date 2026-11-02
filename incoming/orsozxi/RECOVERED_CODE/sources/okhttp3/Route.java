@@ -1,6 +1,6 @@
 package okhttp3;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.net.InetSocketAddress;
 import java.net.Proxy;
 import javax.annotation.Nullable;

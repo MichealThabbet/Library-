@@ -21,7 +21,7 @@ import com.google.android.gms.common.util.PlatformVersion;
 import com.google.android.gms.common.util.UidVerifier;
 import com.google.android.gms.common.wrappers.Wrappers;
 import com.huawei.hms.push.constant.RemoteMessageConst;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Iterator;
 import java.util.concurrent.atomic.AtomicBoolean;
 

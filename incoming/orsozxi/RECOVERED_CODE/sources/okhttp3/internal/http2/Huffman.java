@@ -2,7 +2,7 @@ package okhttp3.internal.http2;
 
 import com.ibm.icu.impl.Normalizer2Impl;
 import com.ibm.icu.lang.UCharacterEnums;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import okio.BufferedSink;

@@ -8,7 +8,7 @@ import android.os.Handler;
 import android.os.Looper;
 import com.facebook.internal.ImageRequest;
 import com.facebook.internal.WorkQueue;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.io.InputStream;
 import java.util.HashMap;

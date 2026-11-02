@@ -1,7 +1,7 @@
 package com.ibm.icu.impl;
 
 import com.ibm.icu.impl.Trie;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.nio.ByteBuffer;
 
 /* loaded from: classes2.dex */

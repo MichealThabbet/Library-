@@ -49,7 +49,7 @@ public class Follow_options extends Activity {
             public void onClick(View view) {
                 if (Follow_options.this.checkinternet()) {
                     Intent intent = new Intent(Follow_options.this, (Class<?>) zweilawebsite.class);
-                    intent.putExtra("url", "https://mobile.twitter.com/orsozoxi");
+                    intent.putExtra("url", "https://mobile.twitter.com/piapostolos");
                     intent.putExtra("preact", Follow_options.this.getString(R.string.t_twitter));
                     intent.putExtra(ShareConstants.MEDIA_TYPE, AppSettingsData.STATUS_NEW);
                     Follow_options.this.startActivity(intent);
@@ -65,7 +65,7 @@ public class Follow_options extends Activity {
             public void onClick(View view) {
                 if (Follow_options.this.checkinternet()) {
                     Intent intent = new Intent(Follow_options.this, (Class<?>) zweilawebsite.class);
-                    intent.putExtra("url", "https://orsozoxi.net/");
+                    intent.putExtra("url", "https://services.invalid/unconfigured");
                     intent.putExtra("preact", Follow_options.this.getString(R.string.t_website));
                     intent.putExtra(ShareConstants.MEDIA_TYPE, AppSettingsData.STATUS_NEW);
                     Follow_options.this.startActivity(intent);
@@ -81,7 +81,7 @@ public class Follow_options extends Activity {
             public void onClick(View view) {
                 if (Follow_options.this.checkinternet()) {
                     Intent intent = new Intent(Follow_options.this, (Class<?>) SendEmailActivityOptions.class);
-                    intent.putExtra("email", "orsozoxi.app@orsozoxi.net");
+                    intent.putExtra("email", "contact@example.invalid");
                     intent.putExtra("preact", Follow_options.this.getString(R.string.t_raslna));
                     Follow_options.this.startActivity(intent);
                     return;

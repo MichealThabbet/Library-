@@ -1,6 +1,6 @@
 package com.google.android.gms.common.util;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.HashMap;
 
 /* loaded from: classes.dex */

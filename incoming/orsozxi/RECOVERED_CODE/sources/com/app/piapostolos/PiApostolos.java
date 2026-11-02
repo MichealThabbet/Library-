@@ -18,15 +18,15 @@ import com.nostra13.universalimageloader.cache.disc.naming.Md5FileNameGenerator;
 import com.nostra13.universalimageloader.core.ImageLoader;
 import com.nostra13.universalimageloader.core.ImageLoaderConfiguration;
 import com.nostra13.universalimageloader.core.assist.QueueProcessingType;
-import it.orsozoxi.android.orsonotes.OrsoNotes;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.PiNotes;
+import it.piapostolos.android.pinotes.R2;
 import org.acra.annotation.AcraCore;
 import org.acra.annotation.AcraToast;
 
-@AcraCore(buildConfigClass = it.orsozoxi.android.orsonotes.BuildConfig.class)
+@AcraCore(buildConfigClass = it.piapostolos.android.pinotes.BuildConfig.class)
 @AcraToast(resText = R2.string.crash_toast)
 /* loaded from: classes.dex */
-public class PiApostolos extends OrsoNotes {
+public class PiApostolos extends PiNotes {
     private static FirebaseAnalytics mFirebaseAnalytics;
     private static HiAnalyticsInstance mHiAnalyticsInstance;
     private static PlaylistItemDetails selectedPlaylistItem;
@@ -43,7 +43,7 @@ public class PiApostolos extends OrsoNotes {
         return mHiAnalyticsInstance;
     }
 
-    @Override // it.orsozoxi.android.orsonotes.OrsoNotes, androidx.multidex.MultiDexApplication, android.content.ContextWrapper
+    @Override // it.piapostolos.android.pinotes.PiNotes, androidx.multidex.MultiDexApplication, android.content.ContextWrapper
     protected void attachBaseContext(Context context) {
         super.attachBaseContext(context);
         MultiDex.install(this);
@@ -55,7 +55,7 @@ public class PiApostolos extends OrsoNotes {
         }
     }
 
-    @Override // it.orsozoxi.android.orsonotes.OrsoNotes, android.app.Application
+    @Override // it.piapostolos.android.pinotes.PiNotes, android.app.Application
     public void onCreate() {
         super.onCreate();
         initImageLoader(getApplicationContext());

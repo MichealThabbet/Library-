@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.usermodel;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import org.apache.poi.ddf.EscherBlipRecord;
 import org.apache.poi.ss.usermodel.PictureData;
 

@@ -1,7 +1,7 @@
 package com.ibm.icu.text;
 
 import com.ibm.icu.impl.UBiDiProps;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes2.dex */
 public final class ArabicShaping {

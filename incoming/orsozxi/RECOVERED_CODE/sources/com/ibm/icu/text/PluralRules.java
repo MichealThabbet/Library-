@@ -7,7 +7,7 @@ import com.ibm.icu.number.FormattedNumber;
 import com.ibm.icu.number.FormattedNumberRange;
 import com.ibm.icu.util.Output;
 import com.ibm.icu.util.ULocale;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.IOException;
 import java.io.NotSerializableException;
 import java.io.ObjectInputStream;

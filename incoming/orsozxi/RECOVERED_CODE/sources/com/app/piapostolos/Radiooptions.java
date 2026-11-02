@@ -45,7 +45,7 @@ public class Radiooptions extends BaseActivity {
             public void onClick(View view) {
                 if (Radiooptions.this.checkinternet()) {
                     Intent intent = new Intent(Radiooptions.this, (Class<?>) SendEmailActivity.class);
-                    intent.putExtra("email", "radio@orsozoxi.net");
+                    intent.putExtra("email", "contact@example.invalid");
                     intent.putExtra("preact", "المقترحات");
                     Radiooptions.this.startActivity(intent);
                     return;
@@ -78,7 +78,7 @@ public class Radiooptions extends BaseActivity {
             public void onClick(View view) {
                 if (Radiooptions.this.checkinternet()) {
                     Intent intent = new Intent(Radiooptions.this, (Class<?>) zweilawebsite.class);
-                    intent.putExtra("url", "https://orsozoxi.net/radio/radio_sch.html");
+                    intent.putExtra("url", "https://services.invalid/unconfigured");
                     intent.putExtra(ShareConstants.MEDIA_TYPE, "old");
                     intent.putExtra("preact", Radiooptions.this.getString(R.string.radio_program));
                     Radiooptions.this.startActivity(intent);

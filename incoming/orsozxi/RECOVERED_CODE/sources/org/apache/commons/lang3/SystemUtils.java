@@ -1,7 +1,7 @@
 package org.apache.commons.lang3;
 
 import com.pnikosis.materialishprogress.BuildConfig;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.File;
 
 /* loaded from: classes3.dex */

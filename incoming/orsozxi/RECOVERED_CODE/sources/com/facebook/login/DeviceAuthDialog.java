@@ -38,7 +38,7 @@ import com.facebook.internal.Utility;
 import com.facebook.internal.Validate;
 import com.facebook.login.LoginClient;
 import com.huawei.hms.support.hianalytics.HiAnalyticsConstant;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Date;
 import java.util.Locale;
 import java.util.concurrent.ScheduledFuture;

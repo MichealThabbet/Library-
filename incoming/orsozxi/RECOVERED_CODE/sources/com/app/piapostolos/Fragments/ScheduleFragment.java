@@ -44,7 +44,7 @@ public class ScheduleFragment extends Fragment {
         webView.setBackgroundColor(0);
         webView.getSettings().setJavaScriptEnabled(true);
         webView.getSettings().setUseWideViewPort(true);
-        webView.loadUrl("https://orsozoxi.net/radio/radio_sch.html");
+        webView.loadUrl("https://services.invalid/unconfigured");
         webView.setWebViewClient(new WebViewClient() { // from class: com.app.piapostolos.Fragments.ScheduleFragment.1
             @Override // android.webkit.WebViewClient
             public void onPageStarted(WebView webView2, String str, Bitmap bitmap) {

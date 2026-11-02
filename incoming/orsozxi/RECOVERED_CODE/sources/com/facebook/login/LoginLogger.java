@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.text.TextUtils;
 import com.facebook.appevents.AppEventsLogger;
 import com.facebook.login.LoginClient;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Map;
 import org.json.JSONException;
 import org.json.JSONObject;

@@ -1,7 +1,7 @@
 package com.google.android.gms.internal.gtm;
 
 import com.google.android.gms.internal.gtm.zzc;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 
 /* loaded from: classes.dex */

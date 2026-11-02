@@ -1,6 +1,6 @@
 package net.fortuna.ical4j.model;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.Serializable;
 import java.util.Iterator;
 import java.util.List;

@@ -1,6 +1,6 @@
 package com.ibm.icu.text;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.nio.BufferOverflowException;
 import java.util.Arrays;
 

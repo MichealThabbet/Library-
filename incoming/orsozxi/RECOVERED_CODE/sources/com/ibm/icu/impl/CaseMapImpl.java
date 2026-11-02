@@ -6,7 +6,7 @@ import com.ibm.icu.text.Edits;
 import com.ibm.icu.text.UTF16;
 import com.ibm.icu.util.ICUUncheckedIOException;
 import com.ibm.icu.util.ULocale;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.text.CharacterIterator;
 import java.util.Locale;

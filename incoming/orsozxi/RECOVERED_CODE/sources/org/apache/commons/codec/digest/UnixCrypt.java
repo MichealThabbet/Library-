@@ -5,7 +5,7 @@ import androidx.constraintlayout.solver.widgets.analyzer.BasicMeasure;
 import androidx.core.internal.view.SupportMenu;
 import androidx.core.view.InputDeviceCompat;
 import com.ibm.icu.lang.UProperty;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Random;
 import net.sqlcipher.database.SQLiteDatabase;
 import org.apache.commons.codec.Charsets;

@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.record.formula;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import org.apache.poi.util.LittleEndianOutput;
 
 /* loaded from: classes3.dex */

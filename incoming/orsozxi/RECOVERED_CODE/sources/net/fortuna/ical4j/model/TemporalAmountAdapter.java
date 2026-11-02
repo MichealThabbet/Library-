@@ -3,7 +3,7 @@ package net.fortuna.ical4j.model;
 import com.huawei.hms.push.constant.RemoteMessageConst;
 import com.ibm.icu.impl.Grego;
 import com.ibm.icu.impl.locale.LanguageTag;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.Serializable;
 import java.time.Duration;
 import java.time.Instant;

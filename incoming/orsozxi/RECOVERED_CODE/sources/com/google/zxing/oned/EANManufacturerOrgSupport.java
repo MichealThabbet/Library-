@@ -1,7 +1,7 @@
 package com.google.zxing.oned;
 
 import com.google.zxing.client.result.ExpandedProductParsedResult;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.ArrayList;
 import java.util.List;
 import net.fortuna.ical4j.model.Parameter;

@@ -38,7 +38,7 @@ import com.squareup.picasso.Picasso;
 import dm.audiostreamer.AudioStreamingManager;
 import dm.audiostreamer.CurrentSessionCallback;
 import dm.audiostreamer.MediaMetaData;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;

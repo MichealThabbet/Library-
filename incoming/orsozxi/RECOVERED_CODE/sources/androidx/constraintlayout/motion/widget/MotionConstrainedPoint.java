@@ -11,7 +11,7 @@ import androidx.constraintlayout.widget.ConstraintSet;
 import androidx.core.app.NotificationCompat;
 import com.ibm.icu.impl.locale.LanguageTag;
 import com.ibm.icu.text.DateFormat;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedHashMap;

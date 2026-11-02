@@ -1,6 +1,6 @@
 package javax.mail;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 
 /* loaded from: classes3.dex */
 public class Provider {

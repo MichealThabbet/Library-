@@ -2,7 +2,7 @@ package kotlin.collections;
 
 import com.google.android.gms.analytics.ecommerce.ProductAction;
 import com.google.firebase.analytics.FirebaseAnalytics;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.util.List;
 import kotlin.Metadata;
 import kotlin.jvm.internal.Intrinsics;

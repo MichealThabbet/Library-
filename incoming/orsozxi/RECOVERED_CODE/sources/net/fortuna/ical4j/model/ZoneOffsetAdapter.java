@@ -1,6 +1,6 @@
 package net.fortuna.ical4j.model;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.Serializable;
 import java.time.ZoneOffset;
 

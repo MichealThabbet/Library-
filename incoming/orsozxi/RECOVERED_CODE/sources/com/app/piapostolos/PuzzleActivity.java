@@ -394,24 +394,24 @@ public class PuzzleActivity extends BaseActivity {
 
     /* renamed from: com.app.piapostolos.PuzzleActivity$4, reason: invalid class name */
     static /* synthetic */ class AnonymousClass4 {
-        static final /* synthetic */ int[] $SwitchMap$com$app$orsozoxi$GamesBeans$PuzzleView$ShowNumbers;
+        static final /* synthetic */ int[] $SwitchMap$com$app$piapostolos$GamesBeans$PuzzleView$ShowNumbers;
 
         static {
             int[] iArr = new int[PuzzleView.ShowNumbers.values().length];
-            $SwitchMap$com$app$orsozoxi$GamesBeans$PuzzleView$ShowNumbers = iArr;
+            $SwitchMap$com$app$piapostolos$GamesBeans$PuzzleView$ShowNumbers = iArr;
             try {
                 iArr[PuzzleView.ShowNumbers.ALL.ordinal()] = 1;
             } catch (NoSuchFieldError unused) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$GamesBeans$PuzzleView$ShowNumbers[PuzzleView.ShowNumbers.SOME.ordinal()] = 2;
+                $SwitchMap$com$app$piapostolos$GamesBeans$PuzzleView$ShowNumbers[PuzzleView.ShowNumbers.SOME.ordinal()] = 2;
             } catch (NoSuchFieldError unused2) {
             }
         }
     }
 
     protected int showNumbersToInt(PuzzleView.ShowNumbers showNumbers) {
-        int i = AnonymousClass4.$SwitchMap$com$app$orsozoxi$GamesBeans$PuzzleView$ShowNumbers[showNumbers.ordinal()];
+        int i = AnonymousClass4.$SwitchMap$com$app$piapostolos$GamesBeans$PuzzleView$ShowNumbers[showNumbers.ordinal()];
         if (i != 1) {
             return i != 2 ? 0 : 1;
         }

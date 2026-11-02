@@ -36,7 +36,7 @@ import com.app.piapostolos.R;
 import com.google.android.material.badge.BadgeDrawable;
 import com.google.gson.Gson;
 import com.huawei.hms.push.constant.RemoteMessageConst;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Iterator;
@@ -189,7 +189,7 @@ public class FlyBitchJobService extends JobIntentService {
             public void onClick(View view) {
                 Intent intent = new Intent();
                 intent.setAction("android.intent.action.SEND");
-                intent.putExtra("android.intent.extra.TEXT", str + "\n\nتم ارسال الرسالة من تطبيق PI APOSTOLOS\nhttps://www.orsozoxi.net/");
+                intent.putExtra("android.intent.extra.TEXT", str + "\n\nتم ارسال الرسالة من تطبيق PI APOSTOLOS\nhttps://services.invalid/unconfigured");
                 intent.setType(HTTP.PLAIN_TEXT_TYPE);
                 scrollView.setVisibility(8);
                 FlyBitchJobService.this.startActivity(Intent.createChooser(intent, "PI APOSTOLOS").setFlags(268468224));

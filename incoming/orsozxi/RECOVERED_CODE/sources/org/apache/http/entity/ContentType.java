@@ -1,6 +1,6 @@
 package org.apache.http.entity;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.Serializable;
 import java.nio.charset.Charset;
 import java.nio.charset.UnsupportedCharsetException;

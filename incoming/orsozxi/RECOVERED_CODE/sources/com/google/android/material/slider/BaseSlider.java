@@ -51,7 +51,7 @@ import com.google.android.material.slider.BaseOnSliderTouchListener;
 import com.google.android.material.slider.BaseSlider;
 import com.google.android.material.theme.overlay.MaterialThemeOverlay;
 import com.google.android.material.tooltip.TooltipDrawable;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.lang.reflect.InvocationTargetException;
 import java.math.BigDecimal;
 import java.math.MathContext;

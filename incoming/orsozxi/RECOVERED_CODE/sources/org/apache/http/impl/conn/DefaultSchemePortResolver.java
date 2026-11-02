@@ -1,6 +1,6 @@
 package org.apache.http.impl.conn;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import org.apache.http.HttpHost;
 import org.apache.http.conn.SchemePortResolver;
 import org.apache.http.conn.UnsupportedSchemeException;

@@ -1,7 +1,7 @@
 package com.google.android.gms.internal.measurement;
 
 import com.google.firebase.analytics.FirebaseAnalytics;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;

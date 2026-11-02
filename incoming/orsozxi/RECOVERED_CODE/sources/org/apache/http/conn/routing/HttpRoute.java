@@ -1,6 +1,6 @@
 package org.apache.http.conn.routing;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.net.InetAddress;
 import java.net.InetSocketAddress;
 import java.util.ArrayList;

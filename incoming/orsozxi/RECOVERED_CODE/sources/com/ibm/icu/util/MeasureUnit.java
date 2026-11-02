@@ -10,7 +10,7 @@ import com.ibm.icu.impl.locale.LanguageTag;
 import com.ibm.icu.impl.units.MeasureUnitImpl;
 import com.ibm.icu.impl.units.SingleUnitImpl;
 import com.ibm.icu.text.UnicodeSet;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.io.Externalizable;
 import java.io.IOException;
 import java.io.ObjectInput;

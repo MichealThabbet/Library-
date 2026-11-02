@@ -47,15 +47,15 @@ public class MainActivityGCM extends BaseActivity {
             this.lblMessage.setBackgroundColor(0);
             this.lblMessage.getSettings().setDefaultFontSize(Integer.valueOf(checksimVar.checkfontsize(this)).intValue());
             this.lblMessage.loadDataWithBaseURL("", "<html><head><style type=\"text/css\">body{color: #fff; }</style></head><body>" + name + "</body></html>", "text/html", "UTF-8", "");
-            if (stringExtra.equals("https://www.orsozoxi.net/bprsms/images/bpr.jpg")) {
+            if (stringExtra.equals("https://services.invalid/unconfigured")) {
                 getWindow().setBackgroundDrawableResource(R.drawable.saydna);
                 imageView.setImageResource(R.drawable.saydnalogo);
             }
-            if (stringExtra.equals("https://www.orsozoxi.net/gcmsms/images/orsozoxisms.jpg")) {
+            if (stringExtra.equals("https://services.invalid/unconfigured")) {
                 getWindow().setBackgroundDrawableResource(R.drawable.orso);
                 imageView.setImageResource(R.drawable.orsologo);
             }
-            if (stringExtra.equals("https://www.orsozoxi.net/gcmnews/images/news.jpg")) {
+            if (stringExtra.equals("https://services.invalid/unconfigured")) {
                 getWindow().setBackgroundDrawableResource(R.drawable.newsss);
                 imageView.setImageResource(R.drawable.newsslogo);
                 return;

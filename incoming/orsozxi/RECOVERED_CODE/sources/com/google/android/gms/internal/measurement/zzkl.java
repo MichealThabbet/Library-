@@ -1,6 +1,6 @@
 package com.google.android.gms.internal.measurement;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.nio.ByteBuffer;
 import java.nio.charset.Charset;
 

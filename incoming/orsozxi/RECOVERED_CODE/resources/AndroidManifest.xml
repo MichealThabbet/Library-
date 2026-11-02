@@ -253,13 +253,13 @@
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <data
                     android:scheme="https"
-                    android:host="orsozoxi.dra.agconnect.link"/>
+                    android:host="piapostolos.dra.agconnect.link"/>
                 <data
                     android:scheme="http"
-                    android:host="orsozoxi.dra.agconnect.link"/>
+                    android:host="piapostolos.dra.agconnect.link"/>
                 <data
                     android:scheme="http"
-                    android:host="orsozoxi.net"/>
+                    android:host="https://services.invalid/unconfigured"/>
             </intent-filter>
         </activity>
         <activity
@@ -343,12 +343,12 @@
             android:name="com.app.piapostolos.Radio.NotificationBroadcast"
             android:exported="true">
             <intent-filter>
-                <action android:name="com.orsozoxi.audioplayer.delete"/>
-                <action android:name="com.orsozoxi.audioplayer.pause"/>
-                <action android:name="com.orsozoxi.audioplayer.next"/>
-                <action android:name="com.orsozoxi.audioplayer.play"/>
-                <action android:name="com.orsozoxi.audioplayer.previous"/>
-                <action android:name="com.orsozoxi.audioplayer.openapp"/>
+                <action android:name="com.piapostolos.audioplayer.delete"/>
+                <action android:name="com.piapostolos.audioplayer.pause"/>
+                <action android:name="com.piapostolos.audioplayer.next"/>
+                <action android:name="com.piapostolos.audioplayer.play"/>
+                <action android:name="com.piapostolos.audioplayer.previous"/>
+                <action android:name="com.piapostolos.audioplayer.openapp"/>
                 <action android:name="android.intent.action.MEDIA_BUTTON"/>
             </intent-filter>
         </receiver>
@@ -469,7 +469,7 @@
             android:label="@string/app_name"
             android:icon="@mipmap/ic_launcher"
             android:name="com.app.piapostolos.Alarm.Services.AlarmService"
-            android:process="com.orsozoxi.alarm.serviceProcess"/>
+            android:process="com.piapostolos.alarm.serviceProcess"/>
         <receiver
             android:name="com.app.piapostolos.Alarm.Services.AlarmServiceBroadcastReciever"
             android:exported="true">
@@ -531,13 +531,13 @@
         <provider
             android:name="com.facebook.FacebookContentProvider"
             android:exported="true"
-            android:authorities="com.facebook.app.FacebookContentProvider627975203979050"/>
+            android:authorities="com.facebook.app.FacebookContentProvider"/>
         <meta-data
             android:name="android.app.default_searchable"
             android:value=".ListActivity"/>
         <activity
             android:label="@string/app_name"
-            android:name="it.orsozoxi.android.orsonotes.NotesMainActivity"
+            android:name="it.piapostolos.android.pinotes.NotesMainActivity"
             android:exported="true"
             android:launchMode="singleTop">
             <intent-filter>
@@ -570,40 +570,40 @@
         </activity>
         <activity
             android:theme="@style/OmniNotesFullscreenTheme.ApiSpec"
-            android:name="it.orsozoxi.android.orsonotes.GalleryActivity"
+            android:name="it.piapostolos.android.pinotes.GalleryActivity"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/Theme.AppCompat.Light.Dialog"
             android:label="@string/title_activity_category"
-            android:name="it.orsozoxi.android.orsonotes.CategoryActivity"
-            android:parentActivityName="it.orsozoxi.android.orsonotes.NotesMainActivity">
+            android:name="it.piapostolos.android.pinotes.CategoryActivity"
+            android:parentActivityName="it.piapostolos.android.pinotes.NotesMainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="it.orsozoxi.android.orsonotes.NotesMainActivity"/>
+                android:value="it.piapostolos.android.pinotes.NotesMainActivity"/>
         </activity>
         <activity
             android:theme="@style/PreferencesTheme"
             android:label="@string/settings"
-            android:name="it.orsozoxi.android.orsonotes.SettingsActivity"
-            android:parentActivityName="it.orsozoxi.android.orsonotes.NotesMainActivity">
+            android:name="it.piapostolos.android.pinotes.SettingsActivity"
+            android:parentActivityName="it.piapostolos.android.pinotes.NotesMainActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="it.orsozoxi.android.orsonotes.NotesMainActivity"/>
+                android:value="it.piapostolos.android.pinotes.NotesMainActivity"/>
         </activity>
         <activity
-            android:theme="@style/OrsoNotesTheme.ApiSpec.Dialog"
-            android:name="it.orsozoxi.android.orsonotes.PasswordActivity"
+            android:theme="@style/PiNotesTheme.ApiSpec.Dialog"
+            android:name="it.piapostolos.android.pinotes.PasswordActivity"
             android:windowSoftInputMode="adjustResize|stateHidden"/>
         <activity
-            android:theme="@style/OrsoNotesTheme.NoDisplay"
-            android:name="it.orsozoxi.android.orsonotes.SnoozeActivity"
+            android:theme="@style/PiNotesTheme.NoDisplay"
+            android:name="it.piapostolos.android.pinotes.SnoozeActivity"
             android:excludeFromRecents="true"
             android:launchMode="singleInstance"
             android:noHistory="true"/>
         <activity
             android:label="@string/add_note"
             android:icon="@drawable/shortcut_icon"
-            android:name="it.orsozoxi.android.orsonotes.ShortcutActivity"
+            android:name="it.piapostolos.android.pinotes.ShortcutActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.CREATE_SHORTCUT"/>
@@ -612,14 +612,14 @@
         </activity>
         <activity
             android:theme="@style/Theme.AppCompat.Light.Dialog"
-            android:name="it.orsozoxi.android.orsonotes.StatsActivity"/>
+            android:name="it.piapostolos.android.pinotes.StatsActivity"/>
         <activity
             android:theme="@style/Theme.AppCompat.Light.Dialog"
-            android:name="it.orsozoxi.android.orsonotes.NoteInfosActivity"/>
-        <receiver android:name="it.orsozoxi.android.orsonotes.receiver.AlarmReceiver"/>
+            android:name="it.piapostolos.android.pinotes.NoteInfosActivity"/>
+        <receiver android:name="it.piapostolos.android.pinotes.receiver.AlarmReceiver"/>
         <receiver
             android:label="BootCompleteReceiver"
-            android:name="it.orsozoxi.android.orsonotes.receiver.BootCompleteReceiver"
+            android:name="it.piapostolos.android.pinotes.receiver.BootCompleteReceiver"
             android:permission="android.permission.RECEIVE_BOOT_COMPLETED"
             android:enabled="true"
             android:exported="false">
@@ -628,21 +628,21 @@
             </intent-filter>
         </receiver>
         <service
-            android:name="it.orsozoxi.android.orsonotes.async.AlarmRestoreOnRebootService"
+            android:name="it.piapostolos.android.pinotes.async.AlarmRestoreOnRebootService"
             android:permission="android.permission.BIND_JOB_SERVICE"/>
         <service
             android:label="@string/app_name"
-            android:name="it.orsozoxi.android.orsonotes.services.NotificationListener"
+            android:name="it.piapostolos.android.pinotes.services.NotificationListener"
             android:permission="android.permission.BIND_NOTIFICATION_LISTENER_SERVICE"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.service.notification.NotificationListenerService"/>
             </intent-filter>
         </service>
-        <service android:name="it.orsozoxi.android.orsonotes.async.DataBackupIntentService"/>
+        <service android:name="it.piapostolos.android.pinotes.async.DataBackupIntentService"/>
         <activity
             android:theme="@style/Theme.AppCompat.Light.Dialog"
-            android:name="it.orsozoxi.android.orsonotes.widget.WidgetConfigurationActivity"
+            android:name="it.piapostolos.android.pinotes.widget.WidgetConfigurationActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE"/>
@@ -651,7 +651,7 @@
         <receiver
             android:label="@string/app_name"
             android:icon="@drawable/logo"
-            android:name="it.orsozoxi.android.orsonotes.widget.SimpleWidgetProvider"
+            android:name="it.piapostolos.android.pinotes.widget.SimpleWidgetProvider"
             android:exported="true"
             android:description="@string/widget_simple_description">
             <intent-filter>
@@ -664,7 +664,7 @@
         <receiver
             android:label="@string/app_name"
             android:icon="@drawable/logo"
-            android:name="it.orsozoxi.android.orsonotes.widget.ListWidgetProvider"
+            android:name="it.piapostolos.android.pinotes.widget.ListWidgetProvider"
             android:exported="true"
             android:description="@string/widget_list_description">
             <intent-filter>
@@ -675,12 +675,12 @@
                 android:resource="@xml/appwidget_list"/>
         </receiver>
         <service
-            android:name="it.orsozoxi.android.orsonotes.widget.ListWidgetService"
+            android:name="it.piapostolos.android.pinotes.widget.ListWidgetService"
             android:permission="android.permission.BIND_REMOTEVIEWS"/>
         <service
             android:label="@string/app_name"
             android:icon="@drawable/ic_stat_literal_icon"
-            android:name="it.orsozoxi.android.orsonotes.extensions.ONDashClockExtension"
+            android:name="it.piapostolos.android.pinotes.extensions.ONDashClockExtension"
             android:permission="com.google.android.apps.dashclock.permission.READ_EXTENSION_DATA"
             android:exported="true">
             <intent-filter>
@@ -720,7 +720,7 @@
                 <category android:name="android.intent.category.DEFAULT"/>
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <data
-                    android:scheme="orsozoxi"
+                    android:scheme="piapostolos"
                     android:host="com.app.piapostolos"
                     android:path="/deeplink"/>
             </intent-filter>

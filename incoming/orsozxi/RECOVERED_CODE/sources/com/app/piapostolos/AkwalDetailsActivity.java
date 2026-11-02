@@ -34,7 +34,7 @@ import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.File;
 import java.io.FileOutputStream;
 import java.text.ParseException;
@@ -117,10 +117,10 @@ public class AkwalDetailsActivity extends BaseActivity implements View.OnClickLi
             this.url = intent.getStringExtra("url");
             this.link2 = intent.getStringExtra("linkk");
             TextView textView = (TextView) findViewById(R.id.tv_header_title);
-            if (this.url.equals("https://orsozoxi.net/archives/category/taks/feed")) {
+            if (this.url.equals("https://services.invalid/unconfigured")) {
                 setTitle(getString(R.string.taks_church));
                 textView.setText(getString(R.string.taks_church));
-            } else if (this.url.equals("https://www.orsozoxi.net/archives/category/cards/feed")) {
+            } else if (this.url.equals("https://services.invalid/unconfigured")) {
                 textView.setText(getString(R.string.eids_cards));
             } else {
                 setTitle(getString(R.string.akwal_title));

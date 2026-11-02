@@ -5,7 +5,7 @@
         android:title="@string/settings_screen_sync_import_export"
         android:key="settings_sync_import_export"
         android:summary="@string/settings_backup_summary"
-        app:fragment="it.orsozoxi.android.orsonotes.SettingsFragment"
+        app:fragment="it.piapostolos.android.pinotes.SettingsFragment"
         app:iconSpaceReserved="false"/>
     <Preference
         android:title="@string/settings_reset_all_data"

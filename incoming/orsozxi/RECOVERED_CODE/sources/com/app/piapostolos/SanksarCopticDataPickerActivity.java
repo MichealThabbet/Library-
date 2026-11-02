@@ -9,7 +9,7 @@ import android.widget.Spinner;
 import android.widget.SpinnerAdapter;
 import android.widget.Toast;
 import com.app.piapostolos.KholgayBeans.CopticDate;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import net.fortuna.ical4j.model.property.RequestStatus;
 

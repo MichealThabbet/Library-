@@ -1,6 +1,6 @@
 package okhttp3;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.net.MalformedURLException;
 import java.net.URI;
 import java.net.URISyntaxException;

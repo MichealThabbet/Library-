@@ -1,6 +1,6 @@
 package org.apache.http.impl.cookie;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Iterator;

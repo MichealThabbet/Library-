@@ -7,17 +7,17 @@
             android:layout_width="wrap_content"
             android:title="@string/settings_screen_data"
             android:key="settings_data"
-            app:fragment="it.orsozoxi.android.orsonotes.SettingsFragment"
+            app:fragment="it.piapostolos.android.pinotes.SettingsFragment"
             app:iconSpaceReserved="false"/>
         <PreferenceScreen
             android:title="@string/settings_screen_behaviors"
             android:key="settings_behaviors"
-            app:fragment="it.orsozoxi.android.orsonotes.SettingsFragment"
+            app:fragment="it.piapostolos.android.pinotes.SettingsFragment"
             app:iconSpaceReserved="false"/>
         <PreferenceScreen
             android:title="@string/settings_screen_notifications"
             android:key="settings_notifications"
-            app:fragment="it.orsozoxi.android.orsonotes.SettingsFragment"
+            app:fragment="it.piapostolos.android.pinotes.SettingsFragment"
             app:iconSpaceReserved="false"/>
     </PreferenceCategory>
     <PreferenceCategory
@@ -28,7 +28,7 @@
             app:iconSpaceReserved="false">
             <intent
                 android:targetPackage="@string/app_package"
-                android:targetClass="it.orsozoxi.android.orsonotes.StatsActivity"/>
+                android:targetClass="it.piapostolos.android.pinotes.StatsActivity"/>
         </Preference>
     </PreferenceCategory>
 </PreferenceScreen>

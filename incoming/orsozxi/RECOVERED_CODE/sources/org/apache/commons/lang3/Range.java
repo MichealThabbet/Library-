@@ -1,6 +1,6 @@
 package org.apache.commons.lang3;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.Serializable;
 import java.util.Comparator;
 

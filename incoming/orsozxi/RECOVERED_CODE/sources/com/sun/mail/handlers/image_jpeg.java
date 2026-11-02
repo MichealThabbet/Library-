@@ -1,6 +1,6 @@
 package com.sun.mail.handlers;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.awt.Image;
 import javax.activation.ActivationDataFlavor;
 

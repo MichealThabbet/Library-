@@ -77,7 +77,7 @@ public class AlarmPreferenceListAdapter extends BaseAdapter {
     public View getView(int i, View view, ViewGroup viewGroup) {
         AlarmPreference alarmPreference = (AlarmPreference) getItem(i);
         LayoutInflater layoutInflaterFrom = LayoutInflater.from(getContext());
-        if (AnonymousClass1.$SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[alarmPreference.getType().ordinal()] == 1) {
+        if (AnonymousClass1.$SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[alarmPreference.getType().ordinal()] == 1) {
             if (view == null) {
                 view = layoutInflaterFrom.inflate(android.R.layout.simple_list_item_checked, (ViewGroup) null);
             }
@@ -98,64 +98,64 @@ public class AlarmPreferenceListAdapter extends BaseAdapter {
 
     /* renamed from: com.app.piapostolos.Alarm.Preferences.AlarmPreferenceListAdapter$1, reason: invalid class name */
     static /* synthetic */ class AnonymousClass1 {
-        static final /* synthetic */ int[] $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key;
-        static final /* synthetic */ int[] $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type;
+        static final /* synthetic */ int[] $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key;
+        static final /* synthetic */ int[] $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type;
 
         static {
             int[] iArr = new int[AlarmPreference.Key.values().length];
-            $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key = iArr;
+            $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key = iArr;
             try {
                 iArr[AlarmPreference.Key.ALARM_ACTIVE.ordinal()] = 1;
             } catch (NoSuchFieldError unused) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_NAME.ordinal()] = 2;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_NAME.ordinal()] = 2;
             } catch (NoSuchFieldError unused2) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_TIME.ordinal()] = 3;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_TIME.ordinal()] = 3;
             } catch (NoSuchFieldError unused3) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_DIFFICULTY.ordinal()] = 4;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_DIFFICULTY.ordinal()] = 4;
             } catch (NoSuchFieldError unused4) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_TONE.ordinal()] = 5;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_TONE.ordinal()] = 5;
             } catch (NoSuchFieldError unused5) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_VIBRATE.ordinal()] = 6;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_VIBRATE.ordinal()] = 6;
             } catch (NoSuchFieldError unused6) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_REPEAT.ordinal()] = 7;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_REPEAT.ordinal()] = 7;
             } catch (NoSuchFieldError unused7) {
             }
             int[] iArr2 = new int[AlarmPreference.Type.values().length];
-            $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type = iArr2;
+            $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type = iArr2;
             try {
                 iArr2[AlarmPreference.Type.BOOLEAN.ordinal()] = 1;
             } catch (NoSuchFieldError unused8) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.INTEGER.ordinal()] = 2;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.INTEGER.ordinal()] = 2;
             } catch (NoSuchFieldError unused9) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.STRING.ordinal()] = 3;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.STRING.ordinal()] = 3;
             } catch (NoSuchFieldError unused10) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.LIST.ordinal()] = 4;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.LIST.ordinal()] = 4;
             } catch (NoSuchFieldError unused11) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.MULTIPLE_LIST.ordinal()] = 5;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.MULTIPLE_LIST.ordinal()] = 5;
             } catch (NoSuchFieldError unused12) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.TIME.ordinal()] = 6;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.TIME.ordinal()] = 6;
             } catch (NoSuchFieldError unused13) {
             }
         }
@@ -163,7 +163,7 @@ public class AlarmPreferenceListAdapter extends BaseAdapter {
 
     public Alarm getMathAlarm() {
         for (AlarmPreference alarmPreference : this.preferences) {
-            switch (AnonymousClass1.$SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[alarmPreference.getKey().ordinal()]) {
+            switch (AnonymousClass1.$SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[alarmPreference.getKey().ordinal()]) {
                 case 1:
                     this.alarm.setAlarmActive((Boolean) alarmPreference.getValue());
                     break;

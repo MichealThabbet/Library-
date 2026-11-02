@@ -1,6 +1,6 @@
 package com.ibm.icu.impl.coll;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Arrays;
 
 /* loaded from: classes2.dex */

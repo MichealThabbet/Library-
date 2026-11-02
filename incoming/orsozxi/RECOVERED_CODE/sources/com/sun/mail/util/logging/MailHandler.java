@@ -1,7 +1,7 @@
 package com.sun.mail.util.logging;
 
 import androidx.core.app.NotificationCompat;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;

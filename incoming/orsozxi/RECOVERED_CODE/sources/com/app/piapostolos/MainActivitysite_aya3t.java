@@ -75,7 +75,7 @@ public class MainActivitysite_aya3t extends BaseActivity implements AdapterView.
         if (whiteBackgroundActivition == null || !whiteBackgroundActivition.isWhiteBackground()) {
             getWindow().setBackgroundDrawableResource(R.drawable.background);
         }
-        TOPSTORIES = "https://www.orsozoxi.net/archives/category/konuz/trueaya/feed";
+        TOPSTORIES = "https://services.invalid/unconfigured";
         Button button = (Button) findViewById(R.id.btn_slide);
         final SimpleSideDrawer simpleSideDrawer = new SimpleSideDrawer(this);
         simpleSideDrawer.setLeftBehindContentView(R.layout.left_menu_ex);

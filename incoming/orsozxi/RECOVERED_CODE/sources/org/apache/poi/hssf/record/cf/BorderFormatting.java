@@ -1,7 +1,7 @@
 package org.apache.poi.hssf.record.cf;
 
 import androidx.constraintlayout.solver.widgets.analyzer.BasicMeasure;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import org.apache.poi.util.BitField;
 import org.apache.poi.util.BitFieldFactory;
 import org.apache.poi.util.LittleEndian;

@@ -1,7 +1,7 @@
 package com.google.android.gms.internal.measurement;
 
-import it.orsozoxi.android.orsonotes.db.DbHelper;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.db.DbHelper;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

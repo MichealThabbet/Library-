@@ -2,7 +2,7 @@ package com.ibm.icu.text;
 
 import androidx.core.view.MotionEventCompat;
 import com.ibm.icu.impl.Normalizer2Impl;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes2.dex */
 interface SCSU {

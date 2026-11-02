@@ -15,7 +15,7 @@ import com.facebook.internal.ServerProtocol;
 import com.facebook.internal.Utility;
 import com.facebook.login.LoginClient;
 import com.google.android.material.timepicker.TimeModel;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Locale;
 
 /* loaded from: classes.dex */

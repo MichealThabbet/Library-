@@ -2,7 +2,7 @@ package org.apache.poi.hssf.usermodel;
 
 import com.ibm.icu.lang.UCharacterEnums;
 import it.feio.android.springpadimporter.utils.Constants;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.ByteArrayInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;

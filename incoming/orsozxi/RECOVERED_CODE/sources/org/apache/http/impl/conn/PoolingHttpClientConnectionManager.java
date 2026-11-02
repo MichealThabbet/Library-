@@ -1,6 +1,6 @@
 package org.apache.http.impl.conn;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.Closeable;
 import java.io.IOException;
 import java.util.Map;

@@ -2,7 +2,7 @@ package com.google.zxing.client.result;
 
 import androidx.core.net.MailTo;
 import com.google.zxing.Result;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Map;
 import java.util.regex.Pattern;
 

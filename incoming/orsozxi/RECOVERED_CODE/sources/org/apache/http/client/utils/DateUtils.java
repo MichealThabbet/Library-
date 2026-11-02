@@ -1,6 +1,6 @@
 package org.apache.http.client.utils;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.lang.ref.SoftReference;
 import java.text.ParsePosition;
 import java.text.SimpleDateFormat;

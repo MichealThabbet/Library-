@@ -7,7 +7,7 @@ import com.ibm.icu.impl.RBBIDataWrapper;
 import com.ibm.icu.impl.UCharacterProperty;
 import com.ibm.icu.lang.UCharacterEnums;
 import com.ibm.icu.text.UTF16;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import net.sqlcipher.database.SQLiteDatabase;
 import org.apache.poi.hssf.record.PaletteRecord;
 import org.apache.poi.hssf.record.formula.Area3DPtg;

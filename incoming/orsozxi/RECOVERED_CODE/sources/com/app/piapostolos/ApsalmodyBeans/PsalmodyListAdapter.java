@@ -129,7 +129,7 @@ public class PsalmodyListAdapter extends BaseAdapter {
                             str = str + Apsalmody.allNames[favouritListEntity.getFavouriteList().get(i - 8)[i2] - 1] + "\n";
                         }
                     }
-                    String str2 = (str + "الأن حمل تطبيق PI APOSTOLOS و تابع معنا الإبصلمودية الكيهكية\n") + "www.orsozoxi.net";
+                    String str2 = (str + "الأن حمل تطبيق PI APOSTOLOS و تابع معنا الإبصلمودية الكيهكية\n") + "https://services.invalid/unconfigured";
                     Intent intent = new Intent();
                     intent.setAction("android.intent.action.SEND");
                     intent.setType(HTTP.PLAIN_TEXT_TYPE);

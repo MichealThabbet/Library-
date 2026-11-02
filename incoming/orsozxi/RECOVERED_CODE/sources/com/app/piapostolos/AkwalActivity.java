@@ -80,9 +80,9 @@ public class AkwalActivity extends BaseActivity implements AdapterView.OnItemCli
         TextView textView = (TextView) findViewById(R.id.tv_header_title);
         String stringExtra = getIntent().getStringExtra("url");
         TOPSTORIES = stringExtra;
-        if (stringExtra.equals("https://orsozoxi.net/archives/category/taks/feed")) {
+        if (stringExtra.equals("https://services.invalid/unconfigured")) {
             textView.setText(getString(R.string.taks_church));
-        } else if (TOPSTORIES.equals("https://www.orsozoxi.net/archives/category/cards/feed")) {
+        } else if (TOPSTORIES.equals("https://services.invalid/unconfigured")) {
             textView.setText(getString(R.string.eids_cards));
         } else {
             textView.setText(getString(R.string.akwal_title));
@@ -109,7 +109,7 @@ public class AkwalActivity extends BaseActivity implements AdapterView.OnItemCli
         try {
             this.mRssListView = (ListView) findViewById(R.id.rss_list_view);
             this.mRssFeedList = new ArrayList();
-            if (TOPSTORIES.equals("https://www.orsozoxi.net/archives/category/konuz/akwaal/feed") && (casheFeeds = (CasheFeeds) new SavePrefs((Activity) this, (Class<?>) CasheFeeds.class).load()) != null && casheFeeds.getAkwalFeeds() != null && casheFeeds.getAkwalFeeds().size() > 0) {
+            if (TOPSTORIES.equals("https://services.invalid/unconfigured") && (casheFeeds = (CasheFeeds) new SavePrefs((Activity) this, (Class<?>) CasheFeeds.class).load()) != null && casheFeeds.getAkwalFeeds() != null && casheFeeds.getAkwalFeeds().size() > 0) {
                 this.mRssAdap = new RssAdapter(this, R.layout.rss_list_item, casheFeeds.getAkwalFeeds());
                 this.mRssFeedList.addAll(casheFeeds.getAkwalFeeds());
                 this.mRssListView.setAdapter((ListAdapter) this.mRssAdap);
@@ -124,7 +124,7 @@ public class AkwalActivity extends BaseActivity implements AdapterView.OnItemCli
                 @Override // android.widget.AdapterView.OnItemClickListener
                 public void onItemClick(AdapterView<?> adapterView, View view, int i, long j) {
                     Intent intent = new Intent();
-                    if (AkwalActivity.TOPSTORIES.equals("https://www.orsozoxi.net/archives/category/cards/feed")) {
+                    if (AkwalActivity.TOPSTORIES.equals("https://services.invalid/unconfigured")) {
                         intent.setClass(AkwalActivity.this, AkwalDetailsActivity.class);
                     } else {
                         intent.setClass(AkwalActivity.this, AkwalDetailsActivity.class);

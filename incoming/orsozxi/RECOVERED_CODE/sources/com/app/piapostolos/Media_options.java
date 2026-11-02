@@ -36,7 +36,7 @@ public class Media_options extends Activity {
             @Override // android.view.View.OnClickListener
             public void onClick(View view) {
                 Intent intent = new Intent(Media_options.this, (Class<?>) MainActivityCards.class);
-                intent.putExtra("url", "https://www.orsozoxi.net/archives/category/cards/feed");
+                intent.putExtra("url", "https://services.invalid/unconfigured");
                 Media_options.this.startActivity(intent);
             }
         });

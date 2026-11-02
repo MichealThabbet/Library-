@@ -2,7 +2,7 @@ package com.facebook.internal;
 
 import com.facebook.FacebookSdk;
 import com.facebook.LoggingBehavior;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.File;

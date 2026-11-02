@@ -7,7 +7,7 @@ import android.os.CancellationSignal;
 import android.util.Log;
 import androidx.core.content.res.FontResourcesParserCompat;
 import androidx.core.provider.FontsContractCompat;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;

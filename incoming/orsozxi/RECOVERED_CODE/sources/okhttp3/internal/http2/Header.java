@@ -1,6 +1,6 @@
 package okhttp3.internal.http2;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import okhttp3.Headers;
 import okhttp3.internal.Util;
 import okio.ByteString;

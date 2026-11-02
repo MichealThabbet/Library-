@@ -11,7 +11,7 @@ import com.ibm.icu.text.UnicodeSetIterator;
 import com.ibm.icu.util.CharsTrie;
 import com.ibm.icu.util.CharsTrieBuilder;
 import com.ibm.icu.util.StringTrieBuilder;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Iterator;

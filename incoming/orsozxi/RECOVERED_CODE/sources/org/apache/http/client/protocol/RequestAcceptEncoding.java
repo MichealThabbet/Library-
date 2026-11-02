@@ -1,6 +1,6 @@
 package org.apache.http.client.protocol;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.IOException;
 import java.util.List;
 import org.apache.http.HttpException;

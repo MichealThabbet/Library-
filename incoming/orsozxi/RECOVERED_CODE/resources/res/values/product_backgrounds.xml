@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="drawable" name="background">@android:color/white</item>
+    <item type="drawable" name="home_background">@android:color/white</item>
+    <item type="drawable" name="orso">@android:color/white</item>
+    <item type="drawable" name="splash">@android:color/white</item>
+    <item type="drawable" name="splash_gotas">@android:color/white</item>
+    <item type="drawable" name="splash_melad">@android:color/white</item>
+</resources>

@@ -4,7 +4,7 @@ import android.os.Build;
 import android.text.TextUtils;
 import com.huawei.hms.analytics.core.log.HiLog;
 import com.huawei.hms.analytics.core.transport.net.Response;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Map;
 import java.util.Random;
 import org.apache.http.client.methods.HttpPost;

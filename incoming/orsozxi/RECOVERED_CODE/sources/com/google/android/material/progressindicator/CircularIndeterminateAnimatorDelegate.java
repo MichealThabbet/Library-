@@ -8,7 +8,7 @@ import androidx.interpolator.view.animation.FastOutSlowInInterpolator;
 import androidx.vectordrawable.graphics.drawable.Animatable2Compat;
 import com.google.android.material.animation.ArgbEvaluatorCompat;
 import com.google.android.material.color.MaterialColors;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes2.dex */
 final class CircularIndeterminateAnimatorDelegate extends IndeterminateAnimatorDelegate<ObjectAnimator> {

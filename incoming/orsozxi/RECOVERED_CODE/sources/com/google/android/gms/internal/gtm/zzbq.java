@@ -4,7 +4,7 @@ import android.content.pm.ApplicationInfo;
 import android.text.TextUtils;
 import com.google.android.gms.common.internal.Preconditions;
 import com.google.android.gms.common.util.ProcessUtils;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.HashSet;
 import java.util.Set;
 

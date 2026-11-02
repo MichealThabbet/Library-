@@ -94,7 +94,7 @@
                     android:src="@drawable/ic_lock_black_24dp"/>
             </LinearLayout>
         </LinearLayout>
-        <it.orsozoxi.android.orsonotes.models.views.SquareImageView
+        <it.piapostolos.android.pinotes.models.views.SquareImageView
             android:layout_gravity="center_vertical"
             android:id="@+id/attachmentThumbnail"
             android:layout_width="@dimen/note_item_min_height_inner"

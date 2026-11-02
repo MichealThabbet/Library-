@@ -50,7 +50,7 @@
     <style name="CardView" parent="@style/Base.CardView">
         <item name="cardBackgroundColor">?android:attr/colorBackgroundFloating</item>
     </style>
-    <style name="OrsoNotesTheme.NoDisplay" parent="@style/OrsoNotesTheme">
+    <style name="PiNotesTheme.NoDisplay" parent="@style/PiNotesTheme">
         <item name="android:windowBackground">@android:color/transparent</item>
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowIsTranslucent">true</item>

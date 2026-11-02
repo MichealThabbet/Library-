@@ -1,6 +1,6 @@
 package kotlin.collections;
 
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.io.Serializable;
 import java.util.Collection;
 import java.util.Map;

@@ -5,7 +5,7 @@ import com.google.firebase.analytics.FirebaseAnalytics;
 import com.ibm.icu.text.DateFormat;
 import com.pnikosis.materialishprogress.BuildConfig;
 import io.reactivex.annotations.SchedulerSupport;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Collection;

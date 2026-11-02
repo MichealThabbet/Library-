@@ -2,7 +2,7 @@ package com.sun.activation.registries;
 
 import com.facebook.share.internal.ShareConstants;
 import com.huawei.hms.framework.common.ContainerUtils;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.FileReader;

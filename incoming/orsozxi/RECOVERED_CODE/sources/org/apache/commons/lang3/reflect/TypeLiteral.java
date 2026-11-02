@@ -1,6 +1,6 @@
 package org.apache.commons.lang3.reflect;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.lang.reflect.Type;
 import java.lang.reflect.TypeVariable;
 import org.apache.commons.lang3.Validate;

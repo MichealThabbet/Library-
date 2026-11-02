@@ -7,7 +7,7 @@ import android.os.RemoteException;
 import com.google.android.youtube.player.internal.l;
 import com.google.android.youtube.player.internal.r;
 import com.google.android.youtube.player.internal.t;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes2.dex */
 public final class o extends r<l> implements b {

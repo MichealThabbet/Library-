@@ -9,7 +9,7 @@ import android.util.Base64;
 import android.util.Log;
 import android.widget.ImageView;
 import com.google.android.gms.common.GoogleApiAvailability;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
 import java.util.Calendar;

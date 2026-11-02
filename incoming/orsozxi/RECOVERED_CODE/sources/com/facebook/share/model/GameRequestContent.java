@@ -3,7 +3,7 @@ package com.facebook.share.model;
 import android.os.Parcel;
 import android.os.Parcelable;
 import android.text.TextUtils;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

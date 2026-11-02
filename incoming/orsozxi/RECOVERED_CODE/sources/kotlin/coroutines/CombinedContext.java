@@ -2,7 +2,7 @@ package kotlin.coroutines;
 
 import com.facebook.places.model.PlaceFields;
 import com.ibm.icu.text.DateFormat;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.io.Serializable;
 import kotlin.Metadata;
 import kotlin.Unit;

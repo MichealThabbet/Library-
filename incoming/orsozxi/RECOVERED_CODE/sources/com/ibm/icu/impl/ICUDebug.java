@@ -1,7 +1,7 @@
 package com.ibm.icu.impl;
 
 import com.facebook.internal.ServerProtocol;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 
 /* loaded from: classes2.dex */
 public final class ICUDebug {

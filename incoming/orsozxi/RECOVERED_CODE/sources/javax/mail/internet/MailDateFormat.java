@@ -2,7 +2,7 @@ package javax.mail.internet;
 
 import com.ibm.icu.impl.UCharacterProperty;
 import com.sun.mail.util.MailLogger;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.io.ObjectInputStream;
 import java.io.ObjectStreamException;

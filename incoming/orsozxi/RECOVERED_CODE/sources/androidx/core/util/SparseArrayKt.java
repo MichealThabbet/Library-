@@ -4,7 +4,7 @@ import android.util.SparseArray;
 import com.facebook.internal.NativeProtocol;
 import com.google.android.gms.analytics.ecommerce.ProductAction;
 import com.google.firebase.analytics.FirebaseAnalytics;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.util.Iterator;
 import kotlin.Metadata;
 import kotlin.Unit;

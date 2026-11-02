@@ -93,12 +93,12 @@ public class AlarmPreferencesActivity extends Activity {
             final AlarmPreferenceListAdapter alarmPreferenceListAdapter = (AlarmPreferenceListAdapter) AlarmPreferencesActivity.this.getListAdapter();
             final AlarmPreference alarmPreference = (AlarmPreference) alarmPreferenceListAdapter.getItem(i);
             view.performHapticFeedback(1);
-            int i2 = AnonymousClass5.$SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[alarmPreference.getType().ordinal()];
+            int i2 = AnonymousClass5.$SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[alarmPreference.getType().ordinal()];
             if (i2 == 1) {
                 CheckedTextView checkedTextView = (CheckedTextView) view;
                 boolean z = !checkedTextView.isChecked();
                 checkedTextView.setChecked(z);
-                int i3 = AnonymousClass5.$SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[alarmPreference.getKey().ordinal()];
+                int i3 = AnonymousClass5.$SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[alarmPreference.getKey().ordinal()];
                 if (i3 == 1) {
                     AlarmPreferencesActivity.this.alarm.setAlarmActive(Boolean.valueOf(z));
                 } else if (i3 == 2) {
@@ -143,7 +143,7 @@ public class AlarmPreferencesActivity extends Activity {
                 builder2.setItems(charSequenceArr, new DialogInterface.OnClickListener() { // from class: com.app.piapostolos.Alarm.Preferences.AlarmPreferencesActivity.2.2
                     @Override // android.content.DialogInterface.OnClickListener
                     public void onClick(DialogInterface dialogInterface, int i5) throws IllegalStateException, IOException, SecurityException, IllegalArgumentException {
-                        int i6 = AnonymousClass5.$SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[alarmPreference.getKey().ordinal()];
+                        int i6 = AnonymousClass5.$SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[alarmPreference.getKey().ordinal()];
                         if (i6 == 3) {
                             AlarmPreferencesActivity.this.alarm.setDifficulty(Alarm.Difficulty.values()[i5]);
                         } else if (i6 == 4) {
@@ -260,48 +260,48 @@ public class AlarmPreferencesActivity extends Activity {
 
     /* renamed from: com.app.piapostolos.Alarm.Preferences.AlarmPreferencesActivity$5, reason: invalid class name */
     static /* synthetic */ class AnonymousClass5 {
-        static final /* synthetic */ int[] $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key;
-        static final /* synthetic */ int[] $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type;
+        static final /* synthetic */ int[] $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key;
+        static final /* synthetic */ int[] $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type;
 
         static {
             int[] iArr = new int[AlarmPreference.Type.values().length];
-            $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type = iArr;
+            $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type = iArr;
             try {
                 iArr[AlarmPreference.Type.BOOLEAN.ordinal()] = 1;
             } catch (NoSuchFieldError unused) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.STRING.ordinal()] = 2;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.STRING.ordinal()] = 2;
             } catch (NoSuchFieldError unused2) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.LIST.ordinal()] = 3;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.LIST.ordinal()] = 3;
             } catch (NoSuchFieldError unused3) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.MULTIPLE_LIST.ordinal()] = 4;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.MULTIPLE_LIST.ordinal()] = 4;
             } catch (NoSuchFieldError unused4) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.TIME.ordinal()] = 5;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Type[AlarmPreference.Type.TIME.ordinal()] = 5;
             } catch (NoSuchFieldError unused5) {
             }
             int[] iArr2 = new int[AlarmPreference.Key.values().length];
-            $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key = iArr2;
+            $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key = iArr2;
             try {
                 iArr2[AlarmPreference.Key.ALARM_ACTIVE.ordinal()] = 1;
             } catch (NoSuchFieldError unused6) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_VIBRATE.ordinal()] = 2;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_VIBRATE.ordinal()] = 2;
             } catch (NoSuchFieldError unused7) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_DIFFICULTY.ordinal()] = 3;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_DIFFICULTY.ordinal()] = 3;
             } catch (NoSuchFieldError unused8) {
             }
             try {
-                $SwitchMap$com$app$orsozoxi$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_TONE.ordinal()] = 4;
+                $SwitchMap$com$app$piapostolos$Alarm$Preferences$AlarmPreference$Key[AlarmPreference.Key.ALARM_TONE.ordinal()] = 4;
             } catch (NoSuchFieldError unused9) {
             }
         }

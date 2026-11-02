@@ -2,7 +2,7 @@ package org.apache.poi.hssf.record;
 
 import androidx.core.view.MotionEventCompat;
 import com.ibm.icu.impl.coll.Collation;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import org.apache.poi.util.BitField;
 import org.apache.poi.util.BitFieldFactory;
 import org.apache.poi.util.LittleEndianOutput;

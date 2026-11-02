@@ -123,7 +123,7 @@ public class RadioHomeFragment extends Fragment implements View.OnClickListener 
         webView.setWebViewClient(new WebViewClient());
         webView.getSettings().setLoadWithOverviewMode(true);
         webView.getSettings().setUseWideViewPort(true);
-        webView.loadUrl("https://www.orsozoxi.com/app.html");
+        webView.loadUrl("https://services.invalid/unconfigured");
         webView.setBackgroundColor(0);
     }
 

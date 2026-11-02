@@ -1,6 +1,6 @@
 package org.apache.commons.collections4.comparators;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.Serializable;
 import java.util.Comparator;
 import java.util.HashMap;

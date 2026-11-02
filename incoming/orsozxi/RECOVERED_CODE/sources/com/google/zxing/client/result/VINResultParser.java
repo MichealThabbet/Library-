@@ -2,7 +2,7 @@ package com.google.zxing.client.result;
 
 import com.google.zxing.BarcodeFormat;
 import com.google.zxing.Result;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.regex.Pattern;
 import net.fortuna.ical4j.model.Parameter;
 

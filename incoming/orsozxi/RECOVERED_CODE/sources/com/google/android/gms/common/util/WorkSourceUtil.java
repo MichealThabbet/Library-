@@ -8,7 +8,7 @@ import android.os.WorkSource;
 import android.util.Log;
 import com.google.android.gms.analytics.ecommerce.ProductAction;
 import com.google.android.gms.common.wrappers.Wrappers;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.lang.reflect.InvocationTargetException;
 import java.lang.reflect.Method;
 import java.util.ArrayList;

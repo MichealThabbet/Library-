@@ -50,7 +50,7 @@ import java.util.concurrent.Callable;
 
 /* loaded from: classes.dex */
 public class TipInWordActivity extends BaseActivity implements AdapterView.OnItemClickListener {
-    private static final String TOPSTORIES = "https://www.orsozoxi.net/archives/category/media/audio_library/fr_marcos_zaky/info-in-word/feed";
+    private static final String TOPSTORIES = "https://services.invalid/unconfigured";
     AlertDialogManager alert = new AlertDialogManager();
     ConnectionDetector cd;
     private GestureDetector gestureDetector;

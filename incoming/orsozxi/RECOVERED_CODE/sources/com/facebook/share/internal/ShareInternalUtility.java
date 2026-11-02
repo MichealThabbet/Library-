@@ -37,7 +37,7 @@ import com.facebook.share.model.SharePhotoContent;
 import com.facebook.share.model.ShareVideo;
 import com.facebook.share.model.ShareVideoContent;
 import com.facebook.share.widget.LikeView;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.ArrayList;

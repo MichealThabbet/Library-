@@ -1,6 +1,6 @@
 package kotlin.collections;
 
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.lang.reflect.Array;
 import java.nio.charset.Charset;
 import java.util.Arrays;

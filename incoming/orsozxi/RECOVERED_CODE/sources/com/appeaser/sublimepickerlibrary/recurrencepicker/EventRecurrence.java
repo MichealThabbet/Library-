@@ -3,7 +3,7 @@ package com.appeaser.sublimepickerlibrary.recurrencepicker;
 import android.text.TextUtils;
 import android.text.format.Time;
 import android.util.Log;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.HashMap;
 import net.fortuna.ical4j.model.Recur;
 

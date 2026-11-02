@@ -1,6 +1,6 @@
 package org.apache.commons.lang3.tuple;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.Serializable;
 import java.util.Objects;
 import org.apache.commons.lang3.builder.CompareToBuilder;

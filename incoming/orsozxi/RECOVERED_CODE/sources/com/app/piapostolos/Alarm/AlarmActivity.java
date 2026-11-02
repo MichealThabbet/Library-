@@ -23,7 +23,7 @@ import com.app.piapostolos.Alarm.Preferences.AlarmPreferencesActivity;
 import com.app.piapostolos.R;
 import com.app.piapostolos.Slider;
 import com.navdrawer.SimpleSideDrawer;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.util.List;
 

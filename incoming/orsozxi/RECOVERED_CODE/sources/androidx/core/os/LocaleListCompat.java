@@ -4,7 +4,7 @@ import android.os.Build;
 import android.os.LocaleList;
 import com.ibm.icu.impl.locale.BaseLocale;
 import com.ibm.icu.impl.locale.LanguageTag;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.Locale;
 
 /* loaded from: classes.dex */

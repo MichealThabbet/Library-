@@ -46,7 +46,7 @@ public class gawhara_options extends Activity {
             @Override // android.view.View.OnClickListener
             public void onClick(View view) {
                 Intent intent = new Intent(gawhara_options.this, (Class<?>) AkwalActivity.class);
-                intent.putExtra("url", "https://www.orsozoxi.net/archives/category/konuz/akwaal/feed");
+                intent.putExtra("url", "https://services.invalid/unconfigured");
                 gawhara_options.this.startActivity(intent);
             }
         });
@@ -60,7 +60,7 @@ public class gawhara_options extends Activity {
             @Override // android.view.View.OnClickListener
             public void onClick(View view) {
                 Intent intent = new Intent(gawhara_options.this, (Class<?>) MainActivitysite_aya3t.class);
-                intent.putExtra("url", "https://orsozoxi.net/archives/category/trueaya/feed");
+                intent.putExtra("url", "https://services.invalid/unconfigured");
                 gawhara_options.this.startActivity(intent);
             }
         });

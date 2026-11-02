@@ -1,7 +1,7 @@
 package com.ibm.icu.impl;
 
 import com.ibm.icu.impl.Trie2;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Iterator;
 
 /* loaded from: classes2.dex */

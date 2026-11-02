@@ -4,7 +4,7 @@ import android.os.Build;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowInsetsController;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes.dex */
 public final class WindowCompat {

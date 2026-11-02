@@ -1,6 +1,6 @@
 package org.apache.poi.ddf;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.HashMap;
 import java.util.Map;
 

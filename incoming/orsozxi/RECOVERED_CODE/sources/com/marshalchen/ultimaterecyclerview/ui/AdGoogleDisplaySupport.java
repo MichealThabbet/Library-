@@ -5,7 +5,7 @@ import android.util.DisplayMetrics;
 import android.view.ViewGroup;
 import android.widget.RelativeLayout;
 import androidx.core.view.ViewCompat;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes2.dex */
 public class AdGoogleDisplaySupport {

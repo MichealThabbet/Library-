@@ -1,6 +1,6 @@
 package okhttp3.internal.http;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.EOFException;
 import java.util.ArrayList;
 import java.util.Arrays;

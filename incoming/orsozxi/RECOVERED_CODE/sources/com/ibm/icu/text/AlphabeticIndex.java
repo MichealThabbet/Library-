@@ -6,7 +6,7 @@ import com.ibm.icu.lang.UCharacter;
 import com.ibm.icu.text.UTF16;
 import com.ibm.icu.util.LocaleData;
 import com.ibm.icu.util.ULocale;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;

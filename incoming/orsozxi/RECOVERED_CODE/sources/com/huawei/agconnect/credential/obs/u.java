@@ -4,7 +4,7 @@ import android.text.TextUtils;
 import com.huawei.agconnect.common.api.BackendService;
 import com.huawei.agconnect.common.api.Logger;
 import com.huawei.agconnect.credential.Server;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.net.UnknownHostException;
 import java.util.Collections;

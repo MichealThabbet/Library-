@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.usermodel;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;

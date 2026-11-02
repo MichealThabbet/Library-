@@ -3,7 +3,7 @@ package androidx.core.util;
 import android.util.SparseIntArray;
 import com.facebook.internal.NativeProtocol;
 import com.google.android.gms.analytics.ecommerce.ProductAction;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import kotlin.Metadata;
 import kotlin.Unit;
 import kotlin.collections.IntIterator;

@@ -6,7 +6,7 @@ import androidx.constraintlayout.solver.widgets.ConstraintWidgetContainer;
 import androidx.constraintlayout.solver.widgets.Guideline;
 import androidx.constraintlayout.solver.widgets.HelperWidget;
 import androidx.constraintlayout.solver.widgets.analyzer.BasicMeasure;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;

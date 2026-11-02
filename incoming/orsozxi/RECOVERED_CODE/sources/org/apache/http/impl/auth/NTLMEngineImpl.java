@@ -1,6 +1,6 @@
 package org.apache.http.impl.auth;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.nio.charset.Charset;
 import java.security.InvalidKeyException;
 import java.security.Key;

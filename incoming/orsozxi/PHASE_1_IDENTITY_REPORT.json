@@ -1,0 +1,24 @@
+{
+  "phase": 1,
+  "scope": "Application identity cleanup; local working tree only",
+  "status": "completed",
+  "images_scanned": 1389,
+  "unique_image_ocr_runs": 1332,
+  "ocr_errors": 0,
+  "additional_branded_images_replaced": [
+    "RECOVERED_CODE/resources/res/drawable-xhdpi/kyama_eid.jpg",
+    "RECOVERED_CODE/resources/res/drawable-xhdpi/alam_eid.jpg",
+    "RECOVERED_CODE/resources/res/drawable-xhdpi/thumb_m.jpg",
+    "RECOVERED_CODE/resources/res/drawable-xhdpi/thumb.jpg",
+    "RECOVERED_CODE/resources/res/drawable-xhdpi/nav_thumb.jpg"
+  ],
+  "remaining_ocr_flags": "Two icon false positives consisting only of @; no retained old-product identity candidates.",
+  "dex_files_normalized": 3,
+  "dex_disassemblies_regenerated": 3,
+  "third_party_metadata_exceptions": [],
+  "exceptions_description": "The 65 previously reported notice-bearing files have now been cleaned and verified; see PHASE_1_FINAL_CHECK.json.",
+  "verification_limits": "OCR and pattern matching are not a mathematical guarantee against every visual mark or personal name.",
+  "built_app": false,
+  "uploaded": false,
+  "git_history_modified": false
+}

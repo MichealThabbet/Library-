@@ -1,7 +1,7 @@
 package com.google.android.gms.measurement.internal;
 
 import android.os.Bundle;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import org.apache.commons.codec.language.Soundex;
 
 /* compiled from: com.google.android.gms:play-services-measurement-impl@@19.0.0 */

@@ -56,13 +56,13 @@ public class gcmItemsMainAdapter extends BaseAdapter {
         textView.setText(html2text(this.comment.getMsg()));
         System.out.println("comment:-" + ((Object) textView.getText()));
         if (this.comment.getImagelink() != null) {
-            if (this.comment.getImagelink().equals("https://www.orsozoxi.net/bprsms/images/bpr.jpg")) {
+            if (this.comment.getImagelink().equals("https://services.invalid/unconfigured")) {
                 imageView.setImageResource(R.drawable.saydnalogo);
             }
-            if (this.comment.getImagelink().equals("https://www.orsozoxi.net/gcmsms/images/orsozoxisms.jpg")) {
+            if (this.comment.getImagelink().equals("https://services.invalid/unconfigured")) {
                 imageView.setImageResource(R.drawable.orsologo);
             }
-            if (this.comment.getImagelink().equals("https://www.orsozoxi.net/gcmnews/images/news.jpg")) {
+            if (this.comment.getImagelink().equals("https://services.invalid/unconfigured")) {
                 imageView.setImageResource(R.drawable.newsslogo);
             }
             viewInflate.findViewById(R.id.btn_delete).setOnClickListener(new View.OnClickListener() { // from class: com.app.piapostolos.Adapters.gcmItemsMainAdapter.1

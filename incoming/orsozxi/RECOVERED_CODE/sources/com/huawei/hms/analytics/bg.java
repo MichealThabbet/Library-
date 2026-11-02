@@ -4,7 +4,7 @@ import android.database.Cursor;
 import android.database.SQLException;
 import android.text.TextUtils;
 import com.huawei.hms.analytics.core.log.HiLog;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;

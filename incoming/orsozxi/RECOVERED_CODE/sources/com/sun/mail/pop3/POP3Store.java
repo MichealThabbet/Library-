@@ -4,7 +4,7 @@ import com.sun.mail.util.MailConnectException;
 import com.sun.mail.util.MailLogger;
 import com.sun.mail.util.PropUtil;
 import com.sun.mail.util.SocketConnectException;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.EOFException;
 import java.io.File;
 import java.io.IOException;

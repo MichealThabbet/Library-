@@ -15,7 +15,7 @@ import android.view.View;
 import android.view.ViewConfiguration;
 import androidx.core.view.ViewCompat;
 import com.google.android.material.R;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;

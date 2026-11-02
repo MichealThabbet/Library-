@@ -1,6 +1,6 @@
 package org.apache.poi.ss.format;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.text.AttributedCharacterIterator;
 import java.text.DateFormat;
 import java.text.SimpleDateFormat;

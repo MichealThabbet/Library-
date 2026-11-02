@@ -22,7 +22,7 @@ import com.sun.mail.util.ASCIIUtility;
 import com.sun.mail.util.BASE64EncoderStream;
 import com.sun.mail.util.MailLogger;
 import com.sun.mail.util.PropUtil;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.ByteArrayOutputStream;
 import java.io.IOException;
 import java.io.InputStream;

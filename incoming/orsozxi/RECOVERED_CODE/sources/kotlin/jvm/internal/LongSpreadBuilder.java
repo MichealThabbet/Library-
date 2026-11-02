@@ -1,7 +1,7 @@
 package kotlin.jvm.internal;
 
 import com.google.android.gms.analytics.ecommerce.ProductAction;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import kotlin.Metadata;
 
 /* compiled from: PrimitiveSpreadBuilders.kt */

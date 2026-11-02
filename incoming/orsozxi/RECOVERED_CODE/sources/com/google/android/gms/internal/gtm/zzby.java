@@ -1,7 +1,7 @@
 package com.google.android.gms.internal.gtm;
 
 import com.nostra13.universalimageloader.core.download.BaseImageDownloader;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes.dex */
 public final class zzby {

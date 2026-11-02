@@ -56,7 +56,7 @@ public class FullscreenDemoActivity extends YouTubeFailureRecoveryActivity imple
         Intent intent = new Intent("android.intent.action.SEND");
         intent.setType(HTTP.PLAIN_TEXT_TYPE);
         intent.putExtra("android.intent.extra.SUBJECT", PiApostolos.getSelectedPlaylistItem().getSnippet().getChannelTitle());
-        intent.putExtra("android.intent.extra.TEXT", PiApostolos.getSelectedPlaylistItem().getSnippet().getDescription() + "\nwww.youtube.com/watch?v=" + PiApostolos.getSelectedPlaylistItem().getSnippet().getResourceId().getVideoId() + "\nتم ارسال الرسالة من تطبيق PI APOSTOLOS\nhttps://www.orsozoxi.net/");
+        intent.putExtra("android.intent.extra.TEXT", PiApostolos.getSelectedPlaylistItem().getSnippet().getDescription() + "\nwww.youtube.com/watch?v=" + PiApostolos.getSelectedPlaylistItem().getSnippet().getResourceId().getVideoId() + "\nتم ارسال الرسالة من تطبيق PI APOSTOLOS\nhttps://services.invalid/unconfigured");
         try {
             startActivity(Intent.createChooser(intent, "تطبيق PI APOSTOLOS"));
         } catch (Exception unused) {

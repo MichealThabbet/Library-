@@ -6,7 +6,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import com.facebook.internal.NativeProtocol;
 import com.google.android.gms.analytics.ecommerce.Promotion;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import kotlin.Metadata;
 import kotlin.TypeCastException;
 import kotlin.Unit;

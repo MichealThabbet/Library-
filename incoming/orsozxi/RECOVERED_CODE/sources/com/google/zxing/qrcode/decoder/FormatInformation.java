@@ -1,6 +1,6 @@
 package com.google.zxing.qrcode.decoder;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes2.dex */
 final class FormatInformation {

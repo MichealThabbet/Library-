@@ -33,7 +33,7 @@ import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.functions.Consumer;
 import io.reactivex.functions.Function;
 import io.reactivex.schedulers.Schedulers;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
@@ -48,10 +48,10 @@ import org.jsoup.nodes.Document;
 
 /* loaded from: classes.dex */
 public class SongService extends Service implements AudioManager.OnAudioFocusChangeListener {
-    public static final String NOTIFY_DELETE = "com.orsozoxi.audioplayer.delete";
-    public static final String NOTIFY_OPEN_APP = "com.orsozoxi.audioplayer.openapp";
-    public static final String NOTIFY_PAUSE = "com.orsozoxi.audioplayer.pause";
-    public static final String NOTIFY_PLAY = "com.orsozoxi.audioplayer.play";
+    public static final String NOTIFY_DELETE = "com.piapostolos.audioplayer.delete";
+    public static final String NOTIFY_OPEN_APP = "com.piapostolos.audioplayer.openapp";
+    public static final String NOTIFY_PAUSE = "com.piapostolos.audioplayer.pause";
+    public static final String NOTIFY_PLAY = "com.piapostolos.audioplayer.play";
     private static boolean currentVersionSupportBigNotification = false;
     private static boolean currentVersionSupportLockScreenControls = false;
     private static Timer timer;

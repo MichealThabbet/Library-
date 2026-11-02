@@ -9,7 +9,7 @@ import com.huawei.hms.opendevice.i;
 import com.huawei.hms.opendevice.n;
 import com.huawei.hms.opendevice.p;
 import com.huawei.hms.support.log.HMSLog;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.IOException;
 import java.util.Map;
 

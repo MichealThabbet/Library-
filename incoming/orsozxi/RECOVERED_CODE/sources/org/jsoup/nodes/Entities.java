@@ -1,6 +1,6 @@
 package org.jsoup.nodes;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.IOException;
 import java.nio.charset.CharsetEncoder;
 import java.util.Arrays;

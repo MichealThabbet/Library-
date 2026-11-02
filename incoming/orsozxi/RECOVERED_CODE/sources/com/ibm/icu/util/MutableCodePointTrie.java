@@ -3,7 +3,7 @@ package com.ibm.icu.util;
 import com.ibm.icu.text.DictionaryData;
 import com.ibm.icu.util.CodePointMap;
 import com.ibm.icu.util.CodePointTrie;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Arrays;
 
 /* loaded from: classes2.dex */

@@ -7,7 +7,7 @@ import com.huawei.hms.support.log.HMSLog;
 import com.huawei.hms.support.log.common.Base64;
 import com.huawei.hms.utils.IOUtils;
 import com.huawei.secure.android.common.ssl.util.j;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.io.InputStream;

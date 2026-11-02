@@ -2,7 +2,7 @@ package kotlin.text;
 
 import com.google.firebase.analytics.FirebaseAnalytics;
 import com.pnikosis.materialishprogress.BuildConfig;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.nio.ByteBuffer;
 import java.nio.CharBuffer;
 import java.nio.charset.CharacterCodingException;

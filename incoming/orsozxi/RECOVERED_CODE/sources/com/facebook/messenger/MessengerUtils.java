@@ -12,7 +12,7 @@ import bolts.AppLinks;
 import com.facebook.FacebookSdk;
 import com.facebook.internal.FacebookSignatureValidator;
 import com.facebook.messenger.MessengerThreadParams;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.HashSet;

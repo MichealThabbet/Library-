@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.model;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.List;
 import org.apache.poi.hssf.record.DimensionsRecord;
 import org.apache.poi.hssf.record.EOFRecord;

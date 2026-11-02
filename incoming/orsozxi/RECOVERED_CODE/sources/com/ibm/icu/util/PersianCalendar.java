@@ -2,7 +2,7 @@ package com.ibm.icu.util;
 
 import com.google.android.gms.common.util.GmsVersion;
 import com.ibm.icu.util.ULocale;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Date;
 import java.util.Locale;
 

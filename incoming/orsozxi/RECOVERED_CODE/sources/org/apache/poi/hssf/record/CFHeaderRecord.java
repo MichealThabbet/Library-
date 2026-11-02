@@ -1,7 +1,7 @@
 package org.apache.poi.hssf.record;
 
-import it.orsozoxi.android.orsonotes.R2;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.R2;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import org.apache.poi.hssf.record.cf.CellRangeUtil;
 import org.apache.poi.ss.util.CellRangeAddress;
 import org.apache.poi.ss.util.CellRangeAddressList;

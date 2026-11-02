@@ -6911,11 +6911,11 @@ public final class R {
         public static final int ONSublimePickerStyle = 0x7f120120;
         public static final int OmniNotesFullscreenTheme = 0x7f120121;
         public static final int OmniNotesFullscreenTheme_ApiSpec = 0x7f120122;
-        public static final int OrsoNotesTheme = 0x7f120123;
-        public static final int OrsoNotesTheme_ApiSpec = 0x7f120124;
-        public static final int OrsoNotesTheme_ApiSpec_Branded = 0x7f120125;
-        public static final int OrsoNotesTheme_ApiSpec_Dialog = 0x7f120126;
-        public static final int OrsoNotesTheme_NoDisplay = 0x7f120127;
+        public static final int PiNotesTheme = 0x7f120123;
+        public static final int PiNotesTheme_ApiSpec = 0x7f120124;
+        public static final int PiNotesTheme_ApiSpec_Branded = 0x7f120125;
+        public static final int PiNotesTheme_ApiSpec_Dialog = 0x7f120126;
+        public static final int PiNotesTheme_NoDisplay = 0x7f120127;
         public static final int Platform_AppCompat = 0x7f120128;
         public static final int Platform_AppCompat_Light = 0x7f120129;
         public static final int Platform_MaterialComponents = 0x7f12012a;

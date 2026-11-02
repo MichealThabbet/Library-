@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.record.formula.eval;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import org.apache.poi.hssf.record.formula.function.FunctionMetadata;
 import org.apache.poi.hssf.record.formula.function.FunctionMetadataRegistry;
 import org.apache.poi.hssf.record.formula.functions.AggregateFunction;

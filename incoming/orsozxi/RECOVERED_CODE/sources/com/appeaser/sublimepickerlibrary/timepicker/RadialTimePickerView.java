@@ -31,7 +31,7 @@ import androidx.customview.widget.ExploreByTouchHelper;
 import com.appeaser.sublimepickerlibrary.R;
 import com.appeaser.sublimepickerlibrary.utilities.SUtils;
 import com.google.android.material.timepicker.TimeModel;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.lang.reflect.Array;
 import java.util.ArrayList;
 import java.util.Calendar;

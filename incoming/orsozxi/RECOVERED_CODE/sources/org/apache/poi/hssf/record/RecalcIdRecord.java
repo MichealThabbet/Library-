@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.record;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import org.apache.poi.util.HexDump;
 import org.apache.poi.util.LittleEndianOutput;
 

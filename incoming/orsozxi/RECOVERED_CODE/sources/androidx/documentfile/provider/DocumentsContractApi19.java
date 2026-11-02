@@ -6,7 +6,7 @@ import android.net.Uri;
 import android.provider.DocumentsContract;
 import android.text.TextUtils;
 import android.util.Log;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 
 /* loaded from: classes.dex */
 class DocumentsContractApi19 {

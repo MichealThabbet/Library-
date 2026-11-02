@@ -54,7 +54,7 @@ import androidx.recyclerview.widget.GapWorker;
 import androidx.recyclerview.widget.RecyclerViewAccessibilityDelegate;
 import androidx.recyclerview.widget.ViewBoundsCheck;
 import androidx.recyclerview.widget.ViewInfoStore;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 import java.lang.ref.WeakReference;

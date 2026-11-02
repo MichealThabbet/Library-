@@ -6,7 +6,7 @@ import androidx.core.content.ContextCompat;
 import com.google.android.material.R;
 import com.google.android.material.timepicker.ClockHandView;
 import com.google.android.material.timepicker.TimePickerView;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import net.fortuna.ical4j.model.property.RequestStatus;
 
 /* loaded from: classes2.dex */

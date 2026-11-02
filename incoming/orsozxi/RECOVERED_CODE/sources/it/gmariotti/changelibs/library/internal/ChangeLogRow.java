@@ -2,7 +2,7 @@ package it.gmariotti.changelibs.library.internal;
 
 import android.content.Context;
 import it.gmariotti.changelibs.R;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 
 /* loaded from: classes2.dex */
 public class ChangeLogRow {

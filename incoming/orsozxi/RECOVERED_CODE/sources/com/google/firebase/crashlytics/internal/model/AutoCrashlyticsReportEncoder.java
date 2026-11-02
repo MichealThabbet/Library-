@@ -9,7 +9,7 @@ import com.google.firebase.encoders.ObjectEncoderContext;
 import com.google.firebase.encoders.config.Configurator;
 import com.google.firebase.encoders.config.EncoderConfig;
 import com.sun.mail.imap.IMAPStore;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.io.IOException;
 import wseemann.media.FFmpegMediaMetadataRetriever;
 

@@ -1,6 +1,6 @@
 package com.sun.mail.util;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

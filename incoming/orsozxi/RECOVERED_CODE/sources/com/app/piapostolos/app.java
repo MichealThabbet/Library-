@@ -40,7 +40,7 @@ public class app {
     private static final int IV_SIZE = 16;
     private static final int KEY_SIZE = 32;
     public static final int LISTEN = 6;
-    public static final String PREFS_NAME = "RadioOrsozoxi";
+    public static final String PREFS_NAME = "RadioPiApostolos";
     public static final int SEARCH = 7;
     public static final int SHARE = 3;
     public static final int SHARE_BIBLE = 1;

@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.model;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import org.apache.poi.ddf.EscherBoolProperty;
 import org.apache.poi.ddf.EscherClientAnchorRecord;
 import org.apache.poi.ddf.EscherClientDataRecord;

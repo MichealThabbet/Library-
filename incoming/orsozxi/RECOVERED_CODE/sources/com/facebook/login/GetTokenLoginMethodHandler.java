@@ -10,7 +10,7 @@ import com.facebook.internal.NativeProtocol;
 import com.facebook.internal.PlatformServiceClient;
 import com.facebook.internal.Utility;
 import com.facebook.login.LoginClient;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;

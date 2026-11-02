@@ -13,7 +13,7 @@ import com.sun.mail.util.SocketConnectException;
 import com.sun.mail.util.SocketFetcher;
 import com.sun.mail.util.TraceInputStream;
 import com.sun.mail.util.TraceOutputStream;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.BufferedInputStream;
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;

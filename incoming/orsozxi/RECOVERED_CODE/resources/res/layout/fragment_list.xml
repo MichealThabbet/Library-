@@ -4,7 +4,7 @@
     android:layout_height="match_parent"
     android:layout_marginLeft="@dimen/activity_additional_margin"
     android:layout_marginRight="@dimen/activity_additional_margin">
-    <it.orsozoxi.android.orsonotes.models.views.InterceptorLinearLayout
+    <it.piapostolos.android.pinotes.models.views.InterceptorLinearLayout
         android:orientation="vertical"
         android:id="@+id/list_root"
         android:layout_width="match_parent"
@@ -81,7 +81,7 @@
                 wheel:matProg_barColor="@color/colorPrimary"
                 wheel:matProg_progressIndeterminate="true"/>
         </FrameLayout>
-    </it.orsozoxi.android.orsonotes.models.views.InterceptorLinearLayout>
+    </it.piapostolos.android.pinotes.models.views.InterceptorLinearLayout>
     <include
         android:id="@+id/undobar"
         layout="@layout/undobar"/>

@@ -67,14 +67,14 @@ public class Messages extends BaseActivity {
         final ArrayList arrayList3 = new ArrayList();
         for (int size = arrayList.size() - 1; size >= 0; size--) {
             if (intExtra == 0) {
-                if (((gcm_msgs) arrayList.get(size)).getImagelink().equals("https://www.orsozoxi.net/bprsms/images/bpr.jpg")) {
+                if (((gcm_msgs) arrayList.get(size)).getImagelink().equals("https://services.invalid/unconfigured")) {
                     arrayList3.add((gcm_msgs) arrayList.get(size));
                 }
             } else if (intExtra == 1) {
-                if (((gcm_msgs) arrayList.get(size)).getImagelink().equals("https://www.orsozoxi.net/gcmsms/images/orsozoxisms.jpg")) {
+                if (((gcm_msgs) arrayList.get(size)).getImagelink().equals("https://services.invalid/unconfigured")) {
                     arrayList3.add((gcm_msgs) arrayList.get(size));
                 }
-            } else if (intExtra == 2 && ((gcm_msgs) arrayList.get(size)).getImagelink().equals("https://www.orsozoxi.net/gcmnews/images/news.jpg")) {
+            } else if (intExtra == 2 && ((gcm_msgs) arrayList.get(size)).getImagelink().equals("https://services.invalid/unconfigured")) {
                 arrayList3.add((gcm_msgs) arrayList.get(size));
             }
         }

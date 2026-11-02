@@ -1,6 +1,6 @@
 package org.apache.http.impl.cookie;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.BitSet;
 import java.util.Calendar;
 import java.util.Locale;

@@ -1,0 +1,400 @@
+{
+  "files_checked": 65,
+  "files_cleaned": 65,
+  "target_notice_matches_remaining": 0,
+  "files": [
+    {
+      "file": "RECOVERED_CODE/resources/META-INF/gfprobe-provider.xml",
+      "changed": true,
+      "before_sha256": "489893f8ed82fdb0dbc29dccc3ce698b2ef68bf4a9cdf8d1392452d7106b44ef",
+      "after_sha256": "2b4c7d694c02d287ba84f809f9896e3609d9d26dd52e5ebc479a2bb1cd18ac66"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/ICUConfig.properties",
+      "changed": true,
+      "before_sha256": "368083f9122c2533e171c37b72d4eb1b32d78134ede684ebc44a5136acdb0a9c",
+      "after_sha256": "30380cfbe90bd937ee58cebe7acc4ea121f2e1df7c0b37fa80d4f3e3094b2609"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/confusables.cfu",
+      "changed": true,
+      "before_sha256": "df3a630e89f5e377c7fa3a69ba6995f7cc3782498232d3f1276680e4b2c8d15e",
+      "after_sha256": "7f127cbf3209e2b641fcc21e9f77cfaf4a34a7884654c0c04382fc10227b2bc2"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/thaidict.dict",
+      "changed": true,
+      "before_sha256": "f1231ddbbcb1d73ca1bb5dc6e84b2d6066c4f0b976d8f194daae7cb43d5a90ed",
+      "after_sha256": "f804fd075343c657e1e18d68ac02aeee31fb25b806b51d4230da24db74564244"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/burmesedict.dict",
+      "changed": true,
+      "before_sha256": "85af51ca28526b1f785fe0fe09a8ba63033145036e377e2a6e53ff742a48770c",
+      "after_sha256": "9b8aeb87cf121056bc918707e62a5fa238a135f54fe17eb5a45b6e69dd63e3dc"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/title.brk",
+      "changed": true,
+      "before_sha256": "1a8591c340999dcc8192ea69895a13c985122e0f2e9895bab9e6dbb1b187eab6",
+      "after_sha256": "0b55526b7cd5d427f04e322780c43af0b970292ae184a6a521a297d644cfd818"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/line_loose_cj.brk",
+      "changed": true,
+      "before_sha256": "d012d74a7820ee54f849b7774094be96ec804a5f77309921e9bf10d5d775105c",
+      "after_sha256": "7a79c1540945edadad1e740a938f690aacc8f0abf7a195eb12dd97a47ca03b44"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/line_normal.brk",
+      "changed": true,
+      "before_sha256": "c3e1a91151094fb8f9643f94b6059f898451df07a66c2db9cf595e02866f8954",
+      "after_sha256": "994066b45dd548eb1ae6564d50b6692ea7a8eb60d50e5d30686f75ca28d4adf5"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/line_cj.brk",
+      "changed": true,
+      "before_sha256": "5fcedcaa63d8e16dcd266c7862a64e88c4a17867b4c9899c81fb0cd15877e1f1",
+      "after_sha256": "5cb1e9ee78f2145dd56d2532a4511ffa3b6ca39d5414dc1163f9028716269ecb"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/word_POSIX.brk",
+      "changed": true,
+      "before_sha256": "897dc85e97ab02f62279aac641045c6788792f9e8d339c86560f6f842845a06f",
+      "after_sha256": "703b950a0a918fe751a3480cea8e0ce7bb195a27cf8df5d1efaa707cfbea237c"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/word.brk",
+      "changed": true,
+      "before_sha256": "c34ad7222be5bc5a4cd855ae1a33b4aae06e0ec32cc7c66d64f73034815ebf78",
+      "after_sha256": "e0971117c4f293824967b982cd70ad622dec469fdd86f4cd81ce74a5ae0306a0"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/sent.brk",
+      "changed": true,
+      "before_sha256": "05db2cad8f18bf5dfbe1a986c1c22f8cb09dc516827df54570df099b85cc626b",
+      "after_sha256": "05844f2f2b3146be996b4e071e2ef6be00842fdcf8167e213cc11e00adc5194e"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/line_loose.brk",
+      "changed": true,
+      "before_sha256": "788d2756a23c639f965a244b1d9d0a9350705d5332e449b4d14ee46046fbe617",
+      "after_sha256": "6afa918d77d1a1b69650efd1f60b2b0d4e4018f7369e9df91f3464c934a96da0"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/khmerdict.dict",
+      "changed": true,
+      "before_sha256": "591cfdffc0ecea7873a31e980c8731d629cc5e3fc94f6ce1b2b20f135f4daad8",
+      "after_sha256": "e09dd8170b46be78825ff31ff28f7f7690515d0761048bcf6d0568b87b51330b"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/laodict.dict",
+      "changed": true,
+      "before_sha256": "be86f976837d201343b4f26b79fcbc359d056a1a90d252fe528340cf3c1a9afe",
+      "after_sha256": "d07b68deef4481f90fae82216d8053ab2ce33421cda95cbba91620a28605d974"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/char.brk",
+      "changed": true,
+      "before_sha256": "ff91d6a3a8c6bdce76899b7a789acda4ac0cee02077428257302a48af4e629ab",
+      "after_sha256": "7aa0c7e1da49f946437e466dd1e79b6f069ef6d5bfa0533f716f312ff938ee10"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/line_normal_cj.brk",
+      "changed": true,
+      "before_sha256": "dd62257f2fd5a552fce5b749288c6791036fc5536b32582c0708c318502afcd8",
+      "after_sha256": "304d58440603235c1fbe4b43c94e77c83f1a8424e0c6cf0810db88e1c677a865"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/line.brk",
+      "changed": true,
+      "before_sha256": "ea9b26b9dadf6dcbcea0e10f2996c0663d410805795a75fe913c3691cf84c7ba",
+      "after_sha256": "6ea2a5d9a9e3d7a6313b84d3600177420d456628579a0e5c5f5a22063bd66da4"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/sent_el.brk",
+      "changed": true,
+      "before_sha256": "a0044291eaf2dc7e87ae0be22bcb48870c0f3ece438b8291e3b78c03a09f8fd3",
+      "after_sha256": "9e39f2af7373bfe129eef9b3951b08c8489a0e7859c4aff064d649fd70888751"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/data/icudt69b/brkitr/cjdict.dict",
+      "changed": true,
+      "before_sha256": "202dcc77134d93be1d70f4d5c901257ea57a7c01dbdc1c379027dc25fd995305",
+      "after_sha256": "2c0c5f952354da11438806924ccbd01607d9812af6c1d596b637ca2d66626d87"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_es.xml",
+      "changed": true,
+      "before_sha256": "f827ea882d1799e3afe401a98e593c147dd0525cf48d5919a934cb2dc20df7a9",
+      "after_sha256": "9033c5d15dfe33ea341c5dad9d3860eb7a2ebf63f274b9b3aa70a1232e344a7e"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_zh_Hans.xml",
+      "changed": true,
+      "before_sha256": "445479c209d4a5b81744ea8ca1475fa8782b3a7b21cb64a8dd1a329ddce4b099",
+      "after_sha256": "915576ebc2dc5dd3de62c5d728d12a83db541051e7be9af4035629f63109b9e2"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/index.txt",
+      "changed": true,
+      "before_sha256": "5368062773ee777d9d550a215f7e7cd3143ce56d38c72b34baeac127af72b8a7",
+      "after_sha256": "ae6ec4f2c1c5b526de09ee6d8a4628abe351a4d2239431401dc57f42f6b64b69"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_ja.xml",
+      "changed": true,
+      "before_sha256": "636ef96c09426fb8d71b023f6b060ee19663260c21ab3f628f06d0e32b4613dd",
+      "after_sha256": "66879150d5b64ad35bcec5b3e3b70e1a0664111996631910fe6421d8c4830820"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_zh_Hant.xml",
+      "changed": true,
+      "before_sha256": "0afb8c17561f17368198b16595ecc0dc987fa1c4fef79593dada928e670d026e",
+      "after_sha256": "88a0068ab14f56ad0d9d5769597554ede4db9ebb8893806d4e54dc47a00546dd"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_fr.xml",
+      "changed": true,
+      "before_sha256": "5970eb94c595f58fa260955f8db14d04025758cb789a9f86d686be43cefd03f1",
+      "after_sha256": "3f299e0c4f863dc310d6ea2f328a8f423cd2281b925f041c5bc69867259efe2f"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_hi.xml",
+      "changed": true,
+      "before_sha256": "4a904dc0cd403d2520db7dafc2a43799d73803e1fccf3cda1681c31d1b00b1fe",
+      "after_sha256": "7b913a250466ba6d15dc3e79c440ccf8ec3e15978d8916a694d9ad0971b4f195"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_en.xml",
+      "changed": true,
+      "before_sha256": "95a43579653aed80aa75297c321c7608e450f518f916359679adf2e602d8d1bc",
+      "after_sha256": "9d6e109f9bbfaa6ede074c5e72016be9007ecc1cc3dbd8c1c9d04bd0a8061a9e"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_it.xml",
+      "changed": true,
+      "before_sha256": "bb340524f05d6b5581aa063245500ca50b945ae00b4fe7ff9811e0fbf1187be0",
+      "after_sha256": "113c605e108e25df388854ed2367dd9aa0b36cc4fa0463b212b256e7c00d5099"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_zh_Hant_HK.xml",
+      "changed": true,
+      "before_sha256": "492f649664ca9a60863441fbfd6cf25b36516505f9a279d65bc681338c2ae5e5",
+      "after_sha256": "ce7b7b8dea36399af3ba31bef3bbf66419101ceef311b7d73249eb9668bdd9f9"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_ru.xml",
+      "changed": true,
+      "before_sha256": "d6e25706d8397c27f001c98dbeeb2b7b13b99a3b6e817cc1e9e54f49a758abb3",
+      "after_sha256": "ee5b039c8b7c5361378f26b43706f2b0518e0c0ebbc7d1da0a3a598e87f583b4"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_ko.xml",
+      "changed": true,
+      "before_sha256": "723559e43cdb7bf7c426c19f77608cde5a85ff88f667520089c72f762485bb0b",
+      "after_sha256": "6c0dd6f624d9d1a8acd6b9e6b8e0395d507f1152f87425e0c9776044c40693b5"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_ar_EG.xml.escaped",
+      "changed": true,
+      "before_sha256": "62169470876004f32b27a304f2336e1039df583914ba6b2e9cd5b8828efa09ef",
+      "after_sha256": "2235c706b4b627f383b6179aa339862892d5232dcc33f2890616f008d4b53a20"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_ar_EG.xml",
+      "changed": true,
+      "before_sha256": "b04b6a6e01dcb14d3c167fecf724f5c4987bdb65231fc628d66f0ee8e8306b25",
+      "after_sha256": "a93a63965e10fe5af3270569b702388601927878fb516b023da269384c553991"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_th.xml",
+      "changed": true,
+      "before_sha256": "10eeea186b19894f83a2581069c401db2f902add59dad4565c54e6bf6ce9b91b",
+      "after_sha256": "4e7d5a4ce87d68bcd22ef83d240917f71064c6e2ec1a91dab90437f08b91ec44"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_he_IL.xml",
+      "changed": true,
+      "before_sha256": "f23bf169717c19690baef93cf5be4c6d91e1945f55c64e857898afaea1fd8908",
+      "after_sha256": "1095899c1ce7d4165a392b06c10f2b3738eee08d964a9435b9757b5333d2cb2b"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/com/ibm/icu/impl/duration/impl/data/pfd_zh_Hans_SG.xml",
+      "changed": true,
+      "before_sha256": "f56c3d80415be3d6d0ebcb1822f3365261b44ae87ac6e59f00082c1441bcf029",
+      "after_sha256": "e77b9ecbb88d6178e0f2f77d28b61cbebf03902f35fc8c5caed3b3f30bcec4c0"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-xhdpi/agy_banner_nom.jpg",
+      "changed": true,
+      "before_sha256": "c5f1bda9b3d6f582a6e78952628415170c995c1bec45ffb74ac591430620d8bc",
+      "after_sha256": "212ebb79b009c4580db0fcd01feb7608189e58ae1e921c93810f4201be7e4095"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-xhdpi/agpya_banner.jpg",
+      "changed": true,
+      "before_sha256": "70c7d0cecbe475cf46389effd00cb4463850d28bd691e48742ee71096782adad",
+      "after_sha256": "8232534d21fdb9a1061c30cee0f08e06033ac7fe6ad951dc3fbb9f290257234b"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-xhdpi/agy_banner_6.jpg",
+      "changed": true,
+      "before_sha256": "5a446dca8f84fb3fc3e6ccca71d4c725c6cc419c34e61b7779ed86ff2b31b4a6",
+      "after_sha256": "bdae20ac8721803bf913e8e75d35f77a2e86d5103deec13a120281fff4fb3169"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-xhdpi/agy_banner_9.jpg",
+      "changed": true,
+      "before_sha256": "23a2da2124717d019f2fa48de4fc0cb7d0a40359480441e11b17a5bb0a473e49",
+      "after_sha256": "fe3fddfea1cd8a8be43cc5387ced7f1788edf991205ba550d43af406a2b31f25"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-xhdpi/ic_kiahk.jpg",
+      "changed": true,
+      "before_sha256": "1847132ec023ceb816c77248d8c15c5ff71a9c572ad69b724566fb96886a3179",
+      "after_sha256": "df4745592bf7a349e945a05efa406f00d29334ac397a02074b3fca43286cc8ba"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-xhdpi/ic_sanwya.jpg",
+      "changed": true,
+      "before_sha256": "93def9bf124251aa097cb50f4f411d4c916db02d393d0435ea503a9099adce52",
+      "after_sha256": "c519cb59d388822489586a1c7425e5d3a4fce3a6eb76b2c4767a32b7ff757837"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-xhdpi/agy_banner_3.jpg",
+      "changed": true,
+      "before_sha256": "39ac40dc6824bd9f87278040fd931e40cdc6cd1d4a7d4bb7d554d23a1e0570f4",
+      "after_sha256": "217dbc27f4b4d774bd2bcfe8af1221ec022ad27abe01906a10234a039d46dea0"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-xhdpi/agy_banner_grob.jpg",
+      "changed": true,
+      "before_sha256": "6ffd6b54ae5f604fd9d11d0a52a42e271a51340f5770995709cf27a8af19893d",
+      "after_sha256": "db77f1180d60e1d43826e790299cbcdd1ae36226a016b86db735a4ee66141320"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-xhdpi/agy_banner_baker.jpg",
+      "changed": true,
+      "before_sha256": "ee36f5116076204e5f35a5617b5386eca2d6bf8cac4d42267eb51b0a85940d57",
+      "after_sha256": "985e17f0735a984787654a50271c1dca320f43696ddddcc6d64fe7df74888637"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card18.jpg",
+      "changed": true,
+      "before_sha256": "8f2850ff8c5e63a8dbf6161c720543248435e2faa971f19028547057bc25707f",
+      "after_sha256": "71569dd8fbae262886aaba2bba0d89d7f71542567885def2cfd63eda379f40aa"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card17.jpg",
+      "changed": true,
+      "before_sha256": "3373d62b780a511b9db5a50b38fc700906bdb249048ad9eead8c406de994f939",
+      "after_sha256": "e8bc1656ade194f7c7381625d63a19799dd73b6be3160b438274d992fdea7a88"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card19.jpg",
+      "changed": true,
+      "before_sha256": "f14d67e0bfdd82ffcc839e3c774d617b2aafa4ac1afce935858351f5e617e0e3",
+      "after_sha256": "cca23c8ce7026181915cb37aba165190e76bf9b1ca905efcdea7fd5514dd1d20"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card15.jpg",
+      "changed": true,
+      "before_sha256": "793a99f2f5336df841e930dd305fefceab22218d41f3d98d7b4d22f7f5538e0d",
+      "after_sha256": "315be2ad59d971a817c42f79645fe681bb3812f66017eeadf01ea19c7e117885"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card1.jpg",
+      "changed": true,
+      "before_sha256": "351f2bc1b1a8837228081f7400a1027cee82a2491ea19bd63f78e69f72339362",
+      "after_sha256": "12d76cc0169a1d1e9642724a8b5c56e4e85b44d858884fe0b251b50b768bf440"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card4.jpg",
+      "changed": true,
+      "before_sha256": "bc34a0ae6bc9a63921283ba7a5702ad84f0b8ded4981ef10d08dc188dce56268",
+      "after_sha256": "faa58a7d341ba4d0f75aac7b8ba5289e8ad8e32cba7e6207af46a2f763a32e0e"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card7.jpg",
+      "changed": true,
+      "before_sha256": "8a1ae0ed1e624272b734d3ba0b664f3fc6ebafb19c316092b8ec2732a3b1bb08",
+      "after_sha256": "48313f2158d90e03a68048a60487d31f1b43325f991e087f0e94ffe8d690387e"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card3.jpg",
+      "changed": true,
+      "before_sha256": "de19bd47aa8e76cb06f02a455bdeffa3220539016c448a315c10ce431f287e2a",
+      "after_sha256": "8e00569d9055032e7f048615d6deafbc777e8c7ef10d09f82e135cad1c12a920"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card11.jpg",
+      "changed": true,
+      "before_sha256": "c8e0d6c3c0e79396952703d7d6a8c5c7c60eac5144f73ba3db3fe5c3b1d7b6e6",
+      "after_sha256": "ee412a64295e32a9be68b5eb98e70b8db8947ba76cf5712536d4f014e81e9e39"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card13.jpg",
+      "changed": true,
+      "before_sha256": "6c247745ffe0a2f95d09dc59b5ec0c3aee36c53b96352272b1ba6debaea72f3c",
+      "after_sha256": "471b50c0696441548eba4e7d6ed072e6db9ff6cfd11dbacfa41cdfc50d9be8a2"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card14.jpg",
+      "changed": true,
+      "before_sha256": "9f8886ccf185a0efbff1561710117193a1d53d8e4daf87be437e4c77fa62c7d3",
+      "after_sha256": "96b08035c246ed16cb055b1afe2e4c75aeb57b045e1382eb0ea53a22197e0953"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card20.jpg",
+      "changed": true,
+      "before_sha256": "69b400c217d7b3f1d3f17d48da2323e9368cd094ccd9fceb262156e6b0e8f9ce",
+      "after_sha256": "4d0770f77f512e5079e89f5cf8aaabed0bcd416346353f3d85d1a030489b51f3"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card9.jpg",
+      "changed": true,
+      "before_sha256": "a5c103d71629f8cca82a7fff74957258f25cb695e4b6fe0d3da3962141803f2d",
+      "after_sha256": "55d7886d0af3e7b1be71d257042af20ceed9632578cbaf6c6b46fe353852970e"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card8.jpg",
+      "changed": true,
+      "before_sha256": "062588a2efdc4db05e7794d99fa3b932ce17c775d68aa00ad3dc83c8463a15bf",
+      "after_sha256": "a1ea02d08bb817bedddd86bab9d487ae1f065eb769202c59a9f9380669bd387a"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card16.jpg",
+      "changed": true,
+      "before_sha256": "36a7ec8010948eb751690c428f39bc3fc5bb490fe127f285ab7b7b4878fe1831",
+      "after_sha256": "9e40ae2911c322396af60ec95de2a654a687d81aafce374f12f6ebdd99e48b0e"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card2.jpg",
+      "changed": true,
+      "before_sha256": "3a63df4e1d90efd316fdaa877968af3af93e5939c6a4e4c60db63caf5eab88e2",
+      "after_sha256": "bb96409c3df75c951497e9a73ad4f4fba979ea45b00c9f2c4f8187861405b356"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card10.jpg",
+      "changed": true,
+      "before_sha256": "192d66de81bc345464866f2b217834e58f3a2c6c96f625ebc94ce9690d2a28d0",
+      "after_sha256": "c198d43985a7380c4066cd5f9d12d2540bfa2b3b9bb3443f9fd59be6a976547e"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card6.jpg",
+      "changed": true,
+      "before_sha256": "c6bfa6fdde2fdce275f6f60f5afabee1714382998a3a38de895e974055fc12a8",
+      "after_sha256": "c1737dc1ed739bb1ebd435259bd08b53b889f48b8048f0915009d84f597bef3f"
+    },
+    {
+      "file": "RECOVERED_CODE/resources/res/drawable-hdpi/card12.jpg",
+      "changed": true,
+      "before_sha256": "0552ce1c7edd12e83d608b6c238834acd02091ad18ef59a92a358d403ce86118",
+      "after_sha256": "cfd212aa0a03c6d3131731cbb8ba5bbe9f251b17be5a62f99391d786dd5db997"
+    }
+  ],
+  "uploaded": false,
+  "image_pixel_identity_verified": 28,
+  "xml_parse_checks_passed": 16
+}

@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.record.formula.functions;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Calendar;
 import java.util.GregorianCalendar;
 import org.apache.poi.hssf.record.formula.eval.EvaluationException;

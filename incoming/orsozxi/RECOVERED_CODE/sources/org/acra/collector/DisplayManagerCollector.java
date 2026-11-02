@@ -10,7 +10,7 @@ import android.util.SparseArray;
 import android.view.Display;
 import android.view.WindowManager;
 import com.ibm.icu.impl.locale.LanguageTag;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.lang.reflect.Field;
 import java.util.Arrays;
 import java.util.Collection;

@@ -8,7 +8,7 @@ import com.ibm.icu.impl.number.Padder;
 import com.ibm.icu.number.NumberFormatter;
 import com.ibm.icu.text.DateFormat;
 import com.ibm.icu.text.DecimalFormatSymbols;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.lang.reflect.Array;
 import java.math.BigDecimal;
 import kotlin.text.Typography;

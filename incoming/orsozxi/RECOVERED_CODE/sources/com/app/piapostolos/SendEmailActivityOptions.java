@@ -34,7 +34,7 @@ public class SendEmailActivityOptions extends BaseActivity {
         getWindow().setBackgroundDrawableResource(R.drawable.background);
         Intent intent = getIntent();
         this.type = intent.getStringExtra("email");
-        this.type = "report@orsozoxi.net";
+        this.type = "contact@example.invalid";
         textView.setText(intent.getStringExtra("preact"));
         Button button = (Button) findViewById(R.id.btn_slide);
         final SimpleSideDrawer simpleSideDrawer = new SimpleSideDrawer(this);
@@ -52,15 +52,15 @@ public class SendEmailActivityOptions extends BaseActivity {
             @Override // android.widget.RadioGroup.OnCheckedChangeListener
             public void onCheckedChanged(RadioGroup radioGroup, int i) {
                 if (i == R.id.r_report) {
-                    SendEmailActivityOptions.this.type = "report@orsozoxi.net";
+                    SendEmailActivityOptions.this.type = "contact@example.invalid";
                     return;
                 }
                 if (i == R.id.r_suggest) {
-                    SendEmailActivityOptions.this.type = "suggest@orsozoxi.net";
+                    SendEmailActivityOptions.this.type = "contact@example.invalid";
                 } else if (i == R.id.r_ask) {
-                    SendEmailActivityOptions.this.type = "ask@orsozoxi.net";
+                    SendEmailActivityOptions.this.type = "contact@example.invalid";
                 } else {
-                    SendEmailActivityOptions.this.type = "pray@orsozoxi.net";
+                    SendEmailActivityOptions.this.type = "contact@example.invalid";
                 }
             }
         });

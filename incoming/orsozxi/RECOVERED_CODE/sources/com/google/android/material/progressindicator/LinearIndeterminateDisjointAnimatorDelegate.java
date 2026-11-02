@@ -10,7 +10,7 @@ import androidx.vectordrawable.graphics.drawable.Animatable2Compat;
 import androidx.vectordrawable.graphics.drawable.AnimationUtilsCompat;
 import com.google.android.material.R;
 import com.google.android.material.color.MaterialColors;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.Arrays;
 
 /* loaded from: classes2.dex */

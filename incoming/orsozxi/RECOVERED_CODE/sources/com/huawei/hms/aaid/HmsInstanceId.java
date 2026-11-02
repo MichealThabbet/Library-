@@ -29,7 +29,7 @@ import com.huawei.hms.opendevice.o;
 import com.huawei.hms.opendevice.p;
 import com.huawei.hms.opendevice.q;
 import com.huawei.hms.support.log.HMSLog;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 
 /* loaded from: classes2.dex */
 public class HmsInstanceId {

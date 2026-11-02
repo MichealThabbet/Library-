@@ -1,7 +1,7 @@
 package com.google.zxing.pdf417.encoder;
 
 import com.google.zxing.WriterException;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes2.dex */
 final class PDF417ErrorCorrection {

@@ -3,7 +3,7 @@ package com.ibm.icu.impl.data;
 import com.ibm.icu.util.EasterHoliday;
 import com.ibm.icu.util.Holiday;
 import com.ibm.icu.util.SimpleHoliday;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.ListResourceBundle;
 
 /* loaded from: classes2.dex */

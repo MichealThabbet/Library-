@@ -1,7 +1,7 @@
 package com.google.zxing.maxicode.decoder;
 
 import com.google.zxing.common.BitMatrix;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes2.dex */
 final class BitMatrixParser {

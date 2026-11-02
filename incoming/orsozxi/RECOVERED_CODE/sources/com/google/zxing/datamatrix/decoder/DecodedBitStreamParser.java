@@ -6,7 +6,7 @@ import com.google.zxing.common.DecoderResult;
 import com.ibm.icu.impl.PatternTokenizer;
 import com.ibm.icu.impl.UCharacterProperty;
 import com.ibm.icu.util.ULocale;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.Collection;

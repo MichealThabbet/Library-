@@ -7,7 +7,7 @@ import com.sun.mail.util.LineOutputStream;
 import com.sun.mail.util.MessageRemovedIOException;
 import com.sun.mail.util.MimeUtil;
 import com.sun.mail.util.PropUtil;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.BufferedInputStream;
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;

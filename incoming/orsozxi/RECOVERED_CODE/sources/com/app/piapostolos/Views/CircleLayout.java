@@ -16,7 +16,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import androidx.constraintlayout.solver.widgets.analyzer.BasicMeasure;
 import com.app.piapostolos.R;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes.dex */
 public class CircleLayout extends ViewGroup {

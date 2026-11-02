@@ -1,6 +1,6 @@
 package org.apache.poi.ss.util;
 
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.ArrayList;
 import java.util.StringTokenizer;
 import org.apache.poi.ss.SpreadsheetVersion;

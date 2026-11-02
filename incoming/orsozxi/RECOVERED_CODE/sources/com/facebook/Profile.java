@@ -6,7 +6,7 @@ import android.os.Parcelable;
 import com.facebook.internal.ImageRequest;
 import com.facebook.internal.Utility;
 import com.facebook.internal.Validate;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import org.json.JSONException;
 import org.json.JSONObject;
 

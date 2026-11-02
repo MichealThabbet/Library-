@@ -1,7 +1,7 @@
 package androidx.recyclerview.widget;
 
 import android.view.View;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.lang.annotation.Retention;
 import java.lang.annotation.RetentionPolicy;
 

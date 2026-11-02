@@ -274,7 +274,7 @@
     <string name="day_picker_description">Month grid of days</string>
     <string name="decimal_button_text">,</string>
     <string name="default_progressbar">Default Progressbar:</string>
-    <string name="default_web_client_id">111326151494-gevh6m0fmsjfqs7u121jfcmn1b04t186.apps.googleusercontent.com</string>
+    <string name="default_web_client_id"></string>
     <string name="define_smoothprogressbar" />
     <string name="delete">حذف</string>
     <string name="delete_alarm">مسح المنبة؟</string>
@@ -418,7 +418,7 @@
     <string name="extracted">استخراج</string>
     <string name="fab_transformation_scrim_behavior">com.google.android.material.transformation.FabTransformationScrimBehavior</string>
     <string name="fab_transformation_sheet_behavior">com.google.android.material.transformation.FabTransformationSheetBehavior</string>
-    <string name="facebook_app_id">627975203979050</string>
+    <string name="facebook_app_id"></string>
     <string name="fail_response">حدث خطأ يرجى المحاولة مرة أخرى.</string>
     <string name="failed">failed</string>
     <string name="fb_about">عن التطبيق</string>
@@ -447,7 +447,7 @@
     <string name="filter_archived">إخفاء التحضيرات المؤرشفة</string>
     <string name="filter_old_reminders">إخفاء التذكيرات القديمة</string>
     <string name="finished_type_expert_puzzle_in_n_moves">Finished {0} puzzle {1,choice,0#|1# (expert mode)} in {2} {2,choice,0#moves|1#move|1&lt;moves}.</string>
-    <string name="firebase_database_url">https://api-project-111326151494.firebaseio.com</string>
+    <string name="firebase_database_url"></string>
     <string name="followw">تابعنا</string>
     <string name="font">ضبط الخط</string>
     <string name="font_color">لون الخط</string>
@@ -459,7 +459,7 @@
     <string name="from_akwal">من أقوال الأباء</string>
     <string name="from_daily_msg">من الرسائل اليومية</string>
     <string name="gallery">معرض الصور</string>
-    <string name="gcm_defaultSenderId">111326151494</string>
+    <string name="gcm_defaultSenderId"></string>
     <string name="gcm_deleted">From GCM: server deleted %1$d pending messages!</string>
     <string name="gcm_error">From GCM: error (%1$s).</string>
     <string name="gcm_message">From GCM: you got message!</string>
@@ -468,10 +468,10 @@
     <string name="gcm_unregistered">From GCM: device successfully unregistered!</string>
     <string name="gergory">غوريغورى</string>
     <string name="go_shahed">اذهب للشاهد</string>
-    <string name="google_api_key">AIzaSyA0px-uSFG5hMRZi6CNw-xoQjaFLQumH1w</string>
-    <string name="google_app_id">1:111326151494:android:661bf297d6b6584c</string>
-    <string name="google_crash_reporting_api_key">AIzaSyA0px-uSFG5hMRZi6CNw-xoQjaFLQumH1w</string>
-    <string name="google_storage_bucket">api-project-111326151494.appspot.com</string>
+    <string name="google_api_key"></string>
+    <string name="google_app_id">1::android:661bf297d6b6584c</string>
+    <string name="google_crash_reporting_api_key"></string>
+    <string name="google_storage_bucket">api-project-.appspot.com</string>
     <string name="gpvch_button_negative">حدث وقت اخر</string>
     <string name="gpvch_button_positive">حدث الأن</string>
     <string name="gpvch_google_play_url">https://play.google.com/store/apps/details?id=</string>
@@ -746,7 +746,7 @@
     <string name="pre">السابق</string>
     <string name="preference_copied">\"%1$s\" copied to clipboard.</string>
     <string name="proceed">نفذ</string>
-    <string name="project_id">api-project-111326151494</string>
+    <string name="project_id">api-project-</string>
     <string name="psal_fri">إبصلمودية الجمعة</string>
     <string name="psal_mon">إبصلمودية الاثنين</string>
     <string name="psal_sat">إبصلمودية السبت</string>

@@ -3,7 +3,7 @@ package kotlin.collections;
 import com.google.firebase.analytics.FirebaseAnalytics;
 import com.ibm.icu.text.DateFormat;
 import com.pnikosis.materialishprogress.BuildConfig;
-import it.orsozoxi.android.orsonotes.db.DbHelper;
+import it.piapostolos.android.pinotes.db.DbHelper;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 import java.util.ArrayList;

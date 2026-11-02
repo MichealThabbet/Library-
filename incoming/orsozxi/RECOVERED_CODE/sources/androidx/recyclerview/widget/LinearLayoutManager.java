@@ -11,7 +11,7 @@ import android.view.accessibility.AccessibilityEvent;
 import androidx.recyclerview.widget.ItemTouchHelper;
 import androidx.recyclerview.widget.RecyclerView;
 import com.ibm.icu.lang.UProperty;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.util.List;
 
 /* loaded from: classes.dex */

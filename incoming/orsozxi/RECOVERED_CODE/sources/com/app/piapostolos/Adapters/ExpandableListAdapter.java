@@ -47,7 +47,7 @@ import com.app.piapostolos.Youtube.MainActivityYoutube;
 import com.app.piapostolos.zweilawebsite;
 import com.facebook.share.internal.ShareConstants;
 import com.google.firebase.crashlytics.internal.settings.model.AppSettingsData;
-import it.orsozoxi.android.orsonotes.NotesMainActivity;
+import it.piapostolos.android.pinotes.NotesMainActivity;
 import java.util.HashMap;
 import java.util.List;
 import org.apache.http.protocol.HTTP;
@@ -246,7 +246,7 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
                                         } else {
                                             ExpandableListAdapter.this.closeMenu();
                                             Intent intent10 = new Intent(ExpandableListAdapter.this.activity, (Class<?>) MainActivitysite_aya3t.class);
-                                            intent10.putExtra("url", "https://orsozoxi.net/archives/category/trueaya/feed");
+                                            intent10.putExtra("url", "https://services.invalid/unconfigured");
                                             ExpandableListAdapter.this.activity.startActivity(intent10);
                                             break;
                                         }
@@ -258,7 +258,7 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
                                 } else {
                                     ExpandableListAdapter.this.closeMenu();
                                     Intent intent11 = new Intent(ExpandableListAdapter.this.activity, (Class<?>) AkwalActivity.class);
-                                    intent11.putExtra("url", "https://www.orsozoxi.net/archives/category/konuz/akwaal/feed");
+                                    intent11.putExtra("url", "https://services.invalid/unconfigured");
                                     ExpandableListAdapter.this.activity.startActivity(intent11);
                                     break;
                                 }
@@ -275,7 +275,7 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
                         int i6 = i2;
                         if (i6 == 0) {
                             Intent intent13 = new Intent(ExpandableListAdapter.this.activity, (Class<?>) MainActivityCards.class);
-                            intent13.putExtra("url", "https://www.orsozoxi.net/archives/category/cards/feed");
+                            intent13.putExtra("url", "https://services.invalid/unconfigured");
                             ExpandableListAdapter.this.activity.startActivity(intent13);
                             break;
                         } else if (i6 == 1 && ExpandableListAdapter.this.checkinternet()) {
@@ -311,14 +311,14 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
                             break;
                         } else if (i2 == 1 && ExpandableListAdapter.this.checkinternet()) {
                             Intent intent16 = new Intent(ExpandableListAdapter.this.activity, (Class<?>) zweilawebsite.class);
-                            intent16.putExtra("url", "https://mobile.twitter.com/orsozoxi");
+                            intent16.putExtra("url", "https://mobile.twitter.com/piapostolos");
                             intent16.putExtra("preact", "تويتر");
                             intent16.putExtra(ShareConstants.MEDIA_TYPE, AppSettingsData.STATUS_NEW);
                             ExpandableListAdapter.this.activity.startActivity(intent16);
                             break;
                         } else if (i2 == 2 && ExpandableListAdapter.this.checkinternet()) {
                             Intent intent17 = new Intent(ExpandableListAdapter.this.activity, (Class<?>) zweilawebsite.class);
-                            intent17.putExtra("url", "https://orsozoxi.net/");
+                            intent17.putExtra("url", "https://services.invalid/unconfigured");
                             intent17.putExtra("preact", "موقعنا");
                             intent17.putExtra(ShareConstants.MEDIA_TYPE, AppSettingsData.STATUS_NEW);
                             ExpandableListAdapter.this.activity.startActivity(intent17);
@@ -328,7 +328,7 @@ public class ExpandableListAdapter extends BaseExpandableListAdapter {
                             break;
                         } else {
                             Intent intent18 = new Intent(ExpandableListAdapter.this.activity, (Class<?>) SendEmailActivityOptions.class);
-                            intent18.putExtra("email", "orsozoxi.app@orsozoxi.net");
+                            intent18.putExtra("email", "contact@example.invalid");
                             intent18.putExtra("preact", "راسلنا");
                             ExpandableListAdapter.this.activity.startActivity(intent18);
                             break;

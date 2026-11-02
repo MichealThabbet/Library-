@@ -1965,7 +1965,7 @@
         <item name="android:windowTranslucentNavigation">@bool/transparent_nav</item>
         <item name="android:statusBarColor">@color/statusbar_overlay</item>
     </style>
-    <style name="OrsoNotesTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
+    <style name="PiNotesTheme" parent="@style/Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowBackground">@color/colorPrimary</item>
         <item name="android:windowContentOverlay">@null</item>
         <item name="actionBarPopupTheme">@style/ThemeOverlay.AppCompat.Light</item>
@@ -1979,12 +1979,12 @@
         <item name="windowActionModeOverlay">true</item>
         <item name="windowNoTitle">true</item>
     </style>
-    <style name="OrsoNotesTheme.ApiSpec" parent="@style/OrsoNotesTheme">
+    <style name="PiNotesTheme.ApiSpec" parent="@style/PiNotesTheme">
     </style>
-    <style name="OrsoNotesTheme.ApiSpec.Branded" parent="@style/OrsoNotesTheme.ApiSpec">
+    <style name="PiNotesTheme.ApiSpec.Branded" parent="@style/PiNotesTheme.ApiSpec">
         <item name="android:windowBackground">@drawable/branded_background</item>
     </style>
-    <style name="OrsoNotesTheme.ApiSpec.Dialog" parent="@style/OrsoNotesTheme.ApiSpec">
+    <style name="PiNotesTheme.ApiSpec.Dialog" parent="@style/PiNotesTheme.ApiSpec">
         <item name="android:windowBackground">@drawable/bg_card</item>
         <item name="android:windowFrame">@null</item>
         <item name="android:windowNoTitle">true</item>
@@ -1993,7 +1993,7 @@
         <item name="android:windowContentOverlay">@null</item>
         <item name="android:backgroundDimEnabled">true</item>
     </style>
-    <style name="OrsoNotesTheme.NoDisplay" parent="@style/OrsoNotesTheme">
+    <style name="PiNotesTheme.NoDisplay" parent="@style/PiNotesTheme">
         <item name="android:windowBackground">@null</item>
         <item name="android:windowIsTranslucent">true</item>
         <item name="android:windowContentOverlay">@null</item>

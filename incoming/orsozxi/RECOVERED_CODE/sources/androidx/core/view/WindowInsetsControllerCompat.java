@@ -11,7 +11,7 @@ import android.view.WindowInsetsController;
 import android.view.animation.Interpolator;
 import android.view.inputmethod.InputMethodManager;
 import androidx.collection.SimpleArrayMap;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes.dex */
 public final class WindowInsetsControllerCompat {

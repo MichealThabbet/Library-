@@ -3,7 +3,7 @@ package it.feio.android.simplegallery.util;
 import android.app.Activity;
 import android.os.Build;
 import android.view.View;
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* loaded from: classes2.dex */
 public class SystemUiHiderHoneycomb extends SystemUiHiderBase {

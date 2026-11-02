@@ -9,7 +9,7 @@ import android.text.TextUtils;
 import com.facebook.internal.NativeProtocol;
 import com.google.android.gms.common.internal.Preconditions;
 import com.google.android.gms.common.util.HttpUtils;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.Closeable;
 import java.net.URI;
 import java.net.URISyntaxException;

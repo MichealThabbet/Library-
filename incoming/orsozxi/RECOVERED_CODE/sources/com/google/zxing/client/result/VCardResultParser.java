@@ -3,7 +3,7 @@ package com.google.zxing.client.result;
 import com.facebook.share.internal.ShareConstants;
 import com.google.zxing.Result;
 import com.huawei.hms.framework.common.ContainerUtils;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.ByteArrayOutputStream;
 import java.io.UnsupportedEncodingException;
 import java.nio.charset.Charset;

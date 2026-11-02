@@ -129,7 +129,7 @@ public class MyGcmListenerService extends FirebaseMessagingService {
             return;
         }
         if (str3.contains("null")) {
-            str2 = "orsozoxi";
+            str2 = "piapostolos";
         }
         if (str2.contains("news@@")) {
             SavePrefs savePrefs = new SavePrefs(this, (Class<?>) NewsActivition.class);
@@ -199,13 +199,13 @@ public class MyGcmListenerService extends FirebaseMessagingService {
         intent.putExtra("email", "22");
         intent.putExtra("image", str2);
         String string = context.getString(R.string.app_name);
-        if (str2.equals("https://www.orsozoxi.net/bprsms/images/bpr.jpg")) {
+        if (str2.equals("https://services.invalid/unconfigured")) {
             string = context.getString(R.string.bishop_rafail);
         }
-        if (str2.equals("https://www.orsozoxi.net/gcmsms/images/orsozoxisms.jpg")) {
+        if (str2.equals("https://services.invalid/unconfigured")) {
             string = context.getString(R.string.piapostolos_family);
         }
-        if (str2.equals("https://www.orsozoxi.net/gcmnews/images/news.jpg")) {
+        if (str2.equals("https://services.invalid/unconfigured")) {
             string = context.getString(R.string.church_news);
         }
         SharedPreferences sharedPreferences = context.getSharedPreferences(MyPREFERENCES, 0);

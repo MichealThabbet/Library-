@@ -1,6 +1,6 @@
 package okhttp3;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 import java.nio.charset.Charset;
 import java.util.Collections;
 import java.util.LinkedHashMap;

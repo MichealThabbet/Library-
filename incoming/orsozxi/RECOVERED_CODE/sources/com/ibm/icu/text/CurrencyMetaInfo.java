@@ -3,7 +3,7 @@ package com.ibm.icu.text;
 import com.ibm.icu.impl.Grego;
 import com.ibm.icu.impl.Utility;
 import com.ibm.icu.util.Currency;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.lang.reflect.Field;
 import java.util.Collections;
 import java.util.Date;

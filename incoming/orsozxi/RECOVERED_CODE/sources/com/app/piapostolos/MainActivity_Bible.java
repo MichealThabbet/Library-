@@ -79,7 +79,7 @@ import io.reactivex.Observable;
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.functions.Consumer;
 import io.reactivex.schedulers.Schedulers;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.BufferedReader;
 import java.io.ByteArrayOutputStream;
 import java.io.File;
@@ -181,7 +181,7 @@ public class MainActivity_Bible extends BaseActivity implements View.OnClickList
         }
     };
     int numOfChapters = 1;
-    private String downloadPath = "https://www.orsozoxi.net/app_update/bible_tafsir/";
+    private String downloadPath = "https://services.invalid/unconfigured";
     String bookPath = "";
     int bookPathChapters = 0;
     boolean isShareFace = false;
@@ -1121,139 +1121,139 @@ public class MainActivity_Bible extends BaseActivity implements View.OnClickList
         } else {
             str = "" + selectedItemPosition2;
         }
-        String str2 = "https://www.orsozoxi.net/bible_voice/";
+        String str2 = "https://services.invalid/unconfigured";
         if (selectedItemPosition == 1) {
-            str2 = "https://www.orsozoxi.net/bible_voice/01_genesis/genesis" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 2) {
-            str2 = "https://www.orsozoxi.net/bible_voice/02_exodus/exodus" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 3) {
-            str2 = "https://www.orsozoxi.net/bible_voice/03_leviticus/leviticus" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 4) {
-            str2 = "https://www.orsozoxi.net/bible_voice/04_numbers/numbers" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 5) {
-            str2 = "https://www.orsozoxi.net/bible_voice/05_deuteronomy/deuteronomy" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 6) {
-            str2 = "https://www.orsozoxi.net/bible_voice/06_joshua/joshua" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 7) {
-            str2 = "https://www.orsozoxi.net/bible_voice/07_judges/judges" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 8) {
-            str2 = "https://www.orsozoxi.net/bible_voice/08_ruth/ruth" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 9) {
-            str2 = "https://www.orsozoxi.net/bible_voice/09_samuel1/1samuel" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 10) {
-            str2 = "https://www.orsozoxi.net/bible_voice/10_samuel2/2samuel" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 11) {
-            str2 = "https://www.orsozoxi.net/bible_voice/11_kings1/1kings" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 12) {
-            str2 = "https://www.orsozoxi.net/bible_voice/12_kings2/2kings" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 13) {
-            str2 = "https://www.orsozoxi.net/bible_voice/13_chronicles1/1chronicles" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 14) {
-            str2 = "https://www.orsozoxi.net/bible_voice/14_chronicles2/2chronicles" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 15) {
-            str2 = "https://www.orsozoxi.net/bible_voice/15_ezra/ezra" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 16) {
-            str2 = "https://www.orsozoxi.net/bible_voice/16_nehemiah/nehemiah" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 19) {
-            str2 = "https://www.orsozoxi.net/bible_voice/19_esther/esther" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 20) {
-            str2 = "https://www.orsozoxi.net/bible_voice/20_job/job" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 21) {
-            str2 = "https://www.orsozoxi.net/bible_voice/21_psalms/psalms" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 22) {
-            str2 = "https://www.orsozoxi.net/bible_voice/22_proverbs/proverbs" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 23) {
-            str2 = "https://www.orsozoxi.net/bible_voice/23_ecclesiastes/ecclesiastes" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 24) {
-            str2 = "https://www.orsozoxi.net/bible_voice/24_song_of_songs/song_of_songs" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 27) {
-            str2 = "https://www.orsozoxi.net/bible_voice/27_isaiah/isaiah" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 28) {
-            str2 = "https://www.orsozoxi.net/bible_voice/28_jeremiah/jeremiah" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 29) {
-            str2 = "https://www.orsozoxi.net/bible_voice/29_lamentations/lamentations" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 33) {
-            str2 = "https://www.orsozoxi.net/bible_voice/33_hosea/hosea" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 32) {
-            str2 = "https://www.orsozoxi.net/bible_voice/32_daniel/daniel" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 31) {
-            str2 = "https://www.orsozoxi.net/bible_voice/31_ezekiel/ezekiel" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 34) {
-            str2 = "https://www.orsozoxi.net/bible_voice/34_joel/joel" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 35) {
-            str2 = "https://www.orsozoxi.net/bible_voice/35_amos/amos" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 36) {
-            str2 = "https://www.orsozoxi.net/bible_voice/36_obadiah/obadiah" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 37) {
-            str2 = "https://www.orsozoxi.net/bible_voice/37_jonah/jonah" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 38) {
-            str2 = "https://www.orsozoxi.net/bible_voice/38_micah/micah" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 39) {
-            str2 = "https://www.orsozoxi.net/bible_voice/39_nahum/nahum" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 40) {
-            str2 = "https://www.orsozoxi.net/bible_voice/40_habakkuk/habakkuk" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 41) {
-            str2 = "https://www.orsozoxi.net/bible_voice/41_zephaniah/zephaniah" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 42) {
-            str2 = "https://www.orsozoxi.net/bible_voice/42_haggai/haggai" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 43) {
-            str2 = "https://www.orsozoxi.net/bible_voice/43_zechariah/zechariah" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 44) {
-            str2 = "https://www.orsozoxi.net/bible_voice/44_malachi/malachi" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 47) {
-            str2 = "https://www.orsozoxi.net/bible_voice/47_matthew/matthew" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 48) {
-            str2 = "https://www.orsozoxi.net/bible_voice/48_mark/mark" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 49) {
-            str2 = "https://www.orsozoxi.net/bible_voice/49_luke/luke" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 50) {
-            str2 = "https://www.orsozoxi.net/bible_voice/50_john/john" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 51) {
-            str2 = "https://www.orsozoxi.net/bible_voice/51_acts/acts" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 52) {
-            str2 = "https://www.orsozoxi.net/bible_voice/52_romans/romans" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 53) {
-            str2 = "https://www.orsozoxi.net/bible_voice/53_corinthians1/1corinthians" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 54) {
-            str2 = "https://www.orsozoxi.net/bible_voice/54_corinthians2/2corinthians" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 55) {
-            str2 = "https://www.orsozoxi.net/bible_voice/55_galatians/galatians" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 56) {
-            str2 = "https://www.orsozoxi.net/bible_voice/56_ephesians/ephesians" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 57) {
-            str2 = "https://www.orsozoxi.net/bible_voice/57_philippians/philippians" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 58) {
-            str2 = "https://www.orsozoxi.net/bible_voice/58_colossians/colossians" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 59) {
-            str2 = "https://www.orsozoxi.net/bible_voice/59_thessalonians1/1thessalonians" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 60) {
-            str2 = "https://www.orsozoxi.net/bible_voice/60_thessalonians2/2thessalonians" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 61) {
-            str2 = "https://www.orsozoxi.net/bible_voice/61_timothy1/1timothy" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 62) {
-            str2 = "https://www.orsozoxi.net/bible_voice/62_timothy2/2timothy" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 63) {
-            str2 = "https://www.orsozoxi.net/bible_voice/63_titus/titus" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 64) {
-            str2 = "https://www.orsozoxi.net/bible_voice/64_philemon/philemon" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 65) {
-            str2 = "https://www.orsozoxi.net/bible_voice/65_hebrews/hebrews" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 66) {
-            str2 = "https://www.orsozoxi.net/bible_voice/66_james/james" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 67) {
-            str2 = "https://www.orsozoxi.net/bible_voice/67_peter1/1peter" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 68) {
-            str2 = "https://www.orsozoxi.net/bible_voice/68_peter2/2peter" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 69) {
-            str2 = "https://www.orsozoxi.net/bible_voice/69_john1/1john" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 70) {
-            str2 = "https://www.orsozoxi.net/bible_voice/70_john2/2john" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 71) {
-            str2 = "https://www.orsozoxi.net/bible_voice/71_john3/3john" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 72) {
-            str2 = "https://www.orsozoxi.net/bible_voice/72_jude/jude" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         } else if (selectedItemPosition == 73) {
-            str2 = "https://www.orsozoxi.net/bible_voice/73_revelation/revelation" + str + ".mp3";
+            str2 = "https://services.invalid/unconfigured" + str + ".mp3";
         }
         if (selectedItemPosition == 17 || selectedItemPosition == 18 || selectedItemPosition == 25 || selectedItemPosition == 26 || selectedItemPosition == 31 || selectedItemPosition == 45 || selectedItemPosition == 46) {
             Toast.makeText(getApplicationContext(), R.string.asfar_second_not_available, 1).show();

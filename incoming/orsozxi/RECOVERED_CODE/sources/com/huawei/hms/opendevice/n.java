@@ -11,7 +11,7 @@ import com.huawei.hms.android.SystemUtils;
 import com.huawei.hms.support.log.HMSLog;
 import com.huawei.hms.utils.PackageManagerHelper;
 import com.huawei.hms.utils.Util;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.util.TimeZone;
 import java.util.UUID;
 import net.fortuna.ical4j.model.property.RequestStatus;

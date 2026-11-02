@@ -1,7 +1,7 @@
 package org.apache.http.impl.auth;
 
 import com.facebook.internal.ServerProtocol;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.io.IOException;
 import java.nio.charset.Charset;
 import java.security.MessageDigest;

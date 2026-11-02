@@ -12,7 +12,7 @@ import com.huawei.hms.common.PackageConstants;
 import com.huawei.hms.framework.common.ContainerUtils;
 import com.huawei.hms.support.log.HMSLog;
 import com.huawei.hms.utils.PackageManagerHelper;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 import java.security.cert.X509Certificate;
 import java.util.ArrayList;
 import java.util.Collections;

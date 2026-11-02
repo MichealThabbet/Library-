@@ -1,6 +1,6 @@
 package com.google.android.gms.internal.measurement;
 
-import it.orsozoxi.android.orsonotes.R2;
+import it.piapostolos.android.pinotes.R2;
 
 /* compiled from: com.google.android.gms:play-services-measurement-base@@19.0.0 */
 /* loaded from: classes.dex */

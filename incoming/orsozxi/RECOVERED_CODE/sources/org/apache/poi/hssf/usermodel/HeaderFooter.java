@@ -1,7 +1,7 @@
 package org.apache.poi.hssf.usermodel;
 
 import com.huawei.hms.framework.common.ContainerUtils;
-import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
+import it.piapostolos.android.pinotes.utils.ConstantsBase;
 
 /* loaded from: classes3.dex */
 public abstract class HeaderFooter implements org.apache.poi.ss.usermodel.HeaderFooter {
