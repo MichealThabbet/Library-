@@ -208,6 +208,74 @@ jobs:
           if errors:
             print("Nested archive failures:",len(errors))
           PY
+      - name: Extract remaining split files of any extension
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import pathlib,re,os,tempfile,shutil,zipfile,tarfile,subprocess,json,stat,sys
+          root=pathlib.Path("incoming")
+          excluded={"orsozxi","orsozoxi"}
+          results=[]
+          errors=[]
+          pattern=re.compile(r"(?i)^(.*)\\.part(\\d+)$")
+          for folder in sorted(p for p in root.rglob("*") if p.is_dir() and not any(a.lower() in excluded for a in p.parts)):
+            groups={}
+            for p in folder.iterdir():
+              if not p.is_file(): continue
+              m=pattern.match(p.name)
+              if m: groups.setdefault(m.group(1),[]).append((int(m.group(2)),p))
+            for name,parts in sorted(groups.items()):
+              parts.sort()
+              item={"folder":str(folder),"archive":name,"pieces":len(parts),"new_files":0}
+              try:
+                nums=[n for n,p in parts]
+                if nums!=list(range(1,len(nums)+1)):
+                  raise ValueError("Missing or nonconsecutive parts")
+                with tempfile.TemporaryDirectory() as td:
+                  tmp=pathlib.Path(td)
+                  combined=tmp/"joined"
+                  with combined.open("wb") as dest:
+                    for _,part in parts:
+                      with part.open("rb") as src: shutil.copyfileobj(src,dest)
+                  out=tmp/"unpacked"
+                  out.mkdir()
+                  if zipfile.is_zipfile(combined):
+                    with zipfile.ZipFile(combined) as archive:
+                      members=archive.infolist()
+                      if len(members)>50000 or sum(x.file_size for x in members)>3*1024**3: raise ValueError("Archive exceeds safety limits")
+                      for m in members:
+                        path=pathlib.PurePosixPath(m.filename.replace(chr(92),"/"))
+                        if path.is_absolute() or ".." in path.parts or stat.S_ISLNK(m.external_attr>>16): raise ValueError("Unsafe member")
+                      archive.extractall(out)
+                  elif tarfile.is_tarfile(combined):
+                    with tarfile.open(combined) as archive:
+                      members=archive.getmembers()
+                      if len(members)>50000 or sum(x.size for x in members)>3*1024**3: raise ValueError("Archive exceeds safety limits")
+                      if any(not(x.isfile() or x.isdir()) for x in members): raise ValueError("Unsafe member")
+                      archive.extractall(out,filter="data")
+                  else:
+                    command=subprocess.run(["7z","x","-y","-o"+str(out),str(combined)],capture_output=True,text=True)
+                    if command.returncode: raise ValueError("Cannot decompress joined file: "+command.stderr[-300:])
+                  files=[p for p in out.rglob("*") if p.is_file()]
+                  if len(files)>50000 or sum(p.stat().st_size for p in files)>3*1024**3: raise ValueError("Extraction exceeds safety limits")
+                  for p in files:
+                    if p.is_symlink(): raise ValueError("Symlink in output")
+                    relative=p.relative_to(out)
+                    target=folder/"extracted"/relative
+                    if target.exists(): continue
+                    target.parent.mkdir(parents=True,exist_ok=True)
+                    shutil.copyfile(p,target)
+                    item["new_files"]+=1
+                item["status"]="ok"
+              except Exception as exc:
+                item["status"]="error"
+                item["error"]=str(exc)
+                errors.append(item)
+              results.append(item)
+              print("SPLIT",json.dumps(item,ensure_ascii=False))
+          pathlib.Path("archive-split-report.json").write_text(json.dumps(results,ensure_ascii=False,indent=2)+"\\n")
+          if errors: print("SPLIT ERRORS",len(errors))
+          PY
       - name: Audit all incoming folders and extraction results
         shell: bash
         run: |
@@ -222,7 +290,8 @@ jobs:
           completed={x["archive"] for x in report.get("extracted",[])}
           continuations=[p for p in archives if " (multipart continuation)" in "\n".join(report.get("skipped",[])) and str(p)+" (multipart continuation)" in report.get("skipped",[])]
           missing=[str(p) for p in archives if str(p) not in completed and p not in continuations]
-          failures=report.get("errors",[])+[x for x in report.get("nested",[]) if x.get("status")!="ok"]
+          split=json.loads(pathlib.Path("archive-split-report.json").read_text())
+          failures=report.get("errors",[])+[x for x in report.get("nested",[]) if x.get("status")!="ok"]+[x for x in split if x.get("status")!="ok"]
           summary={"folders_checked":len(folders),"archive_files":len(archives),"archives_processed":len(completed),"multipart_continuations":len(continuations),"nested_archives":len(report.get("nested",[])),"unprocessed":missing,"failures":failures}
           pathlib.Path("archive-extraction-audit.json").write_text(json.dumps(summary,ensure_ascii=False,indent=2)+"\n")
           print("AUDIT",json.dumps(summary,ensure_ascii=False))
@@ -234,7 +303,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -- incoming archive-extraction-report.json archive-extraction-audit.json
+          git add -- incoming archive-extraction-report.json archive-extraction-audit.json archive-split-report.json
           if git diff --cached --quiet; then
             echo "No new files."
           else
