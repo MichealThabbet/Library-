@@ -54,7 +54,8 @@ jobs:
           def extract(archive):
             dest=archive.parent
             with tempfile.TemporaryDirectory(dir=dest) as tmp:
-              out=pathlib.Path(tmp)
+              out=pathlib.Path(tmp)/"extracted"
+              out.mkdir()
               parts=parts_for(archive)
               source=archive
               if parts:
