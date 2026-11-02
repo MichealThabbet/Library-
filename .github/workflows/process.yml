@@ -23,34 +23,37 @@ jobs:
         sudo apt-get update
         sudo apt-get install -y unzip wget curl
         
-        # 1. تنزيل jadx (أحدث إصدار v1.5.6)
-        wget -q https://github.com/skylot/jadx/releases/download/v1.5.6/jadx-1.5.6.zip
-        unzip -q jadx-1.5.6.zip -d jadx_tool
-        echo "$PWD/jadx_tool/bin" >> $GITHUB_PATH
+        # تحميل الأدوات في فولدر مؤقت عشان ميتلخبطش مع ملفاتك
+        mkdir -p $HOME/tools
         
-        # 2. تنزيل أدوات أندرويد (zipalign و apksigner)
-        wget -q https://dl.google.com/android/repository/build-tools_r34-linux.zip
-        unzip -q build-tools_r34-linux.zip
-        echo "$PWD/android-14" >> $GITHUB_PATH
+        # 1. تحميل jadx
+        curl -fsSL -o /tmp/jadx.zip https://github.com/skylot/jadx/releases/download/v1.4.7/jadx-1.4.7.zip
+        unzip -q /tmp/jadx.zip -d $HOME/tools/jadx
+        echo "$HOME/tools/jadx/bin" >> $GITHUB_PATH
         
-        # 3. تنزيل disrobe (نسخة لينكس)
-        wget -q https://github.com/1-3-7/disrobe/releases/download/v0.10.6/disrobe-linux-glibc-x86_64.tar.gz
-        tar -xzf disrobe-linux-glibc-x86_64.tar.gz
-        sudo mv disrobe /usr/local/bin/
+        # 2. تحميل أدوات أندرويد
+        curl -fsSL -o /tmp/build-tools.zip https://dl.google.com/android/repository/build-tools_r34-linux.zip
+        unzip -q /tmp/build-tools.zip -d $HOME/tools/
+        echo "$HOME/tools/android-14" >> $GITHUB_PATH
         
-        # 4. تنزيل Apktool (أحدث إصدار v3.0.3)
-        wget -q https://github.com/iBotPeaches/Apktool/releases/download/v3.0.3/apktool_3.0.3.jar -O apktool.jar
+        # 3. تحميل Apktool
+        curl -fsSL -o /tmp/apktool.jar https://github.com/iBotPeaches/Apktool/releases/download/v2.9.3/apktool_2.9.3.jar
+        sudo mv /tmp/apktool.jar /usr/local/bin/
         echo '#!/bin/bash
-        exec java -jar /home/runner/work/Library-/Library-/apktool.jar "$@"' > apktool
+        exec java -jar /usr/local/bin/apktool.jar "$@"' > apktool
         chmod +x apktool
         sudo mv apktool /usr/local/bin/
+        
+        # 4. تحميل Disrobe (الرابط الصح)
+        curl -fsSL -o /tmp/disrobe.tar.gz https://github.com/1-3-7/disrobe/releases/download/v0.8.6/disrobe-linux-amd64.tar.gz
+        tar -xzf /tmp/disrobe.tar.gz -C /tmp/
+        sudo mv /tmp/disrobe /usr/local/bin/
+        chmod +x /usr/local/bin/disrobe
 
     - name: Unzip & Organize
       run: |
         mkdir -p workspace/source workspace/output
-        # فك ضغط أي ملفات zip في الريبو
         find . -name "*.zip" -not -path "./.git/*" -exec unzip -o {} -d workspace/source \;
-        # تجميع ملفات APK في فولدر واحد
         find workspace/source -name "*.apk" -exec mv {} workspace/ \;
 
     - name: Deobfuscate and Extract
@@ -61,10 +64,8 @@ jobs:
             echo "Processing $apk..."
             apktool d "$apk" -o "decompiled_${apk%.*}" -f
             
-            # محاولة فك التشفير
             disrobe auto "$apk" --out "deobfuscated_${apk%.*}" || true
             
-            # استخراج النصوص
             if [ -d "deobfuscated_${apk%.*}" ]; then
               find "deobfuscated_${apk%.*}" -type f -exec echo "--- Content of {} ---" \; -exec cat {} \; > "extracted_text_${apk%.*}.txt"
             fi
