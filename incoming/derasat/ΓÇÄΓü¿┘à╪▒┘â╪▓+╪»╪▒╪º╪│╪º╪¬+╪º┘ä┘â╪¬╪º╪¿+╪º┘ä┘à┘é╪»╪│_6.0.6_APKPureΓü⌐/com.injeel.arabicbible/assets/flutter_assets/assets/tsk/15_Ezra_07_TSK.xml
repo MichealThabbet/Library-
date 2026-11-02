@@ -1,0 +1,845 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Ezra" id="15">
+  <chapter number="7">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" في ملك ارتحشستا" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="12,21" />
+          <reference bookId="15" chapter="6" verse="14" />
+          <reference bookId="16" chapter="2" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عزرا" />
+          <version abrv="KJV" text="Ezra" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="10" />
+          <reference bookId="15" chapter="8" verse="1-36" />
+          <reference bookId="15" chapter="10" verse="1-44" />
+          <reference bookId="16" chapter="8" verse="2-9" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="سرايا" />
+          <version abrv="KJV" text="Seraiah" />
+        </versions>
+        <references>
+          <reference bookId="12" chapter="25" verse="18" />
+          <reference bookId="13" chapter="6" verse="4-14" />
+          <reference bookId="13" chapter="9" verse="11" />
+          <reference bookId="16" chapter="11" verse="11" />
+          <reference bookId="24" chapter="52" verse="24-27" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="حلقيا" />
+          <version abrv="KJV" text="Hilkiah" />
+        </versions>
+        <references>
+          <reference bookId="12" chapter="22" verse="4,8" />
+          <reference bookId="14" chapter="34" verse="9,15" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="صادوق" />
+          <version abrv="KJV" text="Zadok" />
+        </versions>
+        <references>
+          <reference bookId="10" chapter="8" verse="17" />
+          <reference bookId="11" chapter="2" verse="35" />
+        </references>
+      </word>
+    </verse>
+    <verse number="5">
+      <word>
+        <versions>
+          <version abrv="VDV" text="فينحاس" />
+          <version abrv="KJV" text="Phinehas" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="6" verse="25" />
+          <reference bookId="4" chapter="25" verse="7-13" />
+          <reference bookId="4" chapter="31" verse="6" />
+          <reference bookId="6" chapter="22" verse="13,31" />
+          <reference bookId="7" chapter="20" verse="28" />
+          <reference bookId="13" chapter="6" verse="4,50-52" />
+          <reference bookId="19" chapter="106" verse="30,31" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" العازار" />
+          <version abrv="KJV" text="Eleazar" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="10" verse="6,12,16" />
+          <reference bookId="4" chapter="3" verse="32" />
+          <reference bookId="4" chapter="20" verse="25-28" />
+          <reference bookId="4" chapter="27" verse="2" />
+          <reference bookId="4" chapter="31" verse="31,54" />
+          <reference bookId="6" chapter="14" verse="1" />
+          <reference bookId="6" chapter="24" verse="33" />
+          <reference bookId="13" chapter="24" verse="1-6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="الكاهن الراس" />
+          <version abrv="KJV" text="chief priest" />
+        </versions>
+        <references>
+          <reference bookId="14" chapter="19" verse="11" />
+          <reference bookId="14" chapter="26" verse="20" />
+          <reference bookId="58" chapter="5" verse="4" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ماهر " />
+          <version abrv="KJV" text="a ready" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="11,12,21" />
+          <reference bookId="19" chapter="45" verse="1" />
+          <reference bookId="40" chapter="13" verse="52" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="كاتب" />
+          <version abrv="KJV" text="scribe" />
+        </versions>
+        <references>
+          <reference bookId="16" chapter="8" verse="4,9,13" />
+          <reference bookId="16" chapter="12" verse="26,36" />
+          <reference bookId="24" chapter="8" verse="8" />
+          <reference bookId="46" chapter="1" verse="20" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="شريعة" />
+          <version abrv="KJV" text="the law" />
+        </versions>
+        <references>
+          <reference bookId="5" chapter="4" verse="5" />
+          <reference bookId="5" chapter="28" verse="1" />
+          <reference bookId="40" chapter="28" verse="20" />
+          <reference bookId="46" chapter="15" verse="1" />
+          <reference bookId="52" chapter="4" verse="1,2" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" حسب يد الرب" />
+          <version abrv="KJV" text="according to" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="9,28" />
+          <reference bookId="15" chapter="6" verse="22" />
+          <reference bookId="15" chapter="8" verse="18,22,31" />
+          <reference bookId="1" chapter="32" verse="28" />
+          <reference bookId="16" chapter="1" verse="10,11" />
+          <reference bookId="16" chapter="2" verse="8,12,18" />
+          <reference bookId="16" chapter="4" verse="15" />
+          <reference bookId="20" chapter="3" verse="6" />
+          <reference bookId="23" chapter="50" verse="2" />
+          <reference bookId="23" chapter="59" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text="بني اسرائيل" />
+          <version abrv="KJV" text="the children" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="8" verse="1-14" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="اللاويين" />
+          <version abrv="KJV" text="the Levites" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="2" verse="40,41" />
+          <reference bookId="15" chapter="8" verse="15-20" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="المغنين" />
+          <version abrv="KJV" text="singers" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="6" verse="31-48" />
+          <reference bookId="13" chapter="25" verse="1-8" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="البوابين" />
+          <version abrv="KJV" text="porters" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="2" verse="42" />
+          <reference bookId="13" chapter="9" verse="17-27" />
+          <reference bookId="16" chapter="7" verse="45" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="النثينيم" />
+          <version abrv="KJV" text="Nethinims" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="24" />
+          <reference bookId="15" chapter="2" verse="43-70" />
+          <reference bookId="15" chapter="8" verse="20" />
+          <reference bookId="16" chapter="7" verse="46-73" />
+          <reference bookId="16" chapter="10" verse="28" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لارتحشستا " />
+          <version abrv="KJV" text="Artaxerxes" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="11,12" />
+          <reference bookId="15" chapter="6" verse="14" />
+          <reference bookId="15" chapter="8" verse="1" />
+          <reference bookId="16" chapter="2" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="9">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" ابتدا يصعد من" />
+          <version abrv="KJV" text="began he to go up" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="6" />
+          <reference bookId="16" chapter="2" verse="8,18" />
+        </references>
+      </word>
+    </verse>
+    <verse number="10">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هيا قلبه" />
+          <version abrv="KJV" text="prepared" />
+        </versions>
+        <references>
+          <reference bookId="9" chapter="7" verse="3" />
+          <reference bookId="13" chapter="29" verse="18" />
+          <reference bookId="14" chapter="12" verse="14" />
+          <reference bookId="14" chapter="19" verse="3" />
+          <reference bookId="18" chapter="11" verse="13" />
+          <reference bookId="19" chapter="10" verse="17" />
+          <reference bookId="19" chapter="57" verse="7" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="شريعة" />
+          <version abrv="KJV" text="the law" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="6" />
+          <reference bookId="19" chapter="1" verse="2" />
+          <reference bookId="19" chapter="19" verse="7" />
+          <reference bookId="19" chapter="119" verse="45,96-100" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="العمل بها" />
+          <version abrv="KJV" text="to do it" />
+        </versions>
+        <references>
+          <reference bookId="5" chapter="16" verse="12" />
+          <reference bookId="40" chapter="5" verse="19" />
+          <reference bookId="40" chapter="7" verse="24" />
+          <reference bookId="43" chapter="13" verse="17" />
+          <reference bookId="66" chapter="22" verse="14" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="وليعلم " />
+          <version abrv="KJV" text="and to teach" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="25" />
+          <reference bookId="5" chapter="33" verse="10" />
+          <reference bookId="14" chapter="17" verse="8,9" />
+          <reference bookId="14" chapter="30" verse="22" />
+          <reference bookId="16" chapter="8" verse="1-9" />
+          <reference bookId="39" chapter="2" verse="7" />
+          <reference bookId="44" chapter="1" verse="1" />
+          <reference bookId="54" chapter="3" verse="2" />
+          <reference bookId="55" chapter="4" verse="2" />
+          <reference bookId="56" chapter="2" verse="1,15" />
+        </references>
+      </word>
+    </verse>
+    <verse number="11">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" صورة" />
+          <version abrv="KJV" text="the copy" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="4" verse="11" />
+          <reference bookId="15" chapter="5" verse="6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="الكاتب" />
+          <version abrv="KJV" text="a scribe" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="6" />
+          <reference bookId="40" chapter="23" verse="2,13" />
+          <reference bookId="41" chapter="7" verse="1-13" />
+        </references>
+      </word>
+    </verse>
+    <verse number="12">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ارتحشستا" />
+          <version abrv="KJV" text="Artaxerxes" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="4" verse="24" />
+          <reference bookId="11" chapter="20" verse="1" />
+          <reference bookId="23" chapter="10" verse="8" />
+          <reference bookId="26" chapter="26" verse="7" />
+          <reference bookId="27" chapter="2" verse="37,47" />
+          <reference bookId="54" chapter="6" verse="15" />
+          <reference bookId="66" chapter="17" verse="14" />
+          <reference bookId="66" chapter="19" verse="16" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" الى عزرا الكاهن كاتب شريعة اله السماء الكامل" />
+          <version abrv="KJV" text="unto Ezra, etc or, to Ezra the priest, a perfect scribe of" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="4" verse="10,11,17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="13">
+      <word>
+        <versions>
+          <version abrv="VDV" text="قد صدر" />
+          <version abrv="KJV" text="I make" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="5" verse="13" />
+          <reference bookId="15" chapter="6" verse="1" />
+          <reference bookId="14" chapter="30" verse="5" />
+          <reference bookId="17" chapter="3" verse="15" />
+          <reference bookId="17" chapter="9" verse="14" />
+          <reference bookId="19" chapter="148" verse="6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ان يرجع" />
+          <version abrv="KJV" text="minded" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="1" verse="3" />
+          <reference bookId="19" chapter="110" verse="3" />
+          <reference bookId="50" chapter="2" verse="13" />
+          <reference bookId="66" chapter="22" verse="17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="14">
+      <word>
+        <versions>
+          <version abrv="VDV" text="من قبل الملك " />
+          <version abrv="KJV" text="of the king" />
+        </versions>
+        <references>
+          <reference bookId="17" chapter="1" verse="14" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" حسب شريعة" />
+          <version abrv="KJV" text="according" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="25,26" />
+          <reference bookId="5" chapter="17" verse="18,19" />
+          <reference bookId="23" chapter="8" verse="20" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" الهك" />
+          <version abrv="KJV" text="thy God" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="1" verse="3" />
+          <reference bookId="15" chapter="5" verse="8" />
+          <reference bookId="15" chapter="6" verse="12" />
+          <reference bookId="27" chapter="2" verse="47" />
+          <reference bookId="27" chapter="6" verse="20,26" />
+        </references>
+      </word>
+    </verse>
+    <verse number="15">
+      <word>
+        <versions>
+          <version abrv="VDV" text="فضة" />
+          <version abrv="KJV" text="the silver" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="6" verse="4,8-10" />
+          <reference bookId="19" chapter="68" verse="29,30" />
+          <reference bookId="19" chapter="72" verse="10" />
+          <reference bookId="19" chapter="76" verse="11" />
+          <reference bookId="23" chapter="60" verse="6-9" />
+          <reference bookId="66" chapter="21" verse="24-26" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="مسكنه" />
+          <version abrv="KJV" text="whose habitation" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="6" verse="12" />
+          <reference bookId="14" chapter="2" verse="6" />
+          <reference bookId="14" chapter="6" verse="2,6" />
+          <reference bookId="19" chapter="9" verse="11" />
+          <reference bookId="19" chapter="26" verse="8" />
+          <reference bookId="19" chapter="76" verse="2" />
+          <reference bookId="19" chapter="135" verse="21" />
+        </references>
+      </word>
+    </verse>
+    <verse number="16">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كل الفضة" />
+          <version abrv="KJV" text="all the silver" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="8" verse="25-28" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" تبرعات" />
+          <version abrv="KJV" text="offering" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="1" verse="4,6" />
+          <reference bookId="13" chapter="29" verse="6,9,17" />
+          <reference bookId="47" chapter="8" verse="12" />
+          <reference bookId="47" chapter="9" verse="7" />
+        </references>
+      </word>
+    </verse>
+    <verse number="17">
+      <word>
+        <versions>
+          <version abrv="VDV" text="تشتري عاجلا" />
+          <version abrv="KJV" text="buy speedily" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="6" verse="9,10" />
+          <reference bookId="5" chapter="14" verse="24-26" />
+          <reference bookId="40" chapter="21" verse="12,13" />
+          <reference bookId="43" chapter="2" verse="14" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="خرافا وتقدماتها " />
+          <version abrv="KJV" text="their meat offerings" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="15" verse="4-13" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="تقربها" />
+          <version abrv="KJV" text="offer them" />
+        </versions>
+        <references>
+          <reference bookId="5" chapter="12" verse="5-11" />
+        </references>
+      </word>
+    </verse>
+    <verse number="18">
+      <word>
+        <versions>
+          <version abrv="VDV" text="مهما حسن" />
+          <version abrv="KJV" text="whatsoever" />
+        </versions>
+        <references>
+          <reference bookId="12" chapter="12" verse="15" />
+          <reference bookId="12" chapter="22" verse="7" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ان تعملوه" />
+          <version abrv="KJV" text="that do" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="26" />
+          <reference bookId="49" chapter="5" verse="17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="19">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الآنية" />
+          <version abrv="KJV" text="The vessels" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="8" verse="27-30,33,34" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="امام اله اورشليم" />
+          <version abrv="KJV" text="the God of Jerusalem" />
+        </versions>
+        <references>
+          <reference bookId="14" chapter="32" verse="19" />
+          <reference bookId="24" chapter="3" verse="17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="20">
+      <word>
+        <versions>
+          <version abrv="VDV" text="فاعطه" />
+          <version abrv="KJV" text="bestow it" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="6" verse="4,8-18" />
+        </references>
+      </word>
+    </verse>
+    <verse number="21">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ارتحشستا" />
+          <version abrv="KJV" text="Artaxerxes" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="12,13" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" عبر النهر" />
+          <version abrv="KJV" text="beyond the river" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="4" verse="16,20" />
+          <reference bookId="15" chapter="6" verse="6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عزرا الكاهن " />
+          <version abrv="KJV" text="Ezra the priest" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="6,10,11" />
+        </references>
+      </word>
+    </verse>
+    <verse number="22">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كر من الحنطة" />
+          <version abrv="KJV" text="measures" />
+        </versions>
+        <references>
+          <reference bookId="42" chapter="16" verse="7" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="بث من الخمر" />
+          <version abrv="KJV" text="baths of wine" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="45" verse="14" />
+          <reference bookId="42" chapter="16" verse="6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="الملح" />
+          <version abrv="KJV" text="salt" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="2" verse="13" />
+        </references>
+      </word>
+    </verse>
+    <verse number="23">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كل ما امر به " />
+          <version abrv="KJV" text="Whatsoever is commanded" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="13,18" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="فليعمل " />
+          <version abrv="KJV" text="let it be" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="119" verse="4" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لماذا يكون غضب" />
+          <version abrv="KJV" text="why should there be wrath" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="6" verse="10-12" />
+          <reference bookId="38" chapter="12" verse="3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="24">
+      <word>
+        <versions>
+          <version abrv="VDV" text="نعلمكم " />
+          <version abrv="KJV" text="touching any" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="7" />
+          <reference bookId="15" chapter="2" verse="36-55" />
+        </references>
+      </word>
+    </verse>
+    <verse number="25">
+      <word>
+        <versions>
+          <version abrv="VDV" text="حكمة" />
+          <version abrv="KJV" text="the wisdom" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="14" />
+          <reference bookId="11" chapter="3" verse="28" />
+          <reference bookId="13" chapter="22" verse="12" />
+          <reference bookId="19" chapter="19" verse="7" />
+          <reference bookId="19" chapter="119" verse="98-100" />
+          <reference bookId="20" chapter="2" verse="6" />
+          <reference bookId="20" chapter="6" verse="23" />
+          <reference bookId="59" chapter="1" verse="5" />
+          <reference bookId="59" chapter="3" verse="17,18" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ضع حكاما" />
+          <version abrv="KJV" text="set magistrates" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="18" verse="21-25" />
+          <reference bookId="5" chapter="16" verse="18" />
+          <reference bookId="13" chapter="23" verse="4" />
+          <reference bookId="14" chapter="19" verse="8-10" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عبر النهر " />
+          <version abrv="KJV" text="beyond the river" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="6" verse="6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="فعلموهم" />
+          <version abrv="KJV" text="teach ye" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="10" />
+          <reference bookId="14" chapter="17" verse="7-9" />
+          <reference bookId="16" chapter="8" verse="1-3,7,8" />
+          <reference bookId="16" chapter="9" verse="3" />
+          <reference bookId="16" chapter="13" verse="1-3" />
+          <reference bookId="39" chapter="2" verse="7" />
+          <reference bookId="40" chapter="13" verse="52" />
+          <reference bookId="40" chapter="23" verse="2,3" />
+          <reference bookId="41" chapter="6" verse="34" />
+          <reference bookId="45" chapter="10" verse="14-17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="26">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كل من لا يعمل" />
+          <version abrv="KJV" text="whosoever" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="6" verse="11" />
+          <reference bookId="27" chapter="3" verse="28,29" />
+          <reference bookId="27" chapter="6" verse="26" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="شريعة الهك" />
+          <version abrv="KJV" text="the law of thy God" />
+        </versions>
+        <references>
+          <reference bookId="14" chapter="30" verse="12" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="فليقض عليه " />
+          <version abrv="KJV" text="whether it be" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="21" verse="1-36" />
+          <reference bookId="2" chapter="22" verse="1-31" />
+          <reference bookId="3" chapter="20" verse="1-27" />
+          <reference bookId="5" chapter="13" verse="1-18" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="بالنفي" />
+          <version abrv="KJV" text="banishment" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="52" verse="5" />
+        </references>
+      </word>
+    </verse>
+    <verse number="27">
+      <word>
+        <versions>
+          <version abrv="VDV" text="مبارك" />
+          <version abrv="KJV" text="Blessed" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="6" verse="22" />
+          <reference bookId="13" chapter="29" verse="10-30" />
+          <reference bookId="50" chapter="4" verse="10" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="جعل مثل هذا" />
+          <version abrv="KJV" text="put such" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="6" verse="22" />
+          <reference bookId="16" chapter="2" verse="12" />
+          <reference bookId="16" chapter="7" verse="5" />
+          <reference bookId="47" chapter="8" verse="16" />
+          <reference bookId="58" chapter="8" verse="10" />
+          <reference bookId="58" chapter="10" verse="16" />
+          <reference bookId="59" chapter="1" verse="17" />
+          <reference bookId="66" chapter="17" verse="17" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="في قلب الملك" />
+          <version abrv="KJV" text="in the king's heart" />
+        </versions>
+        <references>
+          <reference bookId="16" chapter="2" verse="8" />
+          <reference bookId="20" chapter="21" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لاجل تزيين" />
+          <version abrv="KJV" text="to beautify" />
+        </versions>
+        <references>
+          <reference bookId="23" chapter="60" verse="13" />
+        </references>
+      </word>
+    </verse>
+    <verse number="28">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" بسط" />
+          <version abrv="KJV" text="extended" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="9" verse="9" />
+          <reference bookId="1" chapter="32" verse="28" />
+          <reference bookId="1" chapter="43" verse="14" />
+          <reference bookId="16" chapter="1" verse="11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="مشيريه " />
+          <version abrv="KJV" text="his counsellors" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="14" />
+          <reference bookId="32" chapter="3" verse="7" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="حسب يد" />
+          <version abrv="KJV" text="as the hand" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="6,9" />
+          <reference bookId="15" chapter="5" verse="5" />
+          <reference bookId="15" chapter="8" verse="18" />
+          <reference bookId="16" chapter="2" verse="8" />
+          <reference bookId="55" chapter="4" verse="17,18" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

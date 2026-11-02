@@ -1,0 +1,12 @@
+<versions>
+	<version language="Arabic" abbreviation="VDV" name="فان دايك" hasDiacritic="true" canShowAlone="true" copyrights=""/>
+	<version language="Arabic" abbreviation="NAV" name="كتاب الحياة" hasDiacritic="true" canShowAlone="true" copyrights="Holy Bible, New Arabic Version (Ketab el Hayat)Copyright © 1988, 1997 by Biblica, Inc.Used by permission.  All rights reserved worldwide."/>
+	<!-- <version language="English" abbreviation="NIV" name="New International Version" hasDiacritic="false" canShowAlone="true" copyrights=""/> -->
+	<version language="English" abbreviation="KJV" name="King James" hasDiacritic="false" canShowAlone="true" copyrights=""/>
+	<version language="English" abbreviation="NKJV" name="New King James" hasDiacritic="false" canShowAlone="false" copyrights="New King James Version®, Copyright© 1982, Thomas Nelson. All rights reserved."/>
+	<version language="French" abbreviation="LSV" name="Louis Segond" hasDiacritic="false" canShowAlone="true" copyrights=""/>
+	<version language="Spanish" abbreviation="RVR" name="Reina Valera" hasDiacritic="false" canShowAlone="true" copyrights=""/>
+	<version language="Farsi" abbreviation="TPV" name="فارسى" hasDiacritic="false" canShowAlone="true" copyrights=""/>
+	<version language="Turkish" abbreviation="TUR" name="Türk" hasDiacritic="false" canShowAlone="true" copyrights=""/>
+	<version language="Urdu" abbreviation="URD" name="اردو" hasDiacritic="false" canShowAlone="true" copyrights=""/>
+</versions>

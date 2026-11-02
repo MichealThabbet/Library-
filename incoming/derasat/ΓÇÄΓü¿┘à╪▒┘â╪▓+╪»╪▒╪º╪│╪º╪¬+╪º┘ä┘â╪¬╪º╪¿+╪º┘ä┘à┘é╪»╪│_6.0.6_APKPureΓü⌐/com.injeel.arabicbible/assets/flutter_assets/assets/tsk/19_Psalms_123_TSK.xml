@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Psalms" id="19">
+  <chapter number="123">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اليك " />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="123" verse="1" />
+          <reference bookId="19" chapter="120" verse="1" />
+          <reference bookId="19" chapter="121" verse="1" />
+          <reference bookId="19" chapter="122" verse="1" />
+          <reference bookId="19" chapter="124" verse="1" />
+          <reference bookId="19" chapter="125" verse="1" />
+          <reference bookId="19" chapter="126" verse="1" />
+          <reference bookId="19" chapter="127" verse="1" />
+          <reference bookId="19" chapter="128" verse="1" />
+          <reference bookId="19" chapter="129" verse="1" />
+          <reference bookId="19" chapter="130" verse="1" />
+          <reference bookId="19" chapter="131" verse="1" />
+          <reference bookId="19" chapter="132" verse="1" />
+          <reference bookId="19" chapter="133" verse="1" />
+          <reference bookId="19" chapter="134" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="رفعت" />
+          <version abrv="KJV" text="lift I" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="25" verse="15" />
+          <reference bookId="19" chapter="121" verse="1" />
+          <reference bookId="19" chapter="141" verse="8" />
+          <reference bookId="42" chapter="18" verse="13" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" يا ساكنا " />
+          <version abrv="KJV" text="O thou" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="2" verse="4" />
+          <reference bookId="19" chapter="11" verse="4" />
+          <reference bookId="19" chapter="113" verse="5,6" />
+          <reference bookId="19" chapter="115" verse="3" />
+          <reference bookId="23" chapter="57" verse="15" />
+          <reference bookId="23" chapter="66" verse="1" />
+          <reference bookId="40" chapter="6" verse="9" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كما ان عيون" />
+          <version abrv="KJV" text="as the eyes" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="9" verse="23,27" />
+          <reference bookId="6" chapter="10" verse="6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="هكذا عيوننا " />
+          <version abrv="KJV" text="so our eyes" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="40" verse="1-3" />
+          <reference bookId="19" chapter="119" verse="82,123-125" />
+          <reference bookId="19" chapter="130" verse="5,6" />
+          <reference bookId="1" chapter="32" verse="26" />
+          <reference bookId="1" chapter="49" verse="18" />
+          <reference bookId="25" chapter="3" verse="25,26" />
+          <reference bookId="42" chapter="18" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" ارحمنا " />
+          <version abrv="KJV" text="Have mercy" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="56" verse="1,2" />
+          <reference bookId="19" chapter="57" verse="1" />
+          <reference bookId="19" chapter="69" verse="13-16" />
+          <reference bookId="42" chapter="18" verse="11-13" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لاننا كثيرا" />
+          <version abrv="KJV" text="for we are" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="44" verse="13-16" />
+          <reference bookId="19" chapter="89" verse="50,51" />
+          <reference bookId="16" chapter="4" verse="2-4" />
+          <reference bookId="23" chapter="53" verse="3" />
+          <reference bookId="42" chapter="16" verse="14" />
+          <reference bookId="42" chapter="23" verse="35" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text="من هزء" />
+          <version abrv="KJV" text="with the scorning" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="73" verse="5-9" />
+          <reference bookId="19" chapter="119" verse="51" />
+          <reference bookId="18" chapter="12" verse="5" />
+          <reference bookId="18" chapter="16" verse="4" />
+          <reference bookId="24" chapter="48" verse="11,27,29" />
+          <reference bookId="44" chapter="17" verse="21,32" />
+          <reference bookId="44" chapter="26" verse="24" />
+          <reference bookId="46" chapter="4" verse="13" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

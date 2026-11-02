@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Numbers" id="4">
+  <chapter number="34">
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هي الارض" />
+          <version abrv="KJV" text="is the land" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="33" verse="51-53" />
+          <reference bookId="1" chapter="12" verse="6,7" />
+          <reference bookId="1" chapter="13" verse="15-17" />
+          <reference bookId="1" chapter="15" verse="16-21" />
+          <reference bookId="1" chapter="17" verse="8" />
+          <reference bookId="5" chapter="1" verse="7,8" />
+          <reference bookId="19" chapter="78" verse="55" />
+          <reference bookId="19" chapter="105" verse="11" />
+          <reference bookId="26" chapter="47" verse="14" />
+          <reference bookId="44" chapter="17" verse="26" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لكم نصيبا" />
+          <version abrv="KJV" text="an inheritance" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="16" verse="5,6" />
+          <reference bookId="24" chapter="3" verse="19" />
+          <reference bookId="44" chapter="26" verse="18" />
+          <reference bookId="49" chapter="1" verse="14,18" />
+          <reference bookId="60" chapter="1" verse="3,4" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ناحية الجنوب" />
+          <version abrv="KJV" text="south quarter" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="23" verse="31" />
+          <reference bookId="6" chapter="15" verse="1-12" />
+          <reference bookId="26" chapter="47" verse="13,19-23" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="بحر الملح الى الشرق" />
+          <version abrv="KJV" text="salt sea eastward" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="14" verse="3" />
+          <reference bookId="6" chapter="3" verse="16" />
+          <reference bookId="6" chapter="15" verse="2" />
+          <reference bookId="26" chapter="47" verse="8,18" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text="عقربيم" />
+          <version abrv="KJV" text="Akrabbim" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="15" verse="3" />
+          <reference bookId="7" chapter="1" verse="36" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" صين" />
+          <version abrv="KJV" text="Zin" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="34" verse="3" />
+          <reference bookId="4" chapter="13" verse="21" />
+          <reference bookId="4" chapter="20" verse="1" />
+          <reference bookId="4" chapter="33" verse="36,37" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" قادش برنيع" />
+          <version abrv="KJV" text="Kadesh-barnea" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="13" verse="26" />
+          <reference bookId="4" chapter="32" verse="8" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" عصمون" />
+          <version abrv="KJV" text="Hazar-addar" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="15" verse="3,4" />
+        </references>
+      </word>
+    </verse>
+    <verse number="5">
+      <word>
+        <versions>
+          <version abrv="VDV" text="وادي مصر" />
+          <version abrv="KJV" text="the river" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="15" verse="18" />
+          <reference bookId="6" chapter="15" verse="4,47" />
+          <reference bookId="11" chapter="8" verse="65" />
+          <reference bookId="23" chapter="27" verse="12" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عند البحر" />
+          <version abrv="KJV" text="the sea" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="34" verse="6,7" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <references>
+        <reference bookId="6" chapter="1" verse="4" />
+        <reference bookId="6" chapter="9" verse="1" />
+        <reference bookId="6" chapter="15" verse="12,47" />
+        <reference bookId="6" chapter="23" verse="4" />
+        <reference bookId="26" chapter="47" verse="10,15,20" />
+      </references>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text="تخم الشمال" />
+          <version abrv="KJV" text="north border" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="34" verse="3,6,9,10" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="جبل هور" />
+          <version abrv="KJV" text="mount Hor" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="33" verse="37" />
+        </references>
+      </word>
+    </verse>
+    <verse number="8">
+      <word>
+        <versions>
+          <version abrv="VDV" text="مدخل حماة" />
+          <version abrv="KJV" text="the entrance" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="13" verse="21" />
+          <reference bookId="6" chapter="13" verse="5,6" />
+          <reference bookId="10" chapter="8" verse="9" />
+          <reference bookId="12" chapter="14" verse="25" />
+          <reference bookId="24" chapter="39" verse="5" />
+          <reference bookId="26" chapter="47" verse="15-20" />
+        </references>
+      </word>
+    </verse>
+    <verse number="9">
+      <word>
+        <versions>
+          <version abrv="VDV" text="حصر عينان" />
+          <version abrv="KJV" text="Hazar-enan" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="47" verse="17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="11">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ربلة" />
+          <version abrv="KJV" text="Riblah" />
+        </versions>
+        <references>
+          <reference bookId="12" chapter="23" verse="33" />
+          <reference bookId="12" chapter="25" verse="6" />
+          <reference bookId="24" chapter="39" verse="5,6" />
+          <reference bookId="24" chapter="52" verse="10,26,27" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="شرقي " />
+          <version abrv="KJV" text="side" />
+        </versions>
+        <references>
+          <reference bookId="5" chapter="3" verse="17" />
+          <reference bookId="6" chapter="11" verse="2" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" كنارة " />
+          <version abrv="KJV" text="Chinneroth" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="19" verse="35" />
+          <reference bookId="40" chapter="14" verse="34" />
+          <reference bookId="42" chapter="5" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="الى الشرق" />
+          <version abrv="KJV" text="Gennesaret" />
+        </versions>
+        <references>
+          <reference bookId="43" chapter="6" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="12">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" بحر الملح" />
+          <version abrv="KJV" text="the salt sea" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="34" verse="3" />
+          <reference bookId="1" chapter="13" verse="10" />
+          <reference bookId="1" chapter="14" verse="3" />
+          <reference bookId="1" chapter="19" verse="24-26" />
+        </references>
+      </word>
+    </verse>
+    <verse number="13">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هذه هي الارض" />
+          <version abrv="KJV" text="This is the land" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="34" verse="1" />
+          <reference bookId="6" chapter="14" verse="1,2" />
+        </references>
+      </word>
+    </verse>
+    <verse number="14">
+      <references>
+        <reference bookId="4" chapter="32" verse="23,33" />
+        <reference bookId="5" chapter="3" verse="12-17" />
+        <reference bookId="6" chapter="13" verse="8-12" />
+        <reference bookId="6" chapter="14" verse="2,3" />
+      </references>
+    </verse>
+    <verse number="15">
+      <word>
+        <versions>
+          <version abrv="VDV" text="في عبر اردن اريحا شرقا" />
+          <version abrv="KJV" text="on this side Jordan" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="32" verse="32" />
+        </references>
+      </word>
+    </verse>
+    <verse number="17">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هذان اسما الرجلين " />
+          <version abrv="KJV" text="are the names" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="16" verse="7" />
+          <reference bookId="6" chapter="18" verse="11" />
+          <reference bookId="6" chapter="19" verse="1,10-17,24-32,40" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="العازار" />
+          <version abrv="KJV" text="Eleazar" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="14" verse="1" />
+          <reference bookId="6" chapter="19" verse="51" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="يشوع " />
+          <version abrv="KJV" text="Joshua" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="13" verse="8,16" />
+        </references>
+      </word>
+    </verse>
+    <verse number="18">
+      <references>
+        <reference bookId="4" chapter="1" verse="4-16" />
+      </references>
+    </verse>
+    <verse number="19">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كالب " />
+          <version abrv="KJV" text="Caleb" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="13" verse="30" />
+          <reference bookId="4" chapter="14" verse="6,24,30,38" />
+          <reference bookId="4" chapter="26" verse="65" />
+        </references>
+      </word>
+    </verse>
+    <verse number="29">
+      <references>
+        <reference bookId="4" chapter="34" verse="18" />
+        <reference bookId="6" chapter="19" verse="51" />
+      </references>
+    </verse>
+  </chapter>
+</book>

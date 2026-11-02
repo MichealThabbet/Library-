@@ -1,0 +1,382 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Ezekiel" id="26">
+  <chapter number="41">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اتى" />
+          <version abrv="KJV" text="he brought" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="40" verse="2,3,17" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="الى الهيكل" />
+          <version abrv="KJV" text="to the temple" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="2" />
+          <reference bookId="38" chapter="6" verse="12,13" />
+          <reference bookId="49" chapter="2" verse="20-22" />
+          <reference bookId="60" chapter="2" verse="5" />
+          <reference bookId="66" chapter="3" verse="12" />
+          <reference bookId="66" chapter="11" verse="1,2" />
+          <reference bookId="66" chapter="21" verse="3,15" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="المدخل" />
+          <version abrv="KJV" text="the door" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="26" verse="36" />
+          <reference bookId="2" chapter="36" verse="37" />
+          <reference bookId="11" chapter="6" verse="31-35" />
+          <reference bookId="14" chapter="3" verse="7" />
+          <reference bookId="14" chapter="29" verse="7" />
+          <reference bookId="43" chapter="10" verse="7,9" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="طوله" />
+          <version abrv="KJV" text="the length" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="2,17" />
+          <reference bookId="14" chapter="3" verse="3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ذراعين" />
+          <version abrv="KJV" text="two cubits" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="41" verse="3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text="عشرين ذراعا" />
+          <version abrv="KJV" text="twenty cubits" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="20" />
+          <reference bookId="14" chapter="3" verse="8" />
+          <reference bookId="66" chapter="21" verse="16" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="هذا قدس" />
+          <version abrv="KJV" text="This" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="26" verse="33,34" />
+          <reference bookId="58" chapter="9" verse="3-8" />
+        </references>
+      </word>
+    </verse>
+    <verse number="5">
+      <word>
+        <versions>
+          <version abrv="VDV" text="عرض الغرفة" />
+          <version abrv="KJV" text="side chamber" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="41" verse="6,7" />
+          <reference bookId="26" chapter="42" verse="3-14" />
+          <reference bookId="11" chapter="6" verse="5,6" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" ودخلت " />
+          <version abrv="KJV" text="and they" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="6,10" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" لتتمكن" />
+          <version abrv="KJV" text="have held" />
+        </versions>
+        <references>
+          <reference bookId="60" chapter="1" verse="5" />
+        </references>
+      </word>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اتسعت" />
+          <version abrv="KJV" text="there was" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="8" />
+          <reference bookId="40" chapter="13" verse="32" />
+          <reference bookId="58" chapter="6" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="8">
+      <word>
+        <versions>
+          <version abrv="VDV" text="قصبة تامة" />
+          <version abrv="KJV" text="a full" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="40" verse="5" />
+          <reference bookId="66" chapter="21" verse="16" />
+        </references>
+      </word>
+    </verse>
+    <verse number="9">
+      <word>
+        <versions>
+          <version abrv="VDV" text="خمس اذرع" />
+          <version abrv="KJV" text="was five" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="41" verse="5" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ما بقي" />
+          <version abrv="KJV" text="that which" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="41" verse="11" />
+          <reference bookId="26" chapter="42" verse="1,4" />
+        </references>
+      </word>
+    </verse>
+    <verse number="10">
+      <word>
+        <versions>
+          <version abrv="VDV" text="المخادع" />
+          <version abrv="KJV" text="the chambers" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="41" verse="10" />
+        </references>
+      </word>
+    </verse>
+    <verse number="11">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" وعرض" />
+          <version abrv="KJV" text="and the breadth" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="41" verse="9" />
+          <reference bookId="26" chapter="42" verse="4" />
+        </references>
+      </word>
+    </verse>
+    <verse number="12">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" المنفصل" />
+          <version abrv="KJV" text="separate" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="41" verse="13-15" />
+          <reference bookId="26" chapter="42" verse="1,10,13" />
+          <reference bookId="66" chapter="21" verse="27" />
+          <reference bookId="66" chapter="22" verse="14,15" />
+        </references>
+      </word>
+    </verse>
+    <verse number="13">
+      <word>
+        <versions>
+          <version abrv="VDV" text="قاس" />
+          <version abrv="KJV" text="he measured" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="41" verse="13" />
+        </references>
+      </word>
+    </verse>
+    <verse number="15">
+      <word>
+        <versions>
+          <version abrv="VDV" text="واساطينه" />
+          <version abrv="KJV" text="galleries" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="42" verse="3" />
+          <reference bookId="22" chapter="1" verse="17" />
+          <reference bookId="22" chapter="7" verse="5" />
+          <reference bookId="38" chapter="3" verse="7" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="الداخلي" />
+          <version abrv="KJV" text="with the" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="41" verse="17" />
+          <reference bookId="26" chapter="42" verse="15" />
+        </references>
+      </word>
+    </verse>
+    <verse number="16">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الكوى" />
+          <version abrv="KJV" text="narrow" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="41" verse="26" />
+          <reference bookId="26" chapter="40" verse="16,25" />
+          <reference bookId="11" chapter="6" verse="4" />
+          <reference bookId="46" chapter="13" verse="12" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="من الواح خشب " />
+          <version abrv="KJV" text="ceiled with wood" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="15" />
+          <reference bookId="14" chapter="3" verse="5" />
+          <reference bookId="37" chapter="1" verse="4" />
+        </references>
+      </word>
+    </verse>
+    <verse number="17">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الاقيسة" />
+          <version abrv="KJV" text="measure" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="42" verse="15" />
+        </references>
+      </word>
+    </verse>
+    <verse number="18">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" كروبيم " />
+          <version abrv="KJV" text="with cherubims" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="29-32" />
+          <reference bookId="11" chapter="7" verse="36" />
+          <reference bookId="14" chapter="3" verse="7" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="نخيل" />
+          <version abrv="KJV" text="palm trees" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="40" verse="16,22" />
+          <reference bookId="66" chapter="7" verse="9" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ولكل كروب" />
+          <version abrv="KJV" text="and every" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="1" verse="10" />
+          <reference bookId="26" chapter="10" verse="14,21" />
+          <reference bookId="66" chapter="4" verse="7-9" />
+        </references>
+      </word>
+    </verse>
+    <verse number="21">
+      <word>
+        <versions>
+          <version abrv="VDV" text="قوائم" />
+          <version abrv="KJV" text="posts" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="40" verse="14" />
+          <reference bookId="11" chapter="6" verse="33" />
+        </references>
+      </word>
+    </verse>
+    <verse number="22">
+      <word>
+        <versions>
+          <version abrv="VDV" text="المذبح" />
+          <version abrv="KJV" text="altar" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="30" verse="1-3" />
+          <reference bookId="11" chapter="6" verse="20,22" />
+          <reference bookId="11" chapter="7" verse="48" />
+          <reference bookId="14" chapter="4" verse="19" />
+          <reference bookId="66" chapter="8" verse="3" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="هذه المائدة" />
+          <version abrv="KJV" text="This is" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="23" verse="41" />
+          <reference bookId="26" chapter="44" verse="16" />
+          <reference bookId="2" chapter="25" verse="28-30" />
+          <reference bookId="3" chapter="24" verse="6" />
+          <reference bookId="20" chapter="9" verse="2" />
+          <reference bookId="22" chapter="1" verse="12" />
+          <reference bookId="39" chapter="1" verse="7,12" />
+          <reference bookId="46" chapter="10" verse="21" />
+          <reference bookId="66" chapter="3" verse="20" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="امام" />
+          <version abrv="KJV" text="before" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="30" verse="8" />
+        </references>
+      </word>
+    </verse>
+    <verse number="23">
+      <references>
+        <reference bookId="11" chapter="6" verse="31-35" />
+        <reference bookId="14" chapter="4" verse="22" />
+      </references>
+    </verse>
+    <verse number="24">
+      <references>
+        <reference bookId="26" chapter="40" verse="48" />
+      </references>
+    </verse>
+    <verse number="26">
+      <references>
+        <reference bookId="26" chapter="41" verse="16" />
+        <reference bookId="26" chapter="40" verse="16" />
+      </references>
+    </verse>
+  </chapter>
+</book>

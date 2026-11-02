@@ -1,0 +1,40 @@
+using Katameros.DTOs;
+using Microsoft.EntityFrameworkCore;
+
+namespace Katameros.Repositories;
+
+public class FastsRepository(DatabaseContext _context, FastsFactory _fastsFactory)
+{
+
+    public async Task<bool> Configure(int languageId = 1)
+    {
+        if (!await _context.Languages.AnyAsync(l => l.Id == languageId))
+            return false;
+        _context.LanguageId = languageId;
+        return true;
+    }
+
+    public async Task<IEnumerable<FastPeriod>> GetFastsForYear(int year)
+    {
+        var fasts = _fastsFactory.ComputeFastPeriods(year);
+        var fastsTranslations = await GetFastsTranslations();
+
+        return fasts.Select(x =>
+        {
+            var translation = fastsTranslations.Where(t => t.FastId == (int)x.Fast).FirstOrDefault();
+            return new FastPeriod()
+            {
+                Id = (int)x.Fast,
+                Start = x.Start,
+                End = x.End,
+                Name = translation?.Text,
+                Description = translation?.Description
+            };
+        });
+    }
+
+    private async Task<IEnumerable<Models.FastsTranslation>> GetFastsTranslations()
+    {
+        return await _context.FastsTranslations.Where(x => x.LanguageId == _context.LanguageId).ToListAsync();
+    }
+}

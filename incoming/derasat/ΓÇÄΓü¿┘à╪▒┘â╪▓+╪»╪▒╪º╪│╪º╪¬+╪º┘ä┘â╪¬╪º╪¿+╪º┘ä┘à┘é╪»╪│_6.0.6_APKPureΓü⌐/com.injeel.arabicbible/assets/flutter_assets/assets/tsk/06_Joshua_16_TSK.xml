@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Joshua" id="6">
+  <chapter number="16">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="من اردن " />
+          <version abrv="KJV" text="fell" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="8" verse="15" />
+          <reference bookId="6" chapter="15" verse="61" />
+          <reference bookId="6" chapter="18" verse="12" />
+          <reference bookId="12" chapter="2" verse="19-21" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="بيت ايل " />
+          <version abrv="KJV" text="Beth-el" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="18" verse="13" />
+          <reference bookId="1" chapter="28" verse="19" />
+          <reference bookId="7" chapter="1" verse="22-26" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="الاركيين" />
+          <version abrv="KJV" text="Archi" />
+        </versions>
+        <references>
+          <reference bookId="10" chapter="16" verse="16" />
+          <reference bookId="13" chapter="27" verse="33" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="بيت حورون" />
+          <version abrv="KJV" text="Beth-horon" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="18" verse="13" />
+          <reference bookId="11" chapter="9" verse="15-17" />
+          <reference bookId="13" chapter="7" verse="24,28" />
+          <reference bookId="14" chapter="8" verse="5" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="البحر" />
+          <version abrv="KJV" text="the sea" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="34" verse="6" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <references>
+        <reference bookId="6" chapter="17" verse="14" />
+      </references>
+    </verse>
+    <verse number="5">
+      <word>
+        <versions>
+          <version abrv="VDV" text="عطاروت ادار" />
+          <version abrv="KJV" text="Ataroth-addar" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="16" verse="2" />
+          <reference bookId="6" chapter="18" verse="13" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text="المكمتة" />
+          <version abrv="KJV" text="Michmethah" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="17" verse="7" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="تآنة شيلوه" />
+          <version abrv="KJV" text="Taanath-shiloh" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="18" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text="عطاروت" />
+          <version abrv="KJV" text="Ataroth" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="7" verse="28" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="اريحا " />
+          <version abrv="KJV" text="Jericho" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="3" verse="16" />
+          <reference bookId="6" chapter="6" verse="1,26" />
+          <reference bookId="4" chapter="33" verse="48" />
+        </references>
+      </word>
+    </verse>
+    <verse number="8">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" تفوح " />
+          <version abrv="KJV" text="Tappuah" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="12" verse="17" />
+          <reference bookId="6" chapter="17" verse="8" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="وادي قانة" />
+          <version abrv="KJV" text="river Kanah" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="17" verse="9" />
+          <reference bookId="6" chapter="19" verse="28" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" عند البحر" />
+          <version abrv="KJV" text="the sea" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="16" verse="3-6" />
+          <reference bookId="4" chapter="34" verse="6" />
+        </references>
+      </word>
+    </verse>
+    <verse number="9">
+      <references>
+        <reference bookId="6" chapter="17" verse="9" />
+      </references>
+    </verse>
+    <verse number="10">
+      <word>
+        <versions>
+          <version abrv="VDV" text="يطردوا " />
+          <version abrv="KJV" text="they drave" />
+        </versions>
+        <references>
+          <reference bookId="6" chapter="15" verse="63" />
+          <reference bookId="7" chapter="1" verse="29" />
+          <reference bookId="11" chapter="9" verse="16,21" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="فسكن الكنعانيون" />
+          <version abrv="KJV" text="the Canaanites dwell" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="33" verse="52-55" />
+          <reference bookId="5" chapter="7" verse="1,2" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

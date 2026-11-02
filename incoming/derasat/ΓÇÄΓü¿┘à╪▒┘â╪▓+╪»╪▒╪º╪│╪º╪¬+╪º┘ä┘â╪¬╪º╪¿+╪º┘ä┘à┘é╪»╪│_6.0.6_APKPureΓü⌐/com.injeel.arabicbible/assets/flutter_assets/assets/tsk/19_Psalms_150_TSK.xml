@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Psalms" id="19">
+  <chapter number="150">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" سبحوا الله " />
+          <version abrv="KJV" text="Praise ye the Lord" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="149" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="في قدسه" />
+          <version abrv="KJV" text="in his sanctuary" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="29" verse="9" />
+          <reference bookId="19" chapter="66" verse="13-16" />
+          <reference bookId="19" chapter="116" verse="18,19" />
+          <reference bookId="19" chapter="118" verse="19,20" />
+          <reference bookId="19" chapter="134" verse="2" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="في فلك" />
+          <version abrv="KJV" text="in the firmament" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="1" verse="6-8" />
+          <reference bookId="26" chapter="1" verse="22-26" />
+          <reference bookId="26" chapter="10" verse="1" />
+          <reference bookId="27" chapter="12" verse="3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="على قواته" />
+          <version abrv="KJV" text="for his mighty" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="145" verse="5,6" />
+          <reference bookId="66" chapter="15" verse="3,4" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="حسب كثرة" />
+          <version abrv="KJV" text="according" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="96" verse="4" />
+          <reference bookId="19" chapter="145" verse="3" />
+          <reference bookId="5" chapter="3" verse="24" />
+          <reference bookId="24" chapter="32" verse="17-19" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" بصوت" />
+          <version abrv="KJV" text="with the sound" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="81" verse="2,3" />
+          <reference bookId="19" chapter="98" verse="5,6" />
+          <reference bookId="4" chapter="10" verse="10" />
+          <reference bookId="13" chapter="15" verse="24,28" />
+          <reference bookId="13" chapter="16" verse="42" />
+          <reference bookId="27" chapter="3" verse="5" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="برباب" />
+          <version abrv="KJV" text="trumpet" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="33" verse="2" />
+          <reference bookId="19" chapter="92" verse="3" />
+          <reference bookId="19" chapter="108" verse="2" />
+          <reference bookId="19" chapter="149" verse="3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" بدف" />
+          <version abrv="KJV" text="with the timbrel" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="15" verse="20" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="رقص" />
+          <version abrv="KJV" text="dance" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="149" verse="3" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="باوتار " />
+          <version abrv="KJV" text="stringed" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="33" verse="2" />
+          <reference bookId="19" chapter="92" verse="3" />
+          <reference bookId="19" chapter="144" verse="9" />
+          <reference bookId="23" chapter="38" verse="20" />
+          <reference bookId="35" chapter="3" verse="19" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="مزمار" />
+          <version abrv="KJV" text="organs" />
+        </versions>
+        <references>
+          <reference bookId="18" chapter="30" verse="31" />
+        </references>
+      </word>
+    </verse>
+    <verse number="5">
+      <word>
+        <versions>
+          <version abrv="VDV" text="بصنوج التصويت" />
+          <version abrv="KJV" text="the loud cymbals" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="15" verse="16,19,28" />
+          <reference bookId="13" chapter="16" verse="5" />
+          <reference bookId="13" chapter="25" verse="1,6" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كل نسمة " />
+          <version abrv="KJV" text="Let every thing" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="103" verse="22" />
+          <reference bookId="19" chapter="145" verse="10" />
+          <reference bookId="19" chapter="148" verse="7-11" />
+          <reference bookId="66" chapter="5" verse="13" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

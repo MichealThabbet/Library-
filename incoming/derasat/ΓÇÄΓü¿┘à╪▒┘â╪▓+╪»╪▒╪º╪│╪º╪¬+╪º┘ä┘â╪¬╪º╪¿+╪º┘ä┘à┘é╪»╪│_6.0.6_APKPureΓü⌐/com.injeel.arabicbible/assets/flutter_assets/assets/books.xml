@@ -1,0 +1,729 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<books>
+  <book id="1" testament="1" name="Genesis" chapterCount="50">
+    <languages>
+      <languageBook language="Arabic" abbr="تك" name="التكوين" />
+      <languageBook language="English" abbr="Gen" name="Genesis" />
+      <languageBook language="French" abbr="Gen" name="Genèse" />
+      <languageBook language="Spanish" abbr="Gén" name="Génesis" />
+      <languageBook language="Farsi" abbr="پي" name="پيدايش" />
+      <languageBook language="Turkish" abbr="Yar" name="Yaratiliş" />
+      <languageBook language="Urdu" abbr="پی" name="پَیدایش" />
+    </languages>
+  </book>
+  <book id="2" testament="1" name="Exodus" chapterCount="40">
+    <languages>
+      <languageBook language="Arabic" abbr="خر" name="الخروج" />
+      <languageBook language="English" abbr="Exo" name="Exodus" />
+      <languageBook language="French" abbr="Exo" name="Exode" />
+      <languageBook language="Spanish" abbr="Exo" name="Exodo" />
+      <languageBook language="Farsi" abbr="خر" name="سفر خروج" />
+      <languageBook language="Turkish" abbr="Mis" name="Misir'dan Çikiş" />
+      <languageBook language="Urdu" abbr="خر" name="خُرُوج" />
+    </languages>
+  </book>
+  <book id="3" testament="1" name="Leviticus" chapterCount="27">
+    <languages>
+      <languageBook language="Arabic" abbr="لا" name="اللاويين" />
+      <languageBook language="English" abbr="Lev" name="Leviticus" />
+      <languageBook language="French" abbr="Lév" name="Lévitique" />
+      <languageBook language="Spanish" abbr="Lev" name="Leviticus" />
+      <languageBook language="Farsi" abbr="لا" name="لاويان" />
+      <languageBook language="Turkish" abbr="Lev" name="Levililer" />
+      <languageBook language="Urdu" abbr="اح" name="احبار" />
+    </languages>
+  </book>
+  <book id="4" testament="1" name="Numbers" chapterCount="36">
+    <languages>
+      <languageBook language="Arabic" abbr="عد" name="العدد" />
+      <languageBook language="English" abbr="Num" name="Numbers" />
+      <languageBook language="French" abbr="Nom" name="Nombres" />
+      <languageBook language="Spanish" abbr="Núm" name="Números" />
+      <languageBook language="Farsi" abbr="اعد" name="اعداد" />
+      <languageBook language="Turkish" abbr="Çöl" name="Çölde Sayim" />
+      <languageBook language="Urdu" abbr="گن" name="گِنتی" />
+    </languages>
+  </book>
+  <book id="5" testament="1" name="Deuteronomy" chapterCount="34">
+    <languages>
+      <languageBook language="Arabic" abbr="تث" name="التثنية" />
+      <languageBook language="English" abbr="Deu" name="Deuteronomy" />
+      <languageBook language="French" abbr="Deu" name="Deutéronome" />
+      <languageBook language="Spanish" abbr="Deu" name="Deuteronomio" />
+      <languageBook language="Farsi" abbr="تث" name="تثنييه" />
+      <languageBook language="Turkish" abbr="Yas" name="Yasa'nin Tekrari" />
+      <languageBook language="Urdu" abbr="اس" name="اِستِثنا" />
+    </languages>
+  </book>
+  <book id="6" testament="1" name="Joshua" chapterCount="24">
+    <languages>
+      <languageBook language="Arabic" abbr="يش" name="يشوع" />
+      <languageBook language="English" abbr="Jos" name="Joshua" />
+      <languageBook language="French" abbr="Jos" name="Josué" />
+      <languageBook language="Spanish" abbr="Jos" name="Josué" />
+      <languageBook language="Farsi" abbr="يش" name="يشوع" />
+      <languageBook language="Turkish" abbr="Yeş" name="Yeşu" />
+      <languageBook language="Urdu" abbr="یش" name="یشُوع" />
+    </languages>
+  </book>
+  <book id="7" testament="1" name="Judges" chapterCount="21">
+    <languages>
+      <languageBook language="Arabic" abbr="قض" name="القضاة" />
+      <languageBook language="English" abbr="Jud" name="Judges" />
+      <languageBook language="French" abbr="Jug" name="Juges" />
+      <languageBook language="Spanish" abbr="Jue" name="Jueces" />
+      <languageBook language="Farsi" abbr="دا" name="داوران" />
+      <languageBook language="Turkish" abbr="Hâk" name="Hâkimler" />
+      <languageBook language="Urdu" abbr="قض" name="قُضاۃ" />
+    </languages>
+  </book>
+  <book id="8" testament="1" name="Ruth" chapterCount="4">
+    <languages>
+      <languageBook language="Arabic" abbr="را" name="راعوث" />
+      <languageBook language="English" abbr="Rut" name="Ruth" />
+      <languageBook language="French" abbr="Rut" name="Ruth" />
+      <languageBook language="Spanish" abbr="Rut" name="Rut" />
+      <languageBook language="Farsi" abbr="رو" name="روت" />
+      <languageBook language="Turkish" abbr="Rut" name="Rut" />
+      <languageBook language="Urdu" abbr="رو" name="رُوت" />
+    </languages>
+  </book>
+  <book id="9" testament="1" name="1 Samuel" chapterCount="31">
+    <languages>
+      <languageBook language="Arabic" abbr="1 صم" name="صموئيل الأول" />
+      <languageBook language="English" abbr="1Sa" name="1 Samuel" />
+      <languageBook language="French" abbr="1Sam" name="1 Samuel" />
+      <languageBook language="Spanish" abbr="1Sam" name="1 Samuel" />
+      <languageBook language="Farsi" abbr="1سم" name="اول سموئيل" />
+      <languageBook language="Turkish" abbr="1Sa" name="1.Samuel" />
+      <languageBook language="Urdu" abbr="سم۱" name="۱-سموئیل" />
+    </languages>
+  </book>
+  <book id="10" testament="1" name="2 Samuel" chapterCount="24">
+    <languages>
+      <languageBook language="Arabic" abbr="2 صم" name="صموئيل الثاني" />
+      <languageBook language="English" abbr="2Sa" name="2 Samuel " />
+      <languageBook language="French" abbr="2Sam" name="2 Samuel" />
+      <languageBook language="Spanish" abbr="2Sam" name="2 Samuel" />
+      <languageBook language="Farsi" abbr="2سم" name="دوم سموئيل" />
+      <languageBook language="Turkish" abbr="2Sa" name="2.Samuel" />
+      <languageBook language="Urdu" abbr="سم۲" name="۲-سموئیل" />
+    </languages>
+  </book>
+  <book id="11" testament="1" name="1 Kings" chapterCount="22">
+    <languages>
+      <languageBook language="Arabic" abbr="1 مل" name="الملوك الأول" />
+      <languageBook language="English" abbr="1Ki" name="1 Kings" />
+      <languageBook language="French" abbr="1Roi" name="1 Rois" />
+      <languageBook language="Spanish" abbr="1Rey" name="1 Reyes" />
+      <languageBook language="Farsi" abbr="1پا" name="اول پادشاهان" />
+      <languageBook language="Turkish" abbr="1Kr" name="1.Krallar" />
+      <languageBook language="Urdu" abbr="سل۱  " name="۱-سلاطِین" />
+    </languages>
+  </book>
+  <book id="12" testament="1" name="2 Kings" chapterCount="25">
+    <languages>
+      <languageBook language="Arabic" abbr="2 مل" name="الملوك الثاني" />
+      <languageBook language="English" abbr="2Ki" name="2 Kings" />
+      <languageBook language="French" abbr="2Roi" name="2 Rois" />
+      <languageBook language="Spanish" abbr="2Rey" name="2 Reyes" />
+      <languageBook language="Farsi" abbr="2پا" name="دوم پادشاهان" />
+      <languageBook language="Turkish" abbr="2Kr" name="2.Krallar" />
+      <languageBook language="Urdu" abbr="سل۲  " name="۲-سلاطِین" />
+    </languages>
+  </book>
+  <book id="13" testament="1" name="1 Chronicles" chapterCount="29">
+    <languages>
+      <languageBook language="Arabic" abbr="1 أخ" name="أخبار الأيام الأول" />
+      <languageBook language="English" abbr="1Ch" name="1 Chronicles" />
+      <languageBook language="French" abbr="1Chr" name="1 Chroniques" />
+      <languageBook language="Spanish" abbr="1Cró" name="1 Crónicas" />
+      <languageBook language="Farsi" abbr="1تو" name="اول تواريخ" />
+      <languageBook language="Turkish" abbr="1Ta" name="1.Tarihler" />
+      <languageBook language="Urdu" abbr="تو۱" name="۱-توارِیخ" />
+    </languages>
+  </book>
+  <book id="14" testament="1" name="2 Chronicles" chapterCount="36">
+    <languages>
+      <languageBook language="Arabic" abbr="2 أخ" name="أخبار الأيام الثاني" />
+      <languageBook language="English" abbr="2Ch" name="2 Chronicles" />
+      <languageBook language="French" abbr="2Chr" name="2 Chroniques" />
+      <languageBook language="Spanish" abbr="2Cró" name="2 Crónicas" />
+      <languageBook language="Farsi" abbr="2تو" name="دوم تواريخ" />
+      <languageBook language="Turkish" abbr="2Ta" name="2.Tarihler" />
+      <languageBook language="Urdu" abbr="تو۲" name="۲- توارِیخ" />
+    </languages>
+  </book>
+  <book id="15" testament="1" name="Ezra" chapterCount="10">
+    <languages>
+      <languageBook language="Arabic" abbr="عز" name="عزرا" />
+      <languageBook language="English" abbr="Ezr" name="Ezra" />
+      <languageBook language="French" abbr="Esd" name="Esdras" />
+      <languageBook language="Spanish" abbr="Esd" name="Esdras" />
+      <languageBook language="Farsi" abbr="عز" name="عزرا" />
+      <languageBook language="Turkish" abbr="Ezr" name="Ezra" />
+      <languageBook language="Urdu" abbr="عز" name="عزرا" />
+    </languages>
+  </book>
+  <book id="16" testament="1" name="Nehemiah" chapterCount="13">
+    <languages>
+      <languageBook language="Arabic" abbr="نح" name="نحميا" />
+      <languageBook language="English" abbr="Neh" name="Nehemiah" />
+      <languageBook language="French" abbr="Néh" name="Néhémie" />
+      <languageBook language="Spanish" abbr="Neh" name="Nehemías" />
+      <languageBook language="Farsi" abbr="نح" name="نحميا" />
+      <languageBook language="Turkish" abbr="Neh" name="Nehemya" />
+      <languageBook language="Urdu" abbr="نح" name="نحمیاہ" />
+    </languages>
+  </book>
+  <book id="17" testament="1" name="Esther" chapterCount="10">
+    <languages>
+      <languageBook language="Arabic" abbr="أس" name="أستير" />
+      <languageBook language="English" abbr="Est" name="Esther" />
+      <languageBook language="French" abbr="Est" name="Esther" />
+      <languageBook language="Spanish" abbr="Est" name="Ester" />
+      <languageBook language="Farsi" abbr="أس" name="أستر" />
+      <languageBook language="Turkish" abbr="Est" name="Ester" />
+      <languageBook language="Urdu" abbr="آس" name="آستر" />
+    </languages>
+  </book>
+  <book id="18" testament="1" name="Job" chapterCount="42">
+    <languages>
+      <languageBook language="Arabic" abbr="أي" name="أيوب" />
+      <languageBook language="English" abbr="Job" name="Job" />
+      <languageBook language="French" abbr="Job" name="Job" />
+      <languageBook language="Spanish" abbr="Job" name="Job" />
+      <languageBook language="Farsi" abbr="أي" name="أيوب" />
+      <languageBook language="Turkish" abbr="Eyü" name="Eyüp" />
+      <languageBook language="Urdu" abbr="ای" name="ایُّوب" />
+    </languages>
+  </book>
+  <book id="19" testament="1" name="Psalms" chapterCount="150">
+    <languages>
+      <languageBook language="Arabic" abbr="مز" name="المزامير" />
+      <languageBook language="English" abbr="Psa" name="Psalms" />
+      <languageBook language="French" abbr="Psa" name="Psaumes" />
+      <languageBook language="Spanish" abbr="Sal" name="Salmos" />
+      <languageBook language="Farsi" abbr="مز" name="مزامير" />
+      <languageBook language="Turkish" abbr="Mez" name="Mezmurlar" />
+      <languageBook language="Urdu" abbr="زب" name="زبُور" />
+    </languages>
+  </book>
+  <book id="20" testament="1" name="Proverbs" chapterCount="31">
+    <languages>
+      <languageBook language="Arabic" abbr="أم" name="الأمثال" />
+      <languageBook language="English" abbr="Pro" name="Proverbs" />
+      <languageBook language="French" abbr="Pro" name="Proverbes" />
+      <languageBook language="Spanish" abbr="Pro" name="Proverbs" />
+      <languageBook language="Farsi" abbr="أم" name="امثال" />
+      <languageBook language="Turkish" abbr="Sül" name="Süleyman'in Özdeyişleri" />
+      <languageBook language="Urdu" abbr="ام" name="امثال" />
+    </languages>
+  </book>
+  <book id="21" testament="1" name="Ecclesiastes" chapterCount="12">
+    <languages>
+      <languageBook language="Arabic" abbr="جا" name="الجامعة" />
+      <languageBook language="English" abbr="Ecc" name="Ecclesiastes" />
+      <languageBook language="French" abbr="Ecc" name="Ecclésiaste" />
+      <languageBook language="Spanish" abbr="Ecl" name="Eclesiastés" />
+      <languageBook language="Farsi" abbr="جا" name="جامعة" />
+      <languageBook language="Turkish" abbr="Vai" name="Vaiz" />
+      <languageBook language="Urdu" abbr="وا" name="واعِظ" />
+    </languages>
+  </book>
+  <book id="22" testament="1" name="Song of Solomon" chapterCount="8">
+    <languages>
+      <languageBook language="Arabic" abbr="نش" name="نشيد الأنشاد" />
+      <languageBook language="English" abbr="Son" name="Song Of Solomon" />
+      <languageBook language="French" abbr="Can" name="Cantiques Des Cantiques" />
+      <languageBook language="Spanish" abbr="Can" name="Cantares" />
+      <languageBook language="Farsi" abbr="غز" name="غزلی از غزلها" />
+      <languageBook language="Turkish" abbr="Ezg" name="Ezgiler Ezgisi" />
+      <languageBook language="Urdu" abbr="غز" name="غزلُ الغزلات" />
+    </languages>
+  </book>
+  <book id="23" testament="1" name="Isaiah" chapterCount="66">
+    <languages>
+      <languageBook language="Arabic" abbr="إش" name="إشعياء" />
+      <languageBook language="English" abbr="Isa" name="Isaiah" />
+      <languageBook language="French" abbr="Esa" name="Esaïe" />
+      <languageBook language="Spanish" abbr="Isa" name="Isaías" />
+      <languageBook language="Farsi" abbr="أش" name="أشعيا" />
+      <languageBook language="Turkish" abbr="Yeş" name="Yeşaya" />
+      <languageBook language="Urdu" abbr="یس" name="یسعیاہ" />
+    </languages>
+  </book>
+  <book id="24" testament="1" name="Jeremiah" chapterCount="52">
+    <languages>
+      <languageBook language="Arabic" abbr="إر" name="إرميا" />
+      <languageBook language="English" abbr="Jer" name="Jeremiah" />
+      <languageBook language="French" abbr="Jér" name="Jérémie" />
+      <languageBook language="Spanish" abbr="Jer" name="Jeremías" />
+      <languageBook language="Farsi" abbr="أر" name="ارمييا" />
+      <languageBook language="Turkish" abbr="Yer" name="Yeremya" />
+      <languageBook language="Urdu" abbr="یر" name="یرمِیاہ" />
+    </languages>
+  </book>
+  <book id="25" testament="1" name="Lamentations" chapterCount="5">
+    <languages>
+      <languageBook language="Arabic" abbr="مرا" name="مراثي إرميا" />
+      <languageBook language="English" abbr="Lam" name="Lamentations" />
+      <languageBook language="French" abbr="Lam" name="Lamentations" />
+      <languageBook language="Spanish" abbr="Lam" name="Lamentaciones" />
+      <languageBook language="Farsi" abbr="نو" name="نوحه" />
+      <languageBook language="Turkish" abbr="Aği" name="Ağitlar" />
+      <languageBook language="Urdu" abbr="نو" name="نَوحہ" />
+    </languages>
+  </book>
+  <book id="26" testament="1" name="Ezekiel" chapterCount="48">
+    <languages>
+      <languageBook language="Arabic" abbr="حز" name="حزقيال" />
+      <languageBook language="English" abbr="Eze" name="Ezekiel" />
+      <languageBook language="French" abbr="Ezé" name="Ezéchiel" />
+      <languageBook language="Spanish" abbr="Eze" name="Ezequiel" />
+      <languageBook language="Farsi" abbr="حز" name="حزقيال" />
+      <languageBook language="Turkish" abbr="Hez" name="Hezekiel" />
+      <languageBook language="Urdu" abbr="حز" name="حِزقی ایل" />
+    </languages>
+  </book>
+  <book id="27" testament="1" name="Daniel" chapterCount="12">
+    <languages>
+      <languageBook language="Arabic" abbr="دا" name="دانيال" />
+      <languageBook language="English" abbr="Dan" name="Daniel" />
+      <languageBook language="French" abbr="Dan" name="Daniel" />
+      <languageBook language="Spanish" abbr="Dan" name="Daniel" />
+      <languageBook language="Farsi" abbr="دا" name="دانيال" />
+      <languageBook language="Turkish" abbr="Dan" name="Daniel" />
+      <languageBook language="Urdu" abbr="دا" name="دانی ایل" />
+    </languages>
+  </book>
+  <book id="28" testament="1" name="Hosea" chapterCount="14">
+    <languages>
+      <languageBook language="Arabic" abbr="هو" name="هوشع" />
+      <languageBook language="English" abbr="Hos" name="Hosea" />
+      <languageBook language="French" abbr="Osé" name="Osée" />
+      <languageBook language="Spanish" abbr="Ose" name="Oseas" />
+      <languageBook language="Farsi" abbr="هو" name="هوزيا" />
+      <languageBook language="Turkish" abbr="Hoş" name="Hoşea" />
+      <languageBook language="Urdu" abbr="ہو" name="ہوسیعَ" />
+    </languages>
+  </book>
+  <book id="29" testament="1" name="Joel" chapterCount="3">
+    <languages>
+      <languageBook language="Arabic" abbr="يؤ" name="يوئيل" />
+      <languageBook language="English" abbr="Joe" name="Joel" />
+      <languageBook language="French" abbr="Joë" name="Joël" />
+      <languageBook language="Spanish" abbr="Joe" name="Joel" />
+      <languageBook language="Farsi" abbr="يؤ" name="يوئيل" />
+      <languageBook language="Turkish" abbr="Yoe" name="Yoel" />
+      <languageBook language="Urdu" abbr="یو" name="یُوایل" />
+    </languages>
+  </book>
+  <book id="30" testament="1" name="Amos" chapterCount="9">
+    <languages>
+      <languageBook language="Arabic" abbr="عا" name="عاموس" />
+      <languageBook language="English" abbr="Amo" name="Amos" />
+      <languageBook language="French" abbr="Amo" name="Amos" />
+      <languageBook language="Spanish" abbr="Amo" name="Amos" />
+      <languageBook language="Farsi" abbr="عا" name="عاموس" />
+      <languageBook language="Turkish" abbr="Amo" name="Amos" />
+      <languageBook language="Urdu" abbr="عا" name="عامُوس" />
+    </languages>
+  </book>
+  <book id="31" testament="1" name="Obadiah" chapterCount="1">
+    <languages>
+      <languageBook language="Arabic" abbr="عو" name="عوبديا" />
+      <languageBook language="English" abbr="Oba" name="Obadiah" />
+      <languageBook language="French" abbr="Abd" name="Abdias" />
+      <languageBook language="Spanish" abbr="Abd" name="Abdías" />
+      <languageBook language="Farsi" abbr="عو" name="عوبيديا" />
+      <languageBook language="Turkish" abbr="Ova" name="Ovadya" />
+      <languageBook language="Urdu" abbr="عب" name="عبدیاہ" />
+    </languages>
+  </book>
+  <book id="32" testament="1" name="Jonah" chapterCount="4">
+    <languages>
+      <languageBook language="Arabic" abbr="يون" name="يونان" />
+      <languageBook language="English" abbr="Jon" name="Jonah" />
+      <languageBook language="French" abbr="Jon" name="Jonas" />
+      <languageBook language="Spanish" abbr="Jon" name="Jonás" />
+      <languageBook language="Farsi" abbr="يون" name="يونس" />
+      <languageBook language="Turkish" abbr="Yun" name="Yunus" />
+      <languageBook language="Urdu" abbr="یو" name="یُوناہ" />
+    </languages>
+  </book>
+  <book id="33" testament="1" name="Micah" chapterCount="7">
+    <languages>
+      <languageBook language="Arabic" abbr="مي" name="ميخا" />
+      <languageBook language="English" abbr="Mic" name="Micah" />
+      <languageBook language="French" abbr="Mic" name="Michée" />
+      <languageBook language="Spanish" abbr="Miq" name="Miqueas" />
+      <languageBook language="Farsi" abbr="مي" name="ميکاه" />
+      <languageBook language="Turkish" abbr="Mik" name="Mika" />
+      <languageBook language="Urdu" abbr="می" name="مِیکاہ" />
+    </languages>
+  </book>
+  <book id="34" testament="1" name="Nahum" chapterCount="3">
+    <languages>
+      <languageBook language="Arabic" abbr="نا" name="ناحوم" />
+      <languageBook language="English" abbr="Nah" name="Nahum" />
+      <languageBook language="French" abbr="Nah" name="Nahum" />
+      <languageBook language="Spanish" abbr="Nah" name="Nahúm" />
+      <languageBook language="Farsi" abbr="نا" name="ناحوم" />
+      <languageBook language="Turkish" abbr="Nah" name="Nahum" />
+      <languageBook language="Urdu" abbr="نا" name="ناحُوم" />
+    </languages>
+  </book>
+  <book id="35" testament="1" name="Habakkuk" chapterCount="3">
+    <languages>
+      <languageBook language="Arabic" abbr="حب" name="حبقوق" />
+      <languageBook language="English" abbr="Hab" name="Habakkuk" />
+      <languageBook language="French" abbr="Hab" name="Habaquq" />
+      <languageBook language="Spanish" abbr="Hab" name="Habacuc" />
+      <languageBook language="Farsi" abbr="حب" name="حبقوق" />
+      <languageBook language="Turkish" abbr="Hab" name="Habakkuk" />
+      <languageBook language="Urdu" abbr="حب" name="حبقُّوق" />
+    </languages>
+  </book>
+  <book id="36" testament="1" name="Zephaniah" chapterCount="3">
+    <languages>
+      <languageBook language="Arabic" abbr="صف" name="صفنيا" />
+      <languageBook language="English" abbr="Zep" name="Zephaniah" />
+      <languageBook language="French" abbr="Sop" name="Sophonie" />
+      <languageBook language="Spanish" abbr="Sof" name="Sofonías" />
+      <languageBook language="Farsi" abbr="ضف" name="ضفينيا" />
+      <languageBook language="Turkish" abbr="Zef" name="Sefanya" />
+      <languageBook language="Urdu" abbr="صف" name="صفنیاہ" />
+    </languages>
+  </book>
+  <book id="37" testament="1" name="Haggai" chapterCount="2">
+    <languages>
+      <languageBook language="Arabic" abbr="حج" name="حجي" />
+      <languageBook language="English" abbr="Hag" name="Haggai" />
+      <languageBook language="French" abbr="Agg" name="Aggée" />
+      <languageBook language="Spanish" abbr="Hag" name="Hageo" />
+      <languageBook language="Farsi" abbr="حج" name="حجی" />
+      <languageBook language="Turkish" abbr="Hag" name="Hagay" />
+      <languageBook language="Urdu" abbr="حج" name="حجَّی" />
+    </languages>
+  </book>
+  <book id="38" testament="1" name="Zechariah" chapterCount="14">
+    <languages>
+      <languageBook language="Arabic" abbr="زك" name="زكريا" />
+      <languageBook language="English" abbr="Zec" name="Zechariah" />
+      <languageBook language="French" abbr="Zac" name="Zacharie" />
+      <languageBook language="Spanish" abbr="Zac" name="Zacarías" />
+      <languageBook language="Farsi" abbr="زك" name="زكريا" />
+      <languageBook language="Turkish" abbr="Zek" name="Zekeriya" />
+      <languageBook language="Urdu" abbr="زک" name="زکریاہ" />
+    </languages>
+  </book>
+  <book id="39" testament="1" name="Malachi" chapterCount="4">
+    <languages>
+      <languageBook language="Arabic" abbr="ملا" name="ملاخي" />
+      <languageBook language="English" abbr="Mal" name="Malachi" />
+      <languageBook language="French" abbr="Mal" name="Malachie" />
+      <languageBook language="Spanish" abbr="Mal" name="Malaquías" />
+      <languageBook language="Farsi" abbr="مل" name="ملاکی" />
+      <languageBook language="Turkish" abbr="Mal" name="Malaki" />
+      <languageBook language="Urdu" abbr="ملا" name="ملاکی" />
+    </languages>
+  </book>
+  <book id="40" testament="2" name="Matthew" chapterCount="28">
+    <languages>
+      <languageBook language="Arabic" abbr="مت" name="متى" />
+      <languageBook language="English" abbr="Mat" name="Matthew" />
+      <languageBook language="French" abbr="Mat" name="Matthieu" />
+      <languageBook language="Spanish" abbr="Mat" name="Mateo" />
+      <languageBook language="Farsi" abbr="مت" name="متى" />
+      <languageBook language="Turkish" abbr="Mat" name="Matta" />
+      <languageBook language="Urdu" abbr="مت" name="متّی" />
+    </languages>
+  </book>
+  <book id="41" testament="2" name="Mark" chapterCount="16">
+    <languages>
+      <languageBook language="Arabic" abbr="مر" name="مرقس" />
+      <languageBook language="English" abbr="Mar" name="Mark" />
+      <languageBook language="French" abbr="Mar" name="Marc" />
+      <languageBook language="Spanish" abbr="Mar" name="Marcos" />
+      <languageBook language="Farsi" abbr="مر" name="مرقس" />
+      <languageBook language="Turkish" abbr="Mar" name="Markos" />
+      <languageBook language="Urdu" abbr="مر" name="مرقس" />
+    </languages>
+  </book>
+  <book id="42" testament="2" name="Luke" chapterCount="24">
+    <languages>
+      <languageBook language="Arabic" abbr="لو" name="لوقا" />
+      <languageBook language="English" abbr="Luk" name="Luke" />
+      <languageBook language="French" abbr="Luc" name="Luc" />
+      <languageBook language="Spanish" abbr="Luc" name="Lucas" />
+      <languageBook language="Farsi" abbr="لو" name="لوقا" />
+      <languageBook language="Turkish" abbr="Luk" name="Luka" />
+      <languageBook language="Urdu" abbr="لو" name="لُوقا" />
+    </languages>
+  </book>
+  <book id="43" testament="2" name="John" chapterCount="21">
+    <languages>
+      <languageBook language="Arabic" abbr="يو" name="يوحنا" />
+      <languageBook language="English" abbr="Joh" name="John" />
+      <languageBook language="French" abbr="Jea" name="Jean" />
+      <languageBook language="Spanish" abbr="Jua" name="Juan" />
+      <languageBook language="Farsi" abbr="يو" name="يوحنا" />
+      <languageBook language="Turkish" abbr="Yuh" name="Yuhanna" />
+      <languageBook language="Urdu" abbr="یو" name="یُوحنّا" />
+    </languages>
+  </book>
+  <book id="44" testament="2" name="Acts" chapterCount="28">
+    <languages>
+      <languageBook language="Arabic" abbr="اع" name="أعمال الرسل" />
+      <languageBook language="English" abbr="Act" name="Acts" />
+      <languageBook language="French" abbr="Act" name="Actes" />
+      <languageBook language="Spanish" abbr="Hec" name="Hechos" />
+      <languageBook language="Farsi" abbr="اع" name="اعمال رسولان" />
+      <languageBook language="Turkish" abbr="Elç" name="Elçilerin Işleri" />
+      <languageBook language="Urdu" abbr="اع" name="اَعمال" />
+    </languages>
+  </book>
+  <book id="45" testament="2" name="Romans" chapterCount="16">
+    <languages>
+      <languageBook language="Arabic" abbr="رو" name="رومية" writtenBy="كُتِبَتْ إِلَى أَهْلِ رُومِيَةَ مِنْ كُورِنْثُوسَ عَلَى يَدِ فِيبِي خَادِمَةِ كَنِيسَةِ كَنْخَرِيَا" />
+      <languageBook language="English" abbr="Rom" name="Romans" />
+      <languageBook language="French" abbr="Rom" name="Romains" />
+      <languageBook language="Spanish" abbr="Rom" name="Romanos" />
+      <languageBook language="Farsi" abbr="رو" name="روميان" />
+      <languageBook language="Turkish" abbr="Om" name="Romalilar" />
+      <languageBook language="Urdu" abbr="رو" name="رُومِیوں" />
+    </languages>
+  </book>
+  <book id="46" testament="2" name="1 Corinthians" chapterCount="16">
+    <languages>
+      <languageBook language="Arabic" abbr="1 كو" name="١ كورنثوس" />
+      <languageBook language="English" abbr="1Co" name="1 Corinthians" />
+      <languageBook language="French" abbr="1Cor" name="1 Corinthiens" />
+      <languageBook language="Spanish" abbr="1Cor" name="1 Corintios" />
+      <languageBook language="Farsi" abbr="1قر" name="اول قرنتيان" />
+      <languageBook language="Turkish" abbr="1Ko" name="1.Korintliler" />
+      <languageBook language="Urdu" abbr="کر۱" name="۱-کُرِنتھِیوں" />
+    </languages>
+  </book>
+  <book id="47" testament="2" name="2 Corinthians" chapterCount="13">
+    <languages>
+      <languageBook language="Arabic" abbr="2 كو" name="٢ كورنثوس" />
+      <languageBook language="English" abbr="2Co" name="2 Corinthians" />
+      <languageBook language="French" abbr="2Cor" name="2 Corinthiens" />
+      <languageBook language="Spanish" abbr="2Cor" name="2 Corintios" />
+      <languageBook language="Farsi" abbr="2قر" name="دوم قرنتيان" />
+      <languageBook language="Turkish" abbr="2Ko" name="2.Korintliler" />
+      <languageBook language="Urdu" abbr="کر۲" name="۲-کُرِنتھِیوں" />
+    </languages>
+  </book>
+  <book id="48" testament="2" name="Galatians" chapterCount="6">
+    <languages>
+      <languageBook language="Arabic" abbr="غلا" name="غلاطية" />
+      <languageBook language="English" abbr="Gal" name="Galatians" />
+      <languageBook language="French" abbr="Gal" name="Galates" />
+      <languageBook language="Spanish" abbr="Gál" name="Gálatas" />
+      <languageBook language="Farsi" abbr="غلا" name="غلاطيان" />
+      <languageBook language="Turkish" abbr="Gal" name="Galatyalilar" />
+      <languageBook language="Urdu" abbr="گل" name="گلتِیوں" />
+    </languages>
+  </book>
+  <book id="49" testament="2" name="Ephesians" chapterCount="6">
+    <languages>
+      <languageBook language="Arabic" abbr="أف" name="أفسس" writtenBy="كُتِبَتْ إِلَى أَهْلِ أَفَسُسَ مِنْ رُومِيَةَ عَلَى يَدِ تِيخِيكُسَ" />
+      <languageBook language="English" abbr="Eph" name="Ephesians" />
+      <languageBook language="French" abbr="Éph" name="Éphésiens" />
+      <languageBook language="Spanish" abbr="Efe" name="Efesios" />
+      <languageBook language="Farsi" abbr="أف" name="افسسيان" />
+      <languageBook language="Turkish" abbr="Efe" name="Efesliler" />
+      <languageBook language="Urdu" abbr="اف" name="اِفسِیوں" />
+    </languages>
+  </book>
+  <book id="50" testament="2" name="Philippians" chapterCount="4">
+    <languages>
+      <languageBook language="Arabic" abbr="في" name="فيلبي" writtenBy="كُتِبَتْ إِلَى أَهْلِ فِيلِبِّي مِنْ رُومِيَةَ عَلَى يَدِ أَبَفْرُودِتُسَ" />
+      <languageBook language="English" abbr="Phi" name="Philippians" />
+      <languageBook language="French" abbr="Phi" name="Philippiens" />
+      <languageBook language="Spanish" abbr="Fil" name="Filipenses" />
+      <languageBook language="Farsi" abbr="في" name="فيليپيان" />
+      <languageBook language="Turkish" abbr="Fil" name="Filipililer" />
+      <languageBook language="Urdu" abbr="فی" name="فِلپّیوں" />
+    </languages>
+  </book>
+  <book id="51" testament="2" name="Colossians" chapterCount="4">
+    <languages>
+      <languageBook language="Arabic" abbr="كو" name="كولوسي" writtenBy="كُتِبَتْ إِلَى أَهْلِ كُولُوسِّي مِنْ رُومِيَةَ بِيَدِ تِيخِيكُسَ وأُنِسِيمُسَ" />
+      <languageBook language="English" abbr="Col" name="Colossians" />
+      <languageBook language="French" abbr="Col" name="Colossiens" />
+      <languageBook language="Spanish" abbr="Col" name="Colosenses" />
+      <languageBook language="Farsi" abbr="كو" name="کولوسيان" />
+      <languageBook language="Turkish" abbr="Kol" name="Koloseliler" />
+      <languageBook language="Urdu" abbr="کل" name="کُلسِیوں" />
+    </languages>
+  </book>
+  <book id="52" testament="2" name="1 Thessalonians" chapterCount="5">
+    <languages>
+      <languageBook language="Arabic" abbr="1 تس" name="١ تسالونيكي" />
+      <languageBook language="English" abbr="1Th" name="1 Thessalonians" />
+      <languageBook language="French" abbr="1The" name="1 Thessaloniciens" />
+      <languageBook language="Spanish" abbr="1Tes" name="1 Tesalonicenses" />
+      <languageBook language="Farsi" abbr="1تس" name="اول تسالونيکيان" />
+      <languageBook language="Turkish" abbr="1Se" name="1.Selanikliler" />
+      <languageBook language="Urdu" abbr="تھ۱" name="۱-تھِسّلُنیکیوں" />
+    </languages>
+  </book>
+  <book id="53" testament="2" name="2 Thessalonians" chapterCount="3">
+    <languages>
+      <languageBook language="Arabic" abbr="2 تس" name="٢ تسالونيكي" />
+      <languageBook language="English" abbr="2Th" name="2 Thessalonians" />
+      <languageBook language="French" abbr="2The" name="2 Thessaloniciens" />
+      <languageBook language="Spanish" abbr="2Tes" name="2 Tesalonicenses" />
+      <languageBook language="Farsi" abbr="2تس" name="دوم تسالونيکيان" />
+      <languageBook language="Turkish" abbr="2Se" name="2.Selanikliler" />
+      <languageBook language="Urdu" abbr="تھ۲" name="۲-تھِسّلُنیکیوں" />
+    </languages>
+  </book>
+  <book id="54" testament="2" name="1 Timothy" chapterCount="6">
+    <languages>
+      <languageBook language="Arabic" abbr="1 تي" name="١ تيموثاوس" />
+      <languageBook language="English" abbr="1Ti" name="1 Timothy" />
+      <languageBook language="French" abbr="1Tim" name="1 Timothée" />
+      <languageBook language="Spanish" abbr="1Tim" name="1 Timoteo" />
+      <languageBook language="Farsi" abbr="1تي" name="اول تيموتيوس" />
+      <languageBook language="Turkish" abbr="1Ti" name="1.Timoteos" />
+      <languageBook language="Urdu" abbr="تی۱" name="۱-تِیمُتھِیُس" />
+    </languages>
+  </book>
+  <book id="55" testament="2" name="2 Timothy" chapterCount="4">
+    <languages>
+      <languageBook language="Arabic" abbr="2 تي" name="٢ تيموثاوس" />
+      <languageBook language="English" abbr="2Ti" name="2 Timothy" />
+      <languageBook language="French" abbr="2Tim" name="2 Timothée" />
+      <languageBook language="Spanish" abbr="2Tim" name="2 Timoteo" />
+      <languageBook language="Farsi" abbr="2تي" name="دوم تيموتيوس" />
+      <languageBook language="Turkish" abbr="2Ti" name="2.Timoteos" />
+      <languageBook language="Urdu" abbr="تی۲" name="۲-تِیمُتھِیُس" />
+    </languages>
+  </book>
+  <book id="56" testament="2" name="Titus" chapterCount="3">
+    <languages>
+      <languageBook language="Arabic" abbr="تي" name="تيطس" />
+      <languageBook language="English" abbr="Tit" name="Titus" />
+      <languageBook language="French" abbr="Tit" name="Tite" />
+      <languageBook language="Spanish" abbr="Tit" name="Tito" />
+      <languageBook language="Farsi" abbr="تا" name="تايتوس" />
+      <languageBook language="Turkish" abbr="Tit" name="Titus" />
+      <languageBook language="Urdu" abbr="طط" name="طِطُس" />
+    </languages>
+  </book>
+  <book id="57" testament="2" name="Philemon" chapterCount="1">
+    <languages>
+      <languageBook language="Arabic" abbr="فل" name="فليمون" writtenBy="إِلَى فِلِيمُونَ كُتِبَتْ مِنْ رُومِيَةَ عَلَى يَدِ أُنِسِيمُسَ اٌلْخَادِمِ" />
+      <languageBook language="English" abbr="Phm" name="Philemon" />
+      <languageBook language="French" abbr="Phi" name="Philémon" />
+      <languageBook language="Spanish" abbr="Fil" name="Filemón" />
+      <languageBook language="Farsi" abbr="فيل" name="فيلمان" />
+      <languageBook language="Turkish" abbr="Fil" name="Filimon" />
+      <languageBook language="Urdu" abbr="فل" name="فِلیمون" />
+    </languages>
+  </book>
+  <book id="58" testament="2" name="Hebrews" chapterCount="13">
+    <languages>
+      <languageBook language="Arabic" abbr="عب" name="العبرانيين" writtenBy="إِلَى الْعِبْرانِيِّينَ، كُتِبَتْ مِنْ إِيطَالِيَا، عَلَى يَدِ تِيمُوثَاوُسَ" />
+      <languageBook language="English" abbr="Heb" name="Hebrews" />
+      <languageBook language="French" abbr="Héb" name="Hébreux" />
+      <languageBook language="Spanish" abbr="Heb" name="Hebreos" />
+      <languageBook language="Farsi" abbr="عب" name="عبرانيان" />
+      <languageBook language="Turkish" abbr="Ibr" name="Ibraniler" />
+      <languageBook language="Urdu" abbr="عب" name="عِبرانیوں" />
+    </languages>
+  </book>
+  <book id="59" testament="2" name="James" chapterCount="5">
+    <languages>
+      <languageBook language="Arabic" abbr="يع" name="يعقوب" />
+      <languageBook language="English" abbr="Jam" name="James" />
+      <languageBook language="French" abbr="Jac" name="Jacques" />
+      <languageBook language="Spanish" abbr="San" name="Santiago" />
+      <languageBook language="Farsi" abbr="يع" name="يعقوب" />
+      <languageBook language="Turkish" abbr="Yak" name="Yakup" />
+      <languageBook language="Urdu" abbr="یع" name="یعقُوب" />
+    </languages>
+  </book>
+  <book id="60" testament="2" name="1 Peter" chapterCount="5">
+    <languages>
+      <languageBook language="Arabic" abbr="1 بط" name="١ بطرس" />
+      <languageBook language="English" abbr="1Pe" name="1 Peter" />
+      <languageBook language="French" abbr="1Pie" name="1 Pierre" />
+      <languageBook language="Spanish" abbr="1Ped" name="1 Pedro" />
+      <languageBook language="Farsi" abbr="1پت" name="اول پترس" />
+      <languageBook language="Turkish" abbr="1Pe" name="1.Petrus" />
+      <languageBook language="Urdu" abbr="پط۱" name="۱-پطرس" />
+    </languages>
+  </book>
+  <book id="61" testament="2" name="2 Peter" chapterCount="3">
+    <languages>
+      <languageBook language="Arabic" abbr="2 بط" name="٢ بطرس" />
+      <languageBook language="English" abbr="2Pe" name="2 Peter" />
+      <languageBook language="French" abbr="2Pie" name="2 Pierre" />
+      <languageBook language="Spanish" abbr="2Ped" name="2 Pedro" />
+      <languageBook language="Farsi" abbr="2پت" name="دوم پترس" />
+      <languageBook language="Turkish" abbr="2Pe" name="2.Petrus" />
+      <languageBook language="Urdu" abbr="پط۲" name="۲-پطرس" />
+    </languages>
+  </book>
+  <book id="62" testament="2" name="1 John" chapterCount="5">
+    <languages>
+      <languageBook language="Arabic" abbr="1 يو" name="١ يوحنا" />
+      <languageBook language="English" abbr="1Jo" name="1 John" />
+      <languageBook language="French" abbr="1Jea" name="1 Jean" />
+      <languageBook language="Spanish" abbr="1Jua" name="1 Juan" />
+      <languageBook language="Farsi" abbr="1يو" name="اول يوحنا" />
+      <languageBook language="Turkish" abbr="1Yu" name="1.Yuhanna" />
+      <languageBook language="Urdu" abbr="یو۱" name="۱-یُوحنّا" />
+    </languages>
+  </book>
+  <book id="63" testament="2" name="2 John" chapterCount="1">
+    <languages>
+      <languageBook language="Arabic" abbr="2 يو" name="٢ يوحنا" />
+      <languageBook language="English" abbr="2Jo" name="2 John" />
+      <languageBook language="French" abbr="2Jea" name="2 Jean" />
+      <languageBook language="Spanish" abbr="2Jua" name="2 Juan" />
+      <languageBook language="Farsi" abbr="2يو" name="دوم يوحنا" />
+      <languageBook language="Turkish" abbr="2Yu" name="2.Yuhanna" />
+      <languageBook language="Urdu" abbr="یو۲" name="۲-یُوحنّا" />
+    </languages>
+  </book>
+  <book id="64" testament="2" name="3 John" chapterCount="1">
+    <languages>
+      <languageBook language="Arabic" abbr="3 يو" name="٣ يوحنا" />
+      <languageBook language="English" abbr="3Jo" name="3 John" />
+      <languageBook language="French" abbr="3Jea" name="3 Jean" />
+      <languageBook language="Spanish" abbr="3Jua" name="3 Juan" />
+      <languageBook language="Farsi" abbr="3يو" name="سوم يوحنا" />
+      <languageBook language="Turkish" abbr="3Yu" name="3.Yuhanna" />
+      <languageBook language="Urdu" abbr="یو۳" name="۳-یُوحنّا" />
+    </languages>
+  </book>
+  <book id="65" testament="2" name="Jude" chapterCount="1">
+    <languages>
+      <languageBook language="Arabic" abbr="يه" name="يهوذا" />
+      <languageBook language="English" abbr="Jud" name="Jude" />
+      <languageBook language="French" abbr="Jud" name="Jude" />
+      <languageBook language="Spanish" abbr="Jud" name="Judas" />
+      <languageBook language="Farsi" abbr="يه" name="يهودا" />
+      <languageBook language="Turkish" abbr="Yah" name="Yahuda" />
+      <languageBook language="Urdu" abbr="یہ" name="یہُوداہ" />
+    </languages>
+  </book>
+  <book id="66" testament="2" name="Revelation" chapterCount="22">
+    <languages>
+      <languageBook language="Arabic" abbr="رؤ" name="رؤيا" />
+      <languageBook language="English" abbr="Rev" name="Revelation" />
+      <languageBook language="French" abbr="Apo" name="Apocalypse" />
+      <languageBook language="Spanish" abbr="Apo" name="Apocalipsis" />
+      <languageBook language="Farsi" abbr="مک" name="مکاشفه" />
+      <languageBook language="Turkish" abbr="Vah" name="Vahiy" />
+      <languageBook language="Urdu" abbr="مک" name="مُکاشفہ" />
+    </languages>
+  </book>
+</books>

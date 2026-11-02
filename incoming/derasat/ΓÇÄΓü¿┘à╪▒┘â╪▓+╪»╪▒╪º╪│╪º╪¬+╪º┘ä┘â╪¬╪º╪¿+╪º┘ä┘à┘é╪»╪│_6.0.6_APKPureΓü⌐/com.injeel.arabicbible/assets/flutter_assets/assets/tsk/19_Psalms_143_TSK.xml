@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Psalms" id="19">
+  <chapter number="143">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="بامانتك" />
+          <version abrv="KJV" text="thy faithfulness" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="31" verse="1" />
+          <reference bookId="19" chapter="71" verse="2" />
+          <reference bookId="10" chapter="7" verse="25" />
+          <reference bookId="27" chapter="9" verse="16" />
+          <reference bookId="62" chapter="1" verse="9" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="لا تدخل" />
+          <version abrv="KJV" text="enter not" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="130" verse="3" />
+          <reference bookId="18" chapter="14" verse="3" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="قدامك " />
+          <version abrv="KJV" text="in thy sight" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="34" verse="7" />
+          <reference bookId="18" chapter="4" verse="17" />
+          <reference bookId="18" chapter="9" verse="2,3" />
+          <reference bookId="18" chapter="15" verse="14" />
+          <reference bookId="18" chapter="25" verse="4" />
+          <reference bookId="21" chapter="7" verse="20" />
+          <reference bookId="45" chapter="3" verse="20" />
+          <reference bookId="48" chapter="2" verse="16" />
+          <reference bookId="62" chapter="1" verse="10" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" العدو " />
+          <version abrv="KJV" text="the enemy" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="7" verse="1,2" />
+          <reference bookId="19" chapter="17" verse="9-13" />
+          <reference bookId="19" chapter="35" verse="4" />
+          <reference bookId="19" chapter="54" verse="3" />
+          <reference bookId="19" chapter="142" verse="6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" سحق " />
+          <version abrv="KJV" text="smitten" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="7" verse="5" />
+          <reference bookId="10" chapter="2" verse="22" />
+          <reference bookId="10" chapter="18" verse="11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" اجلسني" />
+          <version abrv="KJV" text="made me" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="31" verse="12,13" />
+          <reference bookId="19" chapter="88" verse="4-6" />
+          <reference bookId="26" chapter="37" verse="11" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text="في روحي" />
+          <version abrv="KJV" text="is my spirit" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="55" verse="5" />
+          <reference bookId="19" chapter="61" verse="2" />
+          <reference bookId="19" chapter="77" verse="3" />
+          <reference bookId="19" chapter="102" verse="1" />
+          <reference bookId="19" chapter="124" verse="4" />
+          <reference bookId="19" chapter="142" verse="3" />
+          <reference bookId="18" chapter="6" verse="27" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="قلبي" />
+          <version abrv="KJV" text="my heart" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="25" verse="16" />
+          <reference bookId="19" chapter="102" verse="3,4" />
+          <reference bookId="19" chapter="119" verse="81-83" />
+          <reference bookId="42" chapter="22" verse="44" />
+        </references>
+      </word>
+    </verse>
+    <verse number="5">
+      <word>
+        <versions>
+          <version abrv="VDV" text="تذكرت" />
+          <version abrv="KJV" text="remember" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="42" verse="6" />
+          <reference bookId="19" chapter="77" verse="5,6,10-12" />
+          <reference bookId="19" chapter="111" verse="4" />
+          <reference bookId="5" chapter="8" verse="2,3" />
+          <reference bookId="9" chapter="17" verse="34-37,45-50" />
+          <reference bookId="23" chapter="63" verse="7-14" />
+          <reference bookId="33" chapter="6" verse="5" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" بسطت اليك " />
+          <version abrv="KJV" text="stretch forth" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="44" verse="20" />
+          <reference bookId="19" chapter="88" verse="9" />
+          <reference bookId="18" chapter="11" verse="13" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" نفسي" />
+          <version abrv="KJV" text="my soul" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="42" verse="1,2" />
+          <reference bookId="19" chapter="63" verse="1" />
+          <reference bookId="19" chapter="84" verse="2" />
+          <reference bookId="23" chapter="26" verse="8,9" />
+          <reference bookId="23" chapter="35" verse="7" />
+          <reference bookId="43" chapter="7" verse="37" />
+        </references>
+      </word>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اجبني " />
+          <version abrv="KJV" text="Hear me" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="13" verse="1-4" />
+          <reference bookId="19" chapter="40" verse="13,17" />
+          <reference bookId="19" chapter="70" verse="5" />
+          <reference bookId="19" chapter="71" verse="12" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" روحي" />
+          <version abrv="KJV" text="my spirit" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="40" verse="12" />
+          <reference bookId="19" chapter="69" verse="3" />
+          <reference bookId="23" chapter="57" verse="16" />
+          <reference bookId="42" chapter="21" verse="26" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لا تحجب" />
+          <version abrv="KJV" text="hide not" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="22" verse="24" />
+          <reference bookId="19" chapter="27" verse="9" />
+          <reference bookId="19" chapter="69" verse="17" />
+          <reference bookId="23" chapter="8" verse="17" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="فاشبه الهابطين في الجب" />
+          <version abrv="KJV" text="lest I be like, etc" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="28" verse="1" />
+          <reference bookId="19" chapter="88" verse="4-6,10,11" />
+          <reference bookId="23" chapter="38" verse="18" />
+        </references>
+      </word>
+    </verse>
+    <verse number="8">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" اسمعني " />
+          <version abrv="KJV" text="to hear" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="30" verse="5" />
+          <reference bookId="19" chapter="42" verse="8" />
+          <reference bookId="19" chapter="46" verse="5" />
+          <reference bookId="19" chapter="59" verse="16" />
+          <reference bookId="1" chapter="32" verse="24-29" />
+          <reference bookId="28" chapter="6" verse="3" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عرفني " />
+          <version abrv="KJV" text="cause me" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="143" verse="10" />
+          <reference bookId="19" chapter="5" verse="8" />
+          <reference bookId="19" chapter="25" verse="4,5" />
+          <reference bookId="19" chapter="27" verse="11" />
+          <reference bookId="19" chapter="32" verse="8" />
+          <reference bookId="19" chapter="119" verse="34,73" />
+          <reference bookId="20" chapter="3" verse="5,6" />
+          <reference bookId="23" chapter="30" verse="21" />
+          <reference bookId="23" chapter="48" verse="17" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="رفعت" />
+          <version abrv="KJV" text="for I lift" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="25" verse="1" />
+          <reference bookId="19" chapter="86" verse="4" />
+          <reference bookId="25" chapter="3" verse="41" />
+        </references>
+      </word>
+    </verse>
+    <verse number="9">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اليك التجات" />
+          <version abrv="KJV" text="flee unto thee" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="34" verse="2-4" />
+          <reference bookId="19" chapter="56" verse="9" />
+          <reference bookId="19" chapter="61" verse="3,4" />
+          <reference bookId="19" chapter="142" verse="5" />
+          <reference bookId="20" chapter="18" verse="10" />
+          <reference bookId="58" chapter="6" verse="18" />
+        </references>
+      </word>
+    </verse>
+    <verse number="10">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" علمني" />
+          <version abrv="KJV" text="Teach" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="25" verse="4,5,8,9,12" />
+          <reference bookId="19" chapter="119" verse="5-7,12,35" />
+          <reference bookId="19" chapter="139" verse="24" />
+          <reference bookId="33" chapter="4" verse="2" />
+          <reference bookId="40" chapter="28" verse="20" />
+          <reference bookId="51" chapter="1" verse="9,10" />
+          <reference bookId="52" chapter="4" verse="1,2" />
+          <reference bookId="58" chapter="13" verse="21" />
+          <reference bookId="62" chapter="2" verse="27" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لانك انت الهي" />
+          <version abrv="KJV" text="for thou art" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="22" verse="1" />
+          <reference bookId="19" chapter="31" verse="14" />
+          <reference bookId="19" chapter="63" verse="1" />
+          <reference bookId="19" chapter="118" verse="28" />
+          <reference bookId="19" chapter="140" verse="6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="روحك" />
+          <version abrv="KJV" text="thy spirit" />
+        </versions>
+        <references>
+          <reference bookId="16" chapter="9" verse="20" />
+          <reference bookId="23" chapter="63" verse="14" />
+          <reference bookId="43" chapter="14" verse="26" />
+          <reference bookId="43" chapter="16" verse="13-15" />
+          <reference bookId="45" chapter="5" verse="5" />
+          <reference bookId="45" chapter="8" verse="2,14-16,26" />
+          <reference bookId="45" chapter="15" verse="13,30" />
+          <reference bookId="48" chapter="5" verse="22,23" />
+          <reference bookId="49" chapter="4" verse="30" />
+          <reference bookId="49" chapter="5" verse="9" />
+          <reference bookId="55" chapter="1" verse="7" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ارض" />
+          <version abrv="KJV" text="the land" />
+        </versions>
+        <references>
+          <reference bookId="23" chapter="29" verse="10" />
+        </references>
+      </word>
+    </verse>
+    <verse number="11">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" تحييني" />
+          <version abrv="KJV" text="Quicken" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="85" verse="6" />
+          <reference bookId="19" chapter="119" verse="25,37,40,88,107" />
+          <reference bookId="19" chapter="138" verse="7" />
+          <reference bookId="35" chapter="3" verse="2" />
+          <reference bookId="49" chapter="2" verse="4,5" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="بعدلك" />
+          <version abrv="KJV" text="for thy righteousness" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="143" verse="1" />
+          <reference bookId="19" chapter="9" verse="7,8" />
+          <reference bookId="19" chapter="31" verse="1" />
+          <reference bookId="19" chapter="71" verse="2" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" تخرج" />
+          <version abrv="KJV" text="bring" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="25" verse="17" />
+          <reference bookId="19" chapter="34" verse="19" />
+          <reference bookId="19" chapter="37" verse="39,40" />
+          <reference bookId="19" chapter="91" verse="15,16" />
+          <reference bookId="66" chapter="7" verse="14-17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="12">
+      <word>
+        <versions>
+          <version abrv="VDV" text="برحمتك" />
+          <version abrv="KJV" text="of thy mercy" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="54" verse="5" />
+          <reference bookId="19" chapter="55" verse="23" />
+          <reference bookId="19" chapter="136" verse="15-20" />
+          <reference bookId="9" chapter="24" verse="12-15" />
+          <reference bookId="9" chapter="25" verse="29" />
+          <reference bookId="9" chapter="26" verse="10" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لاني انا " />
+          <version abrv="KJV" text="for I am thy" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="116" verse="16" />
+          <reference bookId="19" chapter="119" verse="94" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

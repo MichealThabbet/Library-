@@ -9,46 +9,6 @@
       "new_files": 0
     },
     {
-      "archive": "incoming/Ekklesia_8.9.45/Ekklesia_8.9.45_part001.zip",
-      "new_files": 0
-    },
-    {
-      "archive": "incoming/Ekklesia_8.9.45/Ekklesia_8.9.45_part002.zip",
-      "new_files": 0
-    },
-    {
-      "archive": "incoming/Ekklesia_8.9.45/Ekklesia_8.9.45_part003.zip",
-      "new_files": 0
-    },
-    {
-      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part001.zip",
-      "new_files": 0
-    },
-    {
-      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part002.zip",
-      "new_files": 0
-    },
-    {
-      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part003.zip",
-      "new_files": 0
-    },
-    {
-      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part004.zip",
-      "new_files": 0
-    },
-    {
-      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part005.zip",
-      "new_files": 0
-    },
-    {
-      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part006.zip",
-      "new_files": 0
-    },
-    {
-      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part007.zip",
-      "new_files": 0
-    },
-    {
       "archive": "incoming/agiosbible/Agios+Bible+-+Holy+Bible_2.7.0_APKPure.zip",
       "new_files": 0
     },
@@ -63,6 +23,10 @@
     {
       "archive": "incoming/copticprayer/01_Coptic_Prayers_Swedish_CONTENT_ONLY.zip",
       "new_files": 0
+    },
+    {
+      "archive": "incoming/derasat/bible1part1.zip",
+      "new_files": 5642
     },
     {
       "archive": "incoming/fathermatta/uptodown-com.Fr_matta_meskin.zip",
@@ -91,6 +55,10 @@
     {
       "archive": "incoming/katamars2/katamaras-2-0-1.zip",
       "new_files": 0
+    },
+    {
+      "archive": "incoming/katameros-api-master/Katameros_API.part001.zip",
+      "new_files": 123
     },
     {
       "archive": "incoming/orthodox-presenter-master/orthodox-presenter-master.zip",
@@ -526,16 +494,16 @@
     "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
     "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme",
     "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
-    "incoming/Ekklesia_8.9.45/archive.part001",
-    "incoming/Ekklesia_8.9.45/archive.part002",
-    "incoming/Ekklesia_8.9.45/archive.part003",
-    "incoming/Ipsaltos_8.1/archive.part001",
-    "incoming/Ipsaltos_8.1/archive.part002",
-    "incoming/Ipsaltos_8.1/archive.part003",
-    "incoming/Ipsaltos_8.1/archive.part004",
-    "incoming/Ipsaltos_8.1/archive.part005",
-    "incoming/Ipsaltos_8.1/archive.part006",
-    "incoming/Ipsaltos_8.1/archive.part007",
+    "incoming/Ekklesia_8.9.45/Ekklesia_8.9.45_part001.zip (multipart continuation)",
+    "incoming/Ekklesia_8.9.45/Ekklesia_8.9.45_part002.zip (multipart continuation)",
+    "incoming/Ekklesia_8.9.45/Ekklesia_8.9.45_part003.zip (multipart continuation)",
+    "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part001.zip (multipart continuation)",
+    "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part002.zip (multipart continuation)",
+    "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part003.zip (multipart continuation)",
+    "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part004.zip (multipart continuation)",
+    "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part005.zip (multipart continuation)",
+    "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part006.zip (multipart continuation)",
+    "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part007.zip (multipart continuation)",
     "incoming/agiosbible/__MACOSX/._Agios+Bible+-+Holy+Bible_2.7.0_APKPure",
     "incoming/agiosbible/Agios+Bible+-+Holy+Bible_2.7.0_APKPure/icon.png",
     "incoming/agiosbible/Agios+Bible+-+Holy+Bible_2.7.0_APKPure/manifest.json",
@@ -2668,6 +2636,8 @@
     "incoming/copticprayer/Kholagy/sentences.csv",
     "incoming/copticprayer/Kholagy/INDEX.json",
     "incoming/copticprayer/Kholagy/prays_relations.csv",
+    "incoming/derasat/bible1part2.zip (multipart continuation)",
+    "incoming/derasat/bible1part3.zip (multipart continuation)",
     "incoming/fathermatta/__MACOSX/._uptodown-com.Fr_matta_meskin",
     "incoming/fathermatta/uptodown-com.Fr_matta_meskin/googleid.properties",
     "incoming/fathermatta/uptodown-com.Fr_matta_meskin/play-services-measurement-sdk.properties",
@@ -10003,6 +9973,7 @@
     "incoming/katamars2/katamaras-2-0-1/res/drawable/dnarrow.xml",
     "incoming/katamars2/katamaras-2-0-1/res/raw/kata1.png",
     "incoming/katamars2/katamaras-2-0-1/res/raw/background.jpg",
+    "incoming/katameros-api-master/Katameros_API.part002.zip (multipart continuation)",
     "incoming/orthodox-presenter-master/orthodox-presenter-master/.gitignore",
     "incoming/orthodox-presenter-master/orthodox-presenter-master/favicon.ico",
     "incoming/orthodox-presenter-master/orthodox-presenter-master/package-lock.json",
@@ -10512,26 +10483,5 @@
     "incoming/salawatelkhedma/res/drawable-xxhdpi/headerland.png",
     "incoming/salawatelkhedma/res/drawable-xxhdpi/ic_launcher.png"
   ],
-  "errors": [
-    {
-      "archive": "incoming/derasat/bible1part1.zip",
-      "error": "7z cannot list archive: "
-    },
-    {
-      "archive": "incoming/derasat/bible1part2.zip",
-      "error": "7z cannot list archive: \nERROR: /home/runner/work/Library-/Library-/incoming/derasat/bible1part2.zip : /home/runner/work/Library-/Library-/incoming/derasat/bible1part2.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/derasat/bible1part3.zip",
-      "error": "[Errno 22] Invalid argument"
-    },
-    {
-      "archive": "incoming/katameros-api-master/Katameros_API.part001.zip",
-      "error": "7z cannot list archive: "
-    },
-    {
-      "archive": "incoming/katameros-api-master/Katameros_API.part002.zip",
-      "error": "[Errno 22] Invalid argument"
-    }
-  ]
+  "errors": []
 }
