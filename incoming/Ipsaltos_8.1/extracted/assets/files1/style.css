@@ -1,0 +1,10 @@
+@font-face {
+  font-family: 'YourFont';
+  src: url('Roboto-Light.ttf')
+  /*src: url('Roboto-Light.woff') format('woff'), 
+   url('Roboto-Light.ttf') format('truetype'); */
+}  
+
+body {
+  font-family: 'YourFont';
+}
