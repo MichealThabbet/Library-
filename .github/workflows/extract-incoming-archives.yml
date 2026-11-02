@@ -34,7 +34,7 @@ jobs:
           max_files=30000
           max_bytes=2*1024**3
           def is_archive(p): return p.name.lower().endswith(exts)
-          def eligible(p): return not any(part.lower() in excluded for part in p.parts)
+          def eligible(p): return not any(part.lower() in excluded or part.lower()=="__macosx" for part in p.parts) and not p.name.startswith("._")
           def safe_name(name):
             name=name.replace("\\","/")
             p=pathlib.PurePosixPath(name)
