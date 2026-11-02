@@ -1,6 +1,6 @@
 {
   "phase": 1,
-  "scope": "Application identity cleanup; local working tree only",
+  "scope": "Application identity cleanup",
   "status": "completed",
   "images_scanned": 1389,
   "unique_image_ocr_runs": 1332,
@@ -19,6 +19,6 @@
   "exceptions_description": "The 65 previously reported notice-bearing files have now been cleaned and verified; see PHASE_1_FINAL_CHECK.json.",
   "verification_limits": "OCR and pattern matching are not a mathematical guarantee against every visual mark or personal name.",
   "built_app": false,
-  "uploaded": false,
-  "git_history_modified": false
+  "git_history_modified": false,
+  "delivery": "Included in the repository cleanup commit"
 }
