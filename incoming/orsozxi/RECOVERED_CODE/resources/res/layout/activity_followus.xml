@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:id="@+id/header"
+        layout="@layout/app_header"/>
+    <LinearLayout
+        android:gravity="bottom"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:weightSum="7"
+        android:layout_below="@+id/header"
+        android:layout_alignParentBottom="true">
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="4"/>
+        <LinearLayout
+            android:gravity="center_horizontal"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:id="@+id/linearLayout2"
+            android:layout_width="wrap_content"
+            android:layout_height="0dp"
+            android:layout_weight="3">
+            <Button
+                android:textSize="22dp"
+                android:textColor="#ffd800"
+                android:layout_gravity="center"
+                android:id="@+id/btn_list"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:text="إستمع الآن"
+                android:layout_weight="1"
+                android:contentDescription="أستمع الأن"/>
+            <Button
+                android:textSize="22dp"
+                android:textColor="#ffd800"
+                android:layout_gravity="center"
+                android:id="@+id/btn_times"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:text="مواعيد الراديو"
+                android:layout_weight="1"
+                android:contentDescription="مواعيد الراديو"/>
+            <Button
+                android:textSize="22dp"
+                android:textColor="#ffd800"
+                android:layout_gravity="center"
+                android:id="@+id/btn_orders"
+                android:layout_width="wrap_content"
+                android:layout_height="0dp"
+                android:text="الطلبات"
+                android:layout_weight="1"
+                android:contentDescription="الطلبات"/>
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

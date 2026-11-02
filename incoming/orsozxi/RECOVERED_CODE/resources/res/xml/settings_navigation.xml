@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:fitsSystemWindows="true">
+    <SwitchPreference
+        android:title="@string/settings_dynamic_menu"
+        android:key="settings_dynamic_menu"
+        android:summary="@string/settings_dynamic_menu_summary"
+        android:defaultValue="true"
+        app:iconSpaceReserved="false"/>
+    <SwitchPreference
+        android:title="@string/settings_show_category_count"
+        android:key="settings_show_category_count"
+        android:summary="@string/settings_show_category_count_summary"
+        android:defaultValue="true"
+        app:iconSpaceReserved="false"/>
+    <SwitchPreference
+        android:title="@string/settings_show_uncategorized"
+        android:key="settings_show_uncategorized"
+        android:summary="@string/settings_show_uncategorized_summary"
+        android:defaultValue="false"
+        app:iconSpaceReserved="false"/>
+    <SwitchPreference
+        android:title="@string/settings_navdrawer_on_exit"
+        android:key="settings_navdrawer_on_exit"
+        android:summary="@string/settings_navdrawer_on_exit_summary"
+        android:defaultValue="false"
+        app:iconSpaceReserved="false"/>
+</PreferenceScreen>

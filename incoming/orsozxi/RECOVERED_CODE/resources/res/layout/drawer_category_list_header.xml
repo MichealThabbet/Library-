@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:id="@+id/layout_root"
+    android:paddingLeft="@dimen/horizontal_margin"
+    android:paddingRight="@dimen/horizontal_margin"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingStart="@dimen/horizontal_margin"
+    android:paddingEnd="@dimen/horizontal_margin">
+    <com.neopixl.pixlui.components.textview.TextView
+        android:textAppearance="@style/Text.Small"
+        android:textColor="@color/text_color"
+        android:gravity="bottom"
+        android:id="@+id/tag"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginBottom="1dp"
+        android:text="@string/categories"
+        android:textAllCaps="true"/>
+    <View
+        android:background="@color/drawer_line"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"/>
+</LinearLayout>

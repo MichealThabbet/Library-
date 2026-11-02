@@ -1,0 +1,164 @@
+package rx.internal.operators;
+
+import java.util.ArrayList;
+import java.util.Iterator;
+import java.util.LinkedList;
+import java.util.List;
+import rx.Observable;
+import rx.Subscriber;
+import rx.functions.Func1;
+import rx.observers.SerializedSubscriber;
+import rx.subscriptions.CompositeSubscription;
+
+/* loaded from: classes3.dex */
+public final class OperatorBufferWithStartEndObservable<T, TOpening, TClosing> implements Observable.Operator<List<T>, T> {
+    final Func1<? super TOpening, ? extends Observable<? extends TClosing>> bufferClosing;
+    final Observable<? extends TOpening> bufferOpening;
+
+    public OperatorBufferWithStartEndObservable(Observable<? extends TOpening> observable, Func1<? super TOpening, ? extends Observable<? extends TClosing>> func1) {
+        this.bufferOpening = observable;
+        this.bufferClosing = func1;
+    }
+
+    @Override // rx.functions.Func1
+    public Subscriber<? super T> call(Subscriber<? super List<T>> subscriber) {
+        final BufferingSubscriber bufferingSubscriber = new BufferingSubscriber(new SerializedSubscriber(subscriber));
+        Subscriber<TOpening> subscriber2 = new Subscriber<TOpening>() { // from class: rx.internal.operators.OperatorBufferWithStartEndObservable.1
+            @Override // rx.Observer
+            public void onNext(TOpening topening) {
+                bufferingSubscriber.startBuffer(topening);
+            }
+
+            @Override // rx.Observer
+            public void onError(Throwable th) {
+                bufferingSubscriber.onError(th);
+            }
+
+            @Override // rx.Observer
+            public void onCompleted() {
+                bufferingSubscriber.onCompleted();
+            }
+        };
+        subscriber.add(subscriber2);
+        subscriber.add(bufferingSubscriber);
+        this.bufferOpening.unsafeSubscribe(subscriber2);
+        return bufferingSubscriber;
+    }
+
+    final class BufferingSubscriber extends Subscriber<T> {
+        final Subscriber<? super List<T>> child;
+        final List<List<T>> chunks = new LinkedList();
+        final CompositeSubscription closingSubscriptions;
+        boolean done;
+
+        public BufferingSubscriber(Subscriber<? super List<T>> subscriber) {
+            this.child = subscriber;
+            CompositeSubscription compositeSubscription = new CompositeSubscription();
+            this.closingSubscriptions = compositeSubscription;
+            add(compositeSubscription);
+        }
+
+        @Override // rx.Observer
+        public void onNext(T t) {
+            synchronized (this) {
+                Iterator<List<T>> it2 = this.chunks.iterator();
+                while (it2.hasNext()) {
+                    it2.next().add(t);
+                }
+            }
+        }
+
+        @Override // rx.Observer
+        public void onError(Throwable th) {
+            synchronized (this) {
+                if (this.done) {
+                    return;
+                }
+                this.done = true;
+                this.chunks.clear();
+                this.child.onError(th);
+                unsubscribe();
+            }
+        }
+
+        @Override // rx.Observer
+        public void onCompleted() {
+            try {
+                synchronized (this) {
+                    if (this.done) {
+                        return;
+                    }
+                    this.done = true;
+                    LinkedList linkedList = new LinkedList(this.chunks);
+                    this.chunks.clear();
+                    Iterator it2 = linkedList.iterator();
+                    while (it2.hasNext()) {
+                        this.child.onNext((List) it2.next());
+                    }
+                    this.child.onCompleted();
+                    unsubscribe();
+                }
+            } catch (Throwable th) {
+                this.child.onError(th);
+            }
+        }
+
+        void startBuffer(TOpening topening) {
+            final ArrayList arrayList = new ArrayList();
+            synchronized (this) {
+                if (this.done) {
+                    return;
+                }
+                this.chunks.add(arrayList);
+                try {
+                    Observable<? extends TClosing> observableCall = OperatorBufferWithStartEndObservable.this.bufferClosing.call(topening);
+                    Subscriber<TClosing> subscriber = new Subscriber<TClosing>() { // from class: rx.internal.operators.OperatorBufferWithStartEndObservable.BufferingSubscriber.1
+                        @Override // rx.Observer
+                        public void onNext(TClosing tclosing) {
+                            BufferingSubscriber.this.closingSubscriptions.remove(this);
+                            BufferingSubscriber.this.endBuffer(arrayList);
+                        }
+
+                        @Override // rx.Observer
+                        public void onError(Throwable th) {
+                            BufferingSubscriber.this.onError(th);
+                        }
+
+                        @Override // rx.Observer
+                        public void onCompleted() {
+                            BufferingSubscriber.this.closingSubscriptions.remove(this);
+                            BufferingSubscriber.this.endBuffer(arrayList);
+                        }
+                    };
+                    this.closingSubscriptions.add(subscriber);
+                    observableCall.unsafeSubscribe(subscriber);
+                } catch (Throwable th) {
+                    onError(th);
+                }
+            }
+        }
+
+        void endBuffer(List<T> list) {
+            boolean z;
+            synchronized (this) {
+                if (this.done) {
+                    return;
+                }
+                Iterator<List<T>> it2 = this.chunks.iterator();
+                while (true) {
+                    if (!it2.hasNext()) {
+                        z = false;
+                        break;
+                    } else if (it2.next() == list) {
+                        z = true;
+                        it2.remove();
+                        break;
+                    }
+                }
+                if (z) {
+                    this.child.onNext(list);
+                }
+            }
+        }
+    }
+}

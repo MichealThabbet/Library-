@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="agby">
+        <item>صلاة باكر</item>
+        <item>صلاة الساعة الثالثة</item>
+        <item>صلاة الساعة السادسة</item>
+        <item>صلاة الساعة التاسعة</item>
+        <item>صلاة الغروب</item>
+        <item>صلاة النوم</item>
+        <item>صلاة الخدمة الأولى</item>
+        <item>صلاة الخدمة الثانية</item>
+        <item>صلاة الخدمة الثالثة</item>
+        <item>صلاة الستار</item>
+    </array>
+    <array name="ambers">
+        <item>@color/md_amber_500</item>
+        <item>@color/md_amber_50</item>
+        <item>@color/md_amber_100</item>
+        <item>@color/md_amber_200</item>
+        <item>@color/md_amber_300</item>
+        <item>@color/md_amber_400</item>
+        <item>@color/md_amber_600</item>
+        <item>@color/md_amber_700</item>
+        <item>@color/md_amber_800</item>
+        <item>@color/md_amber_900</item>
+        <item>@color/md_amber_A100</item>
+        <item>@color/md_amber_A200</item>
+        <item>@color/md_amber_A400</item>
+        <item>@color/md_amber_A700</item>
+    </array>
+    <array name="attachments_actions">
+        <item>إشراك</item>
+        <item>حذف</item>
+        <item>حذف الكل</item>
+        <item>صحح</item>
+    </array>
+    <array name="attachments_actions_values">
+        <item>share</item>
+        <item>delete</item>
+        <item>delete all</item>
+        <item>edit</item>
+    </array>
+    <array name="blue_greys">
+        <item>@color/md_blue_grey_500</item>
+        <item>@color/md_blue_grey_50</item>
+        <item>@color/md_blue_grey_100</item>
+        <item>@color/md_blue_grey_200</item>
+        <item>@color/md_blue_grey_300</item>
+        <item>@color/md_blue_grey_400</item>
+        <item>@color/md_blue_grey_600</item>
+        <item>@color/md_blue_grey_700</item>
+        <item>@color/md_blue_grey_800</item>
+        <item>@color/md_blue_grey_900</item>
+    </array>
+    <array name="blues">
+        <item>@color/md_blue_500</item>
+        <item>@color/md_blue_50</item>
+        <item>@color/md_blue_100</item>
+        <item>@color/md_blue_200</item>
+        <item>@color/md_blue_300</item>
+        <item>@color/md_blue_400</item>
+        <item>@color/md_blue_600</item>
+        <item>@color/md_blue_700</item>
+        <item>@color/md_blue_800</item>
+        <item>@color/md_blue_900</item>
+        <item>@color/md_blue_A100</item>
+        <item>@color/md_blue_A200</item>
+        <item>@color/md_blue_A400</item>
+        <item>@color/md_blue_A700</item>
+    </array>
+    <array name="browns">
+        <item>@color/md_brown_500</item>
+        <item>@color/md_brown_50</item>
+        <item>@color/md_brown_100</item>
+        <item>@color/md_brown_200</item>
+        <item>@color/md_brown_300</item>
+        <item>@color/md_brown_400</item>
+        <item>@color/md_brown_600</item>
+        <item>@color/md_brown_700</item>
+        <item>@color/md_brown_800</item>
+        <item>@color/md_brown_900</item>
+    </array>
+    <array name="checked_items_behavior">
+        <item>ربط بالموقع</item>
+        <item>الانتقال إلى آخر كل العناصر</item>
+        <item>تحريك بعد حذف إختياره لكن على رأس قائمة اللامختارة</item>
+    </array>
+    <array name="checked_items_behavior_values">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+    </array>
+    <array name="colors_app">
+        <item>معطل</item>
+        <item>شريط فقط</item>
+        <item>قائمة الملاحظات فقط</item>
+        <item>كامل</item>
+    </array>
+    <array name="colors_app_values">
+        <item>disabled</item>
+        <item>strip</item>
+        <item>list</item>
+        <item>complete</item>
+    </array>
+    <array name="colors_widget">
+        <item>معطل (تعطيل)</item>
+        <item>شريط فقط</item>
+        <item>قائمة الملاحظات</item>
+    </array>
+    <array name="cyans">
+        <item>@color/md_cyan_500</item>
+        <item>@color/md_cyan_50</item>
+        <item>@color/md_cyan_100</item>
+        <item>@color/md_cyan_200</item>
+        <item>@color/md_cyan_300</item>
+        <item>@color/md_cyan_400</item>
+        <item>@color/md_cyan_600</item>
+        <item>@color/md_cyan_700</item>
+        <item>@color/md_cyan_800</item>
+        <item>@color/md_cyan_900</item>
+        <item>@color/md_cyan_A100</item>
+        <item>@color/md_cyan_A200</item>
+        <item>@color/md_cyan_A400</item>
+        <item>@color/md_cyan_A700</item>
+    </array>
+    <array name="deep_oranges">
+        <item>@color/md_deep_orange_500</item>
+        <item>@color/md_deep_orange_50</item>
+        <item>@color/md_deep_orange_100</item>
+        <item>@color/md_deep_orange_200</item>
+        <item>@color/md_deep_orange_300</item>
+        <item>@color/md_deep_orange_400</item>
+        <item>@color/md_deep_orange_600</item>
+        <item>@color/md_deep_orange_700</item>
+        <item>@color/md_deep_orange_800</item>
+        <item>@color/md_deep_orange_900</item>
+        <item>@color/md_deep_orange_A100</item>
+        <item>@color/md_deep_orange_A200</item>
+        <item>@color/md_deep_orange_A400</item>
+        <item>@color/md_deep_orange_A700</item>
+    </array>
+    <array name="deep_purples">
+        <item>@color/md_deep_purple_500</item>
+        <item>@color/md_deep_purple_50</item>
+        <item>@color/md_deep_purple_100</item>
+        <item>@color/md_deep_purple_200</item>
+        <item>@color/md_deep_purple_300</item>
+        <item>@color/md_deep_purple_400</item>
+        <item>@color/md_deep_purple_600</item>
+        <item>@color/md_deep_purple_700</item>
+        <item>@color/md_deep_purple_800</item>
+        <item>@color/md_deep_purple_900</item>
+        <item>@color/md_deep_purple_A100</item>
+        <item>@color/md_deep_purple_A200</item>
+        <item>@color/md_deep_purple_A400</item>
+        <item>@color/md_deep_purple_A700</item>
+    </array>
+    <array name="falcon">
+        <item>@color/md_falcon_400</item>
+        <item>@color/md_falcon_500</item>
+        <item>@color/md_falcon_700</item>
+    </array>
+    <array name="games">
+        <item>لعبة الذاكرة</item>
+        <item>لعبة البازل</item>
+    </array>
+    <array name="gplus_colors">
+        <item>@color/gplus_color_1</item>
+        <item>@color/gplus_color_2</item>
+        <item>@color/gplus_color_3</item>
+        <item>@color/gplus_color_4</item>
+    </array>
+    <array name="greens">
+        <item>@color/md_green_500</item>
+        <item>@color/md_green_50</item>
+        <item>@color/md_green_100</item>
+        <item>@color/md_green_200</item>
+        <item>@color/md_green_300</item>
+        <item>@color/md_green_400</item>
+        <item>@color/md_green_600</item>
+        <item>@color/md_green_700</item>
+        <item>@color/md_green_800</item>
+        <item>@color/md_green_900</item>
+        <item>@color/md_green_A100</item>
+        <item>@color/md_green_A200</item>
+        <item>@color/md_green_A400</item>
+        <item>@color/md_green_A700</item>
+    </array>
+    <array name="greys">
+        <item>@color/md_grey_500</item>
+        <item>@color/md_grey_50</item>
+        <item>@color/md_grey_100</item>
+        <item>@color/md_grey_200</item>
+        <item>@color/md_grey_300</item>
+        <item>@color/md_grey_400</item>
+        <item>@color/md_grey_600</item>
+        <item>@color/md_grey_700</item>
+        <item>@color/md_grey_800</item>
+        <item>@color/md_grey_900</item>
+        <item>@color/md_black_1000</item>
+        <item>@color/md_white_1000</item>
+    </array>
+    <array name="indigos">
+        <item>@color/md_indigo_500</item>
+        <item>@color/md_indigo_50</item>
+        <item>@color/md_indigo_100</item>
+        <item>@color/md_indigo_200</item>
+        <item>@color/md_indigo_300</item>
+        <item>@color/md_indigo_400</item>
+        <item>@color/md_indigo_600</item>
+        <item>@color/md_indigo_700</item>
+        <item>@color/md_indigo_800</item>
+        <item>@color/md_indigo_900</item>
+        <item>@color/md_indigo_A100</item>
+        <item>@color/md_indigo_A200</item>
+        <item>@color/md_indigo_A400</item>
+        <item>@color/md_indigo_A700</item>
+    </array>
+    <array name="languages">
+        <item>العربية (Arabic)</item>
+    </array>
+    <array name="languages_codes">
+        <item>ar</item>
+    </array>
+    <array name="light_blues">
+        <item>@color/md_light_blue_500</item>
+        <item>@color/md_light_blue_50</item>
+        <item>@color/md_light_blue_100</item>
+        <item>@color/md_light_blue_200</item>
+        <item>@color/md_light_blue_300</item>
+        <item>@color/md_light_blue_400</item>
+        <item>@color/md_light_blue_600</item>
+        <item>@color/md_light_blue_700</item>
+        <item>@color/md_light_blue_800</item>
+        <item>@color/md_light_blue_900</item>
+        <item>@color/md_light_blue_A100</item>
+        <item>@color/md_light_blue_A200</item>
+        <item>@color/md_light_blue_A400</item>
+        <item>@color/md_light_blue_A700</item>
+    </array>
+    <array name="light_greens">
+        <item>@color/md_light_green_500</item>
+        <item>@color/md_light_green_50</item>
+        <item>@color/md_light_green_100</item>
+        <item>@color/md_light_green_200</item>
+        <item>@color/md_light_green_300</item>
+        <item>@color/md_light_green_400</item>
+        <item>@color/md_light_green_600</item>
+        <item>@color/md_light_green_700</item>
+        <item>@color/md_light_green_800</item>
+        <item>@color/md_light_green_900</item>
+        <item>@color/md_light_green_A100</item>
+        <item>@color/md_light_green_A200</item>
+        <item>@color/md_light_green_A400</item>
+        <item>@color/md_light_green_A700</item>
+    </array>
+    <array name="limes">
+        <item>@color/md_lime_500</item>
+        <item>@color/md_lime_50</item>
+        <item>@color/md_lime_100</item>
+        <item>@color/md_lime_200</item>
+        <item>@color/md_lime_300</item>
+        <item>@color/md_lime_400</item>
+        <item>@color/md_lime_600</item>
+        <item>@color/md_lime_700</item>
+        <item>@color/md_lime_800</item>
+        <item>@color/md_lime_900</item>
+        <item>@color/md_lime_A100</item>
+        <item>@color/md_lime_A200</item>
+        <item>@color/md_lime_A400</item>
+        <item>@color/md_lime_A700</item>
+    </array>
+    <array name="material_colors">
+        <item>#f44336</item>
+        <item>#e91e63</item>
+        <item>#9c27b0</item>
+        <item>#673ab7</item>
+        <item>#3f51b5</item>
+        <item>#2196f3</item>
+        <item>#03a9f4</item>
+        <item>#00bcd4</item>
+        <item>#009688</item>
+        <item>#4caf50</item>
+        <item>#8bc34a</item>
+        <item>#cddc39</item>
+        <item>#ffeb3b</item>
+        <item>#ffc107</item>
+        <item>#ff9800</item>
+        <item>#ff5722</item>
+        <item>#795548</item>
+        <item>#9e9e9e</item>
+        <item>#607d8b</item>
+    </array>
+    <array name="menus">
+        <item>ضبط الخط</item>
+        <item>ضبط منبة القداس</item>
+        <item>ضبط منبة الأعتراف</item>
+        <item>ضبط منبة الأجبية</item>
+        <item>الثيم الداكن</item>
+        <item>الثيم الفاتح</item>
+        <item>أجندة الأعياد</item>
+    </array>
+    <array name="nav_drawer_icons">
+    </array>
+    <array name="nav_drawer_items">
+    </array>
+    <array name="navigation_list">
+        <item>التحضير</item>
+        <item>الأرشيف</item>
+        <item>التنبيهات</item>
+        <item>نفايات</item>
+        <item>غير مصنف</item>
+    </array>
+    <array name="navigation_list_codes">
+        <item>Notes</item>
+        <item>Archive</item>
+        <item>Reminders</item>
+        <item>Trash</item>
+        <item>Uncategorized</item>
+    </array>
+    <array name="navigation_list_icons">
+        <item>@drawable/ic_file_document_black_48dp</item>
+        <item>@drawable/ic_archive_black_48dp</item>
+        <item>@drawable/ic_alarm_black_48dp</item>
+        <item>@drawable/ic_delete_black_48dp</item>
+        <item>@drawable/ic_folder_open_black_48dp</item>
+    </array>
+    <array name="navigation_list_icons_selected">
+        <item>@drawable/ic_file_document_black_48dp</item>
+        <item>@drawable/ic_archive_black_48dp</item>
+        <item>@drawable/ic_alarm_black_48dp</item>
+        <item>@drawable/ic_delete_black_48dp</item>
+        <item>@drawable/ic_folder_open_black_48dp</item>
+    </array>
+    <array name="oranges">
+        <item>@color/md_orange_500</item>
+        <item>@color/md_orange_50</item>
+        <item>@color/md_orange_100</item>
+        <item>@color/md_orange_200</item>
+        <item>@color/md_orange_300</item>
+        <item>@color/md_orange_400</item>
+        <item>@color/md_orange_600</item>
+        <item>@color/md_orange_700</item>
+        <item>@color/md_orange_800</item>
+        <item>@color/md_orange_900</item>
+        <item>@color/md_orange_A100</item>
+        <item>@color/md_orange_A200</item>
+        <item>@color/md_orange_A400</item>
+        <item>@color/md_orange_A700</item>
+    </array>
+    <array name="pinks">
+        <item>@color/md_pink_500</item>
+        <item>@color/md_pink_50</item>
+        <item>@color/md_pink_100</item>
+        <item>@color/md_pink_200</item>
+        <item>@color/md_pink_300</item>
+        <item>@color/md_pink_400</item>
+        <item>@color/md_pink_600</item>
+        <item>@color/md_pink_700</item>
+        <item>@color/md_pink_800</item>
+        <item>@color/md_pink_900</item>
+        <item>@color/md_pink_A100</item>
+        <item>@color/md_pink_A200</item>
+        <item>@color/md_pink_A400</item>
+        <item>@color/md_pink_A700</item>
+    </array>
+    <array name="purples">
+        <item>@color/md_purple_500</item>
+        <item>@color/md_purple_50</item>
+        <item>@color/md_purple_100</item>
+        <item>@color/md_purple_200</item>
+        <item>@color/md_purple_300</item>
+        <item>@color/md_purple_400</item>
+        <item>@color/md_purple_600</item>
+        <item>@color/md_purple_700</item>
+        <item>@color/md_purple_800</item>
+        <item>@color/md_purple_900</item>
+        <item>@color/md_purple_A100</item>
+        <item>@color/md_purple_A200</item>
+        <item>@color/md_purple_A400</item>
+        <item>@color/md_purple_A700</item>
+    </array>
+    <array name="recurrence_freq">
+        <item>REPEAT DAILY</item>
+        <item>REPEAT WEEKLY</item>
+        <item>REPEAT MONTHLY</item>
+        <item>REPEAT YEARLY</item>
+    </array>
+    <array name="reds">
+        <item>@color/md_red_500</item>
+        <item>@color/md_red_50</item>
+        <item>@color/md_red_100</item>
+        <item>@color/md_red_200</item>
+        <item>@color/md_red_300</item>
+        <item>@color/md_red_400</item>
+        <item>@color/md_red_600</item>
+        <item>@color/md_red_700</item>
+        <item>@color/md_red_800</item>
+        <item>@color/md_red_900</item>
+        <item>@color/md_red_A100</item>
+        <item>@color/md_red_A200</item>
+        <item>@color/md_red_A400</item>
+        <item>@color/md_red_A700</item>
+    </array>
+    <array name="repeat_by_nth_fri">
+        <item>on every first Friday</item>
+        <item>on every second Friday</item>
+        <item>on every third Friday</item>
+        <item>on every fourth Friday</item>
+        <item>on every last Friday</item>
+    </array>
+    <array name="repeat_by_nth_mon">
+        <item>on every first Monday</item>
+        <item>on every second Monday</item>
+        <item>on every third Monday</item>
+        <item>on every fourth Monday</item>
+        <item>on every last Monday</item>
+    </array>
+    <array name="repeat_by_nth_sat">
+        <item>on every first Saturday</item>
+        <item>on every second Saturday</item>
+        <item>on every third Saturday</item>
+        <item>on every fourth Saturday</item>
+        <item>on every last Saturday</item>
+    </array>
+    <array name="repeat_by_nth_sun">
+        <item>on every first Sunday</item>
+        <item>on every second Sunday</item>
+        <item>on every third Sunday</item>
+        <item>on every fourth Sunday</item>
+        <item>on every last Sunday</item>
+    </array>
+    <array name="repeat_by_nth_thurs">
+        <item>on every first Thursday</item>
+        <item>on every second Thursday</item>
+        <item>on every third Thursday</item>
+        <item>on every fourth Thursday</item>
+        <item>on every last Thursday</item>
+    </array>
+    <array name="repeat_by_nth_tues">
+        <item>on every first Tuesday</item>
+        <item>on every second Tuesday</item>
+        <item>on every third Tuesday</item>
+        <item>on every fourth Tuesday</item>
+        <item>on every last Tuesday</item>
+    </array>
+    <array name="repeat_by_nth_wed">
+        <item>on every first Wednesday</item>
+        <item>on every second Wednesday</item>
+        <item>on every third Wednesday</item>
+        <item>on every fourth Wednesday</item>
+        <item>on every last Wednesday</item>
+    </array>
+    <array name="sortable_columns">
+        <item>title</item>
+        <item>creation</item>
+        <item>last_modification</item>
+        <item>alarm</item>
+    </array>
+    <array name="sortable_columns_human_readable">
+        <item>العنوان</item>
+        <item>تاريخ الإنشاء</item>
+        <item>تاريخ التعديل الأخير</item>
+        <item>تاريخ التذكير</item>
+    </array>
+    <array name="teals">
+        <item>@color/md_teal_500</item>
+        <item>@color/md_teal_50</item>
+        <item>@color/md_teal_100</item>
+        <item>@color/md_teal_200</item>
+        <item>@color/md_teal_300</item>
+        <item>@color/md_teal_400</item>
+        <item>@color/md_teal_600</item>
+        <item>@color/md_teal_700</item>
+        <item>@color/md_teal_800</item>
+        <item>@color/md_teal_900</item>
+        <item>@color/md_teal_A100</item>
+        <item>@color/md_teal_A200</item>
+        <item>@color/md_teal_A400</item>
+        <item>@color/md_teal_A700</item>
+    </array>
+    <array name="texts_black">
+        <item>@color/md_text</item>
+        <item>@color/md_secondary_text_icons</item>
+        <item>@color/md_disabled_hint_text</item>
+        <item>@color/md_divider</item>
+    </array>
+    <array name="texts_white">
+        <item>@color/md_text_white</item>
+        <item>@color/md_secondary_text_icons_white</item>
+        <item>@color/md_disabled_hint_text_white</item>
+        <item>@color/md_divider_white</item>
+    </array>
+    <array name="type">
+        <item>محاولة جديدة</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </array>
+    <array name="yellows">
+        <item>@color/md_yellow_500</item>
+        <item>@color/md_yellow_50</item>
+        <item>@color/md_yellow_100</item>
+        <item>@color/md_yellow_200</item>
+        <item>@color/md_yellow_300</item>
+        <item>@color/md_yellow_400</item>
+        <item>@color/md_yellow_600</item>
+        <item>@color/md_yellow_700</item>
+        <item>@color/md_yellow_800</item>
+        <item>@color/md_yellow_900</item>
+        <item>@color/md_yellow_A100</item>
+        <item>@color/md_yellow_A200</item>
+        <item>@color/md_yellow_A400</item>
+        <item>@color/md_yellow_A700</item>
+    </array>
+</resources>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:id="@+id/header"
+        layout="@layout/app_header"/>
+    <Button
+        android:textSize="20dp"
+        android:textColor="#ffffff"
+        android:id="@+id/btn_add"
+        android:background="@drawable/button_black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="اضف قائمتك المفضلة"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"/>
+    <ListView
+        android:id="@+id/lv_days"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:divider="@android:color/white"
+        android:dividerHeight="1dp"
+        android:layout_above="@+id/btn_add"
+        android:layout_below="@+id/header"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

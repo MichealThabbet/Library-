@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp">
+    <ImageView
+        android:id="@+id/relative_title"
+        android:background="@drawable/sub_gwhara"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"/>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-12dp">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/iv_history"
+                android:background="@drawable/sub_gw_history_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="تاريخ الكنيسة"/>
+            <ImageView
+                android:id="@+id/taks"
+                android:background="@drawable/sub_gw_taks_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="طقس الكنيسة"/>
+            <ImageView
+                android:id="@+id/akwal"
+                android:background="@drawable/sub_gw_akwal_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="أثوال الأباء"/>
+            <ImageView
+                android:id="@+id/iv_tip_in_word"
+                android:background="@drawable/sub_audio_lib_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="@string/tip_in_word"/>
+            <ImageView
+                android:id="@+id/trueayah"
+                android:background="@drawable/sub_gw_trueayah_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="الأية الصحيحة"/>
+            <ImageView
+                android:id="@+id/bostan"
+                android:background="@drawable/sub_man_bostan_selector"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="بستان الرهبان"/>
+            <ImageView
+                android:id="@+id/mdaya7"
+                android:background="@drawable/sub_tmaged_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="مدايح و تماجسد"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

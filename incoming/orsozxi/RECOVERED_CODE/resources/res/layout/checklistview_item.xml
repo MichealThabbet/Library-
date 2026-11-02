@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+    <ImageView
+        android:tag="checklistview_draghandle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/icons_top_margin"
+        android:src="@drawable/ic_drag_handle"/>
+    <CheckBox
+        android:tag="checklistview_checkbox"
+        android:focusable="false"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"/>
+    <it.feio.android.checklistview.widgets.EditTextMultiLineNoEnter
+        android:gravity="start"
+        android:tag="checklistview_edittext"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:inputType="textMultiLine"
+        android:imeOptions="actionNext"
+        style="@style/CheckListViewEditText"/>
+    <ImageView
+        android:tag="checklistview_deleteicon"
+        android:background="@drawable/icon_selector"
+        android:visibility="invisible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/icons_top_margin"
+        android:src="@drawable/ic_action_cancel"/>
+</LinearLayout>

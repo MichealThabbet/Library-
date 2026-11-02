@@ -1,0 +1,24 @@
+package com.marshalchen.ultimaterecyclerview.animators;
+
+import androidx.core.view.ViewCompat;
+import androidx.recyclerview.widget.RecyclerView;
+import com.marshalchen.ultimaterecyclerview.animators.BaseItemAnimator;
+
+/* loaded from: classes2.dex */
+public class FadeInRightAnimator extends BaseItemAnimator {
+    @Override // com.marshalchen.ultimaterecyclerview.animators.BaseItemAnimator
+    protected void animateRemoveImpl(RecyclerView.ViewHolder viewHolder) {
+        ViewCompat.animate(viewHolder.itemView).translationX(viewHolder.itemView.getRootView().getWidth() * 0.25f).alpha(0.0f).setDuration(getRemoveDuration()).setListener(new BaseItemAnimator.DefaultRemoveVpaListener(viewHolder)).start();
+    }
+
+    @Override // com.marshalchen.ultimaterecyclerview.animators.BaseItemAnimator
+    protected void preAnimateAddImpl(RecyclerView.ViewHolder viewHolder) {
+        ViewCompat.setTranslationX(viewHolder.itemView, viewHolder.itemView.getRootView().getWidth() * 0.25f);
+        ViewCompat.setAlpha(viewHolder.itemView, 0.0f);
+    }
+
+    @Override // com.marshalchen.ultimaterecyclerview.animators.BaseItemAnimator
+    protected void animateAddImpl(RecyclerView.ViewHolder viewHolder) {
+        ViewCompat.animate(viewHolder.itemView).translationX(0.0f).alpha(1.0f).setDuration(getAddDuration()).setListener(new BaseItemAnimator.DefaultAddVpaListener(viewHolder)).start();
+    }
+}

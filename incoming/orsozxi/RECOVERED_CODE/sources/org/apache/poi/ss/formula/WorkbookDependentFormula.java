@@ -1,0 +1,6 @@
+package org.apache.poi.ss.formula;
+
+/* loaded from: classes3.dex */
+public interface WorkbookDependentFormula {
+    String toFormulaString(FormulaRenderingWorkbook formulaRenderingWorkbook);
+}

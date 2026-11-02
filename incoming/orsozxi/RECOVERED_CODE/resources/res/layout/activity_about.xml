@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@drawable/button_black2"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="25dp">
+    <WebView
+        android:id="@+id/wv_about"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="21dp"
+        android:layout_marginBottom="10dp"
+        android:layout_above="@+id/btn_exit"
+        android:layout_alignParentTop="true"/>
+    <Button
+        android:textColor="#ffffff"
+        android:id="@+id/btn_exit"
+        android:background="@drawable/button_black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/options_exit"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

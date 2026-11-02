@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:background="@drawable/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:id="@+id/header"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        layout="@layout/app_header"/>
+    <LinearLayout
+        android:orientation="vertical"
+        android:id="@+id/linear"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true">
+        <Button
+            android:textSize="25dp"
+            android:textColor="#ffd800"
+            android:id="@+id/menory"
+            android:background="@drawable/bg_kolagybtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="10dp"
+            android:text="لعبة الذاكره"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="لعبة الذاكرة"/>
+        <Button
+            android:textSize="25dp"
+            android:textColor="#ffd800"
+            android:gravity="center"
+            android:id="@+id/puzzle"
+            android:background="@drawable/bg_kolagybtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="لعبة البازل"
+            android:layout_centerHorizontal="true"
+            android:contentDescription="لعبة البازل"/>
+    </LinearLayout>
+</RelativeLayout>

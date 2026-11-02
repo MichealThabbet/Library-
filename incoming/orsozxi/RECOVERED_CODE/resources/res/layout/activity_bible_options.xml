@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp">
+    <ImageView
+        android:id="@+id/relative_title"
+        android:background="@drawable/sub_bible"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"/>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-12dp">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/bible_old"
+                android:background="@drawable/sub_bible_old_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="العهد القديم"/>
+            <ImageView
+                android:id="@+id/bible_new"
+                android:background="@drawable/sub_bible_new_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="العهد الجديد"/>
+            <ImageView
+                android:id="@+id/bible_read"
+                android:background="@drawable/sub_bible_read_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="الكتاب المقدس اليومى"/>
+            <ImageView
+                android:id="@+id/bible_read_two"
+                android:background="@drawable/sub_bible_read_two_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="الكتاب المقدس اليومى"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

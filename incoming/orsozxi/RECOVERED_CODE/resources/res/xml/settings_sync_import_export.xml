@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:fitsSystemWindows="true">
+    <Preference
+        android:title="@string/settings_export"
+        android:key="settings_export_data"
+        app:iconSpaceReserved="false"/>
+    <Preference
+        android:title="@string/settings_import"
+        android:key="settings_import_data"
+        app:iconSpaceReserved="false"/>
+</PreferenceScreen>

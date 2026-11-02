@@ -1,0 +1,20 @@
+package com.ibm.icu.impl;
+
+import java.text.FieldPosition;
+
+/* loaded from: classes2.dex */
+public final class DontCareFieldPosition extends FieldPosition {
+    public static final DontCareFieldPosition INSTANCE = new DontCareFieldPosition();
+
+    @Override // java.text.FieldPosition
+    public void setBeginIndex(int i) {
+    }
+
+    @Override // java.text.FieldPosition
+    public void setEndIndex(int i) {
+    }
+
+    private DontCareFieldPosition() {
+        super(-913028704);
+    }
+}

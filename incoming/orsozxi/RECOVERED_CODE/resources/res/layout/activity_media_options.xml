@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp">
+    <ImageView
+        android:id="@+id/relative_title"
+        android:background="@drawable/sub_media"
+        android:layout_width="wrap_content"
+        android:layout_height="100dp"/>
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:scrollbars="none"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="-12dp">
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:id="@+id/images"
+                android:background="@drawable/sub_media_krot"
+                android:visibility="visible"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="كروت معايدة وتهنئة"/>
+            <ImageView
+                android:id="@+id/radio"
+                android:background="@drawable/sub_me_radio_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="رأديو أرثوذكسى"/>
+            <ImageView
+                android:id="@+id/channal"
+                android:background="@drawable/sub_me_channel_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="قناة اليوتيوب"/>
+            <ImageView
+                android:id="@+id/games"
+                android:background="@drawable/sub_me_games_selector"
+                android:layout_width="wrap_content"
+                android:layout_height="80dp"
+                android:layout_marginLeft="-3dp"
+                android:layout_marginTop="-14dp"
+                android:layout_marginRight="50dp"
+                android:contentDescription="الألعاب"/>
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <include
+        android:id="@+id/header"
+        layout="@layout/app_header"/>
+    <Button
+        android:textColor="#ffffff"
+        android:id="@+id/btn_add"
+        android:background="@drawable/button_black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="@string/add"
+        android:onClick="addButtonAction"/>
+    <ListView
+        android:id="@android:id/list"
+        android:longClickable="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"/>
+    <TextView
+        android:id="@android:id/empty"
+        android:padding="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/no_alarms"/>
+</LinearLayout>

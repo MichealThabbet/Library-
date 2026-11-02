@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:fitsSystemWindows="true">
+    <PreferenceCategory
+        android:title="@string/settings_category_preferences"
+        app:iconSpaceReserved="false">
+        <PreferenceScreen
+            android:layout_width="wrap_content"
+            android:title="@string/settings_screen_data"
+            android:key="settings_data"
+            app:fragment="it.orsozoxi.android.orsonotes.SettingsFragment"
+            app:iconSpaceReserved="false"/>
+        <PreferenceScreen
+            android:title="@string/settings_screen_behaviors"
+            android:key="settings_behaviors"
+            app:fragment="it.orsozoxi.android.orsonotes.SettingsFragment"
+            app:iconSpaceReserved="false"/>
+        <PreferenceScreen
+            android:title="@string/settings_screen_notifications"
+            android:key="settings_notifications"
+            app:fragment="it.orsozoxi.android.orsonotes.SettingsFragment"
+            app:iconSpaceReserved="false"/>
+    </PreferenceCategory>
+    <PreferenceCategory
+        android:title="@string/settings_category_about"
+        app:iconSpaceReserved="false">
+        <Preference
+            android:title="@string/settings_statistics"
+            app:iconSpaceReserved="false">
+            <intent
+                android:targetPackage="@string/app_package"
+                android:targetClass="it.orsozoxi.android.orsonotes.StatsActivity"/>
+        </Preference>
+    </PreferenceCategory>
+</PreferenceScreen>

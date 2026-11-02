@@ -1,0 +1,183 @@
+[
+  {
+    "source": "assets/grs_sp.bks",
+    "version": 2,
+    "entries": [
+      {
+        "alias": "cbgroot",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/grs_sp/01.pem"
+      }
+    ],
+    "note": "Public certificates stored in plaintext; no encrypted key entries. Store MAC not verified."
+  },
+  {
+    "source": "assets/hmsincas.bks",
+    "version": 2,
+    "entries": [
+      {
+        "alias": "huawei cbg root ca",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsincas/01.pem"
+      },
+      {
+        "alias": "huawei cbg application integration ca",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsincas/02.pem"
+      }
+    ],
+    "note": "Public certificates stored in plaintext; no encrypted key entries. Store MAC not verified."
+  },
+  {
+    "source": "assets/hmsrootcas.bks",
+    "version": 2,
+    "entries": [
+      {
+        "alias": "037root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/01.pem"
+      },
+      {
+        "alias": "024root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/02.pem"
+      },
+      {
+        "alias": "011root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/03.pem"
+      },
+      {
+        "alias": "016root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/04.pem"
+      },
+      {
+        "alias": "003root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/05.pem"
+      },
+      {
+        "alias": "052root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/06.pem"
+      },
+      {
+        "alias": "026root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/07.pem"
+      },
+      {
+        "alias": "013root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/08.pem"
+      },
+      {
+        "alias": "049root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/09.pem"
+      },
+      {
+        "alias": "005root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/10.pem"
+      },
+      {
+        "alias": "054root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/11.pem"
+      },
+      {
+        "alias": "010root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/12.pem"
+      },
+      {
+        "alias": "028root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/13.pem"
+      },
+      {
+        "alias": "015root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/14.pem"
+      },
+      {
+        "alias": "033root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/15.pem"
+      },
+      {
+        "alias": "002root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/16.pem"
+      },
+      {
+        "alias": "020root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/17.pem"
+      },
+      {
+        "alias": "051root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/18.pem"
+      },
+      {
+        "alias": "007root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/19.pem"
+      },
+      {
+        "alias": "038root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/20.pem"
+      },
+      {
+        "alias": "043root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/21.pem"
+      },
+      {
+        "alias": "012root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/22.pem"
+      },
+      {
+        "alias": "017root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/23.pem"
+      },
+      {
+        "alias": "048root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/24.pem"
+      },
+      {
+        "alias": "004root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/25.pem"
+      },
+      {
+        "alias": "035root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/26.pem"
+      },
+      {
+        "alias": "053root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/27.pem"
+      },
+      {
+        "alias": "032root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/28.pem"
+      },
+      {
+        "alias": "050root",
+        "type": "X.509",
+        "output": "DECRYPTED_CONTENT/certificates/hmsrootcas/29.pem"
+      }
+    ],
+    "note": "Public certificates stored in plaintext; no encrypted key entries. Store MAC not verified."
+  }
+]

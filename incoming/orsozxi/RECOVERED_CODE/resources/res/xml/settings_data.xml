@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:fitsSystemWindows="true">
+    <PreferenceScreen
+        android:persistent="false"
+        android:title="@string/settings_screen_sync_import_export"
+        android:key="settings_sync_import_export"
+        android:summary="@string/settings_backup_summary"
+        app:fragment="it.orsozoxi.android.orsonotes.SettingsFragment"
+        app:iconSpaceReserved="false"/>
+    <Preference
+        android:title="@string/settings_reset_all_data"
+        android:key="reset_all_data"
+        app:iconSpaceReserved="false"/>
+</PreferenceScreen>

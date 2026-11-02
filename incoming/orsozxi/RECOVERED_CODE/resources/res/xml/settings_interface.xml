@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:fitsSystemWindows="true">
+    <ListPreference
+        android:entries="@array/languages"
+        android:title="@string/settings_choose_language"
+        android:key="settings_language"
+        android:entryValues="@array/languages_codes"
+        app:iconSpaceReserved="false"/>
+    <ListPreference
+        android:entries="@array/colors_app"
+        android:title="@string/colors_app"
+        android:key="settings_colors_app"
+        android:defaultValue="strip"
+        android:entryValues="@array/colors_app_values"
+        app:iconSpaceReserved="false"/>
+    <SwitchPreference
+        android:title="@string/settings_fab_expansion_behavior"
+        android:key="settings_fab_expansion_behavior"
+        android:defaultValue="false"
+        android:summaryOn="@string/settings_fab_expansion_behavior_summary_on"
+        android:summaryOff="@string/settings_fab_expansion_behavior_summary_off"
+        app:iconSpaceReserved="false"/>
+    <SwitchPreference
+        android:title="@string/settings_attachments_on_bottom"
+        android:key="settings_attachments_on_bottom"
+        android:defaultValue="false"
+        android:summaryOn="@string/settings_attachments_on_bottom_summary_on"
+        android:summaryOff="@string/settings_attachments_on_bottom_summary_off"
+        app:iconSpaceReserved="false"/>
+    <SwitchPreference
+        android:title="@string/settings_prettified_dates"
+        android:key="settings_prettified_dates"
+        android:defaultValue="true"
+        android:summaryOn="@string/settings_prettified_dates_summary_on"
+        android:summaryOff="@string/settings_prettified_dates_summary_off"
+        app:iconSpaceReserved="false"/>
+</PreferenceScreen>
