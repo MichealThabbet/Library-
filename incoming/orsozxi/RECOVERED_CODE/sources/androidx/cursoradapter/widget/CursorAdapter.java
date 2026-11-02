@@ -12,7 +12,7 @@ import android.widget.Filter;
 import android.widget.FilterQueryProvider;
 import android.widget.Filterable;
 import androidx.cursoradapter.widget.CursorFilter;
-import com.app.orsozoxi.Alarm.Database.Database;
+import com.app.piapostolos.Alarm.Database.Database;
 
 /* loaded from: classes.dex */
 public abstract class CursorAdapter extends BaseAdapter implements Filterable, CursorFilter.CursorFilterClient {

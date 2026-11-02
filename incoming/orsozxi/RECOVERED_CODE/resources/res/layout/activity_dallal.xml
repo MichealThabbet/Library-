@@ -142,7 +142,7 @@
                     android:layout_centerVertical="true"
                     android:onClick="settingsButtonAction"/>
             </RelativeLayout>
-            <com.app.orsozoxi.Views.WrapContentHeightViewPager
+            <com.app.piapostolos.Views.WrapContentHeightViewPager
                 android:id="@+id/pager_top_rated"
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"

@@ -1,6 +1,6 @@
 package com.ibm.icu.text;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.ibm.icu.lang.UCharacter;
 import java.text.ParsePosition;
 import java.util.HashMap;

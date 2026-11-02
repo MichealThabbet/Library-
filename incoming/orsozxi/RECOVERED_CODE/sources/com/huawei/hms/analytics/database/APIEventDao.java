@@ -3,7 +3,7 @@ package com.huawei.hms.analytics.database;
 import android.database.Cursor;
 import android.database.SQLException;
 import android.database.sqlite.SQLiteStatement;
-import com.app.orsozoxi.Alarm.Database.Database;
+import com.app.piapostolos.Alarm.Database.Database;
 import com.facebook.share.internal.ShareConstants;
 import com.huawei.hms.framework.common.hianalytics.WiseOpenHianalyticsData;
 import net.fortuna.ical4j.model.Parameter;

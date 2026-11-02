@@ -48,8 +48,8 @@ public final class R {
         public static final int ColorPicker_color_pointer_radius = 0x00000003;
         public static final int ColorPicker_color_wheel_radius = 0x00000004;
         public static final int ColorPicker_color_wheel_thickness = 0x00000005;
-        public static final int[] ColorBars = {com.app.orsozoxi.R.attr.bar_length, com.app.orsozoxi.R.attr.bar_orientation_horizontal, com.app.orsozoxi.R.attr.bar_pointer_halo_radius, com.app.orsozoxi.R.attr.bar_pointer_radius, com.app.orsozoxi.R.attr.bar_thickness};
-        public static final int[] ColorPicker = {com.app.orsozoxi.R.attr.color_center_halo_radius, com.app.orsozoxi.R.attr.color_center_radius, com.app.orsozoxi.R.attr.color_pointer_halo_radius, com.app.orsozoxi.R.attr.color_pointer_radius, com.app.orsozoxi.R.attr.color_wheel_radius, com.app.orsozoxi.R.attr.color_wheel_thickness};
+        public static final int[] ColorBars = {com.app.piapostolos.R.attr.bar_length, com.app.piapostolos.R.attr.bar_orientation_horizontal, com.app.piapostolos.R.attr.bar_pointer_halo_radius, com.app.piapostolos.R.attr.bar_pointer_radius, com.app.piapostolos.R.attr.bar_thickness};
+        public static final int[] ColorPicker = {com.app.piapostolos.R.attr.color_center_halo_radius, com.app.piapostolos.R.attr.color_center_radius, com.app.piapostolos.R.attr.color_pointer_halo_radius, com.app.piapostolos.R.attr.color_pointer_radius, com.app.piapostolos.R.attr.color_wheel_radius, com.app.piapostolos.R.attr.color_wheel_thickness};
 
         private styleable() {
         }

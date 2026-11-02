@@ -195,10 +195,10 @@ public final class R {
         public static final int FontFamily_fontProviderPackage = 0x00000004;
         public static final int FontFamily_fontProviderQuery = 0x00000005;
         public static final int FontFamily_fontProviderSystemFontFamily = 0x00000006;
-        public static final int[] CoordinatorLayout = {com.app.orsozoxi.R.attr.keylines, com.app.orsozoxi.R.attr.statusBarBackground};
-        public static final int[] CoordinatorLayout_Layout = {android.R.attr.layout_gravity, com.app.orsozoxi.R.attr.layout_anchor, com.app.orsozoxi.R.attr.layout_anchorGravity, com.app.orsozoxi.R.attr.layout_behavior, com.app.orsozoxi.R.attr.layout_dodgeInsetEdges, com.app.orsozoxi.R.attr.layout_insetEdge, com.app.orsozoxi.R.attr.layout_keyline};
-        public static final int[] FontFamily = {com.app.orsozoxi.R.attr.fontProviderAuthority, com.app.orsozoxi.R.attr.fontProviderCerts, com.app.orsozoxi.R.attr.fontProviderFetchStrategy, com.app.orsozoxi.R.attr.fontProviderFetchTimeout, com.app.orsozoxi.R.attr.fontProviderPackage, com.app.orsozoxi.R.attr.fontProviderQuery, com.app.orsozoxi.R.attr.fontProviderSystemFontFamily};
-        public static final int[] FontFamilyFont = {android.R.attr.font, android.R.attr.fontWeight, android.R.attr.fontStyle, android.R.attr.ttcIndex, android.R.attr.fontVariationSettings, com.app.orsozoxi.R.attr.font, com.app.orsozoxi.R.attr.fontStyle, com.app.orsozoxi.R.attr.fontVariationSettings, com.app.orsozoxi.R.attr.fontWeight, com.app.orsozoxi.R.attr.ttcIndex};
+        public static final int[] CoordinatorLayout = {com.app.piapostolos.R.attr.keylines, com.app.piapostolos.R.attr.statusBarBackground};
+        public static final int[] CoordinatorLayout_Layout = {android.R.attr.layout_gravity, com.app.piapostolos.R.attr.layout_anchor, com.app.piapostolos.R.attr.layout_anchorGravity, com.app.piapostolos.R.attr.layout_behavior, com.app.piapostolos.R.attr.layout_dodgeInsetEdges, com.app.piapostolos.R.attr.layout_insetEdge, com.app.piapostolos.R.attr.layout_keyline};
+        public static final int[] FontFamily = {com.app.piapostolos.R.attr.fontProviderAuthority, com.app.piapostolos.R.attr.fontProviderCerts, com.app.piapostolos.R.attr.fontProviderFetchStrategy, com.app.piapostolos.R.attr.fontProviderFetchTimeout, com.app.piapostolos.R.attr.fontProviderPackage, com.app.piapostolos.R.attr.fontProviderQuery, com.app.piapostolos.R.attr.fontProviderSystemFontFamily};
+        public static final int[] FontFamilyFont = {android.R.attr.font, android.R.attr.fontWeight, android.R.attr.fontStyle, android.R.attr.ttcIndex, android.R.attr.fontVariationSettings, com.app.piapostolos.R.attr.font, com.app.piapostolos.R.attr.fontStyle, com.app.piapostolos.R.attr.fontVariationSettings, com.app.piapostolos.R.attr.fontWeight, com.app.piapostolos.R.attr.ttcIndex};
 
         private styleable() {
         }

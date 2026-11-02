@@ -2,7 +2,7 @@ package com.google.android.gms.common.server.response;
 
 import android.os.Parcel;
 import android.os.Parcelable;
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.google.android.gms.common.internal.Preconditions;
 import com.google.android.gms.common.internal.safeparcel.AbstractSafeParcelable;
 import com.google.android.gms.common.internal.safeparcel.SafeParcelWriter;

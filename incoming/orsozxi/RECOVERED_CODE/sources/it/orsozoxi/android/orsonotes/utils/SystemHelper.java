@@ -15,7 +15,7 @@ import net.sqlcipher.database.SQLiteDatabase;
 public class SystemHelper {
     public static void restartApp(Context context, Class cls) {
         try {
-            ((AlarmManager) context.getSystemService("alarm")).set(1, System.currentTimeMillis() + 100, PendingIntent.getActivity(context, 123456, new Intent(context, Class.forName("com.app.orsozoxi.SplashScreen")), SQLiteDatabase.CREATE_IF_NECESSARY));
+            ((AlarmManager) context.getSystemService("alarm")).set(1, System.currentTimeMillis() + 100, PendingIntent.getActivity(context, 123456, new Intent(context, Class.forName("com.app.piapostolos.SplashScreen")), SQLiteDatabase.CREATE_IF_NECESSARY));
         } catch (ClassNotFoundException e) {
             e.printStackTrace();
         }

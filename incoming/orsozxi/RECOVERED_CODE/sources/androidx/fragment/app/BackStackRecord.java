@@ -5,7 +5,7 @@ import androidx.fragment.app.Fragment;
 import androidx.fragment.app.FragmentManager;
 import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.Lifecycle;
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import net.fortuna.ical4j.model.Property;

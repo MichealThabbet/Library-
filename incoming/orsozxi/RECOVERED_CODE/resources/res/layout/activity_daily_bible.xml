@@ -99,7 +99,7 @@
                     android:layout_height="2dp"
                     android:layout_alignParentRight="true"/>
             </RelativeLayout>
-            <com.app.orsozoxi.Views.NonScrollListView
+            <com.app.piapostolos.Views.NonScrollListView
                 android:id="@+id/liss1"
                 android:paddingBottom="64dp"
                 android:layout_width="match_parent"

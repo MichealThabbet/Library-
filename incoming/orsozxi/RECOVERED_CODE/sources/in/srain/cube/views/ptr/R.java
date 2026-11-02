@@ -69,8 +69,8 @@ public final class R {
         public static final int PtrFrameLayout_ptr_pull_to_fresh = 0x00000005;
         public static final int PtrFrameLayout_ptr_ratio_of_header_height_to_refresh = 0x00000006;
         public static final int PtrFrameLayout_ptr_resistance = 0x00000007;
-        public static final int[] PtrClassicHeader = {com.app.orsozoxi.R.attr.ptr_rotate_ani_time};
-        public static final int[] PtrFrameLayout = {com.app.orsozoxi.R.attr.ptr_content, com.app.orsozoxi.R.attr.ptr_duration_to_close, com.app.orsozoxi.R.attr.ptr_duration_to_close_header, com.app.orsozoxi.R.attr.ptr_header, com.app.orsozoxi.R.attr.ptr_keep_header_when_refresh, com.app.orsozoxi.R.attr.ptr_pull_to_fresh, com.app.orsozoxi.R.attr.ptr_ratio_of_header_height_to_refresh, com.app.orsozoxi.R.attr.ptr_resistance};
+        public static final int[] PtrClassicHeader = {com.app.piapostolos.R.attr.ptr_rotate_ani_time};
+        public static final int[] PtrFrameLayout = {com.app.piapostolos.R.attr.ptr_content, com.app.piapostolos.R.attr.ptr_duration_to_close, com.app.piapostolos.R.attr.ptr_duration_to_close_header, com.app.piapostolos.R.attr.ptr_header, com.app.piapostolos.R.attr.ptr_keep_header_when_refresh, com.app.piapostolos.R.attr.ptr_pull_to_fresh, com.app.piapostolos.R.attr.ptr_ratio_of_header_height_to_refresh, com.app.piapostolos.R.attr.ptr_resistance};
 
         private styleable() {
         }

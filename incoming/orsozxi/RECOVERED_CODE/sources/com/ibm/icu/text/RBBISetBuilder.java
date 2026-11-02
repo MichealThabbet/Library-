@@ -1,6 +1,6 @@
 package com.ibm.icu.text;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.ibm.icu.impl.Assert;
 import com.ibm.icu.impl.locale.LanguageTag;
 import com.ibm.icu.text.RBBIRuleBuilder;

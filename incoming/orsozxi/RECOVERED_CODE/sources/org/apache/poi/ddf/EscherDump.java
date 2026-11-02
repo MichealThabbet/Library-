@@ -1,6 +1,6 @@
 package org.apache.poi.ddf;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import it.orsozoxi.android.orsonotes.R2;
 import java.io.ByteArrayInputStream;
 import java.io.IOException;

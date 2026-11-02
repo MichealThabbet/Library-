@@ -1,6 +1,6 @@
 package com.google.zxing.qrcode.encoder;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import java.lang.reflect.Array;
 
 /* loaded from: classes2.dex */

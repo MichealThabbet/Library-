@@ -1,6 +1,6 @@
 package com.google.android.gms.internal.gtm;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.ibm.icu.impl.locale.BaseLocale;
 import java.lang.reflect.Array;
 import java.lang.reflect.Field;

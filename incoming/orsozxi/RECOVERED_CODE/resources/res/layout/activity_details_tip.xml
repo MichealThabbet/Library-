@@ -90,7 +90,7 @@
                     android:singleLine="true"
                     android:layout_alignParentStart="true"/>
             </RelativeLayout>
-            <com.app.orsozoxi.Others.SliderAudio
+            <com.app.piapostolos.Others.SliderAudio
                 android:id="@+id/audio_progress_control"
                 android:background="@color/md_black_1000"
                 android:layout_width="match_parent"
@@ -121,7 +121,7 @@
                     <RelativeLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent">
-                        <com.app.orsozoxi.Others.PlayPauseView
+                        <com.app.piapostolos.Others.PlayPauseView
                             android:id="@+id/btn_play"
                             android:clickable="true"
                             android:layout_width="90dp"

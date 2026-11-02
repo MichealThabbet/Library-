@@ -87,8 +87,8 @@
     <string name="all_txt">الكل</string>
     <string name="already_registered">تم التسجيل بنجاح من قبل</string>
     <string name="and">و</string>
-    <string name="app_name">أرثوذكسى + القطمارس</string>
-    <string name="app_package">com.app.orsozoxi</string>
+    <string name="app_name">Ⲡⲓⲁ̀ⲡⲟⲥⲧⲟⲗⲟⲥ — PI APOSTOLOS</string>
+    <string name="app_package">com.app.piapostolos</string>
     <string name="appbar_scrolling_view_behavior">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
     <string name="arabic_font">الخط العربى</string>
     <string name="archive">الأرشيف</string>
@@ -518,7 +518,7 @@
     <string name="label_show_numbers_some">بعض</string>
     <string name="lakan_prays">صلوات اللقان</string>
     <string name="last_update">تمّ تحديثه في:</string>
-    <string name="leave_app">مغادرة ارثوذكسى</string>
+    <string name="leave_app">مغادرة PI APOSTOLOS</string>
     <string name="leave_app_question">هل تريد المغادرة ؟</string>
     <string name="library_smoothprogressbar_author">Antoine Merle</string>
     <string name="library_smoothprogressbar_authorWebsite">https://github.com/castorflex</string>
@@ -529,7 +529,7 @@
     <string name="library_smoothprogressbar_libraryWebsite">https://github.com/castorflex/SmoothProgressBar</string>
     <string name="library_smoothprogressbar_licenseId">apache_2_0</string>
     <string name="library_smoothprogressbar_repositoryLink">https://github.com/castorflex/SmoothProgressBar.git</string>
-    <string name="listen_now">استمع الآن إلى راديو أرثوذكسي</string>
+    <string name="listen_now">استمع الآن إلى الراديو</string>
     <string name="location">موقع</string>
     <string name="location_not_found" />
     <string name="lock">قفل</string>
@@ -587,7 +587,7 @@
     <string name="menu_show_numbers">وضع أرقام</string>
     <string name="menu_stats">حالة الدور</string>
     <string name="merge">دمج</string>
-    <string name="message_from_orsozoxi">تم ارسال الرسالة من تطبيق أرثوذكسى+القطمارس</string>
+    <string name="message_from_piapostolos">تم إرسال الرسالة من تطبيق PI APOSTOLOS</string>
     <string name="message_stats_best_avg_plays">{0}\n\nBest: {1} {1,choice,0#moves|1#move|1&lt;moves}\nAverage: {2,number,0.##} moves\nPlays: {3}</string>
     <string name="messagess">الرسائل اليومية</string>
     <string name="messenger_send_button_text">Send</string>
@@ -662,7 +662,7 @@
     <string name="navigation_drawer_close">إغلاق قائمة الملاحة</string>
     <string name="navigation_drawer_open">فتح قائمة الملاحة</string>
     <string name="new_folder">New Folder</string>
-    <string name="new_update_available">تم طرح نسخة جديدة من كشكول تحضير أرثوذكسي، هل تريد التحديث؟</string>
+    <string name="new_update_available">يتوفر تحديث جديد للتطبيق، هل تريد التحديث؟</string>
     <string name="next">التالى</string>
     <string name="nfive">5</string>
     <string name="nfour">4</string>
@@ -716,7 +716,7 @@
     <string name="options_exit">خروج</string>
     <string name="options_register">Register</string>
     <string name="options_unregister">Unregister</string>
-    <string name="orsozoxi_family">أسرة البرنامج</string>
+    <string name="piapostolos_family">أسرة البرنامج</string>
     <string name="password_forgot">نسيت كلمة السر</string>
     <string name="password_not_set">لم يتم تعيين كلمة مرور</string>
     <string name="password_remove">إزالة كلمة المرور</string>
@@ -764,7 +764,7 @@
     <string name="quality_48">جودة 48</string>
     <string name="quality_64">جودة 64</string>
     <string name="questions_about">أسئله على</string>
-    <string name="radio_orso">راديو أرثوذكسي</string>
+    <string name="radio_orso">الراديو</string>
     <string name="radio_program">مواعيد الراديو</string>
     <string name="radio_quality">جودة الراديو</string>
     <string name="radio_wait">قد يستغرق الراديو بضعة ثوانى عند تشغيلة حتى يعمل فمن فضلك أنتظر</string>
@@ -936,9 +936,9 @@
     <string name="settings_tour_show_again">جولة في التطبيق</string>
     <string name="settings_tour_show_again_summary">اظهار جولة التطبيق مرة اخري</string>
     <string name="share">إشراك</string>
-    <string name="share_from_orsozoxi">تم النشر من خلال تطبيق أرثوذكسى+القطمارس</string>
+    <string name="share_from_piapostolos">تم النشر من خلال تطبيق PI APOSTOLOS</string>
     <string name="share_message_chooser">إقتسام مع</string>
-    <string name="shared_content_sign">\n [من كشكول تحضير أرثوذكسي]</string>
+    <string name="shared_content_sign">\n [من تطبيق PI APOSTOLOS]</string>
     <string name="shawahed">شواهد</string>
     <string name="shohada">الشهداء والقديسين</string>
     <string name="shortcut_added">تم اضافة الاختصار الي الشاشة الرئيسية</string>
@@ -1020,7 +1020,7 @@
     <string name="t_old_bible">العهد القديم</string>
     <string name="t_old_bible_sig">ع قديم</string>
     <string name="t_predictions">النبؤات</string>
-    <string name="t_radio">راديو أرثوذكسى</string>
+    <string name="t_radio">الراديو</string>
     <string name="t_raslna">راسلنا</string>
     <string name="t_sanksar">السنكسار</string>
     <string name="t_the_bible">الإنجيل</string>

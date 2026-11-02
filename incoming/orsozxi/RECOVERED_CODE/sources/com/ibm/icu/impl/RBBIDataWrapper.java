@@ -1,6 +1,6 @@
 package com.ibm.icu.impl;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.ibm.icu.impl.ICUBinary;
 import com.ibm.icu.impl.locale.LanguageTag;
 import com.ibm.icu.lang.UCharacterEnums;

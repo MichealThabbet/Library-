@@ -8,7 +8,7 @@ import android.os.Parcelable;
 import android.text.TextUtils;
 import android.util.SparseIntArray;
 import androidx.collection.ArrayMap;
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import java.lang.reflect.Method;
 
 /* loaded from: classes.dex */

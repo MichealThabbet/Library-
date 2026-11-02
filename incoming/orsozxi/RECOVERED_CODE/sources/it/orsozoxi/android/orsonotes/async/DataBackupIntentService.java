@@ -107,7 +107,7 @@ public class DataBackupIntentService extends IntentService implements OnAttachin
         Intent intent2;
         if (ACTION_DATA_IMPORT.equals(intent.getAction()) || SpringImportHelper.ACTION_DATA_IMPORT_SPRINGPAD.equals(intent.getAction())) {
             try {
-                intent2 = new Intent(context, Class.forName("com.app.orsozoxi.SplashScreen"));
+                intent2 = new Intent(context, Class.forName("com.app.piapostolos.SplashScreen"));
                 intent2.setAction(ConstantsBase.ACTION_RESTART_APP);
             } catch (ClassNotFoundException e) {
                 Intent intent3 = new Intent();

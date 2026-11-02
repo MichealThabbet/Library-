@@ -11,7 +11,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:layout_below="@+id/v_header">
-        <com.app.orsozoxi.Views.CircleLayout
+        <com.app.piapostolos.Views.CircleLayout
             android:layout_gravity="center_horizontal"
             android:id="@+id/main_circle_layout"
             android:layout_width="match_parent"
@@ -21,43 +21,43 @@
             fab:isRotating="true"
             fab:rotateToCenter="true"
             fab:speed="75">
-            <com.app.orsozoxi.Views.CircleImageView
+            <com.app.piapostolos.Views.CircleImageView
                 android:id="@+id/main_biblee"
                 android:background="@drawable/btn_home_bible"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 fab:name="@string/biblee"/>
-            <com.app.orsozoxi.Views.CircleImageView
+            <com.app.piapostolos.Views.CircleImageView
                 android:id="@+id/main_mangalyaa"
                 android:background="@drawable/btn_home_mangalyaa"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 fab:name="@string/mangalyaa"/>
-            <com.app.orsozoxi.Views.CircleImageView
+            <com.app.piapostolos.Views.CircleImageView
                 android:id="@+id/main_gwhara"
                 android:background="@drawable/btn_home_gwharaa"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 fab:name="@string/gwharaa"/>
-            <com.app.orsozoxi.Views.CircleImageView
+            <com.app.piapostolos.Views.CircleImageView
                 android:id="@+id/main_messagess"
                 android:background="@drawable/btn_home_messages"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 fab:name="@string/messagess"/>
-            <com.app.orsozoxi.Views.CircleImageView
+            <com.app.piapostolos.Views.CircleImageView
                 android:id="@+id/main_note_book"
                 android:background="@drawable/btn_note_book"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 fab:name="@string/notes_book"/>
-            <com.app.orsozoxi.Views.CircleImageView
+            <com.app.piapostolos.Views.CircleImageView
                 android:id="@+id/main_media"
                 android:background="@drawable/btn_home_media"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 fab:name="@string/media"/>
-        </com.app.orsozoxi.Views.CircleLayout>
+        </com.app.piapostolos.Views.CircleLayout>
         <ImageView
             android:id="@+id/ImageView_Balll"
             android:layout_width="150dp"
@@ -164,7 +164,7 @@
             fab:fab_label="@string/fb_app_share"
             style="@style/MenuButtonsStyle"/>
     </com.github.clans.fab.FloatingActionMenu>
-    <com.app.orsozoxi.Views.SnowFlakesLayout
+    <com.app.piapostolos.Views.SnowFlakesLayout
         android:id="@+id/snowflakelayout"
         android:visibility="gone"
         android:layout_width="match_parent"

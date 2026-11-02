@@ -1,6 +1,6 @@
 package com.google.zxing.common;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import java.util.Arrays;
 
 /* loaded from: classes2.dex */

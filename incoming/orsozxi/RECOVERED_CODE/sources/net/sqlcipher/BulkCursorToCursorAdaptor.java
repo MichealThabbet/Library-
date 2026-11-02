@@ -6,7 +6,7 @@ import android.database.DataSetObserver;
 import android.os.Bundle;
 import android.os.RemoteException;
 import android.util.Log;
-import com.app.orsozoxi.Alarm.Database.Database;
+import com.app.piapostolos.Alarm.Database.Database;
 import net.sqlcipher.AbstractCursor;
 
 /* loaded from: classes3.dex */

@@ -2,7 +2,7 @@ package com.huawei.hms.analytics.database;
 
 import android.database.Cursor;
 import android.database.sqlite.SQLiteStatement;
-import com.app.orsozoxi.Alarm.Database.Database;
+import com.app.piapostolos.Alarm.Database.Database;
 import com.huawei.hms.analytics.core.storage.Event;
 import org.greenrobot.greendao.AbstractDao;
 import org.greenrobot.greendao.Property;

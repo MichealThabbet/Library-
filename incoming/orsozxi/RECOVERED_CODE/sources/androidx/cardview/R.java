@@ -51,7 +51,7 @@ public final class R {
     }
 
     public static final class styleable {
-        public static final int[] CardView = {android.R.attr.minWidth, android.R.attr.minHeight, com.app.orsozoxi.R.attr.cardBackgroundColor, com.app.orsozoxi.R.attr.cardCornerRadius, com.app.orsozoxi.R.attr.cardElevation, com.app.orsozoxi.R.attr.cardMaxElevation, com.app.orsozoxi.R.attr.cardPreventCornerOverlap, com.app.orsozoxi.R.attr.cardUseCompatPadding, com.app.orsozoxi.R.attr.contentPadding, com.app.orsozoxi.R.attr.contentPaddingBottom, com.app.orsozoxi.R.attr.contentPaddingLeft, com.app.orsozoxi.R.attr.contentPaddingRight, com.app.orsozoxi.R.attr.contentPaddingTop};
+        public static final int[] CardView = {android.R.attr.minWidth, android.R.attr.minHeight, com.app.piapostolos.R.attr.cardBackgroundColor, com.app.piapostolos.R.attr.cardCornerRadius, com.app.piapostolos.R.attr.cardElevation, com.app.piapostolos.R.attr.cardMaxElevation, com.app.piapostolos.R.attr.cardPreventCornerOverlap, com.app.piapostolos.R.attr.cardUseCompatPadding, com.app.piapostolos.R.attr.contentPadding, com.app.piapostolos.R.attr.contentPaddingBottom, com.app.piapostolos.R.attr.contentPaddingLeft, com.app.piapostolos.R.attr.contentPaddingRight, com.app.piapostolos.R.attr.contentPaddingTop};
         public static final int CardView_android_minHeight = 0x00000001;
         public static final int CardView_android_minWidth = 0x00000000;
         public static final int CardView_cardBackgroundColor = 0x00000002;

@@ -27,7 +27,7 @@
         android:layout_marginRight="5dp"
         android:text=""
         android:layout_weight="1"/>
-    <com.app.orsozoxi.Views.CustomCopticTextView
+    <com.app.piapostolos.Views.CustomCopticTextView
         android:textSize="14sp"
         android:id="@+id/tv_three_custom_coptic"
         android:paddingBottom="5dp"

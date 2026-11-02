@@ -1,6 +1,6 @@
 package org.apache.commons.lang3.builder;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.huawei.hms.framework.common.ContainerUtils;
 import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
 import java.io.Serializable;

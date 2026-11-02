@@ -25,11 +25,11 @@
 
 تم التأكد من وجود حساب عيد القيامة ودورات 19 و4 و7 سنوات، وربط المناسبات والقراءات بالتقويم القبطي في:
 
-1. [Katamaras.java](RECOVERED_CODE/sources/com/app/orsozoxi/Katamaras.java): `getOrthodoxEaster` و`calculateEvents`.
-2. [katamarsReaders.java](RECOVERED_CODE/sources/com/app/orsozoxi/katamarsReaders.java): تحميل قراءات الأيام والآحاد وصوم يونان والصوم الكبير والخماسين.
-3. [نسخة التعليمات المبسطة للقارئ](RECOVERED_CODE/calendar_simple/sources/com/app/orsozoxi/katamarsReaders.java): عرض إضافي للدوال التي لم تُسترجع جيدًا في الوضع المعتاد؛ يحتوي على تعليمات وقفزات، وليس Java مضمون البناء.
+1. [Katamaras.java](RECOVERED_CODE/sources/com/app/piapostolos/Katamaras.java): `getOrthodoxEaster` و`calculateEvents`.
+2. [katamarsReaders.java](RECOVERED_CODE/sources/com/app/piapostolos/katamarsReaders.java): تحميل قراءات الأيام والآحاد وصوم يونان والصوم الكبير والخماسين.
+3. [نسخة التعليمات المبسطة للقارئ](RECOVERED_CODE/calendar_simple/sources/com/app/piapostolos/katamarsReaders.java): عرض إضافي للدوال التي لم تُسترجع جيدًا في الوضع المعتاد؛ يحتوي على تعليمات وقفزات، وليس Java مضمون البناء.
 4. [CopticCalendar.java](RECOVERED_CODE/sources/com/ibm/icu/util/CopticCalendar.java) و[CECalendar.java](RECOVERED_CODE/sources/com/ibm/icu/util/CECalendar.java): تنفيذ التقويم القبطي المستخدم من مكتبة ICU.
-5. [PsalmodySanawyReaders.java](RECOVERED_CODE/sources/com/app/orsozoxi/PsalmodySanawyReaders.java) و[SanksarReaders.java](RECOVERED_CODE/sources/com/app/orsozoxi/SanksarReaders.java): حسابات مرتبطة بالإبصلمودية والسنكسار.
+5. [PsalmodySanawyReaders.java](RECOVERED_CODE/sources/com/app/piapostolos/PsalmodySanawyReaders.java) و[SanksarReaders.java](RECOVERED_CODE/sources/com/app/piapostolos/SanksarReaders.java): حسابات مرتبطة بالإبصلمودية والسنكسار.
 
 هذا توثيق للمنطق الموجود في التطبيق؛ لم تُجرَ مقارنة شاملة لصحة كل قراءة ومناسبة مع مرجع كنسي مستقل. معادلة القيامة الأصلية تستخدم فرق 13 يومًا ثابتًا؛ تم الحفاظ عليها دون تعديل.
 

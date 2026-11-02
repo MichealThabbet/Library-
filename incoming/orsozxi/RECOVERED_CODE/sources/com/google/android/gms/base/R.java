@@ -104,8 +104,8 @@ public final class R {
         public static final int SignInButton_buttonSize = 0x00000000;
         public static final int SignInButton_colorScheme = 0x00000001;
         public static final int SignInButton_scopeUris = 0x00000002;
-        public static final int[] LoadingImageView = {com.app.orsozoxi.R.attr.circleCrop, com.app.orsozoxi.R.attr.imageAspectRatio, com.app.orsozoxi.R.attr.imageAspectRatioAdjust};
-        public static final int[] SignInButton = {com.app.orsozoxi.R.attr.buttonSize, com.app.orsozoxi.R.attr.colorScheme, com.app.orsozoxi.R.attr.scopeUris};
+        public static final int[] LoadingImageView = {com.app.piapostolos.R.attr.circleCrop, com.app.piapostolos.R.attr.imageAspectRatio, com.app.piapostolos.R.attr.imageAspectRatioAdjust};
+        public static final int[] SignInButton = {com.app.piapostolos.R.attr.buttonSize, com.app.piapostolos.R.attr.colorScheme, com.app.piapostolos.R.attr.scopeUris};
 
         private styleable() {
         }

@@ -1,6 +1,6 @@
 package org.apache.poi.util;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.ibm.icu.util.ULocale;
 import java.io.BufferedInputStream;
 import java.io.ByteArrayOutputStream;

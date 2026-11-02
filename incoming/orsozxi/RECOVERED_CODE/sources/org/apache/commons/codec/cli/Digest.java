@@ -1,6 +1,6 @@
 package org.apache.commons.codec.cli;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import java.io.File;
 import java.io.IOException;
 import java.io.PrintStream;

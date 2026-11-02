@@ -5,7 +5,7 @@
     android:installLocation="auto"
     android:compileSdkVersion="31"
     android:compileSdkVersionCodename="12"
-    package="com.app.orsozoxi"
+    package="com.app.piapostolos"
     platformBuildVersionCode="31"
     platformBuildVersionName="12">
     <uses-sdk
@@ -43,22 +43,22 @@
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE"/>
     <uses-permission android:name="com.huawei.appmarket.service.commondata.permission.GET_COMMON_DATA"/>
     <permission
-        android:name="com.app.orsozoxi.permission.PROCESS_PUSH_MSG"
+        android:name="com.app.piapostolos.permission.PROCESS_PUSH_MSG"
         android:protectionLevel="signature"/>
     <permission
-        android:name="com.app.orsozoxi.permission.PUSH_PROVIDER"
+        android:name="com.app.piapostolos.permission.PUSH_PROVIDER"
         android:protectionLevel="signature"/>
     <permission
-        android:name="com.app.orsozoxi.permission.PUSH_WRITE_PROVIDER"
+        android:name="com.app.piapostolos.permission.PUSH_WRITE_PROVIDER"
         android:protectionLevel="signature"/>
-    <uses-permission android:name="com.app.orsozoxi.permission.PROCESS_PUSH_MSG"/>
-    <uses-permission android:name="com.app.orsozoxi.permission.PUSH_PROVIDER"/>
+    <uses-permission android:name="com.app.piapostolos.permission.PROCESS_PUSH_MSG"/>
+    <uses-permission android:name="com.app.piapostolos.permission.PUSH_PROVIDER"/>
     <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE"/>
     <application
         android:theme="@style/AppTheme"
         android:label="@string/app_name"
         android:icon="@mipmap/ic_launcher"
-        android:name="com.app.orsozoxi.Orsozoxi"
+        android:name="com.app.piapostolos.PiApostolos"
         android:allowBackup="true"
         android:hardwareAccelerated="true"
         android:largeHeap="true"
@@ -70,7 +70,7 @@
         <provider
             android:name="androidx.core.content.FileProvider"
             android:exported="false"
-            android:authorities="com.app.orsozoxi"
+            android:authorities="com.app.piapostolos"
             android:grantUriPermissions="true">
             <meta-data
                 android:name="android.support.FILE_PROVIDER_PATHS"
@@ -85,13 +85,13 @@
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity"
+            android:name="com.app.piapostolos.MainActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@android:style/Theme.Black.NoTitleBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.SplashScreen"
+            android:name="com.app.piapostolos.SplashScreen"
             android:exported="true"
             android:screenOrientation="portrait"
             android:configChanges="screenSize|orientation|keyboardHidden">
@@ -102,149 +102,149 @@
         </activity>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.MainActivity_About"
+            android:name="com.app.piapostolos.MainActivity_About"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.Follow_options"
+            android:name="com.app.piapostolos.Follow_options"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.Media_options"
+            android:name="com.app.piapostolos.Media_options"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.Bible_options"
+            android:name="com.app.piapostolos.Bible_options"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.mangalya_options"
+            android:name="com.app.piapostolos.mangalya_options"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.gawhara_options"
+            android:name="com.app.piapostolos.gawhara_options"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.AgpyaActivity"
+            android:name="com.app.piapostolos.AgpyaActivity"
             android:configChanges="layoutDirection|screenSize|orientation|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity_dallal"
+            android:name="com.app.piapostolos.MainActivity_dallal"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity_kholagy_menu"
+            android:name="com.app.piapostolos.MainActivity_kholagy_menu"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity_psalmody_sanawy_menu"
+            android:name="com.app.piapostolos.MainActivity_psalmody_sanawy_menu"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity_psalmody_sanawy"
+            android:name="com.app.piapostolos.MainActivity_psalmody_sanawy"
             android:configChanges="layoutDirection|screenSize|orientation|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity_kholagy"
+            android:name="com.app.piapostolos.MainActivity_kholagy"
             android:configChanges="layoutDirection|screenSize|orientation|locale"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.DallalSettingsActivity"
+            android:name="com.app.piapostolos.DallalSettingsActivity"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity_PsalList"
+            android:name="com.app.piapostolos.MainActivity_PsalList"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity_absalmodyaKiahk"
+            android:name="com.app.piapostolos.MainActivity_absalmodyaKiahk"
             android:configChanges="layoutDirection|screenSize|orientation|locale"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.ApsalmodyMultiSelectListFavouriteActivity"
+            android:name="com.app.piapostolos.ApsalmodyMultiSelectListFavouriteActivity"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.ApsalmodySaintsSelectionActivity"
+            android:name="com.app.piapostolos.ApsalmodySaintsSelectionActivity"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.KholagyShamasMenuActivity"
+            android:name="com.app.piapostolos.KholagyShamasMenuActivity"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.ApsalmodyRenameFavouriteActivity"
+            android:name="com.app.piapostolos.ApsalmodyRenameFavouriteActivity"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.ApsalmodyArrangeFavouriteActivity"
+            android:name="com.app.piapostolos.ApsalmodyArrangeFavouriteActivity"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity_sanksar"
+            android:name="com.app.piapostolos.MainActivity_sanksar"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.SanksarCopticDataPickerActivity"
+            android:name="com.app.piapostolos.SanksarCopticDataPickerActivity"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Katamaras"
+            android:name="com.app.piapostolos.Katamaras"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.AkwalActivity"
+            android:name="com.app.piapostolos.AkwalActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.AkwalDetailsActivity"
+            android:name="com.app.piapostolos.AkwalDetailsActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.TipInWordActivity"
+            android:name="com.app.piapostolos.TipInWordActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.TipInWordDetailsActivity"
+            android:name="com.app.piapostolos.TipInWordDetailsActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivitysite_aya3t"
+            android:name="com.app.piapostolos.MainActivitysite_aya3t"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.AyatDetailsActivity"
+            android:name="com.app.piapostolos.AyatDetailsActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity_Bible"
+            android:name="com.app.piapostolos.MainActivity_Bible"
             android:exported="true"
             android:configChanges="layoutDirection|screenSize|orientation|locale">
             <intent-filter>
@@ -265,82 +265,82 @@
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivity_mdaya7"
+            android:name="com.app.piapostolos.MainActivity_mdaya7"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.SearchResultActivity"
+            android:name="com.app.piapostolos.SearchResultActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.SearchActivity"
+            android:name="com.app.piapostolos.SearchActivity"
             android:launchMode="singleTask"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.ShowHighlightsActivity"
+            android:name="com.app.piapostolos.ShowHighlightsActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.TafserActivity"
+            android:name="com.app.piapostolos.TafserActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.KatamarasTafserActivity"
+            android:name="com.app.piapostolos.KatamarasTafserActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Daily_bible"
+            android:name="com.app.piapostolos.Daily_bible"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Daily_bible_twoyears"
+            android:name="com.app.piapostolos.Daily_bible_twoyears"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Youtube.MainActivityYoutube"
+            android:name="com.app.piapostolos.Youtube.MainActivityYoutube"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/BlackNoTitleBarTheme"
-            android:name="com.app.orsozoxi.Youtube.FullscreenDemoActivity"
+            android:name="com.app.piapostolos.Youtube.FullscreenDemoActivity"
             android:screenOrientation="sensor"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Youtube.PlayListItemsActivity"
+            android:name="com.app.piapostolos.Youtube.PlayListItemsActivity"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.zweilawebsite"
+            android:name="com.app.piapostolos.zweilawebsite"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.SendEmailActivity"
+            android:name="com.app.piapostolos.SendEmailActivity"
             android:screenOrientation="portrait"
             android:configChanges="layoutDirection|locale"/>
         <service
-            android:name="com.app.orsozoxi.Radio.SongService"
+            android:name="com.app.piapostolos.Radio.SongService"
             android:enabled="true"
             android:exported="true"/>
         <receiver
-            android:name="com.app.orsozoxi.Radio.NotificationBroadcast"
+            android:name="com.app.piapostolos.Radio.NotificationBroadcast"
             android:exported="true">
             <intent-filter>
                 <action android:name="com.orsozoxi.audioplayer.delete"/>
@@ -354,145 +354,145 @@
         </receiver>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
-            android:name="com.app.orsozoxi.MainActivityRadio"
+            android:name="com.app.piapostolos.MainActivityRadio"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
-            android:name="com.app.orsozoxi.NewRadioActivity"
+            android:name="com.app.piapostolos.NewRadioActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
-            android:name="com.app.orsozoxi.Radio.AudioPlayerActivity"
+            android:name="com.app.piapostolos.Radio.AudioPlayerActivity"
             android:excludeFromRecents="true"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Radiooptions"
+            android:name="com.app.piapostolos.Radiooptions"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.CardsDetailsActivity"
+            android:name="com.app.piapostolos.CardsDetailsActivity"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivityCards"
+            android:name="com.app.piapostolos.MainActivityCards"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.SendEmailActivityOptions"
+            android:name="com.app.piapostolos.SendEmailActivityOptions"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Games"
+            android:name="com.app.piapostolos.Games"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.PuzzleActivity"
+            android:name="com.app.piapostolos.PuzzleActivity"
             android:configChanges="fontScale|smallestScreenSize|screenSize|uiMode|screenLayout|orientation|keyboardHidden|keyboard|locale|mnc|mcc"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Manager"
+            android:name="com.app.piapostolos.Manager"
             android:screenOrientation="portrait"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
-            android:name="com.app.orsozoxi.PdfViewerActivity"
+            android:name="com.app.piapostolos.PdfViewerActivity"
             android:launchMode="singleTop"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.TabMessagesActivity"
+            android:name="com.app.piapostolos.TabMessagesActivity"
             android:screenOrientation="portrait"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Messages"
+            android:name="com.app.piapostolos.Messages"
             android:screenOrientation="portrait"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Message_details"
+            android:name="com.app.piapostolos.Message_details"
             android:screenOrientation="portrait"
             android:configChanges="screenSize|orientation|keyboardHidden"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
-            android:name="com.app.orsozoxi.NewsActivationActivity"
+            android:name="com.app.piapostolos.NewsActivationActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
-            android:name="com.app.orsozoxi.BackgroundActivationActivity"
+            android:name="com.app.piapostolos.BackgroundActivationActivity"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
-            android:name="com.app.orsozoxi.Atraf"
+            android:name="com.app.piapostolos.Atraf"
             android:launchMode="singleTask"
             android:screenOrientation="portrait"/>
-        <receiver android:name="com.app.orsozoxi.Beans.AlarmReceiver_afr"/>
+        <receiver android:name="com.app.piapostolos.Beans.AlarmReceiver_afr"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Alarm.AlarmActivity"
+            android:name="com.app.piapostolos.Alarm.AlarmActivity"
             android:screenOrientation="portrait"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.MainActivityGCM"
+            android:name="com.app.piapostolos.MainActivityGCM"
             android:screenOrientation="portrait"/>
         <activity
             android:theme="@style/AppTheme.NoActionBar"
             android:label="@string/app_name"
-            android:name="com.app.orsozoxi.Alarm.Preferences.AlarmPreferencesActivity"
+            android:name="com.app.piapostolos.Alarm.Preferences.AlarmPreferencesActivity"
             android:screenOrientation="portrait"
-            android:parentActivityName="com.app.orsozoxi.Alarm.AlarmActivity">
+            android:parentActivityName="com.app.piapostolos.Alarm.AlarmActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value="com.app.orsozoxi.Alarm.AlarmActivity"/>
+                android:value="com.app.piapostolos.Alarm.AlarmActivity"/>
         </activity>
         <service
-            android:name="com.app.orsozoxi.Alarm.Services.AlarmJobService"
+            android:name="com.app.piapostolos.Alarm.Services.AlarmJobService"
             android:permission="android.permission.BIND_JOB_SERVICE"/>
         <service
             android:label="@string/app_name"
             android:icon="@mipmap/ic_launcher"
-            android:name="com.app.orsozoxi.Alarm.Services.AlarmService"
+            android:name="com.app.piapostolos.Alarm.Services.AlarmService"
             android:process="com.orsozoxi.alarm.serviceProcess"/>
         <receiver
-            android:name="com.app.orsozoxi.Alarm.Services.AlarmServiceBroadcastReciever"
+            android:name="com.app.piapostolos.Alarm.Services.AlarmServiceBroadcastReciever"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED"/>
             </intent-filter>
         </receiver>
         <service
-            android:name="com.app.orsozoxi.Alarm.DisplayNotification"
+            android:name="com.app.piapostolos.Alarm.DisplayNotification"
             android:exported="true">
             <intent-filter>
                 <action android:name="com.firebase.jobdispatcher.ACTION_EXECUTE"/>
             </intent-filter>
         </service>
         <receiver
-            android:name="com.app.orsozoxi.Alarm.Alert.AlarmAlertBroadcastReciever"
+            android:name="com.app.piapostolos.Alarm.Alert.AlarmAlertBroadcastReciever"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.alarm.receiver"/>
             </intent-filter>
         </receiver>
         <receiver
-            android:name="com.app.orsozoxi.Alarm.Telephony.PhoneStateChangedBroadcastReciever"
+            android:name="com.app.piapostolos.Alarm.Telephony.PhoneStateChangedBroadcastReciever"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.PHONE_STATE"/>
@@ -500,12 +500,12 @@
         </receiver>
         <activity
             android:theme="@style/MyDialogTheme"
-            android:name="com.app.orsozoxi.Alarm.Services.MessageActivity"/>
+            android:name="com.app.piapostolos.Alarm.Services.MessageActivity"/>
         <service
-            android:name="com.app.orsozoxi.Alarm.Services.FlyBitch"
+            android:name="com.app.piapostolos.Alarm.Services.FlyBitch"
             android:exported="true"/>
         <service
-            android:name="com.app.orsozoxi.Alarm.Services.FlyBitchJobService"
+            android:name="com.app.piapostolos.Alarm.Services.FlyBitchJobService"
             android:permission="android.permission.BIND_JOB_SERVICE"/>
         <meta-data
             android:name="firebase_messaging_auto_init_enabled"
@@ -514,7 +514,7 @@
             android:name="firebase_analytics_collection_enabled"
             android:value="false"/>
         <service
-            android:name="com.app.orsozoxi.MyGcmListenerService"
+            android:name="com.app.piapostolos.MyGcmListenerService"
             android:exported="true">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT"/>
@@ -699,21 +699,21 @@
         <provider
             android:name="androidx.core.content.FileProvider"
             android:exported="false"
-            android:authorities="com.app.orsozoxi.authority"
+            android:authorities="com.app.piapostolos.authority"
             android:grantUriPermissions="true">
             <meta-data
                 android:name="android.support.FILE_PROVIDER_PATHS"
                 android:resource="@xml/file_provider_paths"/>
         </provider>
         <service
-            android:name="com.app.orsozoxi.HMSMessageService"
+            android:name="com.app.piapostolos.HMSMessageService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.huawei.push.action.MESSAGING_EVENT"/>
             </intent-filter>
         </service>
         <activity
-            android:name="com.app.orsozoxi.HMSPushDeepLink"
+            android:name="com.app.piapostolos.HMSPushDeepLink"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW"/>
@@ -721,7 +721,7 @@
                 <category android:name="android.intent.category.BROWSABLE"/>
                 <data
                     android:scheme="orsozoxi"
-                    android:host="com.app.orsozoxi"
+                    android:host="com.app.piapostolos"
                     android:path="/deeplink"/>
             </intent-filter>
         </activity>
@@ -748,7 +748,7 @@
         <provider
             android:name="cat.ereza.customactivityoncrash.provider.CaocInitProvider"
             android:exported="false"
-            android:authorities="com.app.orsozoxi.customactivityoncrashinitprovider"
+            android:authorities="com.app.piapostolos.customactivityoncrashinitprovider"
             android:initOrder="101"/>
         <activity android:name="com.facebook.CustomTabMainActivity"/>
         <receiver
@@ -822,7 +822,7 @@
         <provider
             android:name="com.huawei.hms.analytics.provider.AnalyticsInitializeProvider"
             android:exported="false"
-            android:authorities="com.app.orsozoxi.AnalyticsKitInitializeProvider"/>
+            android:authorities="com.app.piapostolos.AnalyticsKitInitializeProvider"/>
         <meta-data
             android:name="com.huawei.hms.client.service.name:huawei_module_audiokit"
             android:value="huawei_module_audiokit:1.5.0.300"/>
@@ -849,7 +849,7 @@
         </service>
         <receiver
             android:name="com.huawei.hms.support.api.push.PushMsgReceiver"
-            android:permission="com.app.orsozoxi.permission.PROCESS_PUSH_MSG"
+            android:permission="com.app.piapostolos.permission.PROCESS_PUSH_MSG"
             android:exported="true"
             android:directBootAware="true">
             <intent-filter>
@@ -859,7 +859,7 @@
         </receiver>
         <receiver
             android:name="com.huawei.hms.support.api.push.PushReceiver"
-            android:permission="com.app.orsozoxi.permission.PROCESS_PUSH_MSG"
+            android:permission="com.app.piapostolos.permission.PROCESS_PUSH_MSG"
             android:exported="true"
             android:directBootAware="true">
             <intent-filter>
@@ -880,10 +880,10 @@
         </service>
         <provider
             android:name="com.huawei.hms.support.api.push.PushProvider"
-            android:readPermission="com.app.orsozoxi.permission.PUSH_PROVIDER"
-            android:writePermission="com.app.orsozoxi.permission.PUSH_WRITE_PROVIDER"
+            android:readPermission="com.app.piapostolos.permission.PUSH_PROVIDER"
+            android:writePermission="com.app.piapostolos.permission.PUSH_WRITE_PROVIDER"
             android:exported="true"
-            android:authorities="com.app.orsozoxi.huawei.push.provider"/>
+            android:authorities="com.app.piapostolos.huawei.push.provider"/>
         <meta-data
             android:name="com.huawei.hms.client.service.name:push"
             android:value="push:6.5.0.300"/>
@@ -913,13 +913,13 @@
         <provider
             android:name="com.google.firebase.provider.FirebaseInitProvider"
             android:exported="false"
-            android:authorities="com.app.orsozoxi.firebaseinitprovider"
+            android:authorities="com.app.piapostolos.firebaseinitprovider"
             android:initOrder="100"
             android:directBootAware="true"/>
         <provider
             android:name="com.facebook.internal.FacebookInitProvider"
             android:exported="false"
-            android:authorities="com.app.orsozoxi.FacebookInitProvider"/>
+            android:authorities="com.app.piapostolos.FacebookInitProvider"/>
         <service
             android:name="com.google.android.datatransport.runtime.backends.TransportBackendDiscovery"
             android:exported="false">
@@ -949,7 +949,7 @@
             android:name="org.acra.attachment.AcraContentProvider"
             android:exported="false"
             android:process=":acra"
-            android:authorities="com.app.orsozoxi.acra"
+            android:authorities="com.app.piapostolos.acra"
             android:grantUriPermissions="true"/>
         <activity android:name="com.nhaarman.listviewanimations.itemmanipulation.swipedismiss.SwipeTouchListenerTestActivity"/>
         <activity android:name="com.nhaarman.listviewanimations.itemmanipulation.dragdrop.DynamicListViewTestActivity"/>
@@ -960,7 +960,7 @@
         <provider
             android:name="com.huawei.hms.aaid.InitProvider"
             android:exported="false"
-            android:authorities="com.app.orsozoxi.aaidinitprovider"
+            android:authorities="com.app.piapostolos.aaidinitprovider"
             android:initOrder="500"/>
         <meta-data
             android:name="com.huawei.hms.client.service.name:opendevice"
@@ -986,7 +986,7 @@
         <provider
             android:name="com.huawei.agconnect.core.provider.AGConnectInitializeProvider"
             android:exported="false"
-            android:authorities="com.app.orsozoxi.AGCInitializeProvider"/>
+            android:authorities="com.app.piapostolos.AGCInitializeProvider"/>
         <activity
             android:theme="@style/Base_Translucent"
             android:name="com.huawei.hms.activity.BridgeActivity"

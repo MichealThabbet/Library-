@@ -12,7 +12,7 @@ import android.os.Build;
 import android.os.CancellationSignal;
 import androidx.core.content.res.FontResourcesParserCompat;
 import androidx.core.provider.FontsContractCompat;
-import com.app.orsozoxi.Alarm.Database.Database;
+import com.app.piapostolos.Alarm.Database.Database;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;

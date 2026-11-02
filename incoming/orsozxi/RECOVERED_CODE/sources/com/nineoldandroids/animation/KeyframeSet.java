@@ -1,7 +1,7 @@
 package com.nineoldandroids.animation;
 
 import android.view.animation.Interpolator;
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.nineoldandroids.animation.Keyframe;
 import java.util.ArrayList;
 import java.util.Arrays;

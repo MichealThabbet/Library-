@@ -2,7 +2,7 @@ package com.google.android.gms.common.api.internal;
 
 import android.util.Log;
 import android.util.SparseArray;
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.common.internal.Preconditions;

@@ -1,6 +1,6 @@
 package org.jsoup.internal;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import java.net.MalformedURLException;
 import java.net.URL;
 import java.util.Arrays;

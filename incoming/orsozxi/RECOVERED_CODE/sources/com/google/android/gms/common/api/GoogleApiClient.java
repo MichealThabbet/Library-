@@ -9,7 +9,7 @@ import android.os.Looper;
 import android.view.View;
 import androidx.collection.ArrayMap;
 import androidx.fragment.app.FragmentActivity;
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.GoogleApiAvailability;
 import com.google.android.gms.common.api.Api;

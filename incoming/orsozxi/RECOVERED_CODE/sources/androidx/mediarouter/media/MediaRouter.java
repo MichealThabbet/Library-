@@ -29,7 +29,7 @@ import androidx.mediarouter.media.MediaRouteSelector;
 import androidx.mediarouter.media.RegisteredMediaRouteProviderWatcher;
 import androidx.mediarouter.media.RemoteControlClientCompat;
 import androidx.mediarouter.media.SystemMediaRouteProvider;
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import java.lang.ref.WeakReference;
 import java.util.ArrayList;
 import java.util.Collections;

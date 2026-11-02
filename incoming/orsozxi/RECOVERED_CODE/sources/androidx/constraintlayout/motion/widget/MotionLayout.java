@@ -40,7 +40,7 @@ import androidx.constraintlayout.widget.R;
 import androidx.core.internal.view.SupportMenu;
 import androidx.core.view.NestedScrollingParent3;
 import androidx.core.view.ViewCompat;
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.ibm.icu.impl.locale.BaseLocale;
 import com.ibm.icu.text.DateFormat;
 import java.util.ArrayList;

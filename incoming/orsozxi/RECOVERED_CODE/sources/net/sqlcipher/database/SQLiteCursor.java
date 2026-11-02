@@ -5,7 +5,7 @@ import android.os.Handler;
 import android.os.Message;
 import android.text.TextUtils;
 import android.util.Log;
-import com.app.orsozoxi.Alarm.Database.Database;
+import com.app.piapostolos.Alarm.Database.Database;
 import java.lang.ref.WeakReference;
 import java.util.HashMap;
 import java.util.Map;

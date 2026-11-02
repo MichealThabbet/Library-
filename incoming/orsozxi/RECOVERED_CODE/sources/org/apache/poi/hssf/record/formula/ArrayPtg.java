@@ -1,6 +1,6 @@
 package org.apache.poi.hssf.record.formula;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import it.orsozoxi.android.orsonotes.utils.ConstantsBase;
 import java.lang.reflect.Array;
 import org.apache.poi.hssf.record.constant.ConstantValueParser;

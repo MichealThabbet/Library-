@@ -7,7 +7,7 @@ import android.os.SystemClock;
 import android.text.TextUtils;
 import android.util.Log;
 import android.util.Pair;
-import com.app.orsozoxi.Alarm.Database.Database;
+import com.app.piapostolos.Alarm.Database.Database;
 import com.huawei.hms.support.hianalytics.HiAnalyticsConstant;
 import com.ibm.icu.text.DateFormat;
 import java.io.File;

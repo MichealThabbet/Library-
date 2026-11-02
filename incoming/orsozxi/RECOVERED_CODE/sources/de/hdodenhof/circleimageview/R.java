@@ -15,7 +15,7 @@ public final class R {
     }
 
     public static final class styleable {
-        public static final int[] CircleImageView = {com.app.orsozoxi.R.attr.civ_border_color, com.app.orsozoxi.R.attr.civ_border_overlay, com.app.orsozoxi.R.attr.civ_border_width, com.app.orsozoxi.R.attr.civ_circle_background_color, com.app.orsozoxi.R.attr.civ_fill_color, com.app.orsozoxi.R.attr.name};
+        public static final int[] CircleImageView = {com.app.piapostolos.R.attr.civ_border_color, com.app.piapostolos.R.attr.civ_border_overlay, com.app.piapostolos.R.attr.civ_border_width, com.app.piapostolos.R.attr.civ_circle_background_color, com.app.piapostolos.R.attr.civ_fill_color, com.app.piapostolos.R.attr.name};
         public static final int CircleImageView_civ_border_color = 0x00000000;
         public static final int CircleImageView_civ_border_overlay = 0x00000001;
         public static final int CircleImageView_civ_border_width = 0x00000002;

@@ -1,6 +1,6 @@
 package com.google.android.gms.measurement.internal;
 
-import com.app.orsozoxi.Alarm.Database.Database;
+import com.app.piapostolos.Alarm.Database.Database;
 import com.facebook.AccessToken;
 import com.google.firebase.messaging.Constants;
 

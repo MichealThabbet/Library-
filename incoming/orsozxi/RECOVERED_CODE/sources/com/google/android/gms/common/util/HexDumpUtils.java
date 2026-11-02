@@ -1,6 +1,6 @@
 package com.google.android.gms.common.util;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 
 /* loaded from: classes.dex */
 public final class HexDumpUtils {

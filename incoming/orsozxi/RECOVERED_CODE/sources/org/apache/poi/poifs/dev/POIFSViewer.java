@@ -1,6 +1,6 @@
 package org.apache.poi.poifs.dev;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.huawei.hms.support.hianalytics.HiAnalyticsConstant;
 import com.ibm.icu.impl.locale.LanguageTag;
 import java.io.FileInputStream;

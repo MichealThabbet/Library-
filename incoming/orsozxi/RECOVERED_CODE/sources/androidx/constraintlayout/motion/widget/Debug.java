@@ -6,7 +6,7 @@ import android.util.Log;
 import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewGroup;
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.huawei.hms.framework.network.grs.GrsBaseInfo;
 import com.kobakei.ratethisapp.BuildConfig;
 import java.lang.reflect.Field;

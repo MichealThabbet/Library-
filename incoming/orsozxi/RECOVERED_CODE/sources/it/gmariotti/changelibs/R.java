@@ -107,8 +107,8 @@ public final class R {
         public static final int RecyclerView_reverseLayout = 0x00000009;
         public static final int RecyclerView_spanCount = 0x0000000a;
         public static final int RecyclerView_stackFromEnd = 0x0000000b;
-        public static final int[] ChangeLogListView = {com.app.orsozoxi.R.attr.changeLogFileResourceId, com.app.orsozoxi.R.attr.changeLogFileResourceUrl, com.app.orsozoxi.R.attr.rowHeaderLayoutId, com.app.orsozoxi.R.attr.rowLayoutId};
-        public static final int[] RecyclerView = {android.R.attr.orientation, android.R.attr.clipToPadding, android.R.attr.descendantFocusability, com.app.orsozoxi.R.attr.fastScrollEnabled, com.app.orsozoxi.R.attr.fastScrollHorizontalThumbDrawable, com.app.orsozoxi.R.attr.fastScrollHorizontalTrackDrawable, com.app.orsozoxi.R.attr.fastScrollVerticalThumbDrawable, com.app.orsozoxi.R.attr.fastScrollVerticalTrackDrawable, com.app.orsozoxi.R.attr.layoutManager, com.app.orsozoxi.R.attr.reverseLayout, com.app.orsozoxi.R.attr.spanCount, com.app.orsozoxi.R.attr.stackFromEnd};
+        public static final int[] ChangeLogListView = {com.app.piapostolos.R.attr.changeLogFileResourceId, com.app.piapostolos.R.attr.changeLogFileResourceUrl, com.app.piapostolos.R.attr.rowHeaderLayoutId, com.app.piapostolos.R.attr.rowLayoutId};
+        public static final int[] RecyclerView = {android.R.attr.orientation, android.R.attr.clipToPadding, android.R.attr.descendantFocusability, com.app.piapostolos.R.attr.fastScrollEnabled, com.app.piapostolos.R.attr.fastScrollHorizontalThumbDrawable, com.app.piapostolos.R.attr.fastScrollHorizontalTrackDrawable, com.app.piapostolos.R.attr.fastScrollVerticalThumbDrawable, com.app.piapostolos.R.attr.fastScrollVerticalTrackDrawable, com.app.piapostolos.R.attr.layoutManager, com.app.piapostolos.R.attr.reverseLayout, com.app.piapostolos.R.attr.spanCount, com.app.piapostolos.R.attr.stackFromEnd};
 
         private styleable() {
         }

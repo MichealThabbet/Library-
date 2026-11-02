@@ -1,6 +1,6 @@
 package org.apache.commons.collections4.trie;
 
-import com.app.orsozoxi.Views.CustomCopticTextView;
+import com.app.piapostolos.Views.CustomCopticTextView;
 import com.huawei.hms.framework.common.ContainerUtils;
 import java.io.Serializable;
 import java.util.AbstractMap;

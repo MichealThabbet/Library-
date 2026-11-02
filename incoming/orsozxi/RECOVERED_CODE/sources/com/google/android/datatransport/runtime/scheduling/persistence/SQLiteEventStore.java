@@ -6,7 +6,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteDatabaseLockedException;
 import android.os.SystemClock;
 import android.util.Base64;
-import com.app.orsozoxi.Alarm.Database.Database;
+import com.app.piapostolos.Alarm.Database.Database;
 import com.facebook.applinks.AppLinkData;
 import com.google.android.datatransport.Encoding;
 import com.google.android.datatransport.runtime.EncodedPayload;
