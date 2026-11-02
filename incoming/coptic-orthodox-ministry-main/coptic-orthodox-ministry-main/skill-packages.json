@@ -1,0 +1,150 @@
+{
+  "version": 1,
+  "mirror_root": ".agents/skills",
+  "alias_roots": [
+    "skills",
+    ".claude/skills",
+    ".codebuddy/skills",
+    ".cortex/skills",
+    ".factory/skills",
+    ".kilocode/skills",
+    ".mcpjam/skills",
+    ".mux/skills",
+    ".openhands/skills",
+    ".qwen/skills",
+    ".vibe/skills",
+    ".zencoder/skills"
+  ],
+  "packages": [
+    {
+      "name": "coptic-orthodox-spiritual-lessons",
+      "source": "spiritual-lessons",
+      "mirror_files": [
+        "SKILL.md",
+        "references/adult-lesson-research-author-ownership-and-storyboards.md",
+        "references/church-fathers-adult-meeting-lessons.md",
+        "references/beatitudes-series-planning.md",
+        "references/entry-into-egypt-feast-lesson.md",
+        "references/pentecost-sagda-prostration-prayers.md",
+        "style-guides/lesson-structure.md",
+        "style-guides/whatsapp-promo.md",
+        "theology-references/liturgical-framework.md",
+        "theology-references/theological-posture.md"
+      ],
+      "shared_imports": [
+        "patristic-sources.md",
+        "source-confidence.md",
+        "patristic-sourcing-policy.md",
+        "orthodox-depth-bar.md",
+        "orthodox-visual-assets.md",
+        "orthodox-literary-voice-synthesis.md",
+        "coptic-lessons-publication-schema.md",
+        "orthodox-artifact-production.md",
+        "coptic-treasures-source-map.md",
+        "lexical-and-translation-depth-standard.md",
+        "bible-study-guide-structure-standard.md",
+        "bible-study-quality-contract.md",
+        "spiritually-edifying-exegesis-voice-standard.md",
+        "accordance-and-licensed-bible-library-research.md"
+      ]
+    },
+    {
+      "name": "orthodox-biblical-explanation",
+      "source": "orthodox-biblical-explanation",
+      "mirror_files": [
+        "SKILL.md",
+        "examples/1-kings-13-example.md"
+      ],
+      "shared_imports": [
+        "patristic-sources.md",
+        "source-confidence.md",
+        "patristic-sourcing-policy.md",
+        "orthodox-depth-bar.md",
+        "orthodox-visual-assets.md",
+        "orthodox-literary-voice-synthesis.md",
+        "coptic-lessons-publication-schema.md",
+        "orthodox-artifact-production.md",
+        "coptic-treasures-source-map.md",
+        "lexical-and-translation-depth-standard.md",
+        "bible-study-guide-structure-standard.md",
+        "bible-study-quality-contract.md",
+        "spiritually-edifying-exegesis-voice-standard.md",
+        "accordance-and-licensed-bible-library-research.md"
+      ]
+    },
+    {
+      "name": "orthodox-iconography",
+      "source": "orthodox-iconography",
+      "mirror_files": [
+        "SKILL.md",
+        "references/nicaea-iconography.md",
+        "references/wikimedia-commons-api-visual-source-verification.md",
+        "references/desert-fathers-open-license-visual-sourcing.md",
+        "references/old-testament-judge-icon-sourcing.md"
+      ],
+      "shared_imports": [
+        "patristic-sources.md",
+        "source-confidence.md",
+        "orthodox-visual-assets.md"
+      ]
+    },
+    {
+      "name": "orthodox-apocalyptic-exegesis",
+      "source": "orthodox-apocalyptic-exegesis",
+      "mirror_files": [
+        "SKILL.md",
+        "references/revelation-20-millennium-precedent.md"
+      ],
+      "shared_imports": [
+        "patristic-sources.md",
+        "source-confidence.md",
+        "patristic-sourcing-policy.md",
+        "bible-study-guide-structure-standard.md",
+        "bible-study-quality-contract.md"
+      ]
+    },
+    {
+      "name": "exact-scripture-speaker-ledger",
+      "source": "exact-scripture-speaker-ledger",
+      "mirror_files": [
+        "SKILL.md"
+      ],
+      "shared_imports": []
+    },
+    {
+      "name": "orthodox-shared-references",
+      "source": "orthodox-shared-references",
+      "mirror_files": [
+        "SKILL.md",
+        "references/accordance-and-licensed-bible-library-research.md",
+        "references/bible-study-guide-structure-standard.md",
+        "references/bible-study-quality-contract.md",
+        "references/bible-study-source-pack-template.md",
+        "references/coptic-lessons-publication-schema.md",
+        "references/coptic-treasures-source-map.md",
+        "references/historical-precedent-use-policy.md",
+        "references/lexical-and-translation-depth-standard.md",
+        "references/orthodox-artifact-production.md",
+        "references/orthodox-content-routing.md",
+        "references/orthodox-depth-bar.md",
+        "references/orthodox-literary-voice-synthesis.md",
+        "references/orthodox-visual-assets.md",
+        "references/patristic-quote-gems-and-direct-footnotes.md",
+        "references/patristic-sources.md",
+        "references/patristic-sourcing-policy.md",
+        "references/source-confidence.md",
+        "references/spiritually-edifying-exegesis-voice-standard.md"
+      ],
+      "shared_imports": []
+    },
+    {
+      "name": "orthodox-outreach-communications",
+      "source": "outreach",
+      "mirror_files": [
+        "SKILL.md",
+        "templates/congregation-update.md"
+      ],
+      "shared_imports": []
+    }
+  ]
+}
