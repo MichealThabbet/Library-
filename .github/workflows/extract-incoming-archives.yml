@@ -217,7 +217,7 @@ jobs:
           excluded={"orsozxi","orsozoxi"}
           results=[]
           errors=[]
-          pattern=re.compile(r"(?i)^(.*)\\.part(\\d+)$")
+          pattern=re.compile(r"(?i)^(.*)\.part(\d+)$")
           for folder in sorted(p for p in root.rglob("*") if p.is_dir() and not any(a.lower() in excluded for a in p.parts)):
             groups={}
             for p in folder.iterdir():
@@ -273,7 +273,7 @@ jobs:
                 errors.append(item)
               results.append(item)
               print("SPLIT",json.dumps(item,ensure_ascii=False))
-          pathlib.Path("archive-split-report.json").write_text(json.dumps(results,ensure_ascii=False,indent=2)+"\\n")
+          pathlib.Path("archive-split-report.json").write_text(json.dumps(results,ensure_ascii=False,indent=2)+chr(10))
           if errors: print("SPLIT ERRORS",len(errors))
           PY
       - name: Audit all incoming folders and extraction results
