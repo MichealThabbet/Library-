@@ -40,12 +40,12 @@ jobs:
             p=pathlib.PurePosixPath(name)
             return bool(name and not name.startswith("/") and not name.startswith("//") and not any(x==".." for x in p.parts) and not (p.parts and ":" in p.parts[0]))
           def parts_for(archive):
-            m=re.match(r"(?i)^(.*?)(?:\\.part(\\d{3})|part(\\d+))\\.zip$",archive.name)
+            m=re.match(r"(?i)^(.*?)(?:\.part(\d{3})|part(\d+))\.zip$",archive.name)
             if not m: return None
             prefix=m.group(1)
             numbered=[]
             for q in archive.parent.iterdir():
-              qm=re.match(r"(?i)^"+re.escape(prefix)+r"(?:\\.part(\\d{3})|part(\\d+))\\.zip$",q.name)
+              qm=re.match(r"(?i)^"+re.escape(prefix)+r"(?:\.part(\d{3})|part(\d+))\.zip$",q.name)
               if qm: numbered.append((int(qm.group(1) or qm.group(2)),q))
             numbered.sort()
             if not numbered or numbered[0][0]!=1 or [x[0] for x in numbered]!=list(range(1,len(numbered)+1)):
@@ -108,7 +108,7 @@ jobs:
             if not files: break
             for p in files:
               seen.add(str(p))
-              if re.search(r"(?i)(?:\\.part(\\d{3})|part(\\d+))\\.zip$",p.name) and not re.search(r"(?i)(?:\\.part001|part1)\\.zip$",p.name):
+              if re.search(r"(?i)(?:\.part(\d{3})|part(\d+))\.zip$",p.name) and not re.search(r"(?i)(?:\.part001|part1)\.zip$",p.name):
                 report["skipped"].append(str(p)+" (multipart continuation)")
                 continue
               try:
