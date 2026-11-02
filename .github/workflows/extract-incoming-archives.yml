@@ -122,6 +122,92 @@ jobs:
           print("SUMMARY",json.dumps({k:len(v) for k,v in report.items()}))
           if report["errors"]: print("WARNING: Some archives failed; committing successful extractions and report")
           PY
+      - name: Reassemble and extract nested split archives
+        shell: bash
+        run: |
+          python3 - <<'PY'
+          import pathlib, re, hashlib, tempfile, shutil, zipfile, tarfile, subprocess, json, os, stat
+          root=pathlib.Path("incoming")
+          report_path=pathlib.Path("archive-extraction-report.json")
+          report=json.loads(report_path.read_text())
+          report.setdefault("nested",[])
+          errors=[]
+          for folder in sorted(p for p in root.rglob("*") if p.is_dir()):
+            if any(v.lower() in ("orsozxi","orsozoxi") for v in folder.parts): continue
+            chunks=[]
+            for p in folder.iterdir():
+              m=re.fullmatch(r"archive\.part(\d{3})",p.name,re.I) if p.is_file() else None
+              if m: chunks.append((int(m.group(1)),p))
+            if not chunks: continue
+            chunks.sort()
+            status={"folder":str(folder),"parts":len(chunks),"new_files":0}
+            try:
+              if [n for n,_ in chunks]!=list(range(1,len(chunks)+1)):
+                raise ValueError("Missing archive.part pieces")
+              with tempfile.TemporaryDirectory() as td:
+                tmp=pathlib.Path(td)
+                joined=tmp/"joined.archive"
+                digest=hashlib.sha256()
+                with joined.open("wb") as out:
+                  for _,part in chunks:
+                    with part.open("rb") as src:
+                      while True:
+                        buf=src.read(1024*1024)
+                        if not buf: break
+                        digest.update(buf)
+                        out.write(buf)
+                status["sha256"]=digest.hexdigest()
+                sha_file=folder/"sha256.txt"
+                if sha_file.exists():
+                  reference=sha_file.read_text().strip().split()[0].lower()
+                  if len(reference)==64 and reference!=status["sha256"]:
+                    raise ValueError("SHA256 mismatch; reconstructed archive is corrupted")
+                output=tmp/"files"
+                output.mkdir()
+                if zipfile.is_zipfile(joined):
+                  with zipfile.ZipFile(joined) as z:
+                    infos=z.infolist()
+                    if len(infos)>30000 or sum(i.file_size for i in infos)>2*1024**3:
+                      raise ValueError("Archive exceeds file/size limits")
+                    for i in infos:
+                      parts=pathlib.PurePosixPath(i.filename.replace("\\","/"))
+                      if parts.is_absolute() or ".." in parts.parts or stat.S_ISLNK(i.external_attr>>16):
+                        raise ValueError("Unsafe zip member")
+                    z.extractall(output)
+                elif tarfile.is_tarfile(joined):
+                  with tarfile.open(joined) as t:
+                    members=t.getmembers()
+                    if len(members)>30000 or sum(m.size for m in members)>2*1024**3:
+                      raise ValueError("Archive exceeds file/size limits")
+                    if any(not (m.isfile() or m.isdir()) for m in members):
+                      raise ValueError("Unsafe tar member")
+                    t.extractall(output,filter="data")
+                else:
+                  proc=subprocess.run(["7z","x","-y","-o"+str(output),str(joined)],capture_output=True,text=True)
+                  if proc.returncode: raise ValueError("Reassembled content is not supported archive: "+proc.stderr[-200:])
+                staged=list(output.rglob("*"))
+                if len(staged)>30000: raise ValueError("Too many extracted entries")
+                target_dir=folder/"extracted"
+                for item in staged:
+                  if not item.is_file(): continue
+                  if item.is_symlink(): raise ValueError("Unexpected symlink")
+                  relative=item.relative_to(output)
+                  target=target_dir/relative
+                  if target.exists(): continue
+                  target.parent.mkdir(parents=True,exist_ok=True)
+                  shutil.copyfile(item,target)
+                  status["new_files"]+=1
+              status["status"]="ok"
+            except Exception as exc:
+              status["status"]="error"
+              status["error"]=str(exc)
+              errors.append(status)
+            report["nested"].append(status)
+            print("NESTED",json.dumps(status,ensure_ascii=False))
+          report_path.write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n")
+          if errors:
+            print("Nested archive failures:",len(errors))
+          PY
       - name: Commit extracted files and report
         if: success()
         shell: bash
