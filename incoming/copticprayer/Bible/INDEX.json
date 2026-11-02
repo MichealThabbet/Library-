@@ -1,0 +1,32 @@
+{
+  "source": "Bible",
+  "tables": [
+    {
+      "table": "bible",
+      "rows": 35780,
+      "columns": [
+        "_id",
+        "bid",
+        "cid",
+        "vid",
+        "vt",
+        "vtd",
+        "vse"
+      ],
+      "file": "bible.csv"
+    },
+    {
+      "table": "bible_books",
+      "rows": 74,
+      "columns": [
+        "_id",
+        "arabic",
+        "swedish",
+        "bid",
+        "chapters_number"
+      ],
+      "file": "bible_books.csv"
+    }
+  ],
+  "notes": "CSV UTF-8 with BOM; relational IDs and original ordering columns preserved."
+}

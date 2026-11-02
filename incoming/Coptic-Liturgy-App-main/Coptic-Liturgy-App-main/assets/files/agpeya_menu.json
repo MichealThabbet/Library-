@@ -1,0 +1,73 @@
+{
+  "title": "الأجبية",
+  "layout": {
+    "type": "grid",
+    "columns": 2,
+    "aspect_ratio": 0.75
+  },
+  "items": [
+    {
+      "id": "agpeya_baker",
+      "title": "صلاة باكر",
+      "icon": "schedule",
+      "image": "assets/images/agpeya.png",
+      "type": "content",
+      "target": "agpeya_baker.json",
+      "order": 1
+    },
+    {
+      "id": "agpeya_third",
+      "title": "صلاة الساعة الثالثة",
+      "icon": "schedule",
+      "image": "assets/images/agpeya.png",
+      "type": "content",
+      "target": "agpeya_third.json",
+      "order": 2
+    },
+    {
+      "id": "agpeya_sixth",
+      "title": "صلاة الساعة السادسة",
+      "icon": "schedule",
+      "image": "assets/images/agpeya.png",
+      "type": "content",
+      "target": "agpeya_sixth.json",
+      "order": 3
+    },
+    {
+      "id": "agpeya_ninth",
+      "title": "صلاة الساعة التاسعة",
+      "icon": "schedule",
+      "image": "assets/images/agpeya.png",
+      "type": "content",
+      "target": "agpeya_ninth.json",
+      "order": 4
+    },
+    {
+      "id": "agpeya_sunset",
+      "title": "صلاة الغروب",
+      "icon": "schedule",
+      "image": "assets/images/agpeya.png",
+      "type": "content",
+      "target": "agpeya_sunset.json",
+      "order": 5
+    },
+    {
+      "id": "agpeya_sleep",
+      "title": "صلاة النوم",
+      "icon": "schedule",
+      "image": "assets/images/agpeya.png",
+      "type": "content",
+      "target": "agpeya_sleep.json",
+      "order": 6
+    },
+    {
+      "id": "agpeya_midnight",
+      "title": "صلاة نصف الليل",
+      "icon": "schedule",
+      "image": "assets/images/agpeya.png",
+      "type": "content",
+      "target": "agpeya_midnight.json",
+      "order": 7
+    }
+  ]
+}

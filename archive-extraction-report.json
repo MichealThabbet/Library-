@@ -1,0 +1,339 @@
+{
+  "extracted": [
+    {
+      "archive": "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main (1).zip",
+      "new_files": 210
+    },
+    {
+      "archive": "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main.zip",
+      "new_files": 0
+    },
+    {
+      "archive": "incoming/Ekklesia_8.9.45/Ekklesia_8.9.45_part001.zip",
+      "new_files": 1
+    },
+    {
+      "archive": "incoming/Ekklesia_8.9.45/Ekklesia_8.9.45_part002.zip",
+      "new_files": 1
+    },
+    {
+      "archive": "incoming/Ekklesia_8.9.45/Ekklesia_8.9.45_part003.zip",
+      "new_files": 1
+    },
+    {
+      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part001.zip",
+      "new_files": 1
+    },
+    {
+      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part002.zip",
+      "new_files": 1
+    },
+    {
+      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part003.zip",
+      "new_files": 1
+    },
+    {
+      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part004.zip",
+      "new_files": 1
+    },
+    {
+      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part005.zip",
+      "new_files": 1
+    },
+    {
+      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part006.zip",
+      "new_files": 1
+    },
+    {
+      "archive": "incoming/Ipsaltos_8.1/Ipsaltos_8.1_part007.zip",
+      "new_files": 1
+    },
+    {
+      "archive": "incoming/agiosbible/Agios+Bible+-+Holy+Bible_2.7.0_APKPure.zip",
+      "new_files": 1792
+    },
+    {
+      "archive": "incoming/copticEaster-master/copticEaster-master.zip",
+      "new_files": 3
+    },
+    {
+      "archive": "incoming/copticprayer/01_Coptic_Prayers_Swedish_CONTENT_ONLY.zip",
+      "new_files": 26
+    },
+    {
+      "archive": "incoming/fathermatta/uptodown-com.Fr_matta_meskin.zip",
+      "new_files": 2493
+    },
+    {
+      "archive": "incoming/hollyweak/02_Holy_Week_Dallal_CONTENT_ONLY.zip",
+      "new_files": 9
+    },
+    {
+      "archive": "incoming/ivalley/coptic ivalley.zip",
+      "new_files": 373
+    },
+    {
+      "archive": "incoming/kanestyprayer/‎⁨كنيستي+_+صلوات+القداس+والاجبية_1.0.8_APKPure⁩.zip",
+      "new_files": 775
+    },
+    {
+      "archive": "incoming/katamars/KATAMARS_10_0_1_ABSALMODY_ORIGINAL.zip",
+      "new_files": 216
+    },
+    {
+      "archive": "incoming/katamars/apk-katamaras-mishel.zip",
+      "new_files": 1522
+    },
+    {
+      "archive": "incoming/katamars2/katamaras-2-0-1.zip",
+      "new_files": 1947
+    },
+    {
+      "archive": "incoming/orthodox-presenter-master/orthodox-presenter-master.zip",
+      "new_files": 396
+    },
+    {
+      "archive": "incoming/popeshenouda/مكتبة البابا شنودة.zip",
+      "new_files": 34
+    },
+    {
+      "archive": "incoming/salawatelkhedma/‎⁨__صلوات+الخدمات_1.0_APKPure_⁩.zip",
+      "new_files": 78
+    }
+  ],
+  "skipped": [
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/.gitignore",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/analysis_options.yaml",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/.metadata",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/README.md",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/pubspec.yaml",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/pubspec.lock",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/.gitignore",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/test/widget_test.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/.gitignore",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/.gitignore",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/CMakeLists.txt",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/web/manifest.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/web/favicon.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/web/index.html",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/build.gradle.kts",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/.gitignore",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/settings.gradle.kts",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/gradle.properties",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/main.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/linux/.gitignore",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/linux/CMakeLists.txt",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/linux/runner/my_application.h",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/linux/runner/main.cc",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/linux/runner/my_application.cc",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/linux/runner/CMakeLists.txt",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/linux/flutter/generated_plugin_registrant.cc",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/linux/flutter/generated_plugins.cmake",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/linux/flutter/generated_plugin_registrant.h",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/linux/flutter/CMakeLists.txt",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/screens/content_screen.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/screens/liturgies.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/screens/home_screen.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/domain/entities/menu_item_entity.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/domain/entities/content_entity.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/domain/entities/menu_entity.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/domain/usecases/get_menu_items_usecase.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/domain/usecases/get_content_usecase.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/domain/repositories/menu_repository.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/domain/repositories/content_repository.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/nahda_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/home_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/settings_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/psalmody_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/menu_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/external_display_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/virgin_mary_praises_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/liturgies_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/search_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/agpeya_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/presentation_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/fullscreen_presentation_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/readings_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/content_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/praises_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/pages/sub_category_page.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/content_tile_widget.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/enhanced_content_tile.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/adaptive_navigation.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/content/slide_header_widget.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/content/content_list_view.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/content/content_slide_widget.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/content/text_section_widget.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/navigation/gesture_navigation_wrapper.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/navigation/keyboard_navigation_wrapper.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/common/app_card.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/presentation/widgets/common/responsive_text.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/screens/widgets/content_tile.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/core/theme/app_theme.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/core/services/cache_manager.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/core/services/search_service.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/core/utils/app_router.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/core/utils/app_state_manager.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/core/utils/dependency_injection.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/core/utils/constants.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/services/config_service.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/models/menu_model.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/models/ui_config_model.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/models/content_model.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/models/menu_item_model.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/models/app_config_model.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/repositories/content_repository_impl.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/repositories/menu_repository_impl.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/datasources/menu_local_data_source.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/datasources/ui_config_data_source.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/datasources/content_local_data_source.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/lib/data/datasources/menu_local_datasource.dart",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/build.gradle.kts",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/gradle/wrapper/gradle-wrapper.properties",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/profile/AndroidManifest.xml",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/debug/AndroidManifest.xml",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/AndroidManifest.xml",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/kotlin/com/example/coptic/MainActivity.kt",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/res/drawable-v21/launch_background.xml",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/res/mipmap-mdpi/ic_launcher.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/res/drawable/launch_background.xml",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/res/mipmap-hdpi/ic_launcher.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/res/values/styles.xml",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/android/app/src/main/res/values-night/styles.xml",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/categories.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/agpeya_menu.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/psalmody.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/ui_components.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/praise_1_complete.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/التوزيع السنوى.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/app_config.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/virgin_mary_vespers.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/main_menu.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/virgin_mary_praises_menu.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/psalmody_menu.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/praise_4.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/praise_1.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/liturgies_menu.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/readings.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/praise_3.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/ui_config.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/agpeya.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/praise_5.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/virgin_mary_menu.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/praise_2.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/files/occasions_menu.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/images/liturgies.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/assets/images/psalmody.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/web/icons/Icon-maskable-192.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/web/icons/Icon-maskable-512.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/web/icons/Icon-192.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/web/icons/Icon-512.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/win32_window.h",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/Runner.rc",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/utils.h",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/win32_window.cpp",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/runner.exe.manifest",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/flutter_window.cpp",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/main.cpp",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/utils.cpp",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/flutter_window.h",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/CMakeLists.txt",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/resource.h",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/flutter/generated_plugin_registrant.cc",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/flutter/generated_plugins.cmake",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/flutter/generated_plugin_registrant.h",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/flutter/CMakeLists.txt",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/windows/runner/resources/app_icon.ico",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Flutter/Debug.xcconfig",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Flutter/AppFrameworkInfo.plist",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Flutter/Release.xcconfig",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/RunnerTests/RunnerTests.swift",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner.xcodeproj/project.pbxproj",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner.xcworkspace/contents.xcworkspacedata",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Info.plist",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/AppDelegate.swift",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Runner-Bridging-Header.h",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Base.lproj/Main.storyboard",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Base.lproj/LaunchScreen.storyboard",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Flutter/Flutter-Debug.xcconfig",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Flutter/GeneratedPluginRegistrant.swift",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Flutter/Flutter-Release.xcconfig",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/RunnerTests/RunnerTests.swift",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner.xcodeproj/project.pbxproj",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner.xcworkspace/contents.xcworkspacedata",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Info.plist",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/DebugProfile.entitlements",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/MainFlutterWindow.swift",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/AppDelegate.swift",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Release.entitlements",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Base.lproj/MainMenu.xib",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Configs/Debug.xcconfig",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Configs/Warnings.xcconfig",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Configs/Release.xcconfig",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Configs/AppInfo.xcconfig",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme",
+    "incoming/Coptic-Liturgy-App-main/Coptic-Liturgy-App-main/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist",
+    "incoming/katameros-api-master/Katameros_API.part002.zip (multipart continuation)"
+  ],
+  "errors": [
+    {
+      "archive": "incoming/coptic-orthodox-ministry-main/coptic-orthodox-ministry-main.zip",
+      "error": "symlink in archive"
+    },
+    {
+      "archive": "incoming/derasat/bible1part1.zip",
+      "error": "7z cannot list archive: "
+    },
+    {
+      "archive": "incoming/derasat/bible1part2.zip",
+      "error": "7z cannot list archive: \nERROR: /home/runner/work/Library-/Library-/incoming/derasat/bible1part2.zip : /home/runner/work/Library-/Library-/incoming/derasat/bible1part2.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
+    },
+    {
+      "archive": "incoming/derasat/bible1part3.zip",
+      "error": "[Errno 22] Invalid argument"
+    },
+    {
+      "archive": "incoming/katameros-api-master/Katameros_API.part001.zip",
+      "error": "7z cannot list archive: "
+    }
+  ]
+}

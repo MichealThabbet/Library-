@@ -1,0 +1,64 @@
+{
+  "title": "التسبحة",
+  "layout": {
+    "type": "grid",
+    "columns": 2,
+    "aspect_ratio": 0.75
+  },
+  "items": [
+    {
+      "id": "annual_psalmody",
+      "title": "التسبحة السنوية",
+      "icon": "music_note",
+      "image": "assets/images/psalmody.png",
+      "type": "content",
+      "target": "annual_psalmody.json",
+      "order": 1
+    },
+    {
+      "id": "kiahk_psalmody",
+      "title": "تسبحة كيهك",
+      "icon": "music_note",
+      "image": "assets/images/psalmody.png",
+      "type": "content",
+      "target": "kiahk_psalmody.json",
+      "order": 2
+    },
+    {
+      "id": "lent_psalmody",
+      "title": "تسبحة الصوم",
+      "icon": "music_note",
+      "image": "assets/images/psalmody.png",
+      "type": "content",
+      "target": "lent_psalmody.json",
+      "order": 3
+    },
+    {
+      "id": "resurrection_psalmody",
+      "title": "تسبحة القيامة",
+      "icon": "music_note",
+      "image": "assets/images/psalmody.png",
+      "type": "content",
+      "target": "resurrection_psalmody.json",
+      "order": 4
+    },
+    {
+      "id": "pentecost_psalmody",
+      "title": "تسبحة الخمسين",
+      "icon": "music_note",
+      "image": "assets/images/psalmody.png",
+      "type": "content",
+      "target": "pentecost_psalmody.json",
+      "order": 5
+    },
+    {
+      "id": "apostles_psalmody",
+      "title": "تسبحة الرسل",
+      "icon": "music_note",
+      "image": "assets/images/psalmody.png",
+      "type": "content",
+      "target": "apostles_psalmody.json",
+      "order": 6
+    }
+  ]
+}

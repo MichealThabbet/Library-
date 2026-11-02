@@ -1,0 +1,28 @@
+{
+  "title": "نهضة العذراء",
+  "layout": {
+    "type": "grid",
+    "columns": 2,
+    "aspect_ratio": 0.75
+  },
+  "items": [
+    {
+      "id": "virgin_mary_vespers",
+      "title": "عشية نهضة العذراء",
+      "icon": "brightness_6",
+      "image": "assets/images/occasions.png",
+      "type": "content",
+      "target": "virgin_mary_vespers.json",
+      "order": 1
+    },
+    {
+      "id": "virgin_mary_praises",
+      "title": "تماجيد العذراء",
+      "icon": "music_note",
+      "image": "assets/images/occasions.png",
+      "type": "submenu",
+      "target": "virgin_mary_praises_menu.json",
+      "order": 2
+    }
+  ]
+}

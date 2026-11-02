@@ -1,0 +1,28 @@
+{
+  "source": "Kholagy",
+  "tables": [
+    {
+      "table": "prays_relations",
+      "rows": 2946,
+      "columns": [
+        "_id",
+        "pray_id",
+        "sentence_id"
+      ],
+      "file": "prays_relations.csv"
+    },
+    {
+      "table": "sentences",
+      "rows": 1680,
+      "columns": [
+        "_id",
+        "arabic",
+        "swedish",
+        "coptic",
+        "style"
+      ],
+      "file": "sentences.csv"
+    }
+  ],
+  "notes": "CSV UTF-8 with BOM; relational IDs and original ordering columns preserved."
+}

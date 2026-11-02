@@ -1,0 +1,22 @@
+[
+    {
+      "title": "القداسات",
+      "image": "assets/images/liturgies.png",
+      "file": "التوزيع_السنوى.json"
+    },
+    {
+      "title": "التسبحة",
+      "image": "assets/images/psalmody.png",
+      "file": "psalmody.json"
+    },
+    {
+      "title": "القراءات",
+      "image": "assets/images/readings.png",
+      "file": "readings.json"
+    },
+    {
+      "title": "الأجبية",
+      "image": "assets/images/agpeya.png",
+      "file": "agpeya.json"
+    }
+]

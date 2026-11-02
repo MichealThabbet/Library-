@@ -1,0 +1,71 @@
+{
+  "app": "Holy Week Dallal",
+  "tables": [
+    {
+      "table": "books",
+      "rows": 1046,
+      "columns": [
+        "_id",
+        "text",
+        "text_color",
+        "hasCoptic",
+        "isTitle"
+      ],
+      "file": "books.csv"
+    },
+    {
+      "table": "contents",
+      "rows": 209,
+      "columns": [
+        "_id",
+        "text",
+        "isHeader"
+      ],
+      "file": "contents.csv"
+    },
+    {
+      "table": "contents_relations",
+      "rows": 385,
+      "columns": [
+        "model_number",
+        "content_id"
+      ],
+      "file": "contents_relations.csv"
+    },
+    {
+      "table": "days",
+      "rows": 22,
+      "columns": [
+        "_id",
+        "text",
+        "hierarchy_level",
+        "image_title",
+        "header_percentage",
+        "pray_number",
+        "content_number"
+      ],
+      "file": "days.csv"
+    },
+    {
+      "table": "prays_relations",
+      "rows": 4441,
+      "columns": [
+        "pray_number",
+        "sentence_id"
+      ],
+      "file": "prays_relations.csv"
+    },
+    {
+      "table": "sentences",
+      "rows": 1216,
+      "columns": [
+        "_id",
+        "text",
+        "text_color",
+        "hasCoptic",
+        "isTitle"
+      ],
+      "file": "sentences.csv"
+    }
+  ]
+}

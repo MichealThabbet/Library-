@@ -1,0 +1,37 @@
+{
+  "title": "مناسبات وأعياد",
+  "layout": {
+    "type": "grid",
+    "columns": 2,
+    "aspect_ratio": 0.75
+  },
+  "items": [
+    {
+      "id": "virgin_mary_revival",
+      "title": "نهضة العذراء",
+      "icon": "church",
+      "image": "assets/images/occasions.png",
+      "type": "submenu",
+      "target": "virgin_mary_menu.json",
+      "order": 1
+    },
+    {
+      "id": "nativity_feast",
+      "title": "عيد الميلاد",
+      "icon": "star",
+      "image": "assets/images/occasions.png",
+      "type": "content",
+      "target": "nativity_feast.json",
+      "order": 2
+    },
+    {
+      "id": "epiphany_feast",
+      "title": "عيد الغطاس",
+      "icon": "water_drop",
+      "image": "assets/images/occasions.png",
+      "type": "content",
+      "target": "epiphany_feast.json",
+      "order": 3
+    }
+  ]
+}

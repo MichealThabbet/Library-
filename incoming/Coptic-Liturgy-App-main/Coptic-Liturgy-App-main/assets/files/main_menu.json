@@ -1,0 +1,39 @@
+{
+  "title": "القائمة الرئيسية",
+  "items": [
+    {
+      "id": "liturgies",
+      "title": "القداسات",
+      "icon": "church",
+      "category": "liturgies",
+      "target": "liturgies_menu.json",
+      "description": "قداسات الكنيسة القبطية"
+    },
+    {
+      "id": "psalmody",
+      "title": "التسبحة",
+      "icon": "music_note",
+      "category": "psalmody",
+      "target": "psalmody_menu.json",
+      "description": "تسابيح الكنيسة القبطية"
+    },
+    {
+      "id": "readings",
+      "title": "القراءات",
+      "icon": "menu_book",
+      "category": "readings",
+      "target": "readings.json",
+      "description": "قراءات الكتاب المقدس"
+    },
+    {
+      "id": "agpeya",
+      "title": "الأجبية",
+      "icon": "schedule",
+      "category": "agpeya",
+      "target": "agpeya_menu.json",
+      "description": "صلوات الساعات"
+    }
+  ]
+}
+
+

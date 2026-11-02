@@ -1,0 +1,29 @@
+{
+  "app_info": {
+    "name": "التطبيق القبطي",
+    "version": "1.0.0",
+    "default_language": "ar"
+  },
+  "navigation": {
+    "main_menu": "main_menu.json",
+    "ui_components": "ui_components.json"
+  },
+  "content_files": {
+    "liturgies": "liturgies_menu.json",
+    "psalmody": "psalmody_menu.json",
+    "readings": "readings.json",
+    "agpeya": "agpeya_menu.json"
+  },
+  "themes": {
+    "light": {
+      "primary_color": "#2196F3",
+      "background_color": "#FFFFFF",
+      "text_color": "#000000"
+    },
+    "dark": {
+      "primary_color": "#1976D2",
+      "background_color": "#121212",
+      "text_color": "#FFFFFF"
+    }
+  }
+}

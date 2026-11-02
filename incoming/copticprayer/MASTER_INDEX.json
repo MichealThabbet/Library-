@@ -1,0 +1,272 @@
+{
+  "app": "Coptic Prayers Swedish",
+  "sections": {
+    "Bible": [
+      {
+        "table": "bible",
+        "rows": 35780,
+        "columns": [
+          "_id",
+          "bid",
+          "cid",
+          "vid",
+          "vt",
+          "vtd",
+          "vse"
+        ],
+        "file": "bible.csv"
+      },
+      {
+        "table": "bible_books",
+        "rows": 74,
+        "columns": [
+          "_id",
+          "arabic",
+          "swedish",
+          "bid",
+          "chapters_number"
+        ],
+        "file": "bible_books.csv"
+      }
+    ],
+    "Agpeya": [
+      {
+        "table": "pray_hours",
+        "rows": 8,
+        "columns": [
+          "title_arabic",
+          "title_swedish",
+          "pray_id",
+          "pray_image",
+          "colors"
+        ],
+        "file": "pray_hours.csv"
+      },
+      {
+        "table": "prays_relations",
+        "rows": 767,
+        "columns": [
+          "pray_id",
+          "sentence_id"
+        ],
+        "file": "prays_relations.csv"
+      },
+      {
+        "table": "sentences",
+        "rows": 357,
+        "columns": [
+          "_id",
+          "arabic",
+          "swedish",
+          "is_title"
+        ],
+        "file": "sentences.csv"
+      }
+    ],
+    "Dlal": [
+      {
+        "table": "contents",
+        "rows": 175,
+        "columns": [
+          "_id",
+          "arabic",
+          "swedish",
+          "isHeader"
+        ],
+        "file": "contents.csv"
+      },
+      {
+        "table": "contents_relations",
+        "rows": 334,
+        "columns": [
+          "model_number",
+          "content_id"
+        ],
+        "file": "contents_relations.csv"
+      },
+      {
+        "table": "days",
+        "rows": 22,
+        "columns": [
+          "_id",
+          "text",
+          "hierarchy_level",
+          "image_title",
+          "header_percentage",
+          "pray_number",
+          "content_number"
+        ],
+        "file": "days.csv"
+      },
+      {
+        "table": "prays_relations",
+        "rows": 4441,
+        "columns": [
+          "pray_number",
+          "sentence_id"
+        ],
+        "file": "prays_relations.csv"
+      },
+      {
+        "table": "sentences",
+        "rows": 1216,
+        "columns": [
+          "_id",
+          "arabic",
+          "swedish",
+          "text_color",
+          "hasCoptic",
+          "isTitle"
+        ],
+        "file": "sentences.csv"
+      }
+    ],
+    "Kholagy": [
+      {
+        "table": "prays_relations",
+        "rows": 2946,
+        "columns": [
+          "_id",
+          "pray_id",
+          "sentence_id"
+        ],
+        "file": "prays_relations.csv"
+      },
+      {
+        "table": "sentences",
+        "rows": 1680,
+        "columns": [
+          "_id",
+          "arabic",
+          "swedish",
+          "coptic",
+          "style"
+        ],
+        "file": "sentences.csv"
+      }
+    ],
+    "Katamars": [
+      {
+        "table": "Psalms",
+        "rows": 507,
+        "columns": [
+          "_id",
+          "reference",
+          "arabic",
+          "swedish"
+        ],
+        "file": "Psalms.csv"
+      },
+      {
+        "table": "days",
+        "rows": 69,
+        "columns": [
+          "_id",
+          "month",
+          "day",
+          "vespers_psalm",
+          "vespers_psalm_id",
+          "vespers_gospel",
+          "matins_psalm",
+          "matins_psalm_id",
+          "matins_gospel",
+          "pauline",
+          "catholic",
+          "praxis",
+          "psalm",
+          "psalm_id",
+          "gospel"
+        ],
+        "file": "days.csv"
+      },
+      {
+        "table": "days_relations",
+        "rows": 366,
+        "columns": [
+          "month",
+          "day",
+          "instead_month",
+          "instead_day"
+        ],
+        "file": "days_relations.csv"
+      },
+      {
+        "table": "fifty_feast",
+        "rows": 50,
+        "columns": [
+          "_id",
+          "week",
+          "day",
+          "vespers_psalm",
+          "vespers_psalm_id",
+          "vespers_gospel",
+          "matins_psalm_id",
+          "matins_psalm",
+          "matins_gospel",
+          "pauline",
+          "catholic",
+          "praxis",
+          "psalm",
+          "psalm_id",
+          "gospel"
+        ],
+        "file": "fifty_feast.csv"
+      },
+      {
+        "table": "great_lent",
+        "rows": 55,
+        "columns": [
+          "_id",
+          "week",
+          "day",
+          "vespers_psalm",
+          "vespers_psalm_id",
+          "vespers_gospel",
+          "prophecies",
+          "matins_psalm",
+          "matins_psalm_id",
+          "matins_gospel",
+          "pauline",
+          "catholic",
+          "praxis",
+          "psalm",
+          "psalm_id",
+          "gospel"
+        ],
+        "file": "great_lent.csv"
+      },
+      {
+        "table": "repeated_sentences",
+        "rows": 23,
+        "columns": [
+          "reading",
+          "arabic",
+          "swedish"
+        ],
+        "file": "repeated_sentences.csv"
+      },
+      {
+        "table": "sundays",
+        "rows": 40,
+        "columns": [
+          "_id",
+          "month",
+          "sunday_number",
+          "vespers_psalm",
+          "vespers_psalm_id",
+          "vespers_gospel",
+          "matins_psalm",
+          "matins_psalm_id",
+          "matins_gospel",
+          "pauline",
+          "catholic",
+          "praxis",
+          "psalm",
+          "psalm_id",
+          "gospel"
+        ],
+        "file": "sundays.csv"
+      }
+    ]
+  }
+}

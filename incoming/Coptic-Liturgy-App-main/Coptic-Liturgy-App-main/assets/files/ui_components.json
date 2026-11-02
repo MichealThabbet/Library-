@@ -1,0 +1,95 @@
+{
+  "app_bars": {
+    "main": {
+      "title": "التطبيق القبطي",
+      "actions": [
+        {
+          "id": "search",
+          "icon": "search",
+          "tooltip": "البحث",
+          "route": "/search"
+        },
+        {
+          "id": "settings",
+          "icon": "settings",
+          "tooltip": "الإعدادات",
+          "route": "/settings"
+        }
+      ]
+    },
+    "content": {
+      "actions": [
+        {
+          "id": "presentation",
+          "icon": "slideshow",
+          "tooltip": "بدء العرض",
+          "action": "start_presentation"
+        },
+        {
+          "id": "share",
+          "icon": "share",
+          "tooltip": "مشاركة",
+          "action": "share_content"
+        }
+      ]
+    },
+    "external_display": {
+      "title": "التحكم في العرض",
+      "actions": [
+        {
+          "id": "first_page",
+          "icon": "first_page",
+          "tooltip": "البداية",
+          "action": "go_to_first",
+          "order": 1
+        },
+        {
+          "id": "previous_slide",
+          "icon": "skip_previous",
+          "tooltip": "الشريحة السابقة",
+          "action": "previous_slide",
+          "order": 2
+        },
+        {
+          "id": "next_slide",
+          "icon": "skip_next",
+          "tooltip": "الشريحة التالية",
+          "action": "next_slide",
+          "order": 3
+        },
+        {
+          "id": "last_page",
+          "icon": "last_page",
+          "tooltip": "النهاية",
+          "action": "go_to_last",
+          "order": 4
+        },
+        {
+          "id": "settings",
+          "icon": "settings",
+          "tooltip": "إعدادات العرض",
+          "action": "show_settings",
+          "order": 5
+        },
+        {
+          "id": "stop_presentation",
+          "icon": "stop",
+          "tooltip": "إيقاف العرض",
+          "action": "stop_presentation",
+          "order": 6
+        }
+      ]
+    }
+  },
+  "display_settings": {
+    "presentation": {
+      "background_color": "#000000",
+      "arabic_text_color": "#FFA726",
+      "coptic_text_color": "#81D4FA",
+      "arabic_font_size": 32,
+      "coptic_font_size": 24,
+      "padding": 32,
+      "line_height": 1.8
+    }
+  }
+}

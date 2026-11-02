@@ -1,0 +1,38 @@
+{
+  "source": "Agpeya",
+  "tables": [
+    {
+      "table": "pray_hours",
+      "rows": 8,
+      "columns": [
+        "title_arabic",
+        "title_swedish",
+        "pray_id",
+        "pray_image",
+        "colors"
+      ],
+      "file": "pray_hours.csv"
+    },
+    {
+      "table": "prays_relations",
+      "rows": 767,
+      "columns": [
+        "pray_id",
+        "sentence_id"
+      ],
+      "file": "prays_relations.csv"
+    },
+    {
+      "table": "sentences",
+      "rows": 357,
+      "columns": [
+        "_id",
+        "arabic",
+        "swedish",
+        "is_title"
+      ],
+      "file": "sentences.csv"
+    }
+  ],
+  "notes": "CSV UTF-8 with BOM; relational IDs and original ordering columns preserved."
+}

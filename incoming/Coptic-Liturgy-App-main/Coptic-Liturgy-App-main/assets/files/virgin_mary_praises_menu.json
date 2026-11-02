@@ -1,0 +1,55 @@
+{
+  "title": "تماجيد العذراء",
+  "layout": {
+    "type": "list",
+    "columns": 1,
+    "aspect_ratio": 4.0
+  },
+  "items": [
+    {
+      "id": "praise_1",
+      "title": "المديح الأول - يا مريم البكر",
+      "icon": "music_note",
+      "image": "assets/images/virgin_mary.png",
+      "type": "content",
+      "target": "praise_1.json",
+      "order": 1
+    },
+    {
+      "id": "praise_2",
+      "title": "المديح الثاني - السلام لك يا مريم",
+      "icon": "music_note",
+      "image": "assets/images/virgin_mary.png",
+      "type": "content",
+      "target": "praise_2.json",
+      "order": 2
+    },
+    {
+      "id": "praise_3",
+      "title": "المديح الثالث - أفرحي يا مريم",
+      "icon": "music_note",
+      "image": "assets/images/virgin_mary.png",
+      "type": "content",
+      "target": "praise_3.json",
+      "order": 3
+    },
+    {
+      "id": "praise_4",
+      "title": "المديح الرابع - يا أم النور",
+      "icon": "music_note",
+      "image": "assets/images/virgin_mary.png",
+      "type": "content",
+      "target": "praise_4.json",
+      "order": 4
+    },
+    {
+      "id": "praise_5",
+      "title": "المديح الخامس - العذراء الطاهرة",
+      "icon": "music_note",
+      "image": "assets/images/virgin_mary.png",
+      "type": "content",
+      "target": "praise_5.json",
+      "order": 5
+    }
+  ]
+}

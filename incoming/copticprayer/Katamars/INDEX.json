@@ -1,0 +1,127 @@
+{
+  "source": "Katamars",
+  "tables": [
+    {
+      "table": "Psalms",
+      "rows": 507,
+      "columns": [
+        "_id",
+        "reference",
+        "arabic",
+        "swedish"
+      ],
+      "file": "Psalms.csv"
+    },
+    {
+      "table": "days",
+      "rows": 69,
+      "columns": [
+        "_id",
+        "month",
+        "day",
+        "vespers_psalm",
+        "vespers_psalm_id",
+        "vespers_gospel",
+        "matins_psalm",
+        "matins_psalm_id",
+        "matins_gospel",
+        "pauline",
+        "catholic",
+        "praxis",
+        "psalm",
+        "psalm_id",
+        "gospel"
+      ],
+      "file": "days.csv"
+    },
+    {
+      "table": "days_relations",
+      "rows": 366,
+      "columns": [
+        "month",
+        "day",
+        "instead_month",
+        "instead_day"
+      ],
+      "file": "days_relations.csv"
+    },
+    {
+      "table": "fifty_feast",
+      "rows": 50,
+      "columns": [
+        "_id",
+        "week",
+        "day",
+        "vespers_psalm",
+        "vespers_psalm_id",
+        "vespers_gospel",
+        "matins_psalm_id",
+        "matins_psalm",
+        "matins_gospel",
+        "pauline",
+        "catholic",
+        "praxis",
+        "psalm",
+        "psalm_id",
+        "gospel"
+      ],
+      "file": "fifty_feast.csv"
+    },
+    {
+      "table": "great_lent",
+      "rows": 55,
+      "columns": [
+        "_id",
+        "week",
+        "day",
+        "vespers_psalm",
+        "vespers_psalm_id",
+        "vespers_gospel",
+        "prophecies",
+        "matins_psalm",
+        "matins_psalm_id",
+        "matins_gospel",
+        "pauline",
+        "catholic",
+        "praxis",
+        "psalm",
+        "psalm_id",
+        "gospel"
+      ],
+      "file": "great_lent.csv"
+    },
+    {
+      "table": "repeated_sentences",
+      "rows": 23,
+      "columns": [
+        "reading",
+        "arabic",
+        "swedish"
+      ],
+      "file": "repeated_sentences.csv"
+    },
+    {
+      "table": "sundays",
+      "rows": 40,
+      "columns": [
+        "_id",
+        "month",
+        "sunday_number",
+        "vespers_psalm",
+        "vespers_psalm_id",
+        "vespers_gospel",
+        "matins_psalm",
+        "matins_psalm_id",
+        "matins_gospel",
+        "pauline",
+        "catholic",
+        "praxis",
+        "psalm",
+        "psalm_id",
+        "gospel"
+      ],
+      "file": "sundays.csv"
+    }
+  ],
+  "notes": "CSV UTF-8 with BOM; relational IDs and original ordering columns preserved."
+}

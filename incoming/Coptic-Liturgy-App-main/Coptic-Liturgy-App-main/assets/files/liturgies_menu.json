@@ -1,0 +1,46 @@
+{
+  "title": "القداسات",
+  "layout": {
+    "type": "grid",
+    "columns": 2,
+    "aspect_ratio": 0.75
+  },
+  "items": [
+    {
+      "id": "basilian_liturgy",
+      "title": "القداس الباسيلى",
+      "icon": "church",
+      "image": "assets/images/liturgies.png",
+      "type": "content",
+      "target": "basilian_liturgy.json",
+      "order": 1
+    },
+    {
+      "id": "gregorian_liturgy", 
+      "title": "القداس الغريغورى",
+      "icon": "church",
+      "image": "assets/images/liturgies.png",
+      "type": "content",
+      "target": "gregorian_liturgy.json",
+      "order": 2
+    },
+    {
+      "id": "cyrillic_liturgy",
+      "title": "القداس الكيرلسى",
+      "icon": "church", 
+      "image": "assets/images/liturgies.png",
+      "type": "content",
+      "target": "cyrillic_liturgy.json",
+      "order": 3
+    },
+    {
+      "id": "distribution",
+      "title": "التوزيع السنوى",
+      "icon": "calendar_today",
+      "image": "assets/images/liturgies.png",
+      "type": "content",
+      "target": "التوزيع السنوى.json",
+      "order": 4
+    }
+  ]
+}

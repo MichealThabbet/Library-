@@ -1,0 +1,51 @@
+{
+  "external_display": {
+    "title": "التحكم في العرض",
+    "actions": [
+      {
+        "id": "first_page",
+        "icon": "first_page",
+        "tooltip": "البداية",
+        "order": 1
+      },
+      {
+        "id": "previous_slide",
+        "icon": "skip_previous", 
+        "tooltip": "الشريحة السابقة",
+        "order": 2
+      },
+      {
+        "id": "next_slide",
+        "icon": "skip_next",
+        "tooltip": "الشريحة التالية", 
+        "order": 3
+      },
+      {
+        "id": "last_page",
+        "icon": "last_page",
+        "tooltip": "النهاية",
+        "order": 4
+      },
+      {
+        "id": "settings",
+        "icon": "settings",
+        "tooltip": "الإعدادات",
+        "order": 5
+      },
+      {
+        "id": "stop_presentation",
+        "icon": "stop",
+        "tooltip": "إيقاف العرض",
+        "order": 6
+      }
+    ],
+    "display_settings": {
+      "background_color": "#000000",
+      "arabic_text_color": "#FFA726",
+      "coptic_text_color": "#81D4FA",
+      "arabic_font_size": 32,
+      "coptic_font_size": 24,
+      "padding": 32
+    }
+  }
+}
