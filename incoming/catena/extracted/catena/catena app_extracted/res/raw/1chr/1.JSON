@@ -1,0 +1,1080 @@
+{
+    "chapter_num": 1,
+    "verses_count": 54,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The Family of Adam—Seth to Abraham"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Adam, Seth, Enosh, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Cainan, Mahalalel, Jared, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Enoch, Methuselah, Lamech, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Noah,"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "So with MT, Vg.; LXX adds the sons of Noah"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Shem, Ham, and Japheth."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Japheth "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Gomer "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Ashkenaz, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Riphath, Gen. 10:3"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Diphath, and Togarmah. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Javan "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Elishah, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Tarshish, Gen. 10:4"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Tarshishah, Kittim, and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Dodanim, Gen. 10:4"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Rodanim."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Ham "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Cush, Mizraim, Put, and Canaan. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Cush "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Seba, Havilah, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Sabtah, Gen. 10:7"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Sabta, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Raamah, Gen. 10:7"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Raama, and Sabtecha. The sons of Raama "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Sheba and Dedan. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Cush begot Nimrod; he began to be a mighty one on the earth. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Mizraim begot Ludim, Anamim, Lehabim, Naphtuhim, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Pathrusim, Casluhim (from whom came the Philistines and the Caphtorim). "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Canaan begot Sidon, his firstborn, and Heth; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "the Jebusite, the Amorite, and the Girgashite; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "the Hivite, the Arkite, and the Sinite; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "the Arvadite, the Zemarite, and the Hamathite."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Shem "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Elam, Asshur, Arphaxad, Lud, Aram, Uz, Hul, Gether, and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Mash, Gen. 10:23"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Meshech. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Arphaxad begot Shelah, and Shelah begot Eber. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Eber were born two sons: the name of one "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. Division, Gen. 10:25"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Peleg, for in his days the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Or land"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "earth was divided; and his brother’s name "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Joktan. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Joktan begot Almodad, Sheleph, Hazarmaveth, Jerah, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Hadoram, Uzal, Diklah, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Obal, Gen. 10:28"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Ebal, Abimael, Sheba, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Ophir, Havilah, and Jobab. All these "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the sons of Joktan."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Shem, Arphaxad, Shelah, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Eber, Peleg, Reu, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Serug, Nahor, Terah, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and Abram, who "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Abraham. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Abraham "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Isaac and Ishmael."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Family of Ishmael"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "These "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " their genealogies: The firstborn of Ishmael "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Nebajoth; then Kedar, Adbeel, Mibsam, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 30,
+                    "num_str": "30",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Mishma, Dumah, Massa, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Hadar, Gen. 25:15"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Hadad, Tema, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 31,
+                    "num_str": "31",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Jetur, Naphish, and Kedemah. These "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the sons of Ishmael."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Family of Keturah"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 32,
+                    "num_str": "32",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now the sons born to Keturah, Abraham’s concubine, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah. The sons of Jokshan "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Sheba and Dedan. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 33,
+                    "num_str": "33",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Midian "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the children of Keturah."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Family of Isaac"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 34,
+                    "num_str": "34",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And Abraham begot Isaac. The sons of Isaac "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Esau and Israel. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 35,
+                    "num_str": "35",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Esau "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Eliphaz, Reuel, Jeush, Jaalam, and Korah. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 36,
+                    "num_str": "36",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the sons of Eliphaz "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Teman, Omar, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Zepho, Gen. 36:11"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Zephi, Gatam, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Kenaz; and "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "by"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Timna, Amalek. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 37,
+                    "num_str": "37",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Reuel "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Nahath, Zerah, Shammah, and Mizzah."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Family of Seir"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 38,
+                    "num_str": "38",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Seir "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 39,
+                    "num_str": "39",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the sons of Lotan "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Hori and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Hemam or Heman, Gen. 36:22"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Homam; Lotan’s sister "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Timna. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 40,
+                    "num_str": "40",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Shobal "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Alvan, Gen. 36:23"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Alian, Manahath, Ebal, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Shepho, Gen. 36:23"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Shephi, and Onam. The sons of Zibeon "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Ajah and Anah. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 41,
+                    "num_str": "41",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The son of Anah "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Dishon. The sons of Dishon "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Hemdan, Gen. 36:26"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Hamran, Eshban, Ithran, and Cheran. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 42,
+                    "num_str": "42",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The sons of Ezer "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Bilhan, Zaavan, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Akan, Gen. 36:27"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Jaakan. The sons of Dishan "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Uz and Aran."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "The Kings of Edom"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 43,
+                    "num_str": "43",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now these "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the kings who reigned in the land of Edom before a king reigned over the children of Israel: Bela the son of Beor, and the name of his city was Dinhabah. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 44,
+                    "num_str": "44",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And when Bela died, Jobab the son of Zerah of Bozrah reigned in his place. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 45,
+                    "num_str": "45",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "When Jobab died, Husham of the land of the Temanites reigned in his place. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 46,
+                    "num_str": "46",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And when Husham died, Hadad the son of Bedad, who "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. struck"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "attacked Midian in the field of Moab, reigned in his place. The name of his city "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Avith. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 47,
+                    "num_str": "47",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "When Hadad died, Samlah of Masrekah reigned in his place. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 48,
+                    "num_str": "48",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And when Samlah died, Saul of Rehoboth-by-the-River reigned in his place. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 49,
+                    "num_str": "49",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "When Saul died, Baal-Hanan the son of Achbor reigned in his place. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 50,
+                    "num_str": "50",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And when Baal-Hanan died, "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Hadar, Gen. 36:39"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Hadad reigned in his place; and the name of his city was "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Pau, Gen. 36:39"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Pai. His wife’s name was Mehetabel the daughter of Matred, the daughter of Mezahab. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 51,
+                    "num_str": "51",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Hadad died also. And the chiefs of Edom were Chief Timnah, Chief "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Alvah, Gen. 36:40"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Aliah, Chief Jetheth, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 52,
+                    "num_str": "52",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Chief Aholibamah, Chief Elah, Chief Pinon, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 53,
+                    "num_str": "53",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Chief Kenaz, Chief Teman, Chief Mibzar, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 54,
+                    "num_str": "54",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Chief Magdiel, and Chief Iram. These "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the chiefs of Edom."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

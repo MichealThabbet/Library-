@@ -1,0 +1,976 @@
+{
+    "chapter_num": 10,
+    "verses_count": 42,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The Twelve Apostles"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And when He had called His twelve disciples to "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "Him,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " He gave them power "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "over"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " unclean spirits, to cast them out, and to heal all kinds of sickness and all kinds of disease. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now the names of the twelve apostles are these: first, Simon, who is called Peter, and Andrew his brother; James the "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "son"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " of Zebedee, and John his brother; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Philip and Bartholomew; Thomas and Matthew the tax collector; James the "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "son"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " of Alphaeus, and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU omits Lebbaeus, whose surname was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Lebbaeus, whose surname was Thaddaeus; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Simon the "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU Cananaean"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Cananite, and Judas Iscariot, who also betrayed Him."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Sending Out the Twelve"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "These twelve Jesus sent out and commanded them, saying: "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Do not go into the way of the Gentiles, and do not enter a city of"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "the Samaritans."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But go rather to the"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "lost sheep of the house of Israel."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "And as you go, preach, saying,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘The kingdom of heaven"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "has drawn near"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "is at hand.’"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Heal the sick,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU raise the dead, cleanse the lepers"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "cleanse the lepers,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "M omits raise the dead"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "raise the dead, cast out demons."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Freely you have received, freely give."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Provide neither gold nor silver nor"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "copper in your money belts,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "nor bag for your journey, nor two tunics, nor sandals, nor staffs;"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "for a worker is worthy of his food."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Now whatever city or town you enter, inquire who in it is worthy, and stay there till you go out."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "And when you go into a household, greet it."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "If the household is worthy, let your peace come upon it."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But if it is not worthy, let your peace return to you."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "And whoever will not receive you nor hear your words, when you depart from that house or city,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "shake off the dust from your feet."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Assuredly, I say to you,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "it will be more tolerable for the land of Sodom and Gomorrah in the day of judgment than for that city!"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Persecutions Are Coming"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Behold, I send you out as sheep in the midst of wolves."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Therefore be wise as serpents and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "harmless"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "innocent"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "as doves."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But beware of men, for"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "they will deliver you up to councils and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "scourge you in their synagogues."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "You will be brought before governors and kings for My sake, as a testimony to them and to the Gentiles."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But when they deliver you up, do not worry about how or what you should speak. For"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "it will be given to you in that hour what you should speak;"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "for it is not you who speak, but the Spirit of your Father who speaks in you."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Now brother will deliver up brother to death, and a father his child; and children will rise up against parents and cause them to be put to death."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "And"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "you will be hated by all for My name’s sake."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But he who endures to the end will be saved."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "When they persecute you in this city, flee to another. For assuredly, I say to you, you will not have"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "gone through the cities of Israel"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "before the Son of Man comes."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“A disciple is not above his teacher, nor a servant above his master."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "It is enough for a disciple that he be like his teacher, and a servant like his master. If"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "they have called the master of the house"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "NU, M Beelzebul; a Philistine deity, 2 Kin. 1:2, 3"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Beelzebub, how much more will they call those of his household!"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Therefore do not fear them."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For there is nothing covered that will not be revealed, and hidden that will not be known."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Jesus Teaches the Fear of God"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Whatever I tell you in the dark,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "speak in the light; and what you hear in the ear, preach on the housetops."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "And do not fear those who kill the body but cannot kill the soul. But rather"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "fear Him who is able to destroy both soul and body in"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Gr. Gehenna"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "hell."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Are not two"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "sparrows sold for a"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Gr. assarion, a coin worth about 1⁄16 of a denarius"
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "copper coin? And not one of them falls to the ground apart from your Father’s will."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 30,
+                    "num_str": "30",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But the very hairs of your head are all numbered."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 31,
+                    "num_str": "31",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "Do not fear therefore; you are of more value than many sparrows."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Confess Christ Before Men"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 32,
+                    "num_str": "32",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Therefore whoever confesses Me before men,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "him I will also confess before My Father who is in heaven."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 33,
+                    "num_str": "33",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "But whoever denies Me before men, him I will also deny before My Father who is in heaven."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Christ Brings Division"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 34,
+                    "num_str": "34",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“Do not think that I came to bring peace on earth. I did not come to bring peace but a sword."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 35,
+                    "num_str": "35",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "For I have come to"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘set"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "alienate a man from"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "a man against his father, a daughter against her mother, and a daughter-in-law against her mother-in-law’;"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 36,
+                    "num_str": "36",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "and"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        },
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "‘a man’s enemies will be those of his own household.’"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 37,
+                    "num_str": "37",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "He who loves father or mother more than Me is not worthy of Me. And he who loves son or daughter more than Me is not worthy of Me."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 38,
+                    "num_str": "38",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "And he who does not take his cross and follow after Me is not worthy of Me."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 39,
+                    "num_str": "39",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "He who finds his life will lose it, and he who loses his life for My sake will find it."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "A Cup of Cold Water"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 40,
+                    "num_str": "40",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "“He who receives you receives Me, and he who receives Me receives Him who sent Me."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 41,
+                    "num_str": "41",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "He who receives a prophet in the name of a prophet shall receive a prophet’s reward. And he who receives a righteous man in the name of a righteous man shall receive a righteous man’s reward."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 42,
+                    "num_str": "42",
+                    "verse_parts": [
+                        {
+                            "style": "WORDS_OF_JESUS",
+                            "text": "And whoever gives one of these little ones only a cup of cold water in the name of a disciple, assuredly, I say to you, he shall by no means lose his reward.”"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

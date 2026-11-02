@@ -1,0 +1,814 @@
+{
+    "chapter_num": 11,
+    "verses_count": 40,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "Jephthah"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now Jephthah the Gileadite was a mighty man of valor, but he "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the son of a harlot; and Gilead begot Jephthah. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Gilead’s wife bore sons; and when his wife’s sons grew up, they drove Jephthah out, and said to him, “You shall have no inheritance in our father’s house, for you "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the son of another woman.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Jephthah fled from his brothers and dwelt in the land of Tob; and worthless men banded together with Jephthah and went out "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "raiding"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " with him."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "It came to pass after a time that the people of Ammon made war against Israel. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And so it was, when the people of Ammon made war against Israel, that the elders of Gilead went to get Jephthah from the land of Tob. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then they said to Jephthah, “Come and be our commander, that we may fight against the people of Ammon.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So Jephthah said to the elders of Gilead, “Did you not hate me, and expel me from my father’s house? Why have you come to me now when you are in "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "trouble"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "distress?”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the elders of Gilead said to Jephthah, “That is why we have turned"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "returned"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " again to you now, that you may go with us and fight against the people of Ammon, and be our head over all the inhabitants of Gilead.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So Jephthah said to the elders of Gilead, “If you take me back home to fight against the people of Ammon, and the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " delivers them to me, shall I be your head?”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the elders of Gilead said to Jephthah, “The "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " will be a witness between us, if we do not do according to your words.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Jephthah went with the elders of Gilead, and the people made him head and commander over them; and Jephthah spoke all his words before the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in Mizpah."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now Jephthah sent messengers to the king of the people of Ammon, saying, “What do you have against me, that you have come to fight against me in my land?”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the king of the people of Ammon answered the messengers of Jephthah, “Because Israel took away my land when they came up out of Egypt, from the Arnon as far as the Jabbok, and to the Jordan. Now therefore, restore those "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "lands"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " peaceably.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So Jephthah again sent messengers to the king of the people of Ammon, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "and said to him, “Thus says Jephthah: ‘Israel did not take away the land of Moab, nor the land of the people of Ammon; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "for when Israel came up from Egypt, they walked through the wilderness as far as the Red Sea and came to Kadesh. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Israel sent messengers to the king of Edom, saying, “Please let me pass through your land.” But the king of Edom would not heed. And in like manner they sent to the king of Moab, but he would not "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "consent."
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " So Israel remained in Kadesh. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And they went along through the wilderness and bypassed the land of Edom and the land of Moab, came to the east side of the land of Moab, and encamped on the other side of the Arnon. But they did not enter the border of Moab, for the Arnon "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the border of Moab. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Israel sent messengers to Sihon king of the Amorites, king of Heshbon; and Israel said to him, “Please let us pass through your land into our place.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But Sihon did not trust Israel to pass through his territory. So Sihon gathered all his people together, encamped in Jahaz, and fought against Israel. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " God of Israel delivered Sihon and all his people into the hand of Israel, and they defeated"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. struck"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " them. Thus Israel gained possession of all the land of the Amorites, who inhabited that country. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "They took possession of all the territory of the Amorites, from the Arnon to the Jabbok and from the wilderness to the Jordan."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "‘And now the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " God of Israel has "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "driven out"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "dispossessed the Amorites from before His people Israel; should you then possess it? "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Will you not possess whatever Chemosh your god gives you to possess? So whatever the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " our God takes possession of before us, we will possess. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And now, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " you any better than Balak the son of Zippor, king of Moab? Did he ever strive against Israel? Did he ever fight against them? "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "While Israel dwelt in Heshbon and its villages, in Aroer and its villages, and in all the cities along the banks of the Arnon, for three hundred years, why did you not recover "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "them"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " within that time? "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Therefore I have not sinned against you, but you wronged me by fighting against me. May the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", the Judge, render judgment this day between the children of Israel and the people of Ammon.’ ” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "However, the king of the people of Ammon did not heed the words which Jephthah sent him."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Jephthah’s Vow and Victory"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then the Spirit of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " came upon Jephthah, and he passed through Gilead and Manasseh, and passed through Mizpah of Gilead; and from Mizpah of Gilead he advanced "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "toward"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the people of Ammon. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 30,
+                    "num_str": "30",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And Jephthah made a vow to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", and said, “If You will indeed deliver the people of Ammon into my hands, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 31,
+                    "num_str": "31",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "then it will be that whatever comes out of the doors of my house to meet me, when I return in peace from the people of Ammon, shall surely be the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "’s, and I will offer it up as a burnt offering.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 32,
+                    "num_str": "32",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So Jephthah advanced toward the people of Ammon to fight against them, and the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " delivered them into his hands. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 33,
+                    "num_str": "33",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And he "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. struck"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "defeated them from Aroer as far as Minnith—twenty cities—and to "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. Plain of Vineyards"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "Abel Keramim, with a very great slaughter. Thus the people of Ammon were subdued before the children of Israel."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Jephthah’s Daughter"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 34,
+                    "num_str": "34",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "When Jephthah came to his house at Mizpah, there was his daughter, coming out to meet him with timbrels and dancing; and she "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was his"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " only child. Besides her he had neither son nor daughter. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 35,
+                    "num_str": "35",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And it came to pass, when he saw her, that he tore his clothes, and said, “Alas, my daughter! You have brought me very low! You are among those who trouble me! For I have "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. opened my mouth"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "given my word to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", and I cannot "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. take it back"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "go back on it.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 36,
+                    "num_str": "36",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So she said to him, “My father, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "if"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " you have given your word to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", do to me according to what has gone out of your mouth, because the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " has avenged you of your enemies, the people of Ammon.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 37,
+                    "num_str": "37",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then she said to her father, “Let this thing be done for me: let me alone for two months, that I may go and wander on the mountains and "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "lament"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "bewail my virginity, my "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "companions"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "friends and I.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 38,
+                    "num_str": "38",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So he said, “Go.” And he sent her away "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "for"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " two months; and she went with her friends, and bewailed her virginity on the mountains. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 39,
+                    "num_str": "39",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And it was so at the end of two months that she returned to her father, and he carried out his vow with her which he had vowed. She "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Remained a virgin"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "knew no man."
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And it became a custom in Israel "
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 40,
+                    "num_str": "40",
+                    "verse_parts": [
+                        {
+                            "style": "ITALIC",
+                            "text": "that"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the daughters of Israel went four days each year to "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "commemorate"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "lament the daughter of Jephthah the Gileadite."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

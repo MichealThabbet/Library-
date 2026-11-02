@@ -1,62 +1,9 @@
 {
   "folders_checked": 29,
   "archive_files": 48,
-  "archives_processed": 35,
+  "archives_processed": 37,
   "multipart_continuations": 11,
   "nested_archives": 2,
   "unprocessed": [],
-  "failures": [
-    {
-      "archive": "incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._arm.zip",
-      "error": "7z cannot list archive: runner/work/Library-/Library-/incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._arm.zip : /home/runner/work/Library-/Library-/incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._arm.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._en.zip",
-      "error": "7z cannot list archive: e/runner/work/Library-/Library-/incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._en.zip : /home/runner/work/Library-/Library-/incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._en.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._gembible.zip",
-      "error": "7z cannot list archive: k/Library-/Library-/incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._gembible.zip : /home/runner/work/Library-/Library-/incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._gembible.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._mdbi.zip",
-      "error": "7z cannot list archive: nner/work/Library-/Library-/incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._mdbi.zip : /home/runner/work/Library-/Library-/incoming/Tafseer_bible/extracted/__MACOSX/╪¬┘ü╪│┘è╪▒ ╪º┘ä╪º┘å╪¼┘è┘ä/._mdbi.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/catena/extracted/__MACOSX/catena/._catena app.zip",
-      "error": "7z cannot list archive: \nERROR: /home/runner/work/Library-/Library-/incoming/catena/extracted/__MACOSX/catena/._catena app.zip : /home/runner/work/Library-/Library-/incoming/catena/extracted/__MACOSX/catena/._catena app.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/catena/extracted/__MACOSX/catena/._catena arm.zip",
-      "error": "7z cannot list archive: \nERROR: /home/runner/work/Library-/Library-/incoming/catena/extracted/__MACOSX/catena/._catena arm.zip : /home/runner/work/Library-/Library-/incoming/catena/extracted/__MACOSX/catena/._catena arm.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/catena/extracted/__MACOSX/catena/._mdbi.zip",
-      "error": "7z cannot list archive: \nERROR: /home/runner/work/Library-/Library-/incoming/catena/extracted/__MACOSX/catena/._mdbi.zip : /home/runner/work/Library-/Library-/incoming/catena/extracted/__MACOSX/catena/._mdbi.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/catena/extracted/__MACOSX/catena/._src.zip",
-      "error": "7z cannot list archive: \nERROR: /home/runner/work/Library-/Library-/incoming/catena/extracted/__MACOSX/catena/._src.zip : /home/runner/work/Library-/Library-/incoming/catena/extracted/__MACOSX/catena/._src.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._com.menasoft.eshlil.zip",
-      "error": "7z cannot list archive: extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._com.menasoft.eshlil.zip : /home/runner/work/Library-/Library-/incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._com.menasoft.eshlil.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.ar.zip",
-      "error": "7z cannot list archive: ry-/incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.ar.zip : /home/runner/work/Library-/Library-/incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.ar.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.armeabi_v7a.zip",
-      "error": "7z cannot list archive: l/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.armeabi_v7a.zip : /home/runner/work/Library-/Library-/incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.armeabi_v7a.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.en.zip",
-      "error": "7z cannot list archive: ry-/incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.en.zip : /home/runner/work/Library-/Library-/incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.en.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    },
-    {
-      "archive": "incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.ru.zip",
-      "error": "7z cannot list archive: ry-/incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.ru.zip : /home/runner/work/Library-/Library-/incoming/ishlil/extracted/__MACOSX/ΓÇÄΓü¿__╪º┘ò╪┤┘ä┘è┘ä_0.2.18_APKPure_Γü⌐/._config.ru.zip\nOpen ERROR: Cannot open the file as [zip] archive\n\n\nERRORS:\nIs not archive\n\n"
-    }
-  ]
+  "failures": []
 }

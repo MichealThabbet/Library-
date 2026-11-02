@@ -1,0 +1,787 @@
+{
+    "chapter_num": 24,
+    "verses_count": 33,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The Covenant at Shechem"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Joshua gathered all the tribes of Israel to Shechem and called for the elders of Israel, for their heads, for their judges, and for their officers; and they presented themselves before God. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And Joshua said to all the people, “Thus says the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " God of Israel: ‘Your fathers, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "including"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Terah, the father of Abraham and the father of Nahor, dwelt on the other side of "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "The Euphrates"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "the River in old times; and they served other gods. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then I took your father Abraham from the other side of "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "The Euphrates"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "the River, led him throughout all the land of Canaan, and multiplied his "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. seed"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "descendants and gave him Isaac. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "To Isaac I gave Jacob and Esau. To Esau I gave the mountains of Seir to possess, but Jacob and his children went down to Egypt. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Also I sent Moses and Aaron, and I plagued Egypt, according to what I did among them. Afterward I brought you out."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "‘Then I brought your fathers out of Egypt, and you came to the sea; and the Egyptians pursued your fathers with chariots and horsemen to the Red Sea. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So they cried out to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "; and He put darkness between you and the Egyptians, brought the sea upon them, and covered them. And your eyes saw what I did in Egypt. Then you dwelt in the wilderness a long time. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And I brought you into the land of the Amorites, who dwelt on the other side of the Jordan, and they fought with you. But I gave them into your hand, that you might possess their land, and I destroyed them from before you. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Balak the son of Zippor, king of Moab, arose to make war against Israel, and sent and called Balaam the son of Beor to curse you. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 10,
+                    "num_str": "10",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But I would not listen to Balaam; therefore he continued to bless you. So I delivered you out of his hand. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 11,
+                    "num_str": "11",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then you went over the Jordan and came to Jericho. And the men of Jericho fought against you—"
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "also"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the Amorites, the Perizzites, the Canaanites, the Hittites, the Girgashites, the Hivites, and the Jebusites. But I delivered them into your hand. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 12,
+                    "num_str": "12",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I sent the hornet before you which drove them out from before you, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "also"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " the two kings of the Amorites, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "but"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " not with your sword or with your bow. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 13,
+                    "num_str": "13",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "I have given you a land for which you did not labor, and cities which you did not build, and you dwell in them; you eat of the vineyards and olive groves which you did not plant.’"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 14,
+                    "num_str": "14",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Now therefore, fear the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", serve Him in sincerity and in truth, and put away the gods which your fathers served on the other side of "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "The Euphrates"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "the River and in Egypt. Serve the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "! "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 15,
+                    "num_str": "15",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And if it seems evil to you to serve the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", choose for yourselves this day whom you will serve, whether the gods which your fathers served that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "were"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " on the other side of "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "The Euphrates"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "the River, or the gods of the Amorites, in whose land you dwell. But as for me and my house, we will serve the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ".”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 16,
+                    "num_str": "16",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So the people answered and said: “Far be it from us that we should forsake the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " to serve other gods; "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 17,
+                    "num_str": "17",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "for the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " our God "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " He who brought us and our fathers up out of the land of Egypt, from the house of bondage, who did those great signs in our sight, and preserved us in all the way that we went and among all the people through whom we passed. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 18,
+                    "num_str": "18",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " drove out from before us all the people, including the Amorites who dwelt in the land. We also will serve the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", for He "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " our God.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 19,
+                    "num_str": "19",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "But Joshua said to the people, “You cannot serve the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", for He "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " a holy God. He "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " a jealous God; He will not forgive your transgressions nor your sins. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 20,
+                    "num_str": "20",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "If you forsake the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " and serve foreign gods, then He will turn and do you harm and consume you, after He has done you good.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 21,
+                    "num_str": "21",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the people said to Joshua, “No, but we will serve the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "!”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 22,
+                    "num_str": "22",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So Joshua said to the people, “You "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " witnesses against yourselves that you have chosen the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " for yourselves, to serve Him.”"
+                        },
+                        {
+                            "style": "LINE_BREAK",
+                            "text": "\n"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "And they said, “"
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "We are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " witnesses!”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 23,
+                    "num_str": "23",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Now therefore,” "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "he said,"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " “put away the foreign gods which "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "are"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " among you, and incline your heart to the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " God of Israel.”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 24,
+                    "num_str": "24",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And the people said to Joshua, “The "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " our God we will serve, and His voice we will obey!”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 25,
+                    "num_str": "25",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So Joshua made"
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Lit. cut a covenant"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " a covenant with the people that day, and made for them a statute and an ordinance in Shechem."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 26,
+                    "num_str": "26",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then Joshua wrote these words in the Book of the Law of God. And he took a large stone, and set it up there under the oak that "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "was"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " by the sanctuary of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ". "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 27,
+                    "num_str": "27",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And Joshua said to all the people, “Behold, this stone shall be a witness to us, for it has heard all the words of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " which He spoke to us. It shall therefore be a witness to you, lest you deny your God.” "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 28,
+                    "num_str": "28",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So Joshua let the people depart, each to his own inheritance."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_header",
+            "text": "Death of Joshua and Eleazar"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 29,
+                    "num_str": "29",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Now it came to pass after these things that Joshua the son of Nun, the servant of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": ", died, "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "being"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " one hundred and ten years old. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 30,
+                    "num_str": "30",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And they buried him within the border of his inheritance at Timnath Serah, which "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "is"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " in the mountains of Ephraim, on the north side of Mount Gaash."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 31,
+                    "num_str": "31",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Israel served the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " all the days of Joshua, and all the days of the elders who outlived Joshua, who had known all the works of the "
+                        },
+                        {
+                            "style": "DIVINE_NAME",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " which He had done for Israel."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 32,
+                    "num_str": "32",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "The bones of Joseph, which the children of Israel had brought up out of Egypt, they buried at Shechem, in the plot of ground which Jacob had bought from the sons of Hamor the father of Shechem for one hundred "
+                        },
+                        {
+                            "style": "FOOTNOTE",
+                            "text": "Heb. qesitah, an unknown ancient measure of weight"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": "pieces of silver, and which had become an inheritance of the children of Joseph."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 33,
+                    "num_str": "33",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And Eleazar the son of Aaron died. They buried him in a hill "
+                        },
+                        {
+                            "style": "ITALIC",
+                            "text": "belonging to"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " Phinehas his son, which was given to him in the mountains of Ephraim."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
