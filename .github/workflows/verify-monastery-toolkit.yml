@@ -1,0 +1,35 @@
+name: Verify Monastery Design Toolkit
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'toolkit-verification/**'
+      - '.github/workflows/verify-monastery-toolkit.yml'
+
+jobs:
+  verify:
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+    defaults:
+      run:
+        working-directory: toolkit-verification
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install GSAP, Three.js and Playwright
+        run: npm install --no-audit --no-fund
+      - name: Install Chromium and system packages
+        run: npx playwright install --with-deps chromium
+      - name: Test animation, Three.js, WebGL and responsive layout
+        run: xvfb-run -a npm test
+      - name: Upload screenshots and test results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: monastery-toolkit-verification
+          path: |
+            toolkit-verification/browser_*.png
+            toolkit-verification/js-test-results.json
+          if-no-files-found: warn
