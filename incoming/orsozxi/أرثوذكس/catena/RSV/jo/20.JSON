@@ -1,0 +1,118 @@
+{
+    "chapter_num": 20,
+    "verses_count": 9,
+    "paragraphs_list": [
+        {
+            "type": "section_header",
+            "text": "The Cities of Refuge"
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 1,
+                    "num_str": "1",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "Then the "
+                        },
+                        {
+                            "style": "SMALL_CAPS",
+                            "text": "Lord"
+                        },
+                        {
+                            "style": "NONE",
+                            "text": " said to Joshua, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 2,
+                    "num_str": "2",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "“Say to the people of Israel, ‘Appoint the cities of refuge, of which I spoke to you through Moses, "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 3,
+                    "num_str": "3",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "that the manslayer who kills any person without intent or unwittingly may flee there; they shall be for you a refuge from the avenger of blood. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 4,
+                    "num_str": "4",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "He shall flee to one of these cities and shall stand at the entrance of the gate of the city, and explain his case to the elders of that city; then they shall take him into the city, and give him a place, and he shall remain with them. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 5,
+                    "num_str": "5",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And if the avenger of blood pursues him, they shall not give up the slayer into his hand; because he killed his neighbor unwittingly, having had no enmity against him in times past. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 6,
+                    "num_str": "6",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And he shall remain in that city until he has stood before the congregation for judgment, until the death of him who is high priest at the time: then the slayer may go again to his own town and his own home, to the town from which he fled.’”"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "type": "section_paragraph",
+            "verses_list": [
+                {
+                    "num_int": 7,
+                    "num_str": "7",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "So they set apart Kedesh in Galilee in the hill country of Naph′tali, and Shechem in the hill country of E′phraim, and Kir′iath-ar′ba (that is, Hebron) in the hill country of Judah. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 8,
+                    "num_str": "8",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "And beyond the Jordan east of Jericho, they appointed Bezer in the wilderness on the tableland, from the tribe of Reuben, and Ramoth in Gilead, from the tribe of Gad, and Golan in Bashan, from the tribe of Manas′seh. "
+                        }
+                    ]
+                },
+                {
+                    "num_int": 9,
+                    "num_str": "9",
+                    "verse_parts": [
+                        {
+                            "style": "NONE",
+                            "text": "These were the cities designated for all the people of Israel, and for the stranger sojourning among them, that any one who killed a person without intent could flee there, so that he might not die by the hand of the avenger of blood, till he stood before the congregation."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
