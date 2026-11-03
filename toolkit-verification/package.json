@@ -1,0 +1,14 @@
+{
+  "name": "monastery-web-toolkit-verification",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node verify_js.mjs"
+  },
+  "dependencies": {
+    "gsap": "^3.14.0",
+    "three": "^0.180.0",
+    "playwright": "^1.57.0"
+  }
+}
