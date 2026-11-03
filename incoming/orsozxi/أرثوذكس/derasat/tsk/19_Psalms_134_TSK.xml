@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Psalms" id="19">
+  <chapter number="134">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هوذا " />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="120" verse="1" />
+          <reference bookId="19" chapter="121" verse="1" />
+          <reference bookId="19" chapter="122" verse="1" />
+          <reference bookId="19" chapter="123" verse="1" />
+          <reference bookId="19" chapter="124" verse="1" />
+          <reference bookId="19" chapter="125" verse="1" />
+          <reference bookId="19" chapter="126" verse="1" />
+          <reference bookId="19" chapter="127" verse="1" />
+          <reference bookId="19" chapter="128" verse="1" />
+          <reference bookId="19" chapter="129" verse="1" />
+          <reference bookId="19" chapter="130" verse="1" />
+          <reference bookId="19" chapter="131" verse="1" />
+          <reference bookId="19" chapter="132" verse="1" />
+          <reference bookId="19" chapter="133" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" باركوا" />
+          <version abrv="KJV" text="bless ye" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="103" verse="21" />
+          <reference bookId="19" chapter="135" verse="1,2,19-21" />
+          <reference bookId="13" chapter="23" verse="30-32" />
+          <reference bookId="66" chapter="19" verse="5" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="بالليالي" />
+          <version abrv="KJV" text="which by night" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="130" verse="6" />
+          <reference bookId="3" chapter="8" verse="35" />
+          <reference bookId="13" chapter="9" verse="23,33" />
+          <reference bookId="42" chapter="2" verse="37" />
+          <reference bookId="66" chapter="7" verse="15" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ارفعوا " />
+          <version abrv="KJV" text="Lift up" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="28" verse="2" />
+          <reference bookId="19" chapter="63" verse="4" />
+          <reference bookId="19" chapter="141" verse="2" />
+          <reference bookId="25" chapter="2" verse="19" />
+          <reference bookId="25" chapter="3" verse="41" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="نحو القدس" />
+          <version abrv="KJV" text="in the sanctuary" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="26" verse="6" />
+          <reference bookId="54" chapter="2" verse="8" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" الرب" />
+          <version abrv="KJV" text="Lord" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="124" verse="8" />
+          <reference bookId="19" chapter="146" verse="5,6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="يباركك" />
+          <version abrv="KJV" text="bless thee" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="14" verse="7" />
+          <reference bookId="19" chapter="20" verse="2" />
+          <reference bookId="19" chapter="110" verse="2" />
+          <reference bookId="19" chapter="128" verse="5" />
+          <reference bookId="19" chapter="135" verse="21" />
+          <reference bookId="45" chapter="11" verse="26" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Leviticus" id="3">
+  <chapter number="2">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="قربان تقدمة للرب" />
+          <version abrv="KJV" text="meat offering" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="6" verse="14-18,20-23" />
+          <reference bookId="3" chapter="9" verse="17" />
+          <reference bookId="4" chapter="15" verse="4-21" />
+          <reference bookId="23" chapter="66" verse="20" />
+          <reference bookId="43" chapter="6" verse="35" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" من دقيق" />
+          <version abrv="KJV" text="fine flour" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="29" verse="2" />
+          <reference bookId="4" chapter="7" verse="13,19" />
+          <reference bookId="29" chapter="1" verse="9" />
+          <reference bookId="29" chapter="2" verse="14" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="يسكب عليها زيتا" />
+          <version abrv="KJV" text="pour oil" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="2" verse="4-8,15,16" />
+          <reference bookId="3" chapter="7" verse="10-12" />
+          <reference bookId="62" chapter="2" verse="20,27" />
+          <reference bookId="65" chapter="1" verse="20" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عليها لبانا" />
+          <version abrv="KJV" text="frankincense" />
+        </versions>
+        <references>
+          <reference bookId="39" chapter="1" verse="11" />
+          <reference bookId="42" chapter="1" verse="9,10" />
+          <reference bookId="66" chapter="8" verse="3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="تذكارها" />
+          <version abrv="KJV" text="the memorial" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="2" verse="9" />
+          <reference bookId="3" chapter="5" verse="12" />
+          <reference bookId="3" chapter="6" verse="15" />
+          <reference bookId="3" chapter="24" verse="7" />
+          <reference bookId="2" chapter="30" verse="16" />
+          <reference bookId="4" chapter="5" verse="18" />
+          <reference bookId="16" chapter="13" verse="14,22" />
+          <reference bookId="23" chapter="66" verse="3" />
+          <reference bookId="44" chapter="10" verse="4" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الباقي من التقدمة" />
+          <version abrv="KJV" text="the remnant" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="6" verse="16,17,26" />
+          <reference bookId="3" chapter="7" verse="9" />
+          <reference bookId="3" chapter="10" verse="12,13" />
+          <reference bookId="3" chapter="21" verse="22" />
+          <reference bookId="4" chapter="18" verse="9" />
+          <reference bookId="9" chapter="2" verse="28" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="قدس اقداس" />
+          <version abrv="KJV" text="most holy" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="6" verse="17" />
+          <reference bookId="3" chapter="10" verse="12" />
+          <reference bookId="3" chapter="21" verse="22" />
+          <reference bookId="2" chapter="29" verse="37" />
+          <reference bookId="4" chapter="18" verse="9" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" قربان تقدمة" />
+          <version abrv="KJV" text="meat offering" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="23" verse="28,29" />
+          <reference bookId="19" chapter="22" verse="14" />
+          <reference bookId="26" chapter="46" verse="20" />
+          <reference bookId="40" chapter="26" verse="38" />
+          <reference bookId="43" chapter="12" verse="27" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" تنور" />
+          <version abrv="KJV" text="the oven" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="1" verse="11" />
+          <reference bookId="3" chapter="6" verse="17" />
+          <reference bookId="3" chapter="7" verse="12" />
+          <reference bookId="3" chapter="10" verse="12" />
+          <reference bookId="2" chapter="12" verse="8" />
+          <reference bookId="46" chapter="5" verse="7,8" />
+          <reference bookId="58" chapter="7" verse="26" />
+          <reference bookId="60" chapter="2" verse="1,22" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ورقاقا فطيرا" />
+          <version abrv="KJV" text="wafers" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="16" verse="31" />
+          <reference bookId="2" chapter="29" verse="2" />
+          <reference bookId="23" chapter="42" verse="1" />
+          <reference bookId="23" chapter="44" verse="3-5" />
+          <reference bookId="23" chapter="61" verse="1" />
+          <reference bookId="43" chapter="3" verse="34" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <references>
+        <reference bookId="3" chapter="1" verse="6" />
+        <reference bookId="19" chapter="22" verse="1-21" />
+        <reference bookId="41" chapter="14" verse="1-72" />
+        <reference bookId="41" chapter="15" verse="1-47" />
+        <reference bookId="43" chapter="18" verse="1-40" />
+        <reference bookId="43" chapter="19" verse="1-42" />
+      </references>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" فمن دقيق " />
+          <version abrv="KJV" text="of fine" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="2" verse="1,2" />
+        </references>
+      </word>
+    </verse>
+    <verse number="9">
+      <word>
+        <versions>
+          <version abrv="VDV" text="التقدمة تذكارها" />
+          <version abrv="KJV" text="a memorial" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="2" verse="2" />
+          <reference bookId="3" chapter="6" verse="15" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="يوقد على المذبح وقود رائحة" />
+          <version abrv="KJV" text="an offering" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="2" verse="2" />
+          <reference bookId="2" chapter="29" verse="18" />
+          <reference bookId="19" chapter="22" verse="13,14" />
+          <reference bookId="23" chapter="53" verse="10" />
+          <reference bookId="38" chapter="13" verse="7,9" />
+          <reference bookId="45" chapter="12" verse="1" />
+          <reference bookId="45" chapter="15" verse="16" />
+          <reference bookId="49" chapter="5" verse="2" />
+          <reference bookId="50" chapter="2" verse="17" />
+          <reference bookId="50" chapter="4" verse="18" />
+        </references>
+      </word>
+    </verse>
+    <verse number="11">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" كل خمير" />
+          <version abrv="KJV" text="no leaven" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="6" verse="17" />
+          <reference bookId="2" chapter="12" verse="19,20" />
+          <reference bookId="40" chapter="16" verse="6,11,12" />
+          <reference bookId="41" chapter="8" verse="15" />
+          <reference bookId="42" chapter="12" verse="1" />
+          <reference bookId="46" chapter="5" verse="6-8" />
+          <reference bookId="48" chapter="5" verse="9" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عسل" />
+          <version abrv="KJV" text="honey" />
+        </versions>
+        <references>
+          <reference bookId="20" chapter="24" verse="13" />
+          <reference bookId="20" chapter="25" verse="16,27" />
+          <reference bookId="42" chapter="21" verse="34" />
+          <reference bookId="44" chapter="14" verse="22" />
+          <reference bookId="60" chapter="4" verse="2" />
+        </references>
+      </word>
+    </verse>
+    <verse number="12">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" قربان" />
+          <version abrv="KJV" text="the oblation" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="23" verse="10,11,17" />
+          <reference bookId="2" chapter="22" verse="29" />
+          <reference bookId="2" chapter="23" verse="10,11,19" />
+          <reference bookId="4" chapter="15" verse="20" />
+          <reference bookId="5" chapter="26" verse="10" />
+          <reference bookId="14" chapter="31" verse="5" />
+          <reference bookId="46" chapter="15" verse="20" />
+          <reference bookId="66" chapter="14" verse="4" />
+        </references>
+      </word>
+    </verse>
+    <verse number="13">
+      <word>
+        <versions>
+          <version abrv="VDV" text="بالملح " />
+          <version abrv="KJV" text="with salt" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="7" verse="22" />
+          <reference bookId="26" chapter="43" verse="24" />
+          <reference bookId="40" chapter="5" verse="13" />
+          <reference bookId="41" chapter="9" verse="49,50" />
+          <reference bookId="51" chapter="4" verse="6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="من ملح " />
+          <version abrv="KJV" text="the salt" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="18" verse="19" />
+          <reference bookId="14" chapter="13" verse="5" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="جميع قرابينك" />
+          <version abrv="KJV" text="with all thine" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="43" verse="24" />
+        </references>
+      </word>
+    </verse>
+    <verse number="14">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ان قربت تقدمة" />
+          <version abrv="KJV" text="a meat offering" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="22" verse="29" />
+          <reference bookId="3" chapter="23" verse="10,14-17,20" />
+          <reference bookId="1" chapter="4" verse="3" />
+          <reference bookId="4" chapter="28" verse="2" />
+          <reference bookId="5" chapter="26" verse="2" />
+          <reference bookId="20" chapter="3" verse="9,10" />
+          <reference bookId="23" chapter="53" verse="2-10" />
+          <reference bookId="39" chapter="1" verse="11" />
+          <reference bookId="46" chapter="15" verse="20" />
+          <reference bookId="66" chapter="14" verse="4" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="جريشا سويقا " />
+          <version abrv="KJV" text="corn beaten" />
+        </versions>
+        <references>
+          <reference bookId="12" chapter="4" verse="42" />
+        </references>
+      </word>
+    </verse>
+    <verse number="16">
+      <references>
+        <reference bookId="3" chapter="2" verse="1,2,4-7,9,12" />
+        <reference bookId="19" chapter="141" verse="2" />
+        <reference bookId="23" chapter="11" verse="2-4" />
+        <reference bookId="23" chapter="61" verse="1" />
+        <reference bookId="45" chapter="8" verse="26,27" />
+        <reference bookId="58" chapter="5" verse="7" />
+      </references>
+    </verse>
+  </chapter>
+</book>

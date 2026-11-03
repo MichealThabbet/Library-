@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Esther" id="17">
+  <chapter number="10">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="وضع الملك احشويروش جزية" />
+          <version abrv="KJV" text="laid a tribute" />
+        </versions>
+        <references>
+          <reference bookId="17" chapter="1" verse="1" />
+          <reference bookId="17" chapter="8" verse="9" />
+          <reference bookId="42" chapter="2" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="جزائر" />
+          <version abrv="KJV" text="the isles" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="10" verse="5" />
+          <reference bookId="19" chapter="72" verse="10" />
+          <reference bookId="23" chapter="24" verse="15" />
+          <reference bookId="27" chapter="11" verse="18" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كل عمل " />
+          <version abrv="KJV" text="all the acts" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="11" verse="41" />
+          <reference bookId="11" chapter="22" verse="39" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" عظمه" />
+          <version abrv="KJV" text="advanced him" />
+        </versions>
+        <references>
+          <reference bookId="17" chapter="8" verse="15" />
+          <reference bookId="17" chapter="9" verse="4" />
+          <reference bookId="19" chapter="18" verse="35" />
+          <reference bookId="27" chapter="2" verse="48" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="في سفر" />
+          <version abrv="KJV" text="in the book" />
+        </versions>
+        <references>
+          <reference bookId="17" chapter="2" verse="23" />
+          <reference bookId="17" chapter="6" verse="1" />
+          <reference bookId="11" chapter="14" verse="19" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="فارس" />
+          <version abrv="KJV" text="Persia" />
+        </versions>
+        <references>
+          <reference bookId="17" chapter="10" verse="2" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كان ثاني الملك" />
+          <version abrv="KJV" text="next unto king" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="41" verse="44" />
+          <reference bookId="9" chapter="23" verse="17" />
+          <reference bookId="14" chapter="28" verse="7" />
+          <reference bookId="27" chapter="5" verse="16,29" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="مقبولا " />
+          <version abrv="KJV" text="accepted" />
+        </versions>
+        <references>
+          <reference bookId="17" chapter="3" verse="2" />
+          <reference bookId="45" chapter="14" verse="18" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" طالبا الخير" />
+          <version abrv="KJV" text="seeking" />
+        </versions>
+        <references>
+          <reference bookId="16" chapter="2" verse="10" />
+          <reference bookId="19" chapter="122" verse="6-9" />
+          <reference bookId="45" chapter="9" verse="2,3" />
+          <reference bookId="45" chapter="10" verse="1" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

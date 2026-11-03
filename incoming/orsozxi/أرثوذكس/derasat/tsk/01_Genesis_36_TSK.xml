@@ -1,0 +1,696 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Genesis" id="1">
+  <chapter number="36">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الذي هو ادوم" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="22" verse="17" />
+          <reference bookId="1" chapter="25" verse="24-34" />
+          <reference bookId="1" chapter="27" verse="35-41" />
+          <reference bookId="1" chapter="32" verse="3-7" />
+          <reference bookId="4" chapter="20" verse="14-21" />
+          <reference bookId="5" chapter="23" verse="7" />
+          <reference bookId="13" chapter="1" verse="35" />
+          <reference bookId="23" chapter="63" verse="1" />
+          <reference bookId="26" chapter="25" verse="12" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" اخذ عيسو نساءه" />
+          <version abrv="KJV" text="Esau" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="9" verse="25" />
+          <reference bookId="1" chapter="26" verse="34,35" />
+          <reference bookId="1" chapter="27" verse="46" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عدا بنت ايلون" />
+          <version abrv="KJV" text="Adah" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="26" verse="34" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="اهوليبامة بنت عنى " />
+          <version abrv="KJV" text="Aholibamah" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="25" />
+          <reference bookId="1" chapter="26" verse="34" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <references>
+        <reference bookId="1" chapter="25" verse="13" />
+        <reference bookId="1" chapter="28" verse="9" />
+      </references>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ولدت عدا لعيسو" />
+          <version abrv="KJV" text="Adah" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="1" verse="35" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="اليفاز" />
+          <version abrv="KJV" text="Eliphaz" />
+        </versions>
+        <references>
+          <reference bookId="18" chapter="2" verse="11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ولدت بسمة رعوئيل" />
+          <version abrv="KJV" text="Reuel" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="2" verse="18" />
+          <reference bookId="4" chapter="10" verse="29" />
+        </references>
+      </word>
+    </verse>
+    <verse number="5">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" في ارض كنعان" />
+          <version abrv="KJV" text="in the land" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="6" />
+          <reference bookId="1" chapter="35" verse="29" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" ثم اخذ عيسو نساءه" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="26" chapter="27" verse="13" />
+          <reference bookId="66" chapter="18" verse="13" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="مضى الى ارض اخرى " />
+          <version abrv="KJV" text="went" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="13" verse="6,11" />
+          <reference bookId="1" chapter="17" verse="8" />
+          <reference bookId="1" chapter="25" verse="23" />
+          <reference bookId="1" chapter="28" verse="4" />
+          <reference bookId="1" chapter="32" verse="3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text="لان املاكهما كانت كثيرة" />
+          <version abrv="KJV" text="their riches" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="13" verse="6,11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لم تستطع ارض غربتهما" />
+          <version abrv="KJV" text="the land" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="17" verse="8" />
+          <reference bookId="1" chapter="28" verse="4" />
+        </references>
+      </word>
+    </verse>
+    <verse number="8">
+      <word>
+        <versions>
+          <version abrv="VDV" text="جبل سعير" />
+          <version abrv="KJV" text="mount Seir" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="20" />
+          <reference bookId="1" chapter="14" verse="6" />
+          <reference bookId="1" chapter="32" verse="3" />
+          <reference bookId="5" chapter="2" verse="5" />
+          <reference bookId="6" chapter="24" verse="4" />
+          <reference bookId="13" chapter="4" verse="42" />
+          <reference bookId="14" chapter="20" verse="10,23" />
+          <reference bookId="26" chapter="35" verse="2-7" />
+          <reference bookId="39" chapter="1" verse="3" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عيسو هو ادوم" />
+          <version abrv="KJV" text="Esau" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="9">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ادوم مواليد عيسو ابي ادوم" />
+          <version abrv="KJV" text="the Edomites" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="19" verse="37" />
+        </references>
+      </word>
+    </verse>
+    <verse number="10">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هذه اسماء بني عيسو" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="3,4" />
+          <reference bookId="13" chapter="1" verse="35-54" />
+        </references>
+      </word>
+    </verse>
+    <verse number="11">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كان بنو اليفاز" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="15,16" />
+          <reference bookId="13" chapter="1" verse="35,36" />
+        </references>
+      </word>
+    </verse>
+    <verse number="12">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" تمناع سرية لاليفاز" />
+          <version abrv="KJV" text="Timna" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="22" />
+          <reference bookId="13" chapter="1" verse="36" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عماليق" />
+          <version abrv="KJV" text="Amalek" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="16" />
+          <reference bookId="1" chapter="14" verse="7" />
+          <reference bookId="2" chapter="17" verse="8-16" />
+          <reference bookId="4" chapter="24" verse="18-20" />
+          <reference bookId="5" chapter="23" verse="7" />
+          <reference bookId="5" chapter="25" verse="17-19" />
+          <reference bookId="9" chapter="15" verse="2,3-9" />
+        </references>
+      </word>
+    </verse>
+    <verse number="13">
+      <references>
+        <reference bookId="1" chapter="36" verse="17" />
+        <reference bookId="13" chapter="1" verse="37" />
+      </references>
+    </verse>
+    <verse number="14">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هؤلاء كانوا بني اهوليبامة" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="2,5,18" />
+          <reference bookId="13" chapter="1" verse="35" />
+        </references>
+      </word>
+    </verse>
+    <verse number="15">
+      <word>
+        <versions>
+          <version abrv="VDV" text="امراء بني عيسو" />
+          <version abrv="KJV" text="dukes" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="18" />
+          <reference bookId="13" chapter="1" verse="35" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="بنو اليفاز بكر عيسو" />
+          <version abrv="KJV" text="Eliphaz" />
+        </versions>
+        <references>
+          <reference bookId="18" chapter="21" verse="8" />
+          <reference bookId="19" chapter="37" verse="35" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="امير تيمان" />
+          <version abrv="KJV" text="duke Teman" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="4,11,12" />
+          <reference bookId="13" chapter="1" verse="36,45,51-54" />
+          <reference bookId="18" chapter="2" verse="11" />
+          <reference bookId="18" chapter="4" verse="1" />
+          <reference bookId="24" chapter="49" verse="7,20" />
+          <reference bookId="26" chapter="25" verse="13" />
+          <reference bookId="30" chapter="1" verse="12" />
+          <reference bookId="31" chapter="1" verse="9" />
+          <reference bookId="35" chapter="3" verse="3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="17">
+      <word>
+        <versions>
+          <version abrv="VDV" text="بنو رعوئيل بن عيسو" />
+          <version abrv="KJV" text="Reuel" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="4,13" />
+          <reference bookId="13" chapter="1" verse="37" />
+        </references>
+      </word>
+    </verse>
+    <verse number="18">
+      <references>
+        <reference bookId="1" chapter="36" verse="5,14" />
+        <reference bookId="13" chapter="1" verse="35" />
+      </references>
+    </verse>
+    <verse number="19">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الذي هو ادوم" />
+          <version abrv="KJV" text="who is Edom" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="20">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" لوطان وشوبال وصبعون وعنى" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="2,22-30" />
+          <reference bookId="1" chapter="14" verse="6" />
+          <reference bookId="5" chapter="2" verse="12,22" />
+          <reference bookId="13" chapter="1" verse="38-42" />
+        </references>
+      </word>
+    </verse>
+    <verse number="21">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هؤلاء امراء الحوريين" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="21" />
+        </references>
+      </word>
+    </verse>
+    <verse number="22">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كان ابنا لوطان" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="1" verse="39" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="تمناع اخت لوطان" />
+          <version abrv="KJV" text="Timna" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="12" />
+        </references>
+      </word>
+    </verse>
+    <verse number="23">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ععلوان ومناحة " />
+          <version abrv="KJV" text="Alvan" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="1" verse="40" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="شفو " />
+          <version abrv="KJV" text="Shepho" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="1" verse="40" />
+        </references>
+      </word>
+    </verse>
+    <verse number="24">
+      <word>
+        <versions>
+          <version abrv="VDV" text="وجد الحمائم في البرية" />
+          <version abrv="KJV" text="found" />
+        </versions>
+        <references>
+          <reference bookId="3" chapter="19" verse="19" />
+          <reference bookId="5" chapter="2" verse="10" />
+          <reference bookId="10" chapter="13" verse="29" />
+          <reference bookId="10" chapter="18" verse="9" />
+          <reference bookId="11" chapter="1" verse="38,44" />
+          <reference bookId="11" chapter="4" verse="28" />
+          <reference bookId="38" chapter="14" verse="15" />
+        </references>
+      </word>
+    </verse>
+    <verse number="25">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ديشون" />
+          <version abrv="KJV" text="Dishon" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="21" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="هذا ابن عنى" />
+          <version abrv="KJV" text="Anah" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="2,5,14,18" />
+          <reference bookId="13" chapter="1" verse="41" />
+        </references>
+      </word>
+    </verse>
+    <verse number="26">
+      <word>
+        <versions>
+          <version abrv="VDV" text="حمدان واشبان" />
+          <version abrv="KJV" text="Hemdan" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="1" verse="41" />
+        </references>
+      </word>
+    </verse>
+    <verse number="27">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هؤلاء بنو ايصر" />
+          <version abrv="KJV" text="Ezer" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="21" />
+          <reference bookId="13" chapter="1" verse="38" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عقان" />
+          <version abrv="KJV" text="Akan" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="1" verse="42" />
+        </references>
+      </word>
+    </verse>
+    <verse number="28">
+      <word>
+        <versions>
+          <version abrv="VDV" text="عوص واران" />
+          <version abrv="KJV" text="Uz" />
+        </versions>
+        <references>
+          <reference bookId="18" chapter="1" verse="1" />
+          <reference bookId="24" chapter="25" verse="20" />
+          <reference bookId="25" chapter="4" verse="21" />
+        </references>
+      </word>
+    </verse>
+    <verse number="29">
+      <word>
+        <versions>
+          <version abrv="VDV" text="امراء الحوريين" />
+          <version abrv="KJV" text="Horites" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="20,28" />
+          <reference bookId="13" chapter="1" verse="41,42" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="امير لوطان" />
+          <version abrv="KJV" text="duke Lotan" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="20" />
+          <reference bookId="13" chapter="1" verse="38" />
+        </references>
+      </word>
+    </verse>
+    <verse number="30">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هؤلاء امراء الحوريين" />
+          <version abrv="KJV" text="From A" />
+        </versions>
+        <references>
+          <reference bookId="12" chapter="11" verse="19" />
+          <reference bookId="23" chapter="23" verse="15" />
+          <reference bookId="27" chapter="7" verse="17,23" />
+        </references>
+      </word>
+    </verse>
+    <verse number="31">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الملوك الذين ملكوا" />
+          <version abrv="KJV" text="the kings" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="17" verse="6,16" />
+          <reference bookId="1" chapter="25" verse="23" />
+          <reference bookId="4" chapter="20" verse="14" />
+          <reference bookId="4" chapter="24" verse="17,18" />
+          <reference bookId="5" chapter="17" verse="14-20" />
+          <reference bookId="5" chapter="33" verse="5,29" />
+          <reference bookId="13" chapter="1" verse="43-50" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" قبلما ملك ملك لبني اسرائيل" />
+          <version abrv="KJV" text="before there" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="35" verse="11" />
+        </references>
+      </word>
+    </verse>
+    <verse number="33">
+      <word>
+        <versions>
+          <version abrv="VDV" text="بن زارح من بصرة" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="23" chapter="34" verse="6" />
+          <reference bookId="23" chapter="63" verse="1" />
+          <reference bookId="24" chapter="49" verse="13,22" />
+          <reference bookId="30" chapter="1" verse="12" />
+          <reference bookId="33" chapter="2" verse="12" />
+        </references>
+      </word>
+    </verse>
+    <verse number="34">
+      <word>
+        <versions>
+          <version abrv="VDV" text="من ارض التيماني" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="11,15" />
+          <reference bookId="18" chapter="2" verse="11" />
+          <reference bookId="24" chapter="49" verse="7" />
+        </references>
+      </word>
+    </verse>
+    <verse number="35">
+      <word>
+        <versions>
+          <version abrv="VDV" text="مات حوشام" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="35" />
+        </references>
+      </word>
+    </verse>
+    <verse number="36">
+      <word>
+        <versions>
+          <version abrv="VDV" text="فملك مكانه سملة" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="36" />
+        </references>
+      </word>
+    </verse>
+    <verse number="37">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" رحوبوت النهر" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="10" verse="11" />
+          <reference bookId="13" chapter="1" verse="48" />
+        </references>
+      </word>
+    </verse>
+    <verse number="38">
+      <word>
+        <versions>
+          <version abrv="VDV" text="حانان بن عكبور" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="38" />
+        </references>
+      </word>
+    </verse>
+    <verse number="39">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اسم امراته مهيطبئيل" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="1" verse="50" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" فملك مكانه هدار" />
+          <version abrv="KJV" text="Hadad Pai" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="15" verse="15" />
+        </references>
+      </word>
+    </verse>
+    <verse number="40">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" حسب قبائلهم واماكنهم باسمائهم" />
+          <version abrv="KJV" text="Second aristocracy of dukes, from A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="31" />
+          <reference bookId="13" chapter="1" verse="51-54" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="امراء عيسو" />
+          <version abrv="KJV" text="dukes" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="15,16" />
+          <reference bookId="2" chapter="15" verse="15" />
+          <reference bookId="13" chapter="1" verse="51-54" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="علوة وامير يتيت" />
+          <version abrv="KJV" text="Alvah" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="1" verse="51" />
+        </references>
+      </word>
+    </verse>
+    <verse number="43">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" امراء ادوم " />
+          <version abrv="KJV" text="the dukes" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="15,18,19,30,31" />
+          <reference bookId="2" chapter="15" verse="15" />
+          <reference bookId="4" chapter="20" verse="14" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="حسب مساكنهم " />
+          <version abrv="KJV" text="their" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="7,8" />
+          <reference bookId="1" chapter="25" verse="12" />
+          <reference bookId="5" chapter="2" verse="5" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" عيسو ابو ادوم" />
+          <version abrv="KJV" text="father" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="36" verse="43" />
+          <reference bookId="1" chapter="25" verse="30" />
+          <reference bookId="1" chapter="45" verse="8" />
+          <reference bookId="13" chapter="4" verse="14" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

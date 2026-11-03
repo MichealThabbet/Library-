@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Psalms" id="19">
+  <chapter number="124">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="لولا " />
+          <version abrv="KJV" text="(Title" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="124" verse="1" />
+          <reference bookId="19" chapter="120" verse="1" />
+          <reference bookId="19" chapter="121" verse="1" />
+          <reference bookId="19" chapter="122" verse="1" />
+          <reference bookId="19" chapter="123" verse="1" />
+          <reference bookId="19" chapter="125" verse="1" />
+          <reference bookId="19" chapter="126" verse="1" />
+          <reference bookId="19" chapter="127" verse="1" />
+          <reference bookId="19" chapter="128" verse="1" />
+          <reference bookId="19" chapter="129" verse="1" />
+          <reference bookId="19" chapter="130" verse="1" />
+          <reference bookId="19" chapter="131" verse="1" />
+          <reference bookId="19" chapter="132" verse="1" />
+          <reference bookId="19" chapter="133" verse="1" />
+          <reference bookId="19" chapter="134" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="الرب" />
+          <version abrv="KJV" text="The Lord" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="27" verse="1" />
+          <reference bookId="19" chapter="46" verse="7,11" />
+          <reference bookId="19" chapter="54" verse="4" />
+          <reference bookId="19" chapter="56" verse="9" />
+          <reference bookId="19" chapter="118" verse="6,7" />
+          <reference bookId="2" chapter="15" verse="1" />
+          <reference bookId="23" chapter="8" verse="9,10" />
+          <reference bookId="45" chapter="8" verse="31" />
+          <reference bookId="58" chapter="13" verse="5,6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="كان لنا" />
+          <version abrv="KJV" text="now may" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="129" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ما قام الناس" />
+          <version abrv="KJV" text="when men" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="3" verse="1" />
+          <reference bookId="19" chapter="21" verse="1,2" />
+          <reference bookId="19" chapter="22" verse="12,13,16" />
+          <reference bookId="19" chapter="37" verse="32" />
+          <reference bookId="4" chapter="16" verse="2,3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اذا لا" />
+          <version abrv="KJV" text="Then they" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="27" verse="2" />
+          <reference bookId="19" chapter="35" verse="25" />
+          <reference bookId="19" chapter="56" verse="1,2" />
+          <reference bookId="19" chapter="57" verse="3" />
+          <reference bookId="19" chapter="74" verse="8" />
+          <reference bookId="19" chapter="83" verse="4" />
+          <reference bookId="17" chapter="3" verse="6,12,13" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="بتلعونا " />
+          <version abrv="KJV" text="swallowed" />
+        </versions>
+        <references>
+          <reference bookId="4" chapter="16" verse="30-34" />
+          <reference bookId="20" chapter="1" verse="12" />
+          <reference bookId="24" chapter="51" verse="34" />
+          <reference bookId="32" chapter="1" verse="17" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" غضبهم " />
+          <version abrv="KJV" text="their wrath" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="76" verse="10" />
+          <reference bookId="9" chapter="20" verse="30-33" />
+          <reference bookId="27" chapter="3" verse="19" />
+          <reference bookId="40" chapter="2" verse="16" />
+          <reference bookId="44" chapter="9" verse="2" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text="المياه" />
+          <version abrv="KJV" text="the waters" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="18" verse="4" />
+          <reference bookId="19" chapter="42" verse="7" />
+          <reference bookId="19" chapter="69" verse="15" />
+          <reference bookId="23" chapter="8" verse="7,8" />
+          <reference bookId="23" chapter="28" verse="2" />
+          <reference bookId="23" chapter="59" verse="19" />
+          <reference bookId="24" chapter="46" verse="7,8" />
+          <reference bookId="27" chapter="9" verse="26" />
+          <reference bookId="66" chapter="12" verse="15,16" />
+          <reference bookId="66" chapter="17" verse="1,15" />
+        </references>
+      </word>
+    </verse>
+    <verse number="5">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" لعبرت" />
+          <version abrv="KJV" text="the proud" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="93" verse="3,4" />
+          <reference bookId="18" chapter="38" verse="11" />
+          <reference bookId="24" chapter="5" verse="22" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" الذي لم يسلمنا" />
+          <version abrv="KJV" text="who hath not" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="17" verse="9" />
+          <reference bookId="19" chapter="118" verse="13" />
+          <reference bookId="19" chapter="145" verse="5,6" />
+          <reference bookId="2" chapter="15" verse="9,10" />
+          <reference bookId="7" chapter="5" verse="30,31" />
+          <reference bookId="9" chapter="26" verse="20" />
+          <reference bookId="23" chapter="10" verse="14-19" />
+        </references>
+      </word>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text="انفسنا " />
+          <version abrv="KJV" text="Our soul" />
+        </versions>
+        <references>
+          <reference bookId="9" chapter="23" verse="26,27" />
+          <reference bookId="9" chapter="24" verse="14,15" />
+          <reference bookId="9" chapter="25" verse="29" />
+          <reference bookId="10" chapter="17" verse="2,21,22" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="مثل العصفور" />
+          <version abrv="KJV" text="as a bird" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="25" verse="15" />
+          <reference bookId="19" chapter="91" verse="3" />
+          <reference bookId="20" chapter="6" verse="5" />
+          <reference bookId="24" chapter="5" verse="26" />
+          <reference bookId="24" chapter="18" verse="22" />
+          <reference bookId="55" chapter="2" verse="26" />
+        </references>
+      </word>
+    </verse>
+    <verse number="8">
+      <references>
+        <reference bookId="19" chapter="115" verse="15" />
+        <reference bookId="19" chapter="121" verse="2" />
+        <reference bookId="19" chapter="134" verse="3" />
+        <reference bookId="19" chapter="146" verse="5,6" />
+        <reference bookId="1" chapter="1" verse="1" />
+        <reference bookId="23" chapter="37" verse="16-20" />
+        <reference bookId="24" chapter="32" verse="17" />
+        <reference bookId="44" chapter="4" verse="24" />
+      </references>
+    </verse>
+  </chapter>
+</book>

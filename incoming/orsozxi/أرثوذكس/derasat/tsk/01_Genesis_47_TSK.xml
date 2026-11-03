@@ -1,0 +1,689 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Genesis" id="1">
+  <chapter number="47">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اتى يوسف" />
+          <version abrv="KJV" text="Joseph" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="45" verse="16" />
+          <reference bookId="1" chapter="46" verse="31" />
+          <reference bookId="58" chapter="2" verse="11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="في ارض جاسان" />
+          <version abrv="KJV" text="in the land" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="45" verse="10" />
+          <reference bookId="1" chapter="46" verse="28,34" />
+          <reference bookId="2" chapter="8" verse="22" />
+          <reference bookId="2" chapter="9" verse="26" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اوقفهم امام فرعون" />
+          <version abrv="KJV" text="presented" />
+        </versions>
+        <references>
+          <reference bookId="44" chapter="7" verse="13" />
+          <reference bookId="47" chapter="4" verse="14" />
+          <reference bookId="51" chapter="1" verse="28" />
+          <reference bookId="65" chapter="1" verse="24" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ما صناعتكم" />
+          <version abrv="KJV" text="What is" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="46" verse="33,34" />
+          <reference bookId="30" chapter="7" verse="14,15" />
+          <reference bookId="32" chapter="1" verse="8" />
+          <reference bookId="53" chapter="3" verse="10" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="رعاة غنم" />
+          <version abrv="KJV" text="shepherds" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="4" verse="2" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text="جئنا لنتغرب في الارض" />
+          <version abrv="KJV" text="For to" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="12" verse="10" />
+          <reference bookId="1" chapter="15" verse="13" />
+          <reference bookId="5" chapter="26" verse="5" />
+          <reference bookId="19" chapter="105" verse="23" />
+          <reference bookId="23" chapter="52" verse="4" />
+          <reference bookId="44" chapter="7" verse="6" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="الجوع شديد" />
+          <version abrv="KJV" text="for the famine" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="43" verse="1" />
+          <reference bookId="44" chapter="7" verse="11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="فالآن ليسكن عبيدك" />
+          <version abrv="KJV" text="let thy" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="46" verse="34" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ارض مصر قدامك" />
+          <version abrv="KJV" text="is" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="11" />
+          <reference bookId="1" chapter="13" verse="9" />
+          <reference bookId="1" chapter="20" verse="15" />
+          <reference bookId="1" chapter="34" verse="10" />
+          <reference bookId="1" chapter="45" verse="18-20" />
+          <reference bookId="20" chapter="21" verse="1" />
+          <reference bookId="43" chapter="17" verse="2" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="في ارض جاسان" />
+          <version abrv="KJV" text="Goshen" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="4,11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="اجعلهم رؤساء" />
+          <version abrv="KJV" text="rulers" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="18" verse="21" />
+          <reference bookId="9" chapter="21" verse="7" />
+          <reference bookId="13" chapter="27" verse="29-31" />
+          <reference bookId="14" chapter="26" verse="10" />
+          <reference bookId="20" chapter="22" verse="29" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="مواش على التي لي" />
+          <version abrv="KJV" text="cattle" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="16" />
+          <reference bookId="2" chapter="9" verse="3-6,10,21" />
+        </references>
+      </word>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text="بارك يعقوب فرعون" />
+          <version abrv="KJV" text="And Jacob" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="10" />
+          <reference bookId="1" chapter="35" verse="27" />
+          <reference bookId="2" chapter="12" verse="32" />
+          <reference bookId="4" chapter="6" verse="23,24" />
+          <reference bookId="6" chapter="14" verse="13" />
+          <reference bookId="9" chapter="2" verse="20" />
+          <reference bookId="10" chapter="8" verse="10" />
+          <reference bookId="10" chapter="19" verse="39" />
+          <reference bookId="11" chapter="1" verse="47" />
+          <reference bookId="12" chapter="4" verse="29" />
+          <reference bookId="40" chapter="26" verse="26" />
+          <reference bookId="42" chapter="22" verse="19" />
+          <reference bookId="60" chapter="2" verse="17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="9">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ايام سني غربتي" />
+          <version abrv="KJV" text="The days" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="29" verse="15" />
+          <reference bookId="19" chapter="39" verse="12" />
+          <reference bookId="19" chapter="119" verse="19,54" />
+          <reference bookId="47" chapter="5" verse="6" />
+          <reference bookId="58" chapter="11" verse="9-16" />
+          <reference bookId="58" chapter="13" verse="14" />
+          <reference bookId="60" chapter="2" verse="11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="مئة وثلاثون سنة" />
+          <version abrv="KJV" text="and hundred" />
+        </versions>
+        <references>
+          <reference bookId="18" chapter="14" verse="1" />
+          <reference bookId="19" chapter="39" verse="5" />
+          <reference bookId="19" chapter="89" verse="47,48" />
+          <reference bookId="19" chapter="90" verse="3-12" />
+          <reference bookId="59" chapter="4" verse="14" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لم تبلغ " />
+          <version abrv="KJV" text="have not" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="28" />
+          <reference bookId="1" chapter="5" verse="27" />
+          <reference bookId="1" chapter="11" verse="11,24,25" />
+          <reference bookId="1" chapter="25" verse="7,8" />
+          <reference bookId="1" chapter="35" verse="28" />
+          <reference bookId="1" chapter="50" verse="26" />
+          <reference bookId="2" chapter="6" verse="4" />
+          <reference bookId="2" chapter="7" verse="7" />
+          <reference bookId="5" chapter="34" verse="7" />
+          <reference bookId="6" chapter="24" verse="29" />
+          <reference bookId="10" chapter="19" verse="32-35" />
+          <reference bookId="18" chapter="8" verse="8,9" />
+          <reference bookId="18" chapter="42" verse="16,17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="10">
+      <references>
+        <reference bookId="1" chapter="47" verse="7" />
+        <reference bookId="1" chapter="14" verse="19" />
+        <reference bookId="4" chapter="6" verse="23-27" />
+        <reference bookId="5" chapter="33" verse="1" />
+        <reference bookId="8" chapter="2" verse="4" />
+        <reference bookId="10" chapter="8" verse="10" />
+        <reference bookId="10" chapter="19" verse="39" />
+        <reference bookId="19" chapter="119" verse="46" />
+        <reference bookId="19" chapter="129" verse="8" />
+        <reference bookId="58" chapter="7" verse="7" />
+      </references>
+    </verse>
+    <verse number="11">
+      <word>
+        <versions>
+          <version abrv="VDV" text="في ارض رعمسيس" />
+          <version abrv="KJV" text="Rameses" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="6" />
+          <reference bookId="2" chapter="1" verse="11" />
+          <reference bookId="2" chapter="12" verse="37" />
+          <reference bookId="43" chapter="10" verse="10,28" />
+          <reference bookId="43" chapter="14" verse="2,23" />
+          <reference bookId="43" chapter="17" verse="2,24" />
+        </references>
+      </word>
+    </verse>
+    <verse number="12">
+      <word>
+        <versions>
+          <version abrv="VDV" text="وعال يوسف" />
+          <version abrv="KJV" text="nourished" />
+        </versions>
+        <references>
+          <reference bookId="8" chapter="4" verse="15" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="اباه واخوته" />
+          <version abrv="KJV" text="his father" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="20" verse="12" />
+          <reference bookId="40" chapter="15" verse="4-6" />
+          <reference bookId="41" chapter="7" verse="10-13" />
+          <reference bookId="54" chapter="4" verse="8" />
+          <reference bookId="54" chapter="5" verse="4,8" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" حسب الاولاد" />
+          <version abrv="KJV" text="according to their families or, as a little child is" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="1,21,24" />
+          <reference bookId="52" chapter="2" verse="7" />
+        </references>
+      </word>
+    </verse>
+    <verse number="13">
+      <word>
+        <versions>
+          <version abrv="VDV" text="لم يكن خبز" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="41" verse="30,31" />
+          <reference bookId="11" chapter="18" verse="5" />
+          <reference bookId="24" chapter="14" verse="1-6" />
+          <reference bookId="25" chapter="2" verse="19,20" />
+          <reference bookId="25" chapter="4" verse="9" />
+          <reference bookId="44" chapter="7" verse="11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لان الجوع كان شديدا" />
+          <version abrv="KJV" text="fainted" />
+        </versions>
+        <references>
+          <reference bookId="24" chapter="9" verse="12" />
+          <reference bookId="29" chapter="1" verse="10-12" />
+        </references>
+      </word>
+    </verse>
+    <verse number="14">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" الفضة الموجودة" />
+          <version abrv="KJV" text="the money" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="41" verse="56" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="جاء يوسف" />
+          <version abrv="KJV" text="Joseph brought" />
+        </versions>
+        <references>
+          <reference bookId="42" chapter="16" verse="1,2,10-12" />
+          <reference bookId="46" chapter="4" verse="2" />
+          <reference bookId="60" chapter="4" verse="10" />
+        </references>
+      </word>
+    </verse>
+    <verse number="15">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اعطنا خبزا" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="18,19,24" />
+          <reference bookId="7" chapter="8" verse="5,8" />
+          <reference bookId="9" chapter="21" verse="3" />
+          <reference bookId="9" chapter="25" verse="8" />
+          <reference bookId="19" chapter="37" verse="3" />
+          <reference bookId="23" chapter="33" verse="16" />
+          <reference bookId="40" chapter="6" verse="11" />
+        </references>
+      </word>
+    </verse>
+    <verse number="16">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هاتوا مواشيكم " />
+          <version abrv="KJV" text="Give your cattle" />
+        </versions>
+        <references>
+          <reference bookId="20" chapter="12" verse="17" />
+          <reference bookId="27" chapter="6" verse="5-7" />
+          <reference bookId="46" chapter="10" verse="32" />
+          <reference bookId="50" chapter="4" verse="8" />
+          <reference bookId="51" chapter="4" verse="5" />
+        </references>
+      </word>
+    </verse>
+    <verse number="17">
+      <word>
+        <versions>
+          <version abrv="VDV" text="خبزا بالخيل" />
+          <version abrv="KJV" text="for horses" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="9" verse="3" />
+          <reference bookId="11" chapter="10" verse="28" />
+          <reference bookId="18" chapter="2" verse="4" />
+          <reference bookId="23" chapter="31" verse="1" />
+          <reference bookId="40" chapter="6" verse="24" />
+        </references>
+      </word>
+    </verse>
+    <verse number="18">
+      <word>
+        <versions>
+          <version abrv="VDV" text="لم يبق قدام سيدي الا اجسادنا " />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="12" chapter="6" verse="26" />
+          <reference bookId="24" chapter="38" verse="9" />
+        </references>
+      </word>
+    </verse>
+    <verse number="19">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اشترنا وارضنا بالخبز" />
+          <version abrv="KJV" text="buy us" />
+        </versions>
+        <references>
+          <reference bookId="16" chapter="5" verse="2,3" />
+          <reference bookId="18" chapter="2" verse="4" />
+          <reference bookId="25" chapter="1" verse="11" />
+          <reference bookId="25" chapter="5" verse="6,9" />
+          <reference bookId="40" chapter="16" verse="26" />
+          <reference bookId="50" chapter="3" verse="8,9" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="واعط بذارا" />
+          <version abrv="KJV" text="and give" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="23" />
+        </references>
+      </word>
+    </verse>
+    <verse number="21">
+      <word>
+        <versions>
+          <version abrv="VDV" text="فنقلهم الى المدن" />
+          <version abrv="KJV" text="to cities" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="41" verse="48" />
+        </references>
+      </word>
+    </verse>
+    <verse number="22">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" ارض الكهنة لم يشترها" />
+          <version abrv="KJV" text="of the priests" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="14" verse="18" />
+          <reference bookId="1" chapter="41" verse="45,50" />
+          <reference bookId="10" chapter="8" verse="18" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" اذ كانت للكهنة فريضة" />
+          <version abrv="KJV" text="for the priests" />
+        </versions>
+        <references>
+          <reference bookId="5" chapter="12" verse="19" />
+          <reference bookId="6" chapter="21" verse="1-45" />
+          <reference bookId="15" chapter="7" verse="24" />
+          <reference bookId="16" chapter="13" verse="10" />
+          <reference bookId="40" chapter="10" verse="10" />
+          <reference bookId="46" chapter="9" verse="13" />
+          <reference bookId="48" chapter="6" verse="6" />
+          <reference bookId="53" chapter="3" verse="10" />
+          <reference bookId="54" chapter="5" verse="17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="23">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اني قد اشتريتكم" />
+          <version abrv="KJV" text="bought" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="19" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="هوذا لكم بذار" />
+          <version abrv="KJV" text="here is seed" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="41" verse="27" />
+          <reference bookId="1" chapter="45" verse="6" />
+          <reference bookId="19" chapter="41" verse="1" />
+          <reference bookId="19" chapter="107" verse="36,37" />
+          <reference bookId="19" chapter="112" verse="5" />
+          <reference bookId="20" chapter="11" verse="26" />
+          <reference bookId="20" chapter="12" verse="11" />
+          <reference bookId="20" chapter="13" verse="23" />
+          <reference bookId="21" chapter="11" verse="6" />
+          <reference bookId="23" chapter="28" verse="24,25" />
+          <reference bookId="23" chapter="55" verse="10" />
+          <reference bookId="40" chapter="24" verse="45" />
+          <reference bookId="47" chapter="9" verse="10" />
+        </references>
+      </word>
+    </verse>
+    <verse number="24">
+      <word>
+        <versions>
+          <version abrv="VDV" text="تعطون خمسا لفرعون" />
+          <version abrv="KJV" text="the fifth part" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="25" />
+          <reference bookId="1" chapter="41" verse="34" />
+          <reference bookId="3" chapter="27" verse="32" />
+          <reference bookId="9" chapter="8" verse="15-17" />
+          <reference bookId="19" chapter="41" verse="1" />
+          <reference bookId="19" chapter="112" verse="5" />
+        </references>
+      </word>
+    </verse>
+    <verse number="25">
+      <word>
+        <versions>
+          <version abrv="VDV" text="احييتنا" />
+          <version abrv="KJV" text="Thou hast" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="6" verse="19" />
+          <reference bookId="1" chapter="41" verse="45" />
+          <reference bookId="1" chapter="45" verse="6-8" />
+          <reference bookId="1" chapter="50" verse="20" />
+          <reference bookId="20" chapter="11" verse="26,27" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ليتنا نجد نعمة" />
+          <version abrv="KJV" text="let us" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="18" verse="3" />
+          <reference bookId="1" chapter="33" verse="15" />
+          <reference bookId="8" chapter="2" verse="13" />
+        </references>
+      </word>
+    </verse>
+    <verse number="26">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ارض الكهنة وحدهم" />
+          <version abrv="KJV" text="priests" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="22" />
+        </references>
+      </word>
+    </verse>
+    <verse number="27">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" وسكن اسرائيل" />
+          <version abrv="KJV" text="dwelt" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="اثمروا وكثروا جدا" />
+          <version abrv="KJV" text="grew" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="8" verse="7,9" />
+          <reference bookId="1" chapter="13" verse="16" />
+          <reference bookId="1" chapter="26" verse="4" />
+          <reference bookId="1" chapter="28" verse="14" />
+          <reference bookId="1" chapter="46" verse="3" />
+          <reference bookId="2" chapter="1" verse="7,12" />
+          <reference bookId="5" chapter="10" verse="22" />
+          <reference bookId="5" chapter="26" verse="5" />
+          <reference bookId="16" chapter="9" verse="23" />
+          <reference bookId="19" chapter="105" verse="24" />
+          <reference bookId="19" chapter="107" verse="38" />
+          <reference bookId="38" chapter="10" verse="8" />
+          <reference bookId="44" chapter="7" verse="17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="28">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كانت ايام يعقوب" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="37" verse="2" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="سنو حياته" />
+          <version abrv="KJV" text="the whole age" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="9" />
+          <reference bookId="19" chapter="90" verse="10,12" />
+          <reference bookId="19" chapter="119" verse="84" />
+        </references>
+      </word>
+    </verse>
+    <verse number="29">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ان يموت دعا ابنه يوسف" />
+          <version abrv="KJV" text="must die" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="9" />
+          <reference bookId="1" chapter="3" verse="19" />
+          <reference bookId="1" chapter="50" verse="24" />
+          <reference bookId="5" chapter="31" verse="14" />
+          <reference bookId="10" chapter="7" verse="12" />
+          <reference bookId="10" chapter="14" verse="14" />
+          <reference bookId="11" chapter="2" verse="1" />
+          <reference bookId="18" chapter="7" verse="1" />
+          <reference bookId="18" chapter="14" verse="14" />
+          <reference bookId="18" chapter="30" verse="23" />
+          <reference bookId="19" chapter="6" verse="5" />
+          <reference bookId="19" chapter="49" verse="7,9" />
+          <reference bookId="19" chapter="89" verse="48" />
+          <reference bookId="58" chapter="9" verse="27" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="فضع يدك تحت فخذي" />
+          <version abrv="KJV" text="put" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="24" verse="2" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="اصنع معي معروفا" />
+          <version abrv="KJV" text="deal kindly" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="24" verse="49" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لا تدفني في مصر" />
+          <version abrv="KJV" text="bury me not" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="50" verse="24,25" />
+          <reference bookId="44" chapter="7" verse="15,16" />
+          <reference bookId="58" chapter="11" verse="22" />
+        </references>
+      </word>
+    </verse>
+    <verse number="30">
+      <references>
+        <reference bookId="1" chapter="23" verse="19" />
+        <reference bookId="1" chapter="25" verse="9" />
+        <reference bookId="1" chapter="49" verse="29-32" />
+        <reference bookId="1" chapter="50" verse="5-14,25" />
+        <reference bookId="10" chapter="19" verse="37" />
+        <reference bookId="11" chapter="13" verse="22" />
+        <reference bookId="16" chapter="2" verse="3,5" />
+      </references>
+    </verse>
+    <verse number="31">
+      <word>
+        <versions>
+          <version abrv="VDV" text="احلف لي" />
+          <version abrv="KJV" text="Swear" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="24" verse="3" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="فسجد اسرائيل " />
+          <version abrv="KJV" text="And Israel bowed" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="47" verse="29" />
+          <reference bookId="1" chapter="24" verse="26" />
+          <reference bookId="1" chapter="48" verse="1,2" />
+          <reference bookId="11" chapter="1" verse="47" />
+          <reference bookId="58" chapter="11" verse="21" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

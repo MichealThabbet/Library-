@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Job" id="18">
+  <chapter number="25">
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="السلطان " />
+          <version abrv="KJV" text="Dominion" />
+        </versions>
+        <references>
+          <reference bookId="18" chapter="9" verse="2-10" />
+          <reference bookId="18" chapter="26" verse="5-14" />
+          <reference bookId="18" chapter="40" verse="9-14" />
+          <reference bookId="13" chapter="29" verse="11,12" />
+          <reference bookId="19" chapter="99" verse="1-3" />
+          <reference bookId="24" chapter="10" verse="6,7" />
+          <reference bookId="27" chapter="4" verse="34-37" />
+          <reference bookId="40" chapter="6" verse="13" />
+          <reference bookId="40" chapter="28" verse="18" />
+          <reference bookId="49" chapter="1" verse="20,21" />
+          <reference bookId="65" chapter="1" verse="25" />
+          <reference bookId="66" chapter="6" verse="16" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="صانع" />
+          <version abrv="KJV" text="he maketh" />
+        </versions>
+        <references>
+          <reference bookId="23" chapter="57" verse="15,19" />
+          <reference bookId="40" chapter="5" verse="9" />
+          <reference bookId="47" chapter="5" verse="18-21" />
+          <reference bookId="49" chapter="2" verse="16,17" />
+          <reference bookId="51" chapter="1" verse="20" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="هل من عدد" />
+          <version abrv="KJV" text="there" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="103" verse="20,21" />
+          <reference bookId="19" chapter="148" verse="2-4" />
+          <reference bookId="23" chapter="40" verse="26" />
+          <reference bookId="27" chapter="7" verse="10" />
+          <reference bookId="40" chapter="26" verse="53" />
+          <reference bookId="66" chapter="5" verse="11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="على من لا يشرق" />
+          <version abrv="KJV" text="upon whom" />
+        </versions>
+        <references>
+          <reference bookId="18" chapter="38" verse="12,13" />
+          <reference bookId="1" chapter="1" verse="3-5,14-16" />
+          <reference bookId="19" chapter="19" verse="4-6" />
+          <reference bookId="40" chapter="5" verse="45" />
+          <reference bookId="43" chapter="1" verse="4,9" />
+          <reference bookId="59" chapter="1" verse="17" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" فكيف يتبرر" />
+          <version abrv="KJV" text="How then" />
+        </versions>
+        <references>
+          <reference bookId="18" chapter="4" verse="17-19" />
+          <reference bookId="18" chapter="9" verse="2" />
+          <reference bookId="18" chapter="15" verse="14-16" />
+          <reference bookId="19" chapter="130" verse="3" />
+          <reference bookId="19" chapter="143" verse="2" />
+          <reference bookId="45" chapter="3" verse="19,20" />
+          <reference bookId="45" chapter="5" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" وكيف يزكو " />
+          <version abrv="KJV" text="how can" />
+        </versions>
+        <references>
+          <reference bookId="18" chapter="14" verse="3,4" />
+          <reference bookId="19" chapter="51" verse="5" />
+          <reference bookId="38" chapter="13" verse="1" />
+          <reference bookId="46" chapter="6" verse="11" />
+          <reference bookId="49" chapter="2" verse="3" />
+          <reference bookId="62" chapter="1" verse="9" />
+          <reference bookId="66" chapter="1" verse="5" />
+        </references>
+      </word>
+    </verse>
+    <verse number="5">
+      <references>
+        <reference bookId="23" chapter="24" verse="23" />
+        <reference bookId="23" chapter="60" verse="19,20" />
+        <reference bookId="47" chapter="3" verse="10" />
+      </references>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text="فكم بالحري الانسان" />
+          <version abrv="KJV" text="How much less, etc" />
+        </versions>
+        <references>
+          <reference bookId="18" chapter="4" verse="19" />
+          <reference bookId="1" chapter="18" verse="27" />
+          <reference bookId="19" chapter="22" verse="6" />
+          <reference bookId="23" chapter="41" verse="14" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

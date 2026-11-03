@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Psalms" id="19">
+  <chapter number="128">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="اليك رفعت عيني" />
+          <version abrv="KJV" text="(Title" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="120" verse="1" />
+          <reference bookId="19" chapter="121" verse="1" />
+          <reference bookId="19" chapter="122" verse="1" />
+          <reference bookId="19" chapter="123" verse="1" />
+          <reference bookId="19" chapter="124" verse="1" />
+          <reference bookId="19" chapter="125" verse="1" />
+          <reference bookId="19" chapter="126" verse="1" />
+          <reference bookId="19" chapter="127" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لكل من يتقي" />
+          <version abrv="KJV" text="every one" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="103" verse="1,13,17" />
+          <reference bookId="19" chapter="112" verse="1" />
+          <reference bookId="19" chapter="115" verse="13" />
+          <reference bookId="19" chapter="147" verse="11" />
+          <reference bookId="42" chapter="1" verse="50" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="يسلك " />
+          <version abrv="KJV" text="walketh" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="1" verse="1-3" />
+          <reference bookId="19" chapter="81" verse="13" />
+          <reference bookId="19" chapter="119" verse="1" />
+          <reference bookId="42" chapter="1" verse="6" />
+          <reference bookId="44" chapter="9" verse="31" />
+          <reference bookId="52" chapter="4" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="تاكل" />
+          <version abrv="KJV" text="thou shalt eat" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="3" verse="19" />
+          <reference bookId="5" chapter="28" verse="4,11,39,51" />
+          <reference bookId="7" chapter="6" verse="3-6" />
+          <reference bookId="21" chapter="5" verse="18,19" />
+          <reference bookId="23" chapter="62" verse="8" />
+          <reference bookId="23" chapter="65" verse="13,21-23" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="طوباك" />
+          <version abrv="KJV" text="and it shall" />
+        </versions>
+        <references>
+          <reference bookId="21" chapter="8" verse="12" />
+          <reference bookId="23" chapter="3" verse="10" />
+          <reference bookId="24" chapter="22" verse="15" />
+          <reference bookId="46" chapter="15" verse="58" />
+          <reference bookId="49" chapter="6" verse="3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" مثل كرمة مثمرة" />
+          <version abrv="KJV" text="a fruitful vine" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="49" verse="22" />
+          <reference bookId="20" chapter="5" verse="15-18" />
+          <reference bookId="26" chapter="19" verse="10" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="غروس الزيتو" />
+          <version abrv="KJV" text="olive plants" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="52" verse="8" />
+          <reference bookId="19" chapter="144" verse="12" />
+          <reference bookId="24" chapter="11" verse="16" />
+          <reference bookId="28" chapter="14" verse="6,7" />
+          <reference bookId="45" chapter="11" verse="24" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="حول " />
+          <version abrv="KJV" text="round about" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="127" verse="5" />
+        </references>
+      </word>
+    </verse>
+    <verse number="5">
+      <word>
+        <versions>
+          <version abrv="VDV" text="يباركك" />
+          <version abrv="KJV" text="bless thee" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="20" verse="2" />
+          <reference bookId="19" chapter="118" verse="26" />
+          <reference bookId="19" chapter="134" verse="3" />
+          <reference bookId="23" chapter="2" verse="3" />
+          <reference bookId="49" chapter="1" verse="3" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="تبصر خير" />
+          <version abrv="KJV" text="thou shalt see" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="122" verse="6" />
+          <reference bookId="23" chapter="33" verse="20" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ترى بني" />
+          <version abrv="KJV" text="thou shalt see" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="50" verse="23" />
+          <reference bookId="18" chapter="42" verse="16" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" سلام " />
+          <version abrv="KJV" text="peace" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="125" verse="5" />
+          <reference bookId="23" chapter="66" verse="12" />
+          <reference bookId="48" chapter="1" verse="16" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

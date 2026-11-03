@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="2 Chronicles" id="14">
+  <chapter number="3">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="شرع سليمان في بناء بيت" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="1-14" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" في جبل المريا " />
+          <version abrv="KJV" text="in mount Moriah" />
+        </versions>
+        <references>
+          <reference bookId="1" chapter="22" verse="2,14" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="حيث تراءى لداود ابيه" />
+          <version abrv="KJV" text="where the Lord appeared unto David or, which was seen of" />
+        </versions>
+        <references>
+          <reference bookId="10" chapter="24" verse="18-25" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" ارنان" />
+          <version abrv="KJV" text="Araunah" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="21" verse="18" />
+          <reference bookId="13" chapter="22" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" في ثاني" />
+          <version abrv="KJV" text="in the second" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الطول بالذراع على القياس" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="28" verse="11-19" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" اسسها سليمان لبناء" />
+          <version abrv="KJV" text="instructed" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="2,3" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الرواق" />
+          <version abrv="KJV" text="the porch" />
+        </versions>
+        <references>
+          <reference bookId="43" chapter="10" verse="23" />
+          <reference bookId="44" chapter="3" verse="11" />
+          <reference bookId="44" chapter="5" verse="12" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text="رصع البيت" />
+          <version abrv="KJV" text="garnished" />
+        </versions>
+        <references>
+          <reference bookId="13" chapter="29" verse="2,8" />
+          <reference bookId="23" chapter="54" verse="11,12" />
+          <reference bookId="66" chapter="21" verse="18-21" />
+        </references>
+      </word>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text="غشى البيت" />
+          <version abrv="KJV" text="overlaid" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="26" verse="29" />
+          <reference bookId="11" chapter="6" verse="20-22,30" />
+          <reference bookId="26" chapter="7" verse="20" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="نقش كروبيم " />
+          <version abrv="KJV" text="graved cherubims" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="26" verse="1" />
+          <reference bookId="11" chapter="6" verse="35" />
+        </references>
+      </word>
+    </verse>
+    <verse number="8">
+      <word>
+        <versions>
+          <version abrv="VDV" text="قدس الاقداس" />
+          <version abrv="KJV" text="the most holy" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="26" verse="33" />
+          <reference bookId="11" chapter="6" verse="19,20" />
+          <reference bookId="58" chapter="9" verse="3,9" />
+          <reference bookId="58" chapter="10" verse="19" />
+        </references>
+      </word>
+    </verse>
+    <verse number="10">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" كروبين " />
+          <version abrv="KJV" text="two cherubims" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="23-28" />
+        </references>
+      </word>
+    </verse>
+    <verse number="13">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الى داخل" />
+          <version abrv="KJV" text="inward" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="25" verse="20" />
+        </references>
+      </word>
+    </verse>
+    <verse number="14">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الحجاب" />
+          <version abrv="KJV" text="the vail" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="26" verse="31-35" />
+          <reference bookId="40" chapter="27" verse="51" />
+          <reference bookId="58" chapter="9" verse="3" />
+          <reference bookId="58" chapter="10" verse="20" />
+        </references>
+      </word>
+    </verse>
+    <verse number="15">
+      <word>
+        <versions>
+          <version abrv="VDV" text="عمودين" />
+          <version abrv="KJV" text="two pillars" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="7" verse="15-24" />
+          <reference bookId="24" chapter="52" verse="20-23" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ثلاثون" />
+          <version abrv="KJV" text="thirty" />
+        </versions>
+        <references>
+          <reference bookId="14" chapter="3" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="16">
+      <word>
+        <versions>
+          <version abrv="VDV" text="سلاسل" />
+          <version abrv="KJV" text="chains" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="6" verse="21" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="عمل مئة رمانة" />
+          <version abrv="KJV" text="an hundred" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="7" verse="20" />
+        </references>
+      </word>
+    </verse>
+    <verse number="17">
+      <word>
+        <versions>
+          <version abrv="VDV" text="واوقف العمودين" />
+          <version abrv="KJV" text="reared up" />
+        </versions>
+        <references>
+          <reference bookId="11" chapter="7" verse="21" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

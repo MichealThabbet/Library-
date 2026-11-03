@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Psalms" id="19">
+  <chapter number="129">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="طوبى لكل من يتقي الرب" />
+          <version abrv="KJV" text="A" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="120" verse="1" />
+          <reference bookId="19" chapter="121" verse="1" />
+          <reference bookId="19" chapter="122" verse="1" />
+          <reference bookId="19" chapter="123" verse="1" />
+          <reference bookId="19" chapter="124" verse="1" />
+          <reference bookId="19" chapter="125" verse="1" />
+          <reference bookId="19" chapter="126" verse="1" />
+          <reference bookId="19" chapter="127" verse="1" />
+          <reference bookId="19" chapter="128" verse="1" />
+          <reference bookId="15" chapter="4" verse="1-23" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="كثيرا" />
+          <version abrv="KJV" text="Many" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="1" verse="12-14,22" />
+          <reference bookId="2" chapter="5" verse="7-19" />
+          <reference bookId="7" chapter="2" verse="15" />
+          <reference bookId="7" chapter="10" verse="8-12" />
+          <reference bookId="9" chapter="13" verse="19" />
+          <reference bookId="25" chapter="1" verse="3" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="منذ " />
+          <version abrv="KJV" text="from" />
+        </versions>
+        <references>
+          <reference bookId="24" chapter="2" verse="2" />
+          <reference bookId="26" chapter="23" verse="3" />
+          <reference bookId="28" chapter="2" verse="15" />
+          <reference bookId="28" chapter="11" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" ليقل اسرائيل" />
+          <version abrv="KJV" text="may" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="124" verse="1" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" لكن لم يقدروا " />
+          <version abrv="KJV" text="yet they have" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="34" verse="19" />
+          <reference bookId="19" chapter="118" verse="13" />
+          <reference bookId="19" chapter="125" verse="1" />
+          <reference bookId="18" chapter="5" verse="19" />
+          <reference bookId="40" chapter="16" verse="18" />
+          <reference bookId="43" chapter="16" verse="33" />
+          <reference bookId="45" chapter="8" verse="35-39" />
+          <reference bookId="66" chapter="12" verse="8,9" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="حرث " />
+          <version abrv="KJV" text="The plowers" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="141" verse="7" />
+          <reference bookId="23" chapter="51" verse="23" />
+        </references>
+      </word>
+    </verse>
+    <verse number="4">
+      <word>
+        <versions>
+          <version abrv="VDV" text="الرب" />
+          <version abrv="KJV" text="The Lord" />
+        </versions>
+        <references>
+          <reference bookId="15" chapter="9" verse="15" />
+          <reference bookId="16" chapter="9" verse="33" />
+          <reference bookId="25" chapter="1" verse="18" />
+          <reference bookId="25" chapter="3" verse="22" />
+          <reference bookId="27" chapter="9" verse="7" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" قطع ربط" />
+          <version abrv="KJV" text="cut asunder" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="124" verse="6,7" />
+          <reference bookId="19" chapter="140" verse="5-11" />
+        </references>
+      </word>
+    </verse>
+    <verse number="5">
+      <word>
+        <versions>
+          <version abrv="VDV" text="فليخز " />
+          <version abrv="KJV" text="be confounded" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="83" verse="4-11" />
+          <reference bookId="19" chapter="122" verse="6" />
+          <reference bookId="17" chapter="6" verse="13" />
+          <reference bookId="17" chapter="9" verse="5" />
+          <reference bookId="23" chapter="10" verse="12" />
+          <reference bookId="23" chapter="37" verse="22,28,29,35" />
+          <reference bookId="38" chapter="1" verse="14-17" />
+          <reference bookId="38" chapter="12" verse="3,6" />
+          <reference bookId="46" chapter="16" verse="22" />
+        </references>
+      </word>
+    </verse>
+    <verse number="6">
+      <word>
+        <versions>
+          <version abrv="VDV" text="كعشب " />
+          <version abrv="KJV" text="as the grass" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="37" verse="2" />
+          <reference bookId="19" chapter="92" verse="7" />
+          <reference bookId="24" chapter="17" verse="5,6" />
+          <reference bookId="40" chapter="13" verse="6" />
+        </references>
+      </word>
+    </verse>
+    <verse number="7">
+      <word>
+        <versions>
+          <version abrv="VDV" text=" كفه منه " />
+          <version abrv="KJV" text="he that bindeth" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="126" verse="6" />
+          <reference bookId="23" chapter="17" verse="10,11" />
+          <reference bookId="28" chapter="8" verse="7" />
+          <reference bookId="48" chapter="6" verse="8" />
+        </references>
+      </word>
+    </verse>
+    <verse number="8">
+      <word>
+        <versions>
+          <version abrv="VDV" text="بركة" />
+          <version abrv="KJV" text="The blessing" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="118" verse="26" />
+          <reference bookId="8" chapter="2" verse="4" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>

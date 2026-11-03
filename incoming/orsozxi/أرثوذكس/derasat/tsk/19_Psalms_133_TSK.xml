@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<book name="Psalms" id="19">
+  <chapter number="133">
+    <verse number="1">
+      <word>
+        <versions>
+          <version abrv="VDV" text="ما اجمل ان يسكن الاخوة" />
+          <version abrv="KJV" text="(Title" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="122" verse="1" />
+          <reference bookId="19" chapter="124" verse="1" />
+          <reference bookId="19" chapter="131" verse="1" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="ما احسن " />
+          <version abrv="KJV" text="how good" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="122" verse="6-8" />
+          <reference bookId="1" chapter="13" verse="8" />
+          <reference bookId="1" chapter="45" verse="24" />
+          <reference bookId="10" chapter="2" verse="26,27" />
+          <reference bookId="23" chapter="11" verse="6,9,13" />
+          <reference bookId="24" chapter="32" verse="39" />
+          <reference bookId="43" chapter="13" verse="35" />
+          <reference bookId="43" chapter="17" verse="21" />
+          <reference bookId="46" chapter="1" verse="10" />
+          <reference bookId="49" chapter="4" verse="3-6" />
+          <reference bookId="50" chapter="2" verse="2-5" />
+          <reference bookId="58" chapter="13" verse="1" />
+          <reference bookId="60" chapter="3" verse="8" />
+          <reference bookId="62" chapter="3" verse="14-19" />
+        </references>
+      </word>
+    </verse>
+    <verse number="2">
+      <word>
+        <versions>
+          <version abrv="VDV" text="مثل الدهن" />
+          <version abrv="KJV" text="It is like" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="141" verse="5" />
+          <reference bookId="20" chapter="27" verse="9" />
+          <reference bookId="22" chapter="1" verse="3" />
+          <reference bookId="43" chapter="12" verse="3" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text=" النازل" />
+          <version abrv="KJV" text="that ran down" />
+        </versions>
+        <references>
+          <reference bookId="2" chapter="30" verse="25-30" />
+          <reference bookId="3" chapter="8" verse="12" />
+        </references>
+      </word>
+    </verse>
+    <verse number="3">
+      <word>
+        <versions>
+          <version abrv="VDV" text="مثل ندى حرمون" />
+          <version abrv="KJV" text="As the dew of Hermon" />
+        </versions>
+        <references>
+          <reference bookId="5" chapter="3" verse="8,9" />
+          <reference bookId="5" chapter="4" verse="48" />
+          <reference bookId="6" chapter="13" verse="11" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="لانه هناك امر الرب" />
+          <version abrv="KJV" text="for there the Lord" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="42" verse="8" />
+          <reference bookId="3" chapter="25" verse="21" />
+          <reference bookId="5" chapter="28" verse="8" />
+        </references>
+      </word>
+      <word>
+        <versions>
+          <version abrv="VDV" text="حياة الى الابد" />
+          <version abrv="KJV" text="even life" />
+        </versions>
+        <references>
+          <reference bookId="19" chapter="16" verse="11" />
+          <reference bookId="19" chapter="21" verse="4" />
+          <reference bookId="43" chapter="4" verse="14" />
+          <reference bookId="43" chapter="5" verse="24,29" />
+          <reference bookId="43" chapter="6" verse="50,51,68" />
+          <reference bookId="43" chapter="11" verse="25,26" />
+          <reference bookId="45" chapter="5" verse="21" />
+          <reference bookId="45" chapter="6" verse="23" />
+          <reference bookId="62" chapter="2" verse="25" />
+          <reference bookId="62" chapter="5" verse="11" />
+          <reference bookId="66" chapter="1" verse="18" />
+        </references>
+      </word>
+    </verse>
+  </chapter>
+</book>
